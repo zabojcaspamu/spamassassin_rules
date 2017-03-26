@@ -437,7 +437,7 @@ score    ZABOJCASPAMU_FAKE_DHL6    10
 #iPKO spoofing
 #https://zabojcaspamu.pl/phishing-na-ipko-sie-uaktywnil/
 header    __ZABOJCASPAMU_FROM_IPKO_SPOOF_1 Subject=~/ iPKO/
-rawbody    __ZABOJCASPAMU_FROM_IPKO_SPOOF_2 /\<a href="https:\/\/[a-z]+\-ipko.com\/"> www.ipko.pl <\/a>/
+rawbody    __ZABOJCASPAMU_FROM_IPKO_SPOOF_2 /\<a href="http:\/\/[a-z]+\-ipko.com\/"> www.ipko.pl <\/a>/
 meta      ZABOJCASPAMU_FROM_IPKO_SPOOF  __ZABOJCASPAMU_FROM_IPKO_SPOOF_1 && __ZABOJCASPAMU_FROM_IPKO_SPOOF_2
 describe  ZABOJCASPAMU_FROM_IPKO_SPOOF  Spoofing o iPKO
 score     ZABOJCASPAMU_FROM_IPKO_SPOOF  10
@@ -526,7 +526,7 @@ meta       ZABOJCASPAMU_GIELDA_AI           __ZABOJCASPAMU_GIELDA_AI1 && __ZABOJ
 describe   ZABOJCASPAMU_GIELDA_AI           Namawianie do gry na gieldzie
 score      ZABOJCASPAMU_GIELDA_AI           10
 
-rawbody   ZABOJCASPAMU_BOGATY               /\[ https:\/\/[a-z.-]+\/[a-z\/]+\.php\?b=2 \] \b[a-z\s]+/
+rawbody   ZABOJCASPAMU_BOGATY               /\[ http:\/\/[a-z.-]+\/[a-z\/]+\.php\?b=2 \] \b[a-z\s]+/
 describe  ZABOJCASPAMU_BOGATY               mail ze zostaniesz bogaty i program do gieldy
 score     ZABOJCASPAMU_BOGATY               5
 
@@ -678,7 +678,7 @@ body        __ZABOJCASPAMU_MAIL_TAK_1      /\WTAK\W/
  
  header    __ZABOJCASPAMU_IMPORTMESS_1     From:addr=~/\@(op|poczta\.onet|interia|wp|neostrada|gazeta)\.pl/
  header    __ZABOJCASPAMU_IMPORTMESS_2     Subject=~/^Fw: /
- body      __ZABOJCASPAMU_IMPORTMESS_3     /Important message, visit https:/
+ body      __ZABOJCASPAMU_IMPORTMESS_3     /Important message, visit http:/
  meta      ZABOJCASPAMU_IMPORTMESS        __ZABOJCASPAMU_IMPORTMESS_1 && __ZABOJCASPAMU_IMPORTMESS_2 && __ZABOJCASPAMU_IMPORTMESS_3
  describe  ZABOJCASPAMU_IMPORTMESS       Widomosc z wp.pl ze wazna wiadomosc
  score     ZABOJCASPAMU_IMPORTMESS       10
@@ -997,7 +997,7 @@ score     ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv8 10
 
 # Niemieccy naukowcy
 # https://zabojcaspamu.pl/niemieccy-naukowcy-wymyslili-zarabiac-gieldzie/
-body __ZABOJCASPAMU_GIELDA_20160722_1  /\[ https:\/\/[0-9a-z.-]+\/[0-9a-z\/]+\.php\?[a-z]=\d+\&[^\s]+\s\]/
+body __ZABOJCASPAMU_GIELDA_20160722_1  /\[ http:\/\/[0-9a-z.-]+\/[0-9a-z\/]+\.php\?[a-z]=\d+\&[^\s]+\s\]/
 body __ZABOJCASPAMU_GIELDA_20160722_2  /ztuczn.{1,6} inteligencj|czlowiek .{1,6}pi|rogram zrobi wszystko|nwestuj.{1,6}c|owiedz si.{1,6} i zacznij|iemieccy matematycy |iemieccy uczeni|kt.{1,6}ry handluje|na gie.{1,6}dzie|rynek gie.{1,6}dowy|wszystko sam|pa niemieckich|zarabia pieniadze|bedzie zabroniony|niemieckich uczon|BankBot/
 meta  ZABOJCASPAMU_GIELDA_20160722  __ZABOJCASPAMU_GIELDA_20160722_1 && __ZABOJCASPAMU_GIELDA_20160722_2
 describe ZABOJCASPAMU_GIELDA_20160722 Zarabiane na gieldzie, niemieccy uczeni https://zabojcaspamu.pl/niemieccy-naukowcy-wymyslili-zarabiac-gieldzie/
@@ -1177,7 +1177,7 @@ score    ZABOJCASPAMU_ZARABIANIE_DZIECKO    10
 
 # zarabianie sposob nr 2
 # https://zabojcaspamu.pl/zarabianie-pieniedzy-sposob-nr-2/
-rawbody  ZABOJCASPAMU_ZARABIANIE_URL2IMG    /https:\/\/img\d+\.uploadhouse\.com\/fileuploads/
+rawbody  ZABOJCASPAMU_ZARABIANIE_URL2IMG    /http:\/\/img\d+\.uploadhouse\.com\/fileuploads/
  describe ZABOJCASPAMU_ZARABIANIE_URL2IMG    https://zabojcaspamu.pl/zarabianie-pieniedzy-sposob-nr-2/
  score    ZABOJCASPAMU_ZARABIANIE_URL2IMG    5
 
