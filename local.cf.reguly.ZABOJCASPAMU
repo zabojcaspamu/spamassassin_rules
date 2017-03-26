@@ -35,50 +35,50 @@ score		ZABOJCASPAMU_EMAILCOM				0
 
 # przyklad na pary regul
 #
- meta		ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
- describe	ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
- score		ZABOJCASPAMU_TWO_01 	1
+meta		ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
+describe	ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
+score		ZABOJCASPAMU_TWO_01 	1
 
 # wykrzykniki na koncu tematu
 # https://zabojcaspamu.pl/wykrzykniki-na-koncu-tematu/
- header 		ZABOJCASPAMU_MANY_EXCL 	Subject =~ /\!{3,}$/
- describe 	ZABOJCASPAMU_MANY_EXCL 	Subject ending exclamation mark
- score 		ZABOJCASPAMU_MANY_EXCL 	1.5
+header 		ZABOJCASPAMU_MANY_EXCL 	Subject =~ /\!{3,}$/
+describe 	ZABOJCASPAMU_MANY_EXCL 	Subject ending exclamation mark
+score 		ZABOJCASPAMU_MANY_EXCL 	1.5
  
- #reguly dla Message-ID
- #https://zabojcaspamu.pl/reguly-dla-message-id/
- header    	ZABOJCASPAMU_MSID_LOCALHOST Message-ID=~/\@localhost\.localdomain>$/
- describe  	ZABOJCASPAMU_MSID_LOCALHOST Message-ID konczy sie  localhost\.localdomain
- score     	ZABOJCASPAMU_MSID_LOCALHOST 1.5
+#reguly dla Message-ID
+#https://zabojcaspamu.pl/reguly-dla-message-id/
+header    	ZABOJCASPAMU_MSID_LOCALHOST Message-ID=~/\@localhost\.localdomain>$/
+describe  	ZABOJCASPAMU_MSID_LOCALHOST Message-ID konczy sie  localhost\.localdomain
+score     	ZABOJCASPAMU_MSID_LOCALHOST 1.5
  
-  header  	  ZABOJCASPAMU_MSID_LOCAL      Message-ID=~/\.local>$/ 
- describe 	  ZABOJCASPAMU_MSID_LOCAL      Message-ID konczy sie  local
- score     	  ZABOJCASPAMU_MSID_LOCAL      1
+header  	  ZABOJCASPAMU_MSID_LOCAL      Message-ID=~/\.local>$/ 
+describe 	  ZABOJCASPAMU_MSID_LOCAL      Message-ID konczy sie  local
+score     	  ZABOJCASPAMU_MSID_LOCAL      1
  
- header    	ZABOJCASPAMU_MSID_NODOT      Message-ID=~/\@[a-zA-Z0-9-]+>/
- describe  	ZABOJCASPAMU_MSID_NODOT      Message-ID po @ brak kropki
- score     	       ZABOJCASPAMU_MSID_NODOT      0.2
+header    	ZABOJCASPAMU_MSID_NODOT      Message-ID=~/\@[a-zA-Z0-9-]+>/
+describe  	ZABOJCASPAMU_MSID_NODOT      Message-ID po @ brak kropki
+score     	       ZABOJCASPAMU_MSID_NODOT      0.2
  
- header      __ZABOJCASPAMU_FAKE_MSID0 Message-ID=~/WLASNADOMENA/ 
- header      __ZABOJCASPAMU_FAKE_MSID1 From=~/(MAILER\-DAEMON|mailer\-daemon)\@/
- meta	ZABOJCASPAMU_FAKE_MSID    __ZABOJCASPAMU_FAKE_MSID0 && !__ZABOJCASPAMU_FAKE_MSID1  
- describe	ZABOJCASPAMU_FAKE_MSID    W message ID moje domena
- score	ZABOJCASPAMU_FAKE_MSID    0.4
+header      __ZABOJCASPAMU_FAKE_MSID0 Message-ID=~/WLASNADOMENA/ 
+header      __ZABOJCASPAMU_FAKE_MSID1 From=~/(MAILER\-DAEMON|mailer\-daemon)\@/
+meta	ZABOJCASPAMU_FAKE_MSID    __ZABOJCASPAMU_FAKE_MSID0 && !__ZABOJCASPAMU_FAKE_MSID1  
+describe	ZABOJCASPAMU_FAKE_MSID    W message ID moje domena
+score	ZABOJCASPAMU_FAKE_MSID    0.4
 
 #spam z naglowkiem X-PHP-Script
- #https://zabojcaspamu.pl/naglowek-x-php-script-oznaka-spamu/
- header         ZABOJCASPAMU_X_PHP_Script    exists:X-PHP-Script
- describe      ZABOJCASPAMU_X_PHP_Script    Zawiera naglowek X-PHP-Script
- score           ZABOJCASPAMU_X_PHP_Script    4
+#https://zabojcaspamu.pl/naglowek-x-php-script-oznaka-spamu/
+header         ZABOJCASPAMU_X_PHP_Script    exists:X-PHP-Script
+describe      ZABOJCASPAMU_X_PHP_Script    Zawiera naglowek X-PHP-Script
+score           ZABOJCASPAMU_X_PHP_Script    4
  
- # Wysylane przez skrypty PHP
- # https://zabojcaspamu.pl/maile-wysylane-przez-php/
- header      ZABOJCASPAMU_XMAILER_PHP        X-Mailer=~/^(?:PHP|php)/
- describe   ZABOJCASPAMU_XMAILER_PHP        Send by X-Mailer spam
- score        ZABOJCASPAMU_XMAILER_PHP        0.5
+# Wysylane przez skrypty PHP
+# https://zabojcaspamu.pl/maile-wysylane-przez-php/
+header      ZABOJCASPAMU_XMAILER_PHP        X-Mailer=~/^(?:PHP|php)/
+describe   ZABOJCASPAMU_XMAILER_PHP        Send by X-Mailer spam
+score        ZABOJCASPAMU_XMAILER_PHP        0.5
  
- #Regula do wywalania spamu z loginen support@
- # https://zabojcaspamu.pl/duza-ilosc-spamu-z-loginem-support/
+#Regula do wywalania spamu z loginen support@
+# https://zabojcaspamu.pl/duza-ilosc-spamu-z-loginem-support/
 header      ZABOJCASPAMU_X_PHP_Script    exists:X-PHP-Script
 describe   ZABOJCASPAMU_X_PHP_Script    Zawiera naglowek X-PHP-Script
 score        ZABOJCASPAMU_X_PHP_Script    4
@@ -112,22 +112,22 @@ score       ZABOJCASPAMU_MARILLINCH     10
 
 #regula z dziwnymi nazwiskami
 #https://zabojcaspamu.pl/abraabramabram…ecyficzny-spam/
- header         __ZABOJCASPAMU_LOGIN_NAZWISKO1 From=~ /(abram|Abram|abramczyk|Abramczyk|abramowicz|Abramowicz|adamczak|Adamczak|adamczyk|Adamczyk|adamek|Adamek|adamiak|Adamiak|adamik|Adamik|adamowicz|adamski|Babiarz|Babicz|Babik|Babin|Babinski|Babka|Babula|Baran|Baranek|Baranoski|Baranowski|Baranski|Barczak|Barela|Bargiel)/
- header         __ZABOJCASPAMU_DOMENA_MAILCOM1 From=~ /(email|news)\.(com|info)/
- header         __ZABOJCASPAMU_RP_FOR_THIS_SPAM1 Return-Path=~/-.{2,20}\=WLASNADOMENA@/
- meta           ZABOJCASPAMU_NAME_ABRAMBABIARZ  __ZABOJCASPAMU_LOGIN_NAZWISKO1 && __ZABOJCASPAMU_DOMENA_MAILCOM1 && __ZABOJCASPAMU_RP_FOR_THIS_SPAM1
- describe    ZABOJCASPAMU_NAME_ABRAMBABIARZ Adres z nazwiskiem abram,Babik i domena z koncowka email.com
- score          ZABOJCASPAMU_NAME_ABRAMBABIARZ 3
+header         __ZABOJCASPAMU_LOGIN_NAZWISKO1 From=~ /(abram|Abram|abramczyk|Abramczyk|abramowicz|Abramowicz|adamczak|Adamczak|adamczyk|Adamczyk|adamek|Adamek|adamiak|Adamiak|adamik|Adamik|adamowicz|adamski|Babiarz|Babicz|Babik|Babin|Babinski|Babka|Babula|Baran|Baranek|Baranoski|Baranowski|Baranski|Barczak|Barela|Bargiel)/
+header         __ZABOJCASPAMU_DOMENA_MAILCOM1 From=~ /(email|news)\.(com|info)/
+header         __ZABOJCASPAMU_RP_FOR_THIS_SPAM1 Return-Path=~/-.{2,20}\=WLASNADOMENA@/
+meta           ZABOJCASPAMU_NAME_ABRAMBABIARZ  __ZABOJCASPAMU_LOGIN_NAZWISKO1 && __ZABOJCASPAMU_DOMENA_MAILCOM1 && __ZABOJCASPAMU_RP_FOR_THIS_SPAM1
+describe    ZABOJCASPAMU_NAME_ABRAMBABIARZ Adres z nazwiskiem abram,Babik i domena z koncowka email.com
+score          ZABOJCASPAMU_NAME_ABRAMBABIARZ 3
  
- #Ubijamy niebieski.net
- #https://zabojcaspamu.pl/niebieski-net-blokujemy-pernametnie/
-  header   ZABOJCASPAMU_NIEBIESKINET   ALL=~/\.niebieski\.net/
- describe ZABOJCASPAMU_NIEBIESKINET   W nagłówkach jest niebieski.net
- score    ZABOJCASPAMU_NIEBIESKINET   10
+#Ubijamy niebieski.net
+#https://zabojcaspamu.pl/niebieski-net-blokujemy-pernametnie/
+header   ZABOJCASPAMU_NIEBIESKINET   ALL=~/\.niebieski\.net/
+describe ZABOJCASPAMU_NIEBIESKINET   W nagłówkach jest niebieski.net
+score    ZABOJCASPAMU_NIEBIESKINET   10
  
- #Sprawdzanie X-Mailer
- # https://zabojcaspamu.pl/spamerskie-narzedzia-czyli-sprawdzamy-x-mailer/
- header        ZABOJCASPAMU_XMAILER_428134    X-Mailer=~/4.2.8-134 \[Aug 22 2012/ 
+#Sprawdzanie X-Mailer
+# https://zabojcaspamu.pl/spamerskie-narzedzia-czyli-sprawdzamy-x-mailer/
+header        ZABOJCASPAMU_XMAILER_428134    X-Mailer=~/4.2.8-134 \[Aug 22 2012/ 
 describe    ZABOJCASPAMU_XMAILER_428134    Send by X-Mailer 4.2.8-134 [Aug
 score        ZABOJCASPAMU_XMAILER_428134    4    
 
@@ -205,192 +205,192 @@ score        ZABOJCASPAMU_XMAILER_Oracle    1
 
 # spam z loginem prezent
 # https://zabojcaspamu.pl/spam-z-loginem-prezent/
- header   __ZABOJCASPAMU_FROM_PREZENT_1     From=~/\<prezent\@/
+header   __ZABOJCASPAMU_FROM_PREZENT_1     From=~/\<prezent\@/
 meta     ZABOJCASPAMU_FROM_PREZENT         __ZABOJCASPAMU_FROM_PREZENT_1 && LOCAL_XMAILER_iMTA && LOCAL_MSID_LOCALHOST
 describe ZABOJCASPAMU_FROM_PREZENT         Spam z prezent@ i ze masz 40PLN
 score    ZABOJCASPAMU_FROM_PREZENT         10
 
 # Podkreslenie i boldowanie 
 # https://zabojcaspamu.pl/podkreslenie-i-boldowanie-w-tekscie/
- rawbody     ZABOJCASPAMU_UNDERLINE     /\<(U|u)\>/
- describe    ZABOJCASPAMU_UNDERLINE     Podkreślenie w tekscie
- score       ZABOJCASPAMU_UNDERLINE     0.2
+rawbody     ZABOJCASPAMU_UNDERLINE     /\<(U|u)\>/
+describe    ZABOJCASPAMU_UNDERLINE     Podkreślenie w tekscie
+score       ZABOJCASPAMU_UNDERLINE     0.2
 
- rawbody     ZABOJCASPAMU_BOLD     /\<(STRONG|strong)\>/
- describe    ZABOJCASPAMU_BOLD     Boldowanie w tekscie
- score       ZABOJCASPAMU_BOLD     0.2
+rawbody     ZABOJCASPAMU_BOLD     /\<(STRONG|strong)\>/
+describe    ZABOJCASPAMU_BOLD     Boldowanie w tekscie
+score       ZABOJCASPAMU_BOLD     0.2
  
- #Kumple niebieski.net czyli v.tld.pl
- # https://zabojcaspamu.pl/kumple-niebieski-net-czyli-v-tld-pl/
- header   ZABOJCASPAMU_VTLDPL   Received=~/smtp\.\d+\.v\.tld\.pl/
- describe ZABOJCASPAMU_VTLDPL   W Received jest smtp.\d+.tld.pl
- score    ZABOJCASPAMU_VTLDPL   4
+#Kumple niebieski.net czyli v.tld.pl
+# https://zabojcaspamu.pl/kumple-niebieski-net-czyli-v-tld-pl/
+header   ZABOJCASPAMU_VTLDPL   Received=~/smtp\.\d+\.v\.tld\.pl/
+describe ZABOJCASPAMU_VTLDPL   W Received jest smtp.\d+.tld.pl
+score    ZABOJCASPAMU_VTLDPL   4
 
- #Super kredyt i w ogóle za darmo
- #https://zabojcaspamu.pl/super-kredyt-i-w-ogole-za-darmo/
- header   ZABOJCASPAMU_SUBJECT_KREDYT  Subject=~/(?:(K|k)redyt| po.{1,8}yczka)/
- describe ZABOJCASPAMU_SUBJECT_KREDYT  W temacie slowo kredyt lub pozyczka
- score    ZABOJCASPAMU_SUBJECT_KREDYT  0.8
+#Super kredyt i w ogóle za darmo
+#https://zabojcaspamu.pl/super-kredyt-i-w-ogole-za-darmo/
+header   ZABOJCASPAMU_SUBJECT_KREDYT  Subject=~/(?:(K|k)redyt| po.{1,8}yczka)/
+describe ZABOJCASPAMU_SUBJECT_KREDYT  W temacie slowo kredyt lub pozyczka
+score    ZABOJCASPAMU_SUBJECT_KREDYT  0.8
 
- #Dalej walczymy z polem X-Mailer
- #https://zabojcaspamu.pl/dalej-walczymy-z-polem-x-mailer/
- meta ZABOJCASPAMU_BULK_SIGNATURE DCC_CHECK || RAZOR2_CHECK || PYZOR_CHECK
- describe ZABOJCASPAMU_BULK_SIGNATURE Mail ma bulk
- score ZABOJCASPAMU_BULK_SIGNATURE 0.01
+#Dalej walczymy z polem X-Mailer
+#https://zabojcaspamu.pl/dalej-walczymy-z-polem-x-mailer/
+meta ZABOJCASPAMU_BULK_SIGNATURE DCC_CHECK || RAZOR2_CHECK || PYZOR_CHECK
+describe ZABOJCASPAMU_BULK_SIGNATURE Mail ma bulk
+score ZABOJCASPAMU_BULK_SIGNATURE 0.01
 
-   meta      __ZABOJCASPAMU_XMAILER_SPAMER ZABOJCASPAMU_XMAILER_428134|| ZABOJCASPAMU_XMAILER_Ajaxel_CMS|| ZABOJCASPAMU_XMAILER_aspNetEmail|| ZABOJCASPAMU_XMAILER_Default||ZABOJCASPAMU_XMAILER_iMTA|| ZABOJCASPAMU_XMAILER_mLogic|| ZABOJCASPAMU_XMAILER_MS|| ZABOJCASPAMU_XMAILER_NeoFm|| ZABOJCASPAMU_XMAILER_Oracle|| ZABOJCASPAMU_XMAILER_PHP|| ZABOJCASPAMU_XMAILER_PROROUSERVICE|| ZABOJCASPAMU_XMAILER_SendBlaster|| ZABOJCASPAMU_XMAILER_SMART_SEND_2|| ZABOJCASPAMU_XMAILER_STREAMSEND|| ZABOJCASPAMU_XMAILER_TIDEPLATFORM|| ZABOJCASPAMU_XMAILER_Vladium
+meta      __ZABOJCASPAMU_XMAILER_SPAMER ZABOJCASPAMU_XMAILER_428134|| ZABOJCASPAMU_XMAILER_Ajaxel_CMS|| ZABOJCASPAMU_XMAILER_aspNetEmail|| ZABOJCASPAMU_XMAILER_Default||ZABOJCASPAMU_XMAILER_iMTA|| ZABOJCASPAMU_XMAILER_mLogic|| ZABOJCASPAMU_XMAILER_MS|| ZABOJCASPAMU_XMAILER_NeoFm|| ZABOJCASPAMU_XMAILER_Oracle|| ZABOJCASPAMU_XMAILER_PHP|| ZABOJCASPAMU_XMAILER_PROROUSERVICE|| ZABOJCASPAMU_XMAILER_SendBlaster|| ZABOJCASPAMU_XMAILER_SMART_SEND_2|| ZABOJCASPAMU_XMAILER_STREAMSEND|| ZABOJCASPAMU_XMAILER_TIDEPLATFORM|| ZABOJCASPAMU_XMAILER_Vladium
 meta     ZABOJCASPAMU_XMAILER_BULK    __LOCAL_XMAILER_SPAMER && ZABOJCASPAMU_BULK_SIGNATURE
 describe ZABOJCASPAMU_XMAILER_BULK    Spamerskie XMAILER i ktorys z DCC lub RAZOR2 lub PYZOR
 score    ZABOJCASPAMU_XMAILER_BULK    5
 
- # Kończąc temat X-Mailer
- # https://zabojcaspamu.pl/konczac-temat-x-mailer/
- meta      __ZABOJCASPAMU_XMAILER_SPAMER ZABOJCASPAMU_XMAILER_428134|| ZABOJCASPAMU_XMAILER_Ajaxel_CMS|| ZABOJCASPAMU_XMAILER_aspNetEmail|| ZABOJCASPAMU_XMAILER_Default||ZABOJCASPAMU_XMAILER_iMTA|| ZABOJCASPAMU_XMAILER_mLogic|| ZABOJCASPAMU_XMAILER_MS|| ZABOJCASPAMU_XMAILER_NeoFm|| ZABOJCASPAMU_XMAILER_Oracle|| ZABOJCASPAMU_XMAILER_PHP|| ZABOJCASPAMU_XMAILER_PROROUSERVICE|| ZABOJCASPAMU_XMAILER_SendBlaster|| ZABOJCASPAMU_XMAILER_SMART_SEND_2|| ZABOJCASPAMU_XMAILER_STREAMSEND|| ZABOJCASPAMU_XMAILER_TIDEPLATFORM|| ZABOJCASPAMU_XMAILER_Vladium
- meta     ZABOJCASPAMU_XMAILER_PRECEDENCE __LOCAL_XMAILER_SPAMER && LOCAL_PRECEDENCE_BULK
- describe ZABOJCASPAMU_XMAILER_PRECEDENCE Spamerskie XMAILER i dodatkoweo precedence:bulk 
- score    ZABOJCASPAMU_XMAILER_PRECEDENCE 10
+# Kończąc temat X-Mailer
+# https://zabojcaspamu.pl/konczac-temat-x-mailer/
+meta      __ZABOJCASPAMU_XMAILER_SPAMER ZABOJCASPAMU_XMAILER_428134|| ZABOJCASPAMU_XMAILER_Ajaxel_CMS|| ZABOJCASPAMU_XMAILER_aspNetEmail|| ZABOJCASPAMU_XMAILER_Default||ZABOJCASPAMU_XMAILER_iMTA|| ZABOJCASPAMU_XMAILER_mLogic|| ZABOJCASPAMU_XMAILER_MS|| ZABOJCASPAMU_XMAILER_NeoFm|| ZABOJCASPAMU_XMAILER_Oracle|| ZABOJCASPAMU_XMAILER_PHP|| ZABOJCASPAMU_XMAILER_PROROUSERVICE|| ZABOJCASPAMU_XMAILER_SendBlaster|| ZABOJCASPAMU_XMAILER_SMART_SEND_2|| ZABOJCASPAMU_XMAILER_STREAMSEND|| ZABOJCASPAMU_XMAILER_TIDEPLATFORM|| ZABOJCASPAMU_XMAILER_Vladium
+meta     ZABOJCASPAMU_XMAILER_PRECEDENCE __LOCAL_XMAILER_SPAMER && LOCAL_PRECEDENCE_BULK
+describe ZABOJCASPAMU_XMAILER_PRECEDENCE Spamerskie XMAILER i dodatkoweo precedence:bulk 
+score    ZABOJCASPAMU_XMAILER_PRECEDENCE 10
 
- #Prosimy o pusty mail
- #https://zabojcaspamu.pl/prosimy-o-pusty-mail/
-  body     ZABOJCASPAMU_PUSTY_MAIL         /pust(ego|y) (listu|maila?|e-?maila?)/
- describe ZABOJCASPAMU_PUSTY_MAIL         Pusty mail
- score    ZABOJCASPAMU_PUSTY_MAIL         0.4
+#Prosimy o pusty mail
+#https://zabojcaspamu.pl/prosimy-o-pusty-mail/
+body     ZABOJCASPAMU_PUSTY_MAIL         /pust(ego|y) (listu|maila?|e-?maila?)/
+describe ZABOJCASPAMU_PUSTY_MAIL         Pusty mail
+score    ZABOJCASPAMU_PUSTY_MAIL         0.4
  
- #Anomail śle spam
- #https://zabojcaspamu.pl/anomail-sle-spam/
-  header    LOCAL_ANOMAIL        Organization =~ /^AnoMail/
- describe  LOCAL_ANOMAIL        Organization AnoMail
- score     LOCAL_ANOMAIL        3.5
+#Anomail śle spam
+#https://zabojcaspamu.pl/anomail-sle-spam/
+header    LOCAL_ANOMAIL        Organization =~ /^AnoMail/
+describe  LOCAL_ANOMAIL        Organization AnoMail
+score     LOCAL_ANOMAIL        3.5
  
- #Reguła 21 stycznia 2013
- #https://zabojcaspamu.pl/regula-21-stycznia-2013/
- body      ZABOJCASPAMU_21STY2013   /(od dnia | dniem )21 stycznia 2013/
- describe  ZABOJCASPAMU_21STY2013   Od 21 stycznie 2013 mozna wysylac zapytania
- score     ZABOJCASPAMU_21STY2013   1
+#Reguła 21 stycznia 2013
+#https://zabojcaspamu.pl/regula-21-stycznia-2013/
+body      ZABOJCASPAMU_21STY2013   /(od dnia | dniem )21 stycznia 2013/
+describe  ZABOJCASPAMU_21STY2013   Od 21 stycznie 2013 mozna wysylac zapytania
+score     ZABOJCASPAMU_21STY2013   1
  
- #Pisze do Pana/Pani
- #https://zabojcaspamu.pl/pisze-do-panapani/
- body     ZABOJCASPAMU_PANIPANA           /Pan.{,3}\s*\/\s*Pan.{,3}/
- describe ZABOJCASPAMU_PANIPANA           Zwrot Pan/Pani, Pani/Pana itd
- score    ZABOJCASPAMU_PANIPANA           0.3
+#Pisze do Pana/Pani
+#https://zabojcaspamu.pl/pisze-do-panapani/
+body     ZABOJCASPAMU_PANIPANA           /Pan.{,3}\s*\/\s*Pan.{,3}/
+describe ZABOJCASPAMU_PANIPANA           Zwrot Pan/Pani, Pani/Pana itd
+score    ZABOJCASPAMU_PANIPANA           0.3
  
- #Znak procentu w temacie
- #https://zabojcaspamu.pl/znak-procentu-w-temacie/
- header    ZABOJCASPAMU_SUBJECT_PERCENT Subject=~/\%/
-  describe  ZABOJCASPAMU_SUBJECT_PERCENT W temacie znak procentu
+#Znak procentu w temacie
+#https://zabojcaspamu.pl/znak-procentu-w-temacie/
+header    ZABOJCASPAMU_SUBJECT_PERCENT Subject=~/\%/
+describe  ZABOJCASPAMU_SUBJECT_PERCENT W temacie znak procentu
 score     ZABOJCASPAMU_SUBJECT_PERCENT 0.3
 
- #Parowanie reguł aby zwiększyć moc
- #https://zabojcaspamu.pl/parowanie-regul-aby-zwiekszyc-moc/
-  meta     ZABOJCASPAMU_TWO_DCCRED ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR) 
- describe ZABOJCASPAMU_TWO_DCCRED ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR) 
- score    ZABOJCASPAMU_TWO_DCCRED 1
+#Parowanie reguł aby zwiększyć moc
+#https://zabojcaspamu.pl/parowanie-regul-aby-zwiekszyc-moc/
+meta     ZABOJCASPAMU_TWO_DCCRED ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR) 
+describe ZABOJCASPAMU_TWO_DCCRED ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR) 
+score    ZABOJCASPAMU_TWO_DCCRED 1
  
- #Domena zawiera wiele cyfr
- #https://zabojcaspamu.pl/domena-zawiera-wiele-cyfr/
-  header   ZABOJCASPAMU_DIGITS_DOMAIN        From=~/\@.+\d{3,}/
- describe ZABOJCASPAMU_DIGITS_DOMAIN        Domena zawiera liczbe 3-cyfrowa
- score    ZABOJCASPAMU_DIGITS_DOMAIN        0.3
+#Domena zawiera wiele cyfr
+#https://zabojcaspamu.pl/domena-zawiera-wiele-cyfr/
+header   ZABOJCASPAMU_DIGITS_DOMAIN        From=~/\@.+\d{3,}/
+describe ZABOJCASPAMU_DIGITS_DOMAIN        Domena zawiera liczbe 3-cyfrowa
+score    ZABOJCASPAMU_DIGITS_DOMAIN        0.3
  
- #Link wypisujący z subskrypcji
- #https://zabojcaspamu.pl/link-wypisujacy-z-subskrypcji/
- uri      ZABOJCASPAMU_FSL_UNSUB_RATWARE     /unsubscribe\.php\?M=[0-9]+&C=[^& ]+&L=[0-9]+&N=[0-9]+/
- describe ZABOJCASPAMU_FSL_UNSUB_RATWARE     Unsubscribe ratware signature
- score    ZABOJCASPAMU_FSL_UNSUB_RATWARE     3.0
+#Link wypisujący z subskrypcji
+#https://zabojcaspamu.pl/link-wypisujacy-z-subskrypcji/
+uri      ZABOJCASPAMU_FSL_UNSUB_RATWARE     /unsubscribe\.php\?M=[0-9]+&C=[^& ]+&L=[0-9]+&N=[0-9]+/
+describe ZABOJCASPAMU_FSL_UNSUB_RATWARE     Unsubscribe ratware signature
+score    ZABOJCASPAMU_FSL_UNSUB_RATWARE     3.0
  
- #Mam przyjemność
- #https://zabojcaspamu.pl/mam-przyjemnosc/
- body        ZABOJCASPAMU_MAM_PRZYJEMNOSC  /Mam przyjemno.{1,8}/
- describe ZABOJCASPAMU_MAM_PRZYJEMNOSC  wystepuje fraza 'Mam przyjemnosc'
- score       ZABOJCASPAMU_MAM_PRZYJEMNOSC  0.2
+#Mam przyjemność
+#https://zabojcaspamu.pl/mam-przyjemnosc/
+body        ZABOJCASPAMU_MAM_PRZYJEMNOSC  /Mam przyjemno.{1,8}/
+describe ZABOJCASPAMU_MAM_PRZYJEMNOSC  wystepuje fraza 'Mam przyjemnosc'
+score       ZABOJCASPAMU_MAM_PRZYJEMNOSC  0.2
 
- #Pole X-PHP-Originating-Script
- #https://zabojcaspamu.pl/pole-x-php-originating-script/
- header   LOCAL_X_PHP_Originating  exists:X-PHP-Originating-Script
- describe LOCAL_X_PHP_Originating  Has X-PHP-Originating-Script header
- score    LOCAL_X_PHP_Originating  4
+#Pole X-PHP-Originating-Script
+#https://zabojcaspamu.pl/pole-x-php-originating-script/
+header   LOCAL_X_PHP_Originating  exists:X-PHP-Originating-Script
+describe LOCAL_X_PHP_Originating  Has X-PHP-Originating-Script header
+score    LOCAL_X_PHP_Originating  4
  
- #Prosimy o zwrotną wiadomosc
- #https://zabojcaspamu.pl/prosimy-o-zwrotna-wiadomosc/
- body     LOCAL_ZWROTNA_WIADOMOSC  /wiadomo.{1,8} zwrotn.{1,8}|wiadomo(?:.{1,8}ci|.{1,10}) zwrotn(?:ej|.)|zwrotn(ej|.) wiadomo(.{1,8}ci|..)/
- describe LOCAL_ZWROTNA_WIADOMOSC  zwrotna wiadomosc
- score    LOCAL_ZWROTNA_WIADOMOSC  2.5
+#Prosimy o zwrotną wiadomosc
+#https://zabojcaspamu.pl/prosimy-o-zwrotna-wiadomosc/
+body     LOCAL_ZWROTNA_WIADOMOSC  /wiadomo.{1,8} zwrotn.{1,8}|wiadomo(?:.{1,8}ci|.{1,10}) zwrotn(?:ej|.)|zwrotn(ej|.) wiadomo(.{1,8}ci|..)/
+describe LOCAL_ZWROTNA_WIADOMOSC  zwrotna wiadomosc
+score    LOCAL_ZWROTNA_WIADOMOSC  2.5
  
- # Parowanie regul
- # https://zabojcaspamu.pl/parowanie-regul/
- meta     LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
- describe LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
- score    LOCAL_TWO_4427  0.5
+# Parowanie regul
+# https://zabojcaspamu.pl/parowanie-regul/
+meta     LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
+describe LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
+score    LOCAL_TWO_4427  0.5
 
- meta     LOCAL_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
- describe LOCAL_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
- score    LOCAL_TWO_4 1
+meta     LOCAL_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
+describe LOCAL_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
+score    LOCAL_TWO_4 1
 
- meta     LOCAL_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
- describe LOCAL_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
- score    LOCAL_TWO_275 0.7
+meta     LOCAL_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
+describe LOCAL_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
+score    LOCAL_TWO_275 0.7
 
- meta     LOCAL_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
- describe LOCAL_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
- score    LOCAL_TWO_17126  0.8
+meta     LOCAL_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
+describe LOCAL_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
+score    LOCAL_TWO_17126  0.8
 
- meta     LOCAL_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
- describe LOCAL_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
- score    LOCAL_TWO_6151  1.5
+meta     LOCAL_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
+describe LOCAL_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
+score    LOCAL_TWO_6151  1.5
 
- meta     LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
- describe LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
- score    LOCAL_TWO_5358  0.5
+meta     LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
+describe LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
+score    LOCAL_TWO_5358  0.5
  
- #Mail zawiera naglowek X-Campaign
- #https://zabojcaspamu.pl/mail-zawiera-naglowek-x-campaign/
-  header    ZABOJCASPAMU_XCAMP          exists:X-Campaign
- describe  ZABOJCASPAMU_XCAMP          Zawiera X-Campaign
- score     ZABOJCASPAMU_XCAMP          2
+#Mail zawiera naglowek X-Campaign
+#https://zabojcaspamu.pl/mail-zawiera-naglowek-x-campaign/
+header    ZABOJCASPAMU_XCAMP          exists:X-Campaign
+describe  ZABOJCASPAMU_XCAMP          Zawiera X-Campaign
+score     ZABOJCASPAMU_XCAMP          2
 
- header    ZABOJCASPAMU_XCAMPID        exists:X-CampaignID
- describe  ZABOJCASPAMU_XCAMPID        Zawiera X-CampaignID
- score     ZABOJCASPAMU_XCAMPID        2
+header    ZABOJCASPAMU_XCAMPID        exists:X-CampaignID
+describe  ZABOJCASPAMU_XCAMPID        Zawiera X-CampaignID
+score     ZABOJCASPAMU_XCAMPID        2
  
- #Freshmail ciagly spamer
- #https://zabojcaspamu.pl/freshmail-ciagly-spamer/
- header     ZABOJCASPAMU_XABUSE_FRESH    X-Abuse=~/support\.freshmail\.com/
- describe   ZABOJCASPAMU_XABUSE_FRESH    X-Abuse zawiera support.freshmail.com
- score      ZABOJCASPAMU_XABUSE_FRESH    1
+#Freshmail ciagly spamer
+#https://zabojcaspamu.pl/freshmail-ciagly-spamer/
+header     ZABOJCASPAMU_XABUSE_FRESH    X-Abuse=~/support\.freshmail\.com/
+describe   ZABOJCASPAMU_XABUSE_FRESH    X-Abuse zawiera support.freshmail.com
+score      ZABOJCASPAMU_XABUSE_FRESH    1
  
- #Kuszenie darmowym lub gratisem
- #https://zabojcaspamu.pl/kuszenie-darmowym-lub-gratisem/
-  header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis)/
- describe ZABOJCASPAMU_SUBJECT_DARMO W temacie znajduje sie ' darmo' 'gratis'
- score    ZABOJCASPAMU_SUBJECT_DARMO 0.5
+#Kuszenie darmowym lub gratisem
+#https://zabojcaspamu.pl/kuszenie-darmowym-lub-gratisem/
+header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis)/
+describe ZABOJCASPAMU_SUBJECT_DARMO W temacie znajduje sie ' darmo' 'gratis'
+score    ZABOJCASPAMU_SUBJECT_DARMO 0.5
  
- #Spamerskie loginy w adresach nadawców
- #https://zabojcaspamu.pl/796/
- header   ZABOJCASPAMU_FROM_LOGIN_STUP From=~ /(?:marketing|foryou|news\d|mailing|root|mailer|kampanie|reklama|oferta|anonymous|www-data|http|szkolenia|kurys)\@/
- describe ZABOJCASPAMU_FROM_LOGIN_STUP From mailing,marketing,root,mailer,http,reklama,oferta,anonymous,www-data,szkolenia,kursy
- score    ZABOJCASPAMU_FROM_LOGIN_STUP 1
+#Spamerskie loginy w adresach nadawców
+#https://zabojcaspamu.pl/796/
+header   ZABOJCASPAMU_FROM_LOGIN_STUP From=~ /(?:marketing|foryou|news\d|mailing|root|mailer|kampanie|reklama|oferta|anonymous|www-data|http|szkolenia|kurys)\@/
+describe ZABOJCASPAMU_FROM_LOGIN_STUP From mailing,marketing,root,mailer,http,reklama,oferta,anonymous,www-data,szkolenia,kursy
+score    ZABOJCASPAMU_FROM_LOGIN_STUP 1
  
- #Dużo adresatów w jawnej kopii
- #https://zabojcaspamu.pl/duzo-adresatow-w-jawnej-kopii/
-  header   ZABOJCASPAMU_TO_TOO_MANY To =~ /(?:,[^,]{1,80}){30}/
- describe ZABOJCASPAMU_TO_TOO_MANY To: too many recipients
- score    ZABOJCASPAMU_TO_TOO_MANY 1
+#Dużo adresatów w jawnej kopii
+#https://zabojcaspamu.pl/duzo-adresatow-w-jawnej-kopii/
+header   ZABOJCASPAMU_TO_TOO_MANY To =~ /(?:,[^,]{1,80}){30}/
+describe ZABOJCASPAMU_TO_TOO_MANY To: too many recipients
+score    ZABOJCASPAMU_TO_TOO_MANY 1
  
- #dziwne postacie domen
- #https://zabojcaspamu.pl/dziwne-postacie-domen/
- header   ZABOJCASPAMU_DIGITS_DOMAIN        From=~/\@.+\d{3,}/
+#dziwne postacie domen
+#https://zabojcaspamu.pl/dziwne-postacie-domen/
+header   ZABOJCASPAMU_DIGITS_DOMAIN        From=~/\@.+\d{3,}/
 describe ZABOJCASPAMU_DIGITS_DOMAIN        Domena zawiera liczbe 3-cyfrowa
 score    ZABOJCASPAMU_DIGITS_DOMAIN        0.2
 
 #maile z fraza news0
 #https://zabojcaspamu.pl/adres-z-fraza-news0/
 header    ZABOJCASPAMU_RETURNPATH_ATHOST  Return-Path=~/\@host\d+\./
- describe  ZABOJCASPAMU_RETURNPATH_ATHOST  W Return path jest '@host\d+.'
- score     ZABOJCASPAMU_RETURNPATH_ATHOST  0.3
+describe  ZABOJCASPAMU_RETURNPATH_ATHOST  W Return path jest '@host\d+.'
+score     ZABOJCASPAMU_RETURNPATH_ATHOST  0.3
  
- #falszywe DHLe
- #https://zabojcaspamu.pl/falszywe-przesylki-dhl/
- header    __ZABOJCASPAMU_FAKE_DHL_1     From=~/(DHL|dhl)/
+#falszywe DHLe
+#https://zabojcaspamu.pl/falszywe-przesylki-dhl/
+header    __ZABOJCASPAMU_FAKE_DHL_1     From=~/(DHL|dhl)/
 header    __ZABOJCASPAMU_FAKE_DHL_2     Subject=~/\d{9,11}/
 meta      ZABOJCASPAMU_FAKE_DHL         __ZABOJCASPAMU_FAKE_DHL_1 && __ZABOJCASPAMU_FAKE_DHL_2 && ZABOJCASPAMUL_FAKE_MSID
 describe  ZABOJCASPAMU_FAKE_DHL         Falszywa wiadomosc o wysylce DHL
@@ -532,13 +532,13 @@ score     ZABOJCASPAMU_BOGATY               5
 
 # Wysyp maili z eval code
 # https://zabojcaspamu.pl/wysyp-maili-z-eval-code/
- header     ZABOJCASPAMU_EVAL_CODE          X-PHP-Originating-Script=~/eval\(\)'d code/
- describe   ZABOJCASPAMU_EVAL_CODE          X-PHP-Originating-Script zawiera eval\(\)'d code
- score      ZABOJCASPAMU_EVAL_CODE          10
+header     ZABOJCASPAMU_EVAL_CODE          X-PHP-Originating-Script=~/eval\(\)'d code/
+describe   ZABOJCASPAMU_EVAL_CODE          X-PHP-Originating-Script zawiera eval\(\)'d code
+score      ZABOJCASPAMU_EVAL_CODE          10
  
- # 40 pln za darmo
- # https://zabojcaspamu.pl/40-pln-za-darmo/
- uri        ZABOJCASPAMU_40PLNZADARMO1       /40plnzadarmo\.com/
+# 40 pln za darmo
+# https://zabojcaspamu.pl/40-pln-za-darmo/
+uri        ZABOJCASPAMU_40PLNZADARMO1       /40plnzadarmo\.com/
 describe   ZABOJCASPAMU_40PLNZADARMO1       Link z 40plnzadarmo.com
 score      ZABOJCASPAMU_40PLNZADARMO1       10
 
@@ -563,15 +563,15 @@ score     ZABOJCASPAMU_POCZTAPOLSKA2  10
 
 # W nadawcy @news lub @info
 # https://zabojcaspamu.pl/w-nadawcy-news-lub-info/
- header    ZABOJCASPAMU_RETURNPATH_ATHOST  Return-Path=~/\@(host|news)\d+\./
- describe  ZABOJCASPAMU_RETURNPATH_ATHOST  W Return path jest '@(host|news)\d+.'
- score     ZABOJCASPAMU_RETURNPATH_ATHOST  0.5
+header    ZABOJCASPAMU_RETURNPATH_ATHOST  Return-Path=~/\@(host|news)\d+\./
+describe  ZABOJCASPAMU_RETURNPATH_ATHOST  W Return path jest '@(host|news)\d+.'
+score     ZABOJCASPAMU_RETURNPATH_ATHOST  0.5
  
 # Gumtree i ogloszenia o prace
 # https://zabojcaspamu.pl/gumtree-i-ogloszenia-o-prace/
 header    ZABOJCASPAMU_GUMTREE       Subject=~/Poniżej znajduje się odpowiedź na Twoje ogłoszenie Gumtree/
- describe  ZABOJCASPAMU_GUMTREE       Informacja ze ogloszenie z gumtree
- score     ZABOJCASPAMU_GUMTREE       -10
+describe  ZABOJCASPAMU_GUMTREE       Informacja ze ogloszenie z gumtree
+score     ZABOJCASPAMU_GUMTREE       -10
  
 # Za dlugi temat
 # https://zabojcaspamu.pl/za-dlugi-temat/
@@ -581,13 +581,13 @@ score     ZABOJCASPAMU_VERY_LONG_SUBJ        0.3
 
 # Firmy zbierajace maile
 # https://zabojcaspamu.pl/firmy-zbierajace-maile/
-  body      ZABOJCASPAMU_HARVEST_MAILI /(?:ProDirect Sp\. z o\.o|SANMARKS Sp\. z o\.o|Polsk.{1,8} Agencj{1,14} Satelitarn.{1,8} Orbita S\. A\.|wyjatkoweoferty\.pl|SANMARKS Sp\. z o\.o|HBI Polska|KOMPASS Poland|Kompass Poland|IPEiK|UAB |TeleCom|Venito-Reklama|biz-catalogs|ProDirect Sp|OpenRate )/
- describe  ZABOJCASPAMU_HARVEST_MAILI Pada nazwa firm harvestujacych maile(HBI,KOMPASS,IPEiKi,UAB(Venito-Reklama),biz-catalogs,ProDirect Sp,TeleCom)
- score     ZABOJCASPAMU_HARVEST_MAILI 4
+body      ZABOJCASPAMU_HARVEST_MAILI /(?:ProDirect Sp\. z o\.o|SANMARKS Sp\. z o\.o|Polsk.{1,8} Agencj{1,14} Satelitarn.{1,8} Orbita S\. A\.|wyjatkoweoferty\.pl|SANMARKS Sp\. z o\.o|HBI Polska|KOMPASS Poland|Kompass Poland|IPEiK|UAB |TeleCom|Venito-Reklama|biz-catalogs|ProDirect Sp|OpenRate )/
+describe  ZABOJCASPAMU_HARVEST_MAILI Pada nazwa firm harvestujacych maile(HBI,KOMPASS,IPEiKi,UAB(Venito-Reklama),biz-catalogs,ProDirect Sp,TeleCom)
+score     ZABOJCASPAMU_HARVEST_MAILI 4
  
- # Twoja skrzynak zostala zablokowana
- # https://zabojcaspamu.pl/skrzynka-pocztowa-zostala-tymczasowo-zawieszona/
- header    __LOCAL_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
+# Twoja skrzynak zostala zablokowana
+# https://zabojcaspamu.pl/skrzynka-pocztowa-zostala-tymczasowo-zawieszona/
+header    __LOCAL_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
 header    __LOCAL_TWOJASKRZYNKA_2 Subject=~/(YOUR EMAIL ACCOUNT SUSPENSION NOTICE|Zostala Tymczasowo Zawieszona|woja skrzynka pocztowa zostala czasowo|Twoje konto email przekroczyles limitu bagazu|OSTRZEZENIE!!!)/
 meta      LOCAL_TWOJASKRZYNKA     __LOCAL_TWOJASKRZYNKA_1 && __LOCAL_TWOJASKRZYNKA_2
 describe  LOCAL_TWOJASKRZYNKA     Email o przeplnionej skrzynce
@@ -595,37 +595,37 @@ score     LOCAL_TWOJASKRZYNKA     10
 
 # Login zawiera wiele cyfr
 # https://zabojcaspamu.pl/login-zawiera-wiele-cyfr/ 
- header   ZABOJCASPAMU_MANY_DIGITS_MAIL   From:addr =~ /\d{7,}/
- describe ZABOJCASPAMU_MANY_DIGITS_MAIL   Email has many digits
- score    ZABOJCASPAMU_MANY_DIGITS_MAIL   0.1
+header   ZABOJCASPAMU_MANY_DIGITS_MAIL   From:addr =~ /\d{7,}/
+describe ZABOJCASPAMU_MANY_DIGITS_MAIL   Email has many digits
+score    ZABOJCASPAMU_MANY_DIGITS_MAIL   0.1
  
- # W tytule slowo sprawdz
- # https://zabojcaspamu.pl/w-tytule-slowo-sprawdz/
-  header   ZABOJCASPAMU_SUBJ_SPRAWDZ       Subject=~/(?:(S|s)prawd=C5|(S|s)prawdź|(S|s)prawd=BC)/
- describe ZABOJCASPAMU_SUBJ_SPRAWDZ       Slowo sprawdz w temacie
- score    ZABOJCASPAMU_SUBJ_SPRAWDZ       0.4
+# W tytule slowo sprawdz
+# https://zabojcaspamu.pl/w-tytule-slowo-sprawdz/
+header   ZABOJCASPAMU_SUBJ_SPRAWDZ       Subject=~/(?:(S|s)prawd=C5|(S|s)prawdź|(S|s)prawd=BC)/
+describe ZABOJCASPAMU_SUBJ_SPRAWDZ       Slowo sprawdz w temacie
+score    ZABOJCASPAMU_SUBJ_SPRAWDZ       0.4
  
- # Duze czcionki w mailu
- # https://zabojcaspamu.pl/duze-czcionki-w-mailu/
-  rawbody  LOCAL_LARGE_SIZE_FONT /font-size:\s*(2[0-9]|3[0-9]|4[0-9])\s*px/
- describe LOCAL_LARGE_SIZE_FONT Fonts 20+px
- score    LOCAL_LARGE_SIZE_FONT 0.3
+# Duze czcionki w mailu
+# https://zabojcaspamu.pl/duze-czcionki-w-mailu/
+rawbody  LOCAL_LARGE_SIZE_FONT /font-size:\s*(2[0-9]|3[0-9]|4[0-9])\s*px/
+describe LOCAL_LARGE_SIZE_FONT Fonts 20+px
+score    LOCAL_LARGE_SIZE_FONT 0.3
  
- # Dobra regula wzmacniająca
- # https://zabojcaspamu.pl/dobra-regula-wzmacniajaca/
-  meta         ZABOJCASPAMU_TWO_FREEMIME ( FREEMAIL_FROM && MIME_HTML_ONLY)
- describe    ZABOJCASPAMU_TWO_FREEMIME ( FREEMAIL_FROM && MIME_HTML_ONLY)
- score       ZABOJCASPAMU_TWO_FREEMIME 0.9
+# Dobra regula wzmacniająca
+# https://zabojcaspamu.pl/dobra-regula-wzmacniajaca/
+meta         ZABOJCASPAMU_TWO_FREEMIME ( FREEMAIL_FROM && MIME_HTML_ONLY)
+describe    ZABOJCASPAMU_TWO_FREEMIME ( FREEMAIL_FROM && MIME_HTML_ONLY)
+score       ZABOJCASPAMU_TWO_FREEMIME 0.9
  
- # W domenie news lub info
- #https://zabojcaspamu.pl/w-domenie-news-lub-info/
- header    ZABOJCASPAMU_RETURNPATH_ATNEWS  Return-Path=~/\@(news|info)\d+\./
- describe  ZABOJCASPAMU_RETURNPATH_ATNEWS  W Return path jest '@(news|info)\d+\.'
- score     ZABOJCASPAMU_RETURNPATH_ATNEWS  0.5
+# W domenie news lub info
+#https://zabojcaspamu.pl/w-domenie-news-lub-info/
+header    ZABOJCASPAMU_RETURNPATH_ATNEWS  Return-Path=~/\@(news|info)\d+\./
+describe  ZABOJCASPAMU_RETURNPATH_ATNEWS  W Return path jest '@(news|info)\d+\.'
+score     ZABOJCASPAMU_RETURNPATH_ATNEWS  0.5
  
- # Komentarz w kodzie HTML maila
- # https://zabojcaspamu.pl/komentarz-w-kodzie-html-maila/
- rawbody  ZABOJCASPAMU_FSL_HTML_COMMENT        /<!--/
+# Komentarz w kodzie HTML maila
+# https://zabojcaspamu.pl/komentarz-w-kodzie-html-maila/
+rawbody  ZABOJCASPAMU_FSL_HTML_COMMENT        /<!--/
 describe  ZABOJCASPAMU_FSL_HTML_COMMENT    Komentarz wHTML
 score    ZABOJCASPAMU_FSL_HTML_COMMENT        0.7
 
@@ -654,39 +654,38 @@ score    ZABOJCASPAMU_TWO_2563 2.5
 # Odeslij maila z tematem Tak lub Nie.
 # https://zabojcaspamu.pl/odeslij-maila-z-tematem-tak-lub-nie/
 body        __ZABOJCASPAMU_MAIL_TAK_1      /\WTAK\W/
- body        __ZABOJCASPAMU_MAIL_NIE_1      /\WNIE\W/
- body        __ZABOJCASPAMU_MAIL_TAK_2      /\w\"Tak\"\w/
- body        __ZABOJCASPAMU_MAIL_NIE_2      /\w\"Nie\"\w/
- meta        ZABOJCASPAMU_MAIL_EXISTS_TAKNIE (__ZABOJCASPAMU_MAIL_TAK_1 && __ZABOJCASPAMU_MAIL_NIE_1) || (__ZABOJCASPAMU_MAIL_TAK_2 && __ZABOJCASPAMU_MAIL_NIE_2)
- describe    ZABOJCASPAMU_MAIL_EXISTS_TAKNIE Wystepuja wyrazy TAK i NIE
- score       ZABOJCASPAMU_MAIL_EXISTS_TAKNIE 1.2
+body        __ZABOJCASPAMU_MAIL_NIE_1      /\WNIE\W/
+body        __ZABOJCASPAMU_MAIL_TAK_2      /\w\"Tak\"\w/
+body        __ZABOJCASPAMU_MAIL_NIE_2      /\w\"Nie\"\w/
+meta        ZABOJCASPAMU_MAIL_EXISTS_TAKNIE (__ZABOJCASPAMU_MAIL_TAK_1 && __ZABOJCASPAMU_MAIL_NIE_1) || (__ZABOJCASPAMU_MAIL_TAK_2 && __ZABOJCASPAMU_MAIL_NIE_2)
+describe    ZABOJCASPAMU_MAIL_EXISTS_TAKNIE Wystepuja wyrazy TAK i NIE
+score       ZABOJCASPAMU_MAIL_EXISTS_TAKNIE 1.2
  
- # Mail z rezygnacja
- # https://zabojcaspamu.pl/mail-z-rezygnacja/
-  rawbody  ZABOJCASPAMU_MAIL_REZYGNACJA /(>Rezygnuj<\/a>|\?subject=Rezygnacja\")/
- describe ZABOJCASPAMU_MAIL_REZYGNACJA Mail o rezygnacji ze znacznikiem maila
- score    ZABOJCASPAMU_MAIL_REZYGNACJA 0.8
+# Mail z rezygnacja
+# https://zabojcaspamu.pl/mail-z-rezygnacja/
+rawbody  ZABOJCASPAMU_MAIL_REZYGNACJA /(>Rezygnuj<\/a>|\?subject=Rezygnacja\")/
+describe ZABOJCASPAMU_MAIL_REZYGNACJA Mail o rezygnacji ze znacznikiem maila
+score    ZABOJCASPAMU_MAIL_REZYGNACJA 0.8
  
- # Kolejna regula wzmacniająca istniejące
- # https://zabojcaspamu.pl/kolejna-regula-wzmacniajaca-istniejace/
- meta     ZABOJCASPAMU_TWO_8817 ( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY)
- describe ZABOJCASPAMU_TWO_8817 ( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY)
- score    ZABOJCASPAMU_TWO_8817 1
+# Kolejna regula wzmacniająca istniejące
+# https://zabojcaspamu.pl/kolejna-regula-wzmacniajaca-istniejace/
+meta     ZABOJCASPAMU_TWO_8817 ( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY)
+describe ZABOJCASPAMU_TWO_8817 ( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY)
+score    ZABOJCASPAMU_TWO_8817 1
  
- # Important message
- #https://zabojcaspamu.pl/important-message/
+# Important message
+#https://zabojcaspamu.pl/important-message/
+header    __ZABOJCASPAMU_IMPORTMESS_1     From:addr=~/\@(op|poczta\.onet|interia|wp|neostrada|gazeta)\.pl/
+header    __ZABOJCASPAMU_IMPORTMESS_2     Subject=~/^Fw: /
+body      __ZABOJCASPAMU_IMPORTMESS_3     /Important message, visit http:/
+meta      ZABOJCASPAMU_IMPORTMESS        __ZABOJCASPAMU_IMPORTMESS_1 && __ZABOJCASPAMU_IMPORTMESS_2 && __ZABOJCASPAMU_IMPORTMESS_3
+describe  ZABOJCASPAMU_IMPORTMESS       Widomosc z wp.pl ze wazna wiadomosc
+score     ZABOJCASPAMU_IMPORTMESS       10
  
- header    __ZABOJCASPAMU_IMPORTMESS_1     From:addr=~/\@(op|poczta\.onet|interia|wp|neostrada|gazeta)\.pl/
- header    __ZABOJCASPAMU_IMPORTMESS_2     Subject=~/^Fw: /
- body      __ZABOJCASPAMU_IMPORTMESS_3     /Important message, visit http:/
- meta      ZABOJCASPAMU_IMPORTMESS        __ZABOJCASPAMU_IMPORTMESS_1 && __ZABOJCASPAMU_IMPORTMESS_2 && __ZABOJCASPAMU_IMPORTMESS_3
- describe  ZABOJCASPAMU_IMPORTMESS       Widomosc z wp.pl ze wazna wiadomosc
- score     ZABOJCASPAMU_IMPORTMESS       10
  
- 
- # jestemy firma
- # https://zabojcaspamu.pl/jestesmy-firma/
- body      EXPERIMENTAL_JESTESMY_FIRMA   /Jeste.{1,8} firm.{1,8}/
+# jestemy firma
+# https://zabojcaspamu.pl/jestesmy-firma/
+body      EXPERIMENTAL_JESTESMY_FIRMA   /Jeste.{1,8} firm.{1,8}/
 describe  EXPERIMENTAL_JESTESMY_FIRMA   Fraza Jestemy firma
 score     EXPERIMENTAL_JESTESMY_FIRMA   0.3
 
@@ -698,25 +697,25 @@ score    ZABOJCASPAMU_RETURN_PATH_MISC_CHAR            0.2
 
 # Zapytanie kolejny raz
 # https://zabojcaspamu.pl/zapytanie-kolejny-raz/
- header    ZABOJCASPAMU_ZAPYTANIE_SUBJ Subject=~/(apytanie|ZAPYTANIE)/
- describe  ZABOJCASPAMU_ZAPYTANIE_SUBJ W temacie 'Zapytanie'
- score     ZABOJCASPAMU_ZAPYTANIE_SUBJ 0.5
+header    ZABOJCASPAMU_ZAPYTANIE_SUBJ Subject=~/(apytanie|ZAPYTANIE)/
+describe  ZABOJCASPAMU_ZAPYTANIE_SUBJ W temacie 'Zapytanie'
+score     ZABOJCASPAMU_ZAPYTANIE_SUBJ 0.5
  
- #Zwrotny mail
- # https://zabojcaspamu.pl/zwrotny-mail/
-  body     ZABOJCASPAMU_ZWROTNY_MAIL       /(e-|e)?mail(a?|em) zwrotn(?:ego|y)|zwrotn(ego|y|ym) (?:e-|e)?mail/
- describe ZABOJCASPAMU_ZWROTNY_MAIL       Zwrotny mail
- score    ZABOJCASPAMU_ZWROTNY_MAIL       3
+#Zwrotny mail
+# https://zabojcaspamu.pl/zwrotny-mail/
+body     ZABOJCASPAMU_ZWROTNY_MAIL       /(e-|e)?mail(a?|em) zwrotn(?:ego|y)|zwrotn(ego|y|ym) (?:e-|e)?mail/
+describe ZABOJCASPAMU_ZWROTNY_MAIL       Zwrotny mail
+score    ZABOJCASPAMU_ZWROTNY_MAIL       3
  
- #Mailing zrealizowany przez
- # https://zabojcaspamu.pl/mailing-zrealizowany-przez/
-  body      ZABOJCASPAMU_MAZRPRZEZ    /Mailing zrealizowany przez/
- describe  ZABOJCASPAMU_MAZRPRZEZ    Zawiera 'Mailing zrealizowany przez'
- score     ZABOJCASPAMU_MAZRPRZEZ    1
+#Mailing zrealizowany przez
+# https://zabojcaspamu.pl/mailing-zrealizowany-przez/
+body      ZABOJCASPAMU_MAZRPRZEZ    /Mailing zrealizowany przez/
+describe  ZABOJCASPAMU_MAZRPRZEZ    Zawiera 'Mailing zrealizowany przez'
+score     ZABOJCASPAMU_MAZRPRZEZ    1
  
- # Adres z numerem serwera w home.pl
- # https://zabojcaspamu.pl/adres-z-numerem-serwera-w-home-pl/
- header    ZABOJCASPAMU_FROM_DIGIT_HOME  From=~/serwer\d\d\d\d\d\d\d\.home\.pl/
+# Adres z numerem serwera w home.pl
+# https://zabojcaspamu.pl/adres-z-numerem-serwera-w-home-pl/
+header    ZABOJCASPAMU_FROM_DIGIT_HOME  From=~/serwer\d\d\d\d\d\d\d\.home\.pl/
 describe  ZABOJCASPAMU_FROM_DIGIT_HOME  From ma ciag np server.4223333.home.pl
 score     ZABOJCASPAMU_FROM_DIGIT_HOME  4
 
@@ -745,25 +744,24 @@ describe ZABOJCASPAMU_IMPORTMESSv4 Wiadomosc important message
 score ZABOJCASPAMU_IMPORTMESSv4 15
 
 
- # Spam w pliku jar z tematem PO#
- #
- header     EXPERIMENTAL_POHASHNUMBER    Subject=~/^PO\#\d\d\d\d\d\d\d/
+# Spam w pliku jar z tematem PO#
+#
+header     EXPERIMENTAL_POHASHNUMBER    Subject=~/^PO\#\d\d\d\d\d\d\d/
 describe   EXPERIMENTAL_POHASHNUMBER    Temat zaczyna sie od PO#
 score      EXPERIMENTAL_POHASHNUMBER    10
 
 # Maile z darmowych kont z dziwnymi kodowaniami
- meta      ZABOJCASPAMU_FREE_ENCONDIG  FREEMAIL_FROM && (SUBJECT_NEEDS_ENCODING || SUBJ_ILLEGAL_CHARS)
- describe  ZABOJCASPAMU_FREE_ENCONDIG  FreeMail && Subject Encoding || Illegar Chars
- score     ZABOJCASPAMU_FREE_ENCONDIG  1.3
+meta      ZABOJCASPAMU_FREE_ENCONDIG  FREEMAIL_FROM && (SUBJECT_NEEDS_ENCODING || SUBJ_ILLEGAL_CHARS)
+describe  ZABOJCASPAMU_FREE_ENCONDIG  FreeMail && Subject Encoding || Illegar Chars
+score     ZABOJCASPAMU_FREE_ENCONDIG  1.3
  
- #Pole List-Unsubscribe spamerow
- #https://zabojcaspamu.pl/pole-list-unsubscribe-spamerow/
- header     ZABOJCASPAMU_LOCUSNURI       List-Unsubscribe=~/(novaskills\.pl|mail\.stunning-mail\.pl|s.mailing\.nk\-net\.pl|news\.ravelo\.pl|loginsr\.com\.pl|mailingsender\.pl)/
+#Pole List-Unsubscribe spamerow
+#https://zabojcaspamu.pl/pole-list-unsubscribe-spamerow/
+header     ZABOJCASPAMU_LOCUSNURI       List-Unsubscribe=~/(novaskills\.pl|mail\.stunning-mail\.pl|s.mailing\.nk\-net\.pl|news\.ravelo\.pl|loginsr\.com\.pl|mailingsender\.pl)/
 describe   ZABOJCASPAMU_LOCUSNURI     W polu List-Unsubscribe domeny spamerow
 score      ZABOJCASPAMU_LOCUSNURI     1
 
 # Blokada na ipko
-
 uri_detail   ZABOJCASPAMU_FAKE_IPKOv3  text=~/pkobp\-weryfikuj\.com/ cleaned!~/www.ipko.pl/
 describe     ZABOJCASPAMU_FAKE_IPKOv3  fake url IPKO kolena wersja
 score        ZABOJCASPAMU_FAKE_IPKOv3  10
@@ -789,40 +787,40 @@ score ZABOJCASPAMU_JPELAZDESIGNS 10
 # Regula Regul 
 #https://zabojcaspamu.pl/regula-regul-czyli-matka-regul-czyli-ustawa-z-lipca/
 body       __ZABOJCASPAMU_USTAWA_I_1  /staw.{1,6} z dnia 18 lipca 2002/
- body       __ZABOJCASPAMU_USTAWA_I_2  /(staw.{1,8}|w my.{1,8}l przepis.{1,8}ow) o .{1,8}wiadczeniu (u|U)s.{1,8}ug (d|D)rog.{1,8} (e|E)lektroniczną/
- meta       __ZABOJCASPAMU_USTAWA_I    __ZABOJCASPAMU_USTAWA_I_1 || __ZABOJCASPAMU_USTAWA_I_2
+body       __ZABOJCASPAMU_USTAWA_I_2  /(staw.{1,8}|w my.{1,8}l przepis.{1,8}ow) o .{1,8}wiadczeniu (u|U)s.{1,8}ug (d|D)rog.{1,8} (e|E)lektroniczną/
+meta       __ZABOJCASPAMU_USTAWA_I    __ZABOJCASPAMU_USTAWA_I_1 || __ZABOJCASPAMU_USTAWA_I_2
 
- body      __ZABOJCASPAMU_USTAWA_II_1  /18\. ?07\. ?2002/
- body      __ZABOJCASPAMU_USTAWA_II_2  /18 lipca 2002/
- body      __ZABOJCASPAMU_USTAWA_II_3  /26\.08\.2002/
- body      __ZABOJCASPAMU_USTAWA_II_4  /osiemnastego VII 2002/
- body      __ZABOJCASPAMU_USTAWA_II_5  /osiemnastego lipca 2002/
- body      __ZABOJCASPAMU_USTAWA_II_6  /18\-07\-2002/
- body      __ZABOJCASPAMU_USTAWA_II_0  /wiadczeniu (U|u)s.{1,7}ug (D|d)rog.{1,7} (E|e)lektroniczn/
- meta      __ZABOJCASPAMU_USTAWA_II    __ZABOJCASPAMU_USTAWA_II_0 && (__ZABOJCASPAMU_USTAWA_II_1 || __ZABOJCASPAMU_USTAWA_II_2 ||  __ZABOJCASPAMU_USTAWA_II_3 || __ZABOJCASPAMU_USTAWA_II_4 || __ZABOJCASPAMU_USTAWA_II_5 || __ZABOJCASPAMU_USTAWA_II_6)
+body      __ZABOJCASPAMU_USTAWA_II_1  /18\. ?07\. ?2002/
+body      __ZABOJCASPAMU_USTAWA_II_2  /18 lipca 2002/
+body      __ZABOJCASPAMU_USTAWA_II_3  /26\.08\.2002/
+body      __ZABOJCASPAMU_USTAWA_II_4  /osiemnastego VII 2002/
+body      __ZABOJCASPAMU_USTAWA_II_5  /osiemnastego lipca 2002/
+body      __ZABOJCASPAMU_USTAWA_II_6  /18\-07\-2002/
+body      __ZABOJCASPAMU_USTAWA_II_0  /wiadczeniu (U|u)s.{1,7}ug (D|d)rog.{1,7} (E|e)lektroniczn/
+meta      __ZABOJCASPAMU_USTAWA_II    __ZABOJCASPAMU_USTAWA_II_0 && (__ZABOJCASPAMU_USTAWA_II_1 || __ZABOJCASPAMU_USTAWA_II_2 ||  __ZABOJCASPAMU_USTAWA_II_3 || __ZABOJCASPAMU_USTAWA_II_4 || __ZABOJCASPAMU_USTAWA_II_5 || __ZABOJCASPAMU_USTAWA_II_6)
 
- body      __ZABOJCASPAMU_DZU_01        /D\s*z\.\s*U\. z 2002\s*r(,|\.) nr 144 poz\.\s*1204/
- body      __ZABOJCASPAMU_DZU_02        /D\s*z\.\s*U\.\s*(N|n)r\s*144(,?\s*poz\.\s*1204|z 2002)/
- body      __ZABOJCASPAMU_DZU_03        /Dziennik Ustaw nr 144, poz 1204/
- body      __ZABOJCASPAMU_DZU_04        /Dz\.\s*U\.\s*144 poz\.\s*1204/
- body      __ZABOJCASPAMU_DZU_05        /Dz\. U\. z 2002 r\. nr 144 poz\. 1204/
- body      __ZABOJCASPAMU_DZU_06        /Dz\.U\s*144 poz\s*.? 204/
- body      __ZABOJCASPAMU_DZU_08        /zienik ustaw z 2002r\.? nr sto czterdzie.{1,8}ci cztery, pozycja tysi.{1,8}c dwie.{1,8}cie cztery/
- body      __ZABOJCASPAMU_DZU_09        /Dz\. U\. 2002 144\.1204/
- body      __ZABOJCASPAMU_DZU_10        /Dz\. U\. Nr 144 z 9 wrzesnia 2002 r\.\, poz\. 1204/
- body      __ZABOJCASPAMU_DZU_11        /dnia 29 sierpnia 1997\s*r\. o ochronie danych/
- body      __ZABOJCASPAMU_DZU_12        /Dz\.U\. z 2002 r\. Nr 144, poz\. 1204/
- meta      __ZABOJCASPAMU_DZU144       (__ZABOJCASPAMU_DZU_01 || __ZABOJCASPAMU_DZU_02 || __ZABOJCASPAMU_DZU_03 || __ZABOJCASPAMU_DZU_04 || __ZABOJCASPAMU_DZU_05 || __ZABOJCASPAMU_DZU_06 || __ZABOJCASPAMU_DZU_07 || __ZABOJCASPAMU_DZU_08 || __ZABOJCASPAMU_DZU_09 || __ZABOJCASPAMU_DZU_10 || __ZABOJCASPAMU_DZU_11 || __ZABOJCASPAMU_DZU_12)
+body      __ZABOJCASPAMU_DZU_01        /D\s*z\.\s*U\. z 2002\s*r(,|\.) nr 144 poz\.\s*1204/
+body      __ZABOJCASPAMU_DZU_02        /D\s*z\.\s*U\.\s*(N|n)r\s*144(,?\s*poz\.\s*1204|z 2002)/
+body      __ZABOJCASPAMU_DZU_03        /Dziennik Ustaw nr 144, poz 1204/
+body      __ZABOJCASPAMU_DZU_04        /Dz\.\s*U\.\s*144 poz\.\s*1204/
+body      __ZABOJCASPAMU_DZU_05        /Dz\. U\. z 2002 r\. nr 144 poz\. 1204/
+body      __ZABOJCASPAMU_DZU_06        /Dz\.U\s*144 poz\s*.? 204/
+body      __ZABOJCASPAMU_DZU_08        /zienik ustaw z 2002r\.? nr sto czterdzie.{1,8}ci cztery, pozycja tysi.{1,8}c dwie.{1,8}cie cztery/
+body      __ZABOJCASPAMU_DZU_09        /Dz\. U\. 2002 144\.1204/
+body      __ZABOJCASPAMU_DZU_10        /Dz\. U\. Nr 144 z 9 wrzesnia 2002 r\.\, poz\. 1204/
+body      __ZABOJCASPAMU_DZU_11        /dnia 29 sierpnia 1997\s*r\. o ochronie danych/
+body      __ZABOJCASPAMU_DZU_12        /Dz\.U\. z 2002 r\. Nr 144, poz\. 1204/
+meta      __ZABOJCASPAMU_DZU144       (__ZABOJCASPAMU_DZU_01 || __ZABOJCASPAMU_DZU_02 || __ZABOJCASPAMU_DZU_03 || __ZABOJCASPAMU_DZU_04 || __ZABOJCASPAMU_DZU_05 || __ZABOJCASPAMU_DZU_06 || __ZABOJCASPAMU_DZU_07 || __ZABOJCASPAMU_DZU_08 || __ZABOJCASPAMU_DZU_09 || __ZABOJCASPAMU_DZU_10 || __ZABOJCASPAMU_DZU_11 || __ZABOJCASPAMU_DZU_12)
 
- meta      ZABOJCASPAMU_USTAWAANTYSPAM    __ZABOJCASPAMU_USTAWA_I || __ZABOJCASPAMU_USTAWA_II || __ZABOJCASPAMU_DZU144
- describe  ZABOJCASPAMU_USTAWAANTYSPAM    Ustawa 18.07.2002 lub DzU 144 (ustawa antyspam)
- score     ZABOJCASPAMU_USTAWAANTYSPAM    10
+meta      ZABOJCASPAMU_USTAWAANTYSPAM    __ZABOJCASPAMU_USTAWA_I || __ZABOJCASPAMU_USTAWA_II || __ZABOJCASPAMU_DZU144
+describe  ZABOJCASPAMU_USTAWAANTYSPAM    Ustawa 18.07.2002 lub DzU 144 (ustawa antyspam)
+score     ZABOJCASPAMU_USTAWAANTYSPAM    10
  
- # Wzmocnienei regul
- # https://zabojcaspamu.pl/wsmocnienie-regul/
-  meta     ZABOJCASPAMU_TWO_REDDCC ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR)
- describe ZABOJCASPAMU_TWO_REDDCC ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR)
- score    ZABOJCASPAMU_TWO_REDDCC 2
+# Wzmocnienei regul
+# https://zabojcaspamu.pl/wsmocnienie-regul/
+meta     ZABOJCASPAMU_TWO_REDDCC ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR)
+describe ZABOJCASPAMU_TWO_REDDCC ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR)
+score    ZABOJCASPAMU_TWO_REDDCC 2
 
 header  __ZABOJCASPAMU_SPF_REQ_2_1  From:addr=~/(dhl\.com|dhl\.pl|poczta\-polska\.pl|inpost\.pl|paczkomaty\.pl)/
 header __ZABOJCASPAMU_SPF_REQ_2_2   ALL=~/(spf|SPF)(=|:) *pass.+\@(dhl\.com|dhl\.pl|poczta\-polska\.pl|inpost\.pl|paczkomaty\.pl) /
@@ -831,8 +829,7 @@ describe  ZABOJCASPAMU_SPF_REQ_2 Wymagane SPF dla domen
 score     ZABOJCASPAMU_SPF_REQ_2 5
 
 #kampanie reklampowe
-#
- uri       ZABOJCASPAMU_KOMPANIE_REKLAMOWE /(news\.chilimail\.pl|interactive\-partners\.me|olix\-polska\.com|instytut\-marketingu\.com|kompass\.com|supermarketf\.nazwa\.pl|snd24\.com\.pl|augustnews1\.com|readersdigest\.mailnews\.pl|mediamail24\.pl|greensender\.pl|\.gwdeliver.com|\.campaignmail\.pl|freshmail\.pl|readersdigest\.mailnews\.pl|net-mailto\.pl|mail-serwis\.pl|mailtpro\.pl|winimail\.pl|link-outer\.com)/
+uri       ZABOJCASPAMU_KOMPANIE_REKLAMOWE /(news\.chilimail\.pl|interactive\-partners\.me|olix\-polska\.com|instytut\-marketingu\.com|kompass\.com|supermarketf\.nazwa\.pl|snd24\.com\.pl|augustnews1\.com|readersdigest\.mailnews\.pl|mediamail24\.pl|greensender\.pl|\.gwdeliver.com|\.campaignmail\.pl|freshmail\.pl|readersdigest\.mailnews\.pl|net-mailto\.pl|mail-serwis\.pl|mailtpro\.pl|winimail\.pl|link-outer\.com)/
 describe  ZABOJCASPAMU_KOMPANIE_REKLAMOWE Zawiera linki do firm kompanii reklamowych i masowych  mailingow
 score     ZABOJCASPAMU_KOMPANIE_REKLAMOWE 2
 
@@ -861,9 +858,9 @@ score     ZABOJCASPAMU_PKOBP_FAKE          5.0
 # Sprawdzanei domen czy maja DKIM
 # https://zabojcaspamu.pl/sprawdzanie-podpisania-wiadomosci-dkimem/
 ifplugin Mail::SpamAssassin::Plugin::DKIM
- header __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM  from:addr=~/\@(yahoo\.com|firma\.interia\.pl|facebookmail\.com|visa\.com|olx\.pl|interia\.pl|interia\.eu|wp\.pl|gmail\.com|pl\.orange\.com|sodexo\.com|poczta-polska\.pl|allegro\.pl)$/
- meta   LOCAL_DOMAIN_MUST_HAVE_DKIM  __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM && !DKIM_SIGNED && !DKIM_VALID
- score  LOCAL_DOMAIN_MUST_HAVE_DKIM  0.1
+  header __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM  from:addr=~/\@(yahoo\.com|firma\.interia\.pl|facebookmail\.com|visa\.com|olx\.pl|interia\.pl|interia\.eu|wp\.pl|gmail\.com|pl\.orange\.com|sodexo\.com|poczta-polska\.pl|allegro\.pl)$/
+  meta   LOCAL_DOMAIN_MUST_HAVE_DKIM  __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM && !DKIM_SIGNED && !DKIM_VALID
+  score  LOCAL_DOMAIN_MUST_HAVE_DKIM  0.1
 endif
 
 header     ZABOJCASPAMU_PRZESYLKA_NIE_DOSTARCZONA  Subject=~/[A-Z]{2}\d+PL (przesylka nie zostala dostarczona do ciebie|Przesylka nie moze zostac dostarczona)/
@@ -1119,14 +1116,14 @@ score        ZABOJCASPAMU_XM_EC_MESSENGER        2
 #Odmowa w w tresci maila
 #https://zabojcaspamu.pl/odmowa-tresci-maila/
 body ZABOJCASPAMU_MAIL_ODMOWA /(?:z \"ODMOWA\" w|o temacie \"Rezygnacja\"|z tematem \" Rezygnacja \|odpisa.{1,8} USU.{1,8}\")/
- describe ZABOJCASPAMU_MAIL_ODMOWA Zawiera fraze 'ODMOWA/rezygnacja/Nie w kontekscie maila'
- score ZABOJCASPAMU_MAIL_ODMOWA 3
+describe ZABOJCASPAMU_MAIL_ODMOWA Zawiera fraze 'ODMOWA/rezygnacja/Nie w kontekscie maila'
+score ZABOJCASPAMU_MAIL_ODMOWA 3
 
 #Duzo znakow niealfanumerycznych w loginie maila
 #https://zabojcaspamu.pl/duzo-znakow-niealfanumerycznych-loginie-maila/
 header   ZABOJCASPAMU_MANY_NOALPHA_LOGIN  From:addr =~ /[\-\_].+[\-\_].+\@/
- describe ZABOJCASPAMU_MANY_NOALPHA_LOGIN  From: many sign non alphanumeric in login
- score    ZABOJCASPAMU_MANY_NOALPHA_LOGIN  0.2
+describe ZABOJCASPAMU_MANY_NOALPHA_LOGIN  From: many sign non alphanumeric in login
+score    ZABOJCASPAMU_MANY_NOALPHA_LOGIN  0.2
 
 #Falszywe faktury z Playa
 #https://zabojcaspamu.pl/falszywe-faktury-playa/
@@ -1160,8 +1157,8 @@ score    ZABOJCASPAMU_TEMAT_NAWIAS    0.5
 # Kolejna regula wzmacniajaca
 # https://zabojcaspamu.pl/kolejna-regula-wzmacniajaca-3/
 meta     ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
- describe ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
- score    ZABOJCASPAMU_TWO_5358  0.5
+describe ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
+score    ZABOJCASPAMU_TWO_5358  0.5
 
 # Zarabianie pieniedzy w prosty sposob
 # https://zabojcaspamu.pl/zarabianie-pieniedzy-prosty-sposob/
@@ -1178,8 +1175,8 @@ score    ZABOJCASPAMU_ZARABIANIE_DZIECKO    10
 # zarabianie sposob nr 2
 # https://zabojcaspamu.pl/zarabianie-pieniedzy-sposob-nr-2/
 rawbody  ZABOJCASPAMU_ZARABIANIE_URL2IMG    /http:\/\/img\d+\.uploadhouse\.com\/fileuploads/
- describe ZABOJCASPAMU_ZARABIANIE_URL2IMG    https://zabojcaspamu.pl/zarabianie-pieniedzy-sposob-nr-2/
- score    ZABOJCASPAMU_ZARABIANIE_URL2IMG    5
+describe ZABOJCASPAMU_ZARABIANIE_URL2IMG    https://zabojcaspamu.pl/zarabianie-pieniedzy-sposob-nr-2/
+score    ZABOJCASPAMU_ZARABIANIE_URL2IMG    5
 
 # Falszywe informacje z FB
 # https://zabojcaspamu.pl/falszywe-informacje-fb/
