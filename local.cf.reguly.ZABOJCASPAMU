@@ -1,14 +1,14 @@
 # Ostatnia aktualizacja 2017-03-26
 # http://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
-# Reguły maja dodane ZABOJCASPAMU aby bylo latwiej ropzoznac ktore sa z tej strony
+# Reguły maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #!!  W czesci regul trzeba zmienić ciag WLASNADOMENA na wlasna domene jaką sie administruje
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt 
 # Opis http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie/
 
-#Regula wychwytująca czerowy kolor
+#Regula wychwytująca czerwony kolor
 #http://zabojcaspamu.pl/czcionka-czerwona-w-mailu/
 rawbody  __ZABOJCASPAMU_RED_COLOR_1 /\W\#(ff|FF)0000\W/
 rawbody  __ZABOJCASPAMU_RED_COLOR_2 /[\";: ]red[\"\';]/
@@ -71,7 +71,7 @@ score		ZABOJCASPAMU_EMAILCOM				0
  describe      ZABOJCASPAMU_X_PHP_Script    Zawiera naglowek X-PHP-Script
  score           ZABOJCASPAMU_X_PHP_Script    4
  
- # Wysylane przez srypty PHP
+ # Wysylane przez skrypty PHP
  # http://zabojcaspamu.pl/maile-wysylane-przez-php/
  header      ZABOJCASPAMU_XMAILER_PHP        X-Mailer=~/^(?:PHP|php)/
  describe   ZABOJCASPAMU_XMAILER_PHP        Send by X-Mailer spam
@@ -98,11 +98,11 @@ score       ZABOJCASPAMU_SUPPORT_LOGIN_1    8
 
 # Regula w temacie PLN zl
 # http://zabojcaspamu.pl/morze_pieniedzy/
- header      ZABOJCASPAMU_TEMAT_PLN   Subject=~/(PLN|złotych| zł )/
- describe   ZABOJCASPAMU_TEMAT_PLN   W temacie jest PLN lub zlotych
- score        ZABOJCASPAMU_TEMAT_PLN   0.2
+header      ZABOJCASPAMU_TEMAT_PLN   Subject=~/(PLN|złotych| zł )/
+describe   ZABOJCASPAMU_TEMAT_PLN   W temacie jest PLN lub zlotych
+score        ZABOJCASPAMU_TEMAT_PLN   0.2
  
-# Mamy dla ciebei prace
+# Mamy dla ciebie prace
 #
 header     __ZABOJCASPAMU_MARILLINCH_1 Subject=~/ID\:/
 body          __ZABOJCASPAMU_MARILLINCH_2 /Agencja Rekrutacyjna Maril Linch Production Inc/
@@ -310,13 +310,13 @@ score     ZABOJCASPAMU_SUBJECT_PERCENT 0.3
  describe LOCAL_X_PHP_Originating  Has X-PHP-Originating-Script header
  score    LOCAL_X_PHP_Originating  4
  
- #Prosimy o zwrotną wiadomość
+ #Prosimy o zwrotną wiadomosc
  #http://zabojcaspamu.pl/prosimy-o-zwrotna-wiadomosc/
  body     LOCAL_ZWROTNA_WIADOMOSC  /wiadomo.{1,8} zwrotn.{1,8}|wiadomo(?:.{1,8}ci|.{1,10}) zwrotn(?:ej|.)|zwrotn(ej|.) wiadomo(.{1,8}ci|..)/
  describe LOCAL_ZWROTNA_WIADOMOSC  zwrotna wiadomosc
  score    LOCAL_ZWROTNA_WIADOMOSC  2.5
  
- # Parowanie reguł
+ # Parowanie regul
  # http://zabojcaspamu.pl/parowanie-regul/
  meta     LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
  describe LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
@@ -342,7 +342,7 @@ score     ZABOJCASPAMU_SUBJECT_PERCENT 0.3
  describe LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
  score    LOCAL_TWO_5358  0.5
  
- #Mail zawiera nagłówek X-Campaign
+ #Mail zawiera naglowek X-Campaign
  #http://zabojcaspamu.pl/mail-zawiera-naglowek-x-campaign/
   header    ZABOJCASPAMU_XCAMP          exists:X-Campaign
  describe  ZABOJCASPAMU_XCAMP          Zawiera X-Campaign
@@ -352,7 +352,7 @@ score     ZABOJCASPAMU_SUBJECT_PERCENT 0.3
  describe  ZABOJCASPAMU_XCAMPID        Zawiera X-CampaignID
  score     ZABOJCASPAMU_XCAMPID        2
  
- #Freshmail ciągły spamer
+ #Freshmail ciagly spamer
  #http://zabojcaspamu.pl/freshmail-ciagly-spamer/
  header     ZABOJCASPAMU_XABUSE_FRESH    X-Abuse=~/support\.freshmail\.com/
  describe   ZABOJCASPAMU_XABUSE_FRESH    X-Abuse zawiera support.freshmail.com
