@@ -1,14 +1,14 @@
 # Ostatnia aktualizacja 2017-03-26
 # http://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
-# Reguły maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
+# Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-#!!  W czesci regul trzeba zmienić ciag WLASNADOMENA na wlasna domene jaką sie administruje
+#!!  W czesci regul trzeba zmienic ciag WLASNADOMENA na wlasna domene jaka sie administruje
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt 
 # Opis http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie/
 
-#Regula wychwytująca czerwony kolor
+#Regula wychwytujaca czerwony kolor
 #http://zabojcaspamu.pl/czcionka-czerwona-w-mailu/
 rawbody  __ZABOJCASPAMU_RED_COLOR_1 /\W\#(ff|FF)0000\W/
 rawbody  __ZABOJCASPAMU_RED_COLOR_2 /[\";: ]red[\"\';]/
@@ -24,8 +24,8 @@ describe		ZABOJCASPAMU_PYTANIE_OFERT W temacie 'Zapytanie ofertowe'
 score		ZABOJCASPAMU_PYTANIE_OFERT 1
 
 # http://zabojcaspamu.pl/spam-z-polski-z-koncowka-emai-com/
-# reguła na spam z dziwnymi z nazwiskami na A i B
-# Uwaga w 3 linii trzeba zastąpić frazę WLASNADOMENA swoją własną domeną czyli np
+# regula na spam z dziwnymi z nazwiskami na A i B
+# Uwaga w 3 linii trzeba zastapic fraze WLASNADOMENA swoja wlasna domena czyli np
 header __ZABOJCASPAMU_LOGIN_NAZWISKO From=~ /(abram|Abram|abramczyk|Abramczyk|abramowicz|Abramowicz|adamczak|Adamczak|adamczyk|Adamczyk|adamek|Adamek|adamiak|Adamiak|adamik|Adamik|adamowicz|adamski|Babiarz|Babicz|Babik|Babin|Babinski|Babka|Babula|Baran|Baranek|Baranoski|Baranowski|Baranski|Barczak|Barela|Bargiel)/
 header		__ZABOJCASPAMU_DOMENA_MAILCOM 	From=~ /email\.(com|info)/
 header		__ZABOJCASPAMU_RP_FOR_THIS_SPAM 	Return-Path=~/-.{2,20}\=WLASNADOMENA@/
@@ -474,7 +474,7 @@ describe  ZABOJCASPAMU_RECHNUNG_201506111    Spam z Ihre Telekom Festnetz-Rechnu
 score     ZABOJCASPAMU_RECHNUNG_201506111    10
 score     ZABOJCASPAMU_FROM_IPKO_SPOOF  10
 
-#Twoja skrzynka została zablokowana
+#Twoja skrzynka zostala zablokowana
 #http://zabojcaspamu.pl/twoja-skrzynka-zostala-zablokowana/
 #Poprawiona regula http://zabojcaspamu.pl/skrzynka-pocztowa-zostala-tymczasowo-zawieszona/
 header    __LOCAL_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
@@ -548,7 +548,7 @@ meta         ZABOJCASPAMU_40PLNZADARMO2        __ZABOJCASPAMU_40PLNZADARMO2f && 
 describe   ZABOJCASPAMU_40PLNZADARMO2          Link z 40plnzadarmo.com
 score      ZABOJCASPAMU_40PLNZADARMO2          10
 
-# Fałszywe przesyłki z Poczty Polskiej
+# Falszywe przesylki z Poczty Polskiej
 # http://zabojcaspamu.pl/falszywe-przesylki-z-poczty-polskiej/
 header __ZABOJCASPAMU_POCZTAPOLSKA_1 From=~/Poczta Polska/
 header __ZABOJCASPAMU_POCZTAPOLSKA_2 From:addr=~/poczta\-polska\.pl/
@@ -567,13 +567,13 @@ score     ZABOJCASPAMU_POCZTAPOLSKA2  10
  describe  ZABOJCASPAMU_RETURNPATH_ATHOST  W Return path jest '@(host|news)\d+.'
  score     ZABOJCASPAMU_RETURNPATH_ATHOST  0.5
  
-# Gumtree i ogłoszenia o prace
+# Gumtree i ogloszenia o prace
 # http://zabojcaspamu.pl/gumtree-i-ogloszenia-o-prace/
 header    ZABOJCASPAMU_GUMTREE       Subject=~/Poniżej znajduje się odpowiedź na Twoje ogłoszenie Gumtree/
  describe  ZABOJCASPAMU_GUMTREE       Informacja ze ogloszenie z gumtree
  score     ZABOJCASPAMU_GUMTREE       -10
  
-# Za długi temat
+# Za dlugi temat
 # http://zabojcaspamu.pl/za-dlugi-temat/
 header    ZABOJCASPAMU_VERY_LONG_SUBJ        Subject=~/.{100,}/
 describe  ZABOJCASPAMU_VERY_LONG_SUBJ        Bardzo dlugi temat 
@@ -599,7 +599,7 @@ score     LOCAL_TWOJASKRZYNKA     10
  describe ZABOJCASPAMU_MANY_DIGITS_MAIL   Email has many digits
  score    ZABOJCASPAMU_MANY_DIGITS_MAIL   0.1
  
- # W tytule słowo sprawdź
+ # W tytule slowo sprawdz
  # http://zabojcaspamu.pl/w-tytule-slowo-sprawdz/
   header   ZABOJCASPAMU_SUBJ_SPRAWDZ       Subject=~/(?:(S|s)prawd=C5|(S|s)prawdź|(S|s)prawd=BC)/
  describe ZABOJCASPAMU_SUBJ_SPRAWDZ       Slowo sprawdz w temacie
@@ -611,7 +611,7 @@ score     LOCAL_TWOJASKRZYNKA     10
  describe LOCAL_LARGE_SIZE_FONT Fonts 20+px
  score    LOCAL_LARGE_SIZE_FONT 0.3
  
- # Dobra reguła wzmacniająca
+ # Dobra regula wzmacniająca
  # http://zabojcaspamu.pl/dobra-regula-wzmacniajaca/
   meta         ZABOJCASPAMU_TWO_FREEMIME ( FREEMAIL_FROM && MIME_HTML_ONLY)
  describe    ZABOJCASPAMU_TWO_FREEMIME ( FREEMAIL_FROM && MIME_HTML_ONLY)
@@ -637,7 +637,7 @@ meta     ZABOJCASPAMU_FSL_SUBJ_SEO          (__FSL_SUBJ_SEO_1 || __FSL_SUBJ_SEO_
 describe ZABOJCASPAMU_FSL_SUBJ_SEO          Search engine optimisation
 score    ZABOJCASPAMU_FSL_SUBJ_SEO          1.0
 
-# Kolejna reguła wzmacniająca
+# Kolejna regula wzmacniajaca
 # http://zabojcaspamu.pl/kolejna-regula-wzmacniajaca/
 header ZABOJCASPAMU_UNSUBS         exists:List-Unsubscribe
 describe ZABOJCASPAMU_UNSUBS         Zawiera List-Unsubscribe
@@ -651,7 +651,7 @@ meta     ZABOJCASPAMU_TWO_2563 ( ZABOJCASPAMU_BAYES_HIGH && ZABOJCASPAMU_UNSUBS 
 describe ZABOJCASPAMU_TWO_2563 ( ZABOJCASPAMU_BAYES_HIGH && ZABOJCASPAMU_UNSUBS )
 score    ZABOJCASPAMU_TWO_2563 2.5
 
-# Odeślij maila z tematem Tak lub Nie.
+# Odeslij maila z tematem Tak lub Nie.
 # http://zabojcaspamu.pl/odeslij-maila-z-tematem-tak-lub-nie/
 body        __ZABOJCASPAMU_MAIL_TAK_1      /\WTAK\W/
  body        __ZABOJCASPAMU_MAIL_NIE_1      /\WNIE\W/
@@ -667,7 +667,7 @@ body        __ZABOJCASPAMU_MAIL_TAK_1      /\WTAK\W/
  describe ZABOJCASPAMU_MAIL_REZYGNACJA Mail o rezygnacji ze znacznikiem maila
  score    ZABOJCASPAMU_MAIL_REZYGNACJA 0.8
  
- # Kolejna reguła wzmacniająca istniejące
+ # Kolejna regula wzmacniająca istniejące
  # http://zabojcaspamu.pl/kolejna-regula-wzmacniajaca-istniejace/
  meta     ZABOJCASPAMU_TWO_8817 ( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY)
  describe ZABOJCASPAMU_TWO_8817 ( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY)
@@ -690,7 +690,7 @@ body        __ZABOJCASPAMU_MAIL_TAK_1      /\WTAK\W/
 describe  EXPERIMENTAL_JESTESMY_FIRMA   Fraza Jestemy firma
 score     EXPERIMENTAL_JESTESMY_FIRMA   0.3
 
-# Naprzemienne ciągi znaków i cyfr
+# Naprzemienne ciagi znakow i cyfr
 # http://zabojcaspamu.pl/naprzemienne-ciagi-znakow-i-cyfr/
 header   ZABOJCASPAMU_RETURN_PATH_MISC_CHAR            Return-Path=~/[a-zA-Z]+\d+[a-zA-Z]+\d+\@/
 describe ZABOJCASPAMU_RETURN_PATH_MISC_CHAR            return-path misc char
@@ -720,7 +720,7 @@ score    ZABOJCASPAMU_RETURN_PATH_MISC_CHAR            0.2
 describe  ZABOJCASPAMU_FROM_DIGIT_HOME  From ma ciag np server.4223333.home.pl
 score     ZABOJCASPAMU_FROM_DIGIT_HOME  4
 
-# Kolejny raz FW:important częsc następna
+# Kolejny raz FW:important czesc nastepna
 # http://zabojcaspamu.pl/kolejny-raz-fwimportant/
 
 header     __ZABOJCASPAMU_TO_TOO_MANY_1 To =~ /(?:,[^,]{1,80}){3}/ 
@@ -756,7 +756,7 @@ score      EXPERIMENTAL_POHASHNUMBER    10
  describe  ZABOJCASPAMU_FREE_ENCONDIG  FreeMail && Subject Encoding || Illegar Chars
  score     ZABOJCASPAMU_FREE_ENCONDIG  1.3
  
- #Pole List-Unsubscribe spamerów
+ #Pole List-Unsubscribe spamerow
  #http://zabojcaspamu.pl/pole-list-unsubscribe-spamerow/
  header     ZABOJCASPAMU_LOCUSNURI       List-Unsubscribe=~/(novaskills\.pl|mail\.stunning-mail\.pl|s.mailing\.nk\-net\.pl|news\.ravelo\.pl|loginsr\.com\.pl|mailingsender\.pl)/
 describe   ZABOJCASPAMU_LOCUSNURI     W polu List-Unsubscribe domeny spamerow
@@ -774,13 +774,13 @@ meta      ZABOJCASPAMU_IMPORTMESSv4         DATE_IN_FUTURE_12_24 && __ZABOJCASPA
 describe  ZABOJCASPAMU_IMPORTMESSv4         Wiadomosc FW: Important,read this lub inne
 score     ZABOJCASPAMU_IMPORTMESSv4         15
 
-# Spam z tytułem Agri Basics
+# Spam z tytulem Agri Basics
 # http://zabojcaspamu.pl/spam-z-tytulem-agri-basics/
 header    ZABOJCASPAMU_AGRIBASIC                   Subject=~/Agri Basics invoice \#\d+ and \d+/
 describe ZABOJCASPAMU_AGRIBASIC                   Spam z tematem w stylu Agru basic...
 score     ZABOJCASPAMU_AGRIBASIC                   10
 
-# ZWYCIĘSKA metoda – baw się i zarabiaj dużo!
+# ZWYCIĘSKA metoda – baw sie i zarabiaj duzo!
 # http://zabojcaspamu.pl/zwycieska-metoda-baw-sie-i-zarabiaj-duzo/
 uri ZABOJCASPAMU_JPELAZDESIGNS  /adk\.jpelaezdesigns\.com/
  describe ZABOJCASPAMU_JPELAZDESIGNS spam z jpelaezdesigns
@@ -844,7 +844,7 @@ meta      ZABOJCASPAMU_FAKE_FROM     __ZABOJCASPAMU_FAKE_FROM_2 && !__ZABOJCASPA
 describe  ZABOJCASPAMU_FAKE_FROM     Pomieszanie z domenami w polu From
 score     ZABOJCASPAMU_FAKE_FROM     0.1
 
-# Podszywanie się pod PKO BP.
+# Podszywanie sie pod PKO BP.
 # http://zabojcaspamu.pl/podszywanie-sie-pko-bp/
 header    __ZABOJCASPAMU_PKOBP_FAKE_FROM1  From=~/PKO Bank Polski/
 header    __ZABOJCASPAMU_PKOBP_FAKE_FROM2  From:addr=~/\@(ipko\.pl|pkobp\.pl)$/
@@ -888,7 +888,7 @@ meta      ZABOJCASPAMU_STUFFv1                __ZABOJCASPAMU_TO_TOO_MANY_STUFFv1
 describe  ZABOJCASPAMU_STUFFv1                Wiadomosc stuff
 score     ZABOJCASPAMU_STUFFv1                10
 
-# Cos jest wspaniałe
+# Cos jest wspaniale
 # http://zabojcaspamu.pl/kolejne-serie-maili/
 
 rawbody   __ZABOJCASPAMU_FORYOUONLYv1_1          /urn:schemas-microsoft-com:vml/
@@ -909,7 +909,7 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         score      ZABOJCASPAMU_INVOICE_VBS 10
 endif
 
-# Maile z załącznikiem CONTRACT
+# Maile z zalacznikiem CONTRACT
 # http://zabojcaspamu.pl/maile-zalacznikiem-contract/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         mimeheader ZABOJCASPAMU_CONTRACT_VBS Content-Type =~ /CONTRACT_\d+_[a-z].zip/
@@ -946,7 +946,7 @@ meta     ZABOJCASPAMU_PRZYPOMNIENIE_O_PLATNOSCI     __ZABOJCASPAMU_PRZYPOMNIENIE
 describe ZABOJCASPAMU_PRZYPOMNIENIE_O_PLATNOSCI  Przpomnienie o platnosci
 score    ZABOJCASPAMU_PRZYPOMNIENIE_O_PLATNOSCI  10
 
-#Uruchomienie kredytu gotówkowego
+#Uruchomienie kredytu gotowkowego
 header   __ZABOJCASPAMU_PRZYZNANIE_KREDYTU_1 Subject=~/ruchomienie kredytu gotowkowego/
 header   __ZABOJCASPAMU_PRZYZNANIE_KREDYTU_2 From=~/Kamil Wurst/
 meta     ZABOJCASPAMU_PRZYZNANIE_KREDYTU  __ZABOJCASPAMU_PRZYZNANIE_KREDYTU_1 && __ZABOJCASPAMU_PRZYZNANIE_KREDYTU_2
@@ -1102,7 +1102,6 @@ header __PLAY_20161005_3  From:addr=~/\.pl$/
 meta   PLAY_20161005  __PLAY_20161005_1 && __PLAY_20161005_2 && !__PLAY_20161005_3
 describe PLAY_20161005  Falszywe faktury play
 
-
 # falszywe faktury PLAYa
 # http://zabojcaspamu.pl/play-nowa-wersja/
 header __PLAY_20161005v2_1  Subject=~/Play\s+ID\:[A-Z]{3}\d+/
@@ -1111,26 +1110,25 @@ header __PLAY_20161005v2_3  From:addr=~/\.pl$/
 meta   PLAY_20161005v2  __PLAY_20161005v2_1 && __PLAY_20161005v2_2 && !__PLAY_20161005v2_3
 
 
-#beC Messenger – wysyłka spamu
+#beC Messenger – wysylka spamu
 #http://zabojcaspamu.pl/bec-messenger-wysylka-spamu/
-
 header         ZABOJCASPAMU_XM_EC_MESSENGER         X-Mailer =~ /\beC-Messenger\b/
 describe     ZABOJCASPAMU_XM_EC_MESSENGER         eC-Messenger bulk mail service
 score        ZABOJCASPAMU_XM_EC_MESSENGER        2
 
-#Odmowa w w treści maila
+#Odmowa w w tresci maila
 #http://zabojcaspamu.pl/odmowa-tresci-maila/
 body ZABOJCASPAMU_MAIL_ODMOWA /(?:z \"ODMOWA\" w|o temacie \"Rezygnacja\"|z tematem \" Rezygnacja \|odpisa.{1,8} USU.{1,8}\")/
  describe ZABOJCASPAMU_MAIL_ODMOWA Zawiera fraze 'ODMOWA/rezygnacja/Nie w kontekscie maila'
  score ZABOJCASPAMU_MAIL_ODMOWA 3
 
-#Dużo znaków niealfanumerycznych w loginie maila
+#Duzo znakow niealfanumerycznych w loginie maila
 #http://zabojcaspamu.pl/duzo-znakow-niealfanumerycznych-loginie-maila/
 header   ZABOJCASPAMU_MANY_NOALPHA_LOGIN  From:addr =~ /[\-\_].+[\-\_].+\@/
  describe ZABOJCASPAMU_MANY_NOALPHA_LOGIN  From: many sign non alphanumeric in login
  score    ZABOJCASPAMU_MANY_NOALPHA_LOGIN  0.2
 
-#Fałszywe faktury z Playa
+#Falszywe faktury z Playa
 #http://zabojcaspamu.pl/falszywe-faktury-playa/
 header __PLAY_20161204_1      Reply-To=~/play4\.pl/
 header  __PLAY_20161204_2      Subject=~/Twoja nowa faktura za telefon [A-Z]{3}\d{10}/
@@ -1138,7 +1136,7 @@ meta     ZABOJCASPAMU_PLAY_20161204        __PLAY_20161204_1 && __PLAY_20161204_
 describe ZABOJCASPAMU_PLAY_20161204        falszywe fakture 2016-12-03
 score    ZABOJCASPAMU_PLAY_20161204        5
 
-#Doc podwójnie zzipowany
+#Doc podwojnie zzipowany
 #http://zabojcaspamu.pl/doc-podwojnie-zzipowany/
 mimeheader ZABOJCASPAMU_MONEY_20161219 Content-Type =~ /MONEY-\d\d\d\d\d\d\d\.zip/
 describe   ZABOJCASPAMU_MONEY_20161219 Mail z money zip
@@ -1153,19 +1151,19 @@ header ZABOJCASPAMU_POPWORDS_SUBJ Subject=~/(?:sprawd.{1,8}| wyprzeda.{1,8}| stu
 describe ZABOJCASPAMU_POPWORDS_SUBJ najpopularniejsze slowa  wtematach ze spamem
 score ZABOJCASPAMU_POPWORDS_SUBJ 0.5
 
-# Temat który na początku ma nawias.
+# Temat ktory na poczatku ma nawias.
 # http://zabojcaspamu.pl/temat-ktory-poczatku-nawias/
 header ZABOJCASPAMU_TEMAT_NAWIAS    Subject=~/^\([a-z]+\) /
 describe ZABOJCASPAMU_TEMAT_NAWIAS    temat zaczyna sie od nawiasu 
 score    ZABOJCASPAMU_TEMAT_NAWIAS    0.5
 
-# Kolejna reguła wzmacniająca
+# Kolejna regula wzmacniajaca
 # http://zabojcaspamu.pl/kolejna-regula-wzmacniajaca-3/
 meta     ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
  describe ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
  score    ZABOJCASPAMU_TWO_5358  0.5
 
-# Zarabianie pieniedzy w prosty sposób
+# Zarabianie pieniedzy w prosty sposob
 # http://zabojcaspamu.pl/zarabianie-pieniedzy-prosty-sposob/
 
 header  __ZABOJCASPAMU_ZARABIANIE_DZIECKO_1  Subject=~/^Re:/
@@ -1183,7 +1181,7 @@ rawbody  ZABOJCASPAMU_ZARABIANIE_URL2IMG    /http:\/\/img\d+\.uploadhouse\.com\/
  describe ZABOJCASPAMU_ZARABIANIE_URL2IMG    http://zabojcaspamu.pl/zarabianie-pieniedzy-sposob-nr-2/
  score    ZABOJCASPAMU_ZARABIANIE_URL2IMG    5
 
-# Fałszywe informacje z FB
+# Falszywe informacje z FB
 # http://zabojcaspamu.pl/falszywe-informacje-fb/
 header   __ZABOJCASPAMU_FAKE_FACEBOOK_1     From=~/^[\s"]*Facebook/
 header   __ZABOJCASPAMU_FAKE_FACEBOOK_2     From:addr=~/facebookmail\.com/
@@ -1199,7 +1197,7 @@ meta     ZABOJCASPAMU_PAYU_FAKE_20170313      __ZABOJCASPAMU_PAYU_FAKE_20170313_
 describe ZABOJCASPAMU_PAYU_FAKE_20170313     http://zabojcaspamu.pl/potwierdzenie-transakcji-payu/
 score    ZABOJCASPAMU_PAYU_FAKE_20170313      10
 
-# Fałszywe informacje o płatności PayU i Tpay
+# Falszywe informacje o platnosci PayU i Tpay
 # http://zabojcaspamu.pl/falszywe-informacje-o-platnosci-payu-o-tpay/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         mimeheader ZABOJCASPAMU_FAKE_PAYU_CT Content-Type=~ /"Potwierdzenie .+? PDF\.js/
@@ -1209,7 +1207,7 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         score      ZABOJCASPAMU_FAKE_TPAY_PAYU 10
 endif
 
-# Dowód zakupu do zamówienia
+# Dowod zakupu do zamowienia
 # http://zabojcaspamu.pl/dowod-zakupu-zamowienia/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         header     __ZABOJCASPAMU_DOWOD_ZAKUPU_FAKE_SUB Subject =~/Dow.{1,8}d zakupu do zam.{1,8}wienia nr \d+/
@@ -1219,7 +1217,7 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         score      ZABOJCASPAMU_DOWOD_ZAKUPU_FAKE 10
 endif
 
-# PD: Brakujący numer faktury
+# PD: Brakujacy numer faktury
 # http://zabojcaspamu.pl/pd-brakujacy-numer-faktury/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         header     __ZABOJCASPAMU_BRAKUJACAFAKTURA_SUB Subject =~/PD: Brakuj.{1,8}cy numer faktury/
@@ -1240,7 +1238,7 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         score      ZABOJCASPAMU_PROSBAOZAPLATE         10
 endif
 
-# Proba o zaplate
+# Przesylam fakture 
 # http://zabojcaspamu.pl/prosba-o-zaplate/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         header     __ZABOJCASPAMU_PRZESYLAMFAKTURE_S  Subject=~/Przesy.{1,8}am faktur/
