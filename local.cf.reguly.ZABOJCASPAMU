@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-03-26
+# Ostatnia aktualizacja 2017-04-01
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1244,3 +1244,9 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         describe   ZABOJCASPAMU_PRZESYLAMFAKTURE      Prosba o zaplate faktury
         score      ZABOJCASPAMU_PRZESYLAMFAKTURE      10
 endif
+
+# reguła dla koliby
+#
+rawbody  ZABOJCASPAMU_KOLIBA      /Ta wiadomo.{1,8} zosta.{1,8}a wys.{1,8}ana przez kolibe na zlecenie/
+describe ZABOJCASPAMU_KOLIBA      Wysłane przez spamera kolibe
+score    ZABOJCASPAMU_KOLIBA      5
