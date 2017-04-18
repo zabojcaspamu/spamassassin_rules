@@ -1250,3 +1250,14 @@ endif
 rawbody  ZABOJCASPAMU_KOLIBA      /Ta wiadomo.{1,8} zosta.{1,8}a wys.{1,8}ana przez kolibe na zlecenie/
 describe ZABOJCASPAMU_KOLIBA      Wysłane przez spamera kolibe
 score    ZABOJCASPAMU_KOLIBA      5
+
+# falszywe maile z inpost
+#
+ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
+        header     __ZABOJCASPAMU_INPOST_20170418_S  Subject=~/Kurier\. paczka kurierska/
+        mimeheader __ZABOJCASPAMU_INPOST_20170418_C  Content-Type=~/application\/msword/
+        meta       ZABOJCASPAMU_INPOST_20170418      __ZABOJCASPAMU_INPOST_20170418_S && __ZABOJCASPAMU_INPOST_20170418_C
+        describe   ZABOJCASPAMU_INPOST_20170418      falszywa informacja o paczce inpost
+        score      ZABOJCASPAMU_INPOST_20170418      10
+endif
+
