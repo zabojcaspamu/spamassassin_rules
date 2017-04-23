@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-04-19
+# Ostatnia aktualizacja 2017-04-22
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1264,3 +1264,18 @@ endif
 uri    ZABOJCASPAMU_SEX_20170419       /\.php\?[a-z]=61&3SQwxoyu/
 describe ZABOJCASPAMU_SEX_20170419     Podejrzany link z propozycjami seksu
 score   ZABOJCASPAMU_SEX_20170419      10
+
+# falszywe faktury Multidemia Polska
+ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
+        header     __LOCAL_MULTIMEDIA_FVAT_S  Subject=~/Nowa eFaktura dostepna w eBOK Multimedia Polska/
+        mimeheader __LOCAL_MULTIMEDIA_FVAT_M  Content-Type=~/eFaktura-FVT_[A-Z]{3}_\d+_\d+\.7z/
+        meta       LOCAL_MULTIMEDIA_FVAT      __LOCAL_MULTIMEDIA_FVAT_S && __LOCAL_MULTIMEDIA_FVAT_M
+        describe   LOCAL_MULTIMEDIA_FVAT      falszywa faktura Multimedia Polska
+        score      LOCAL_MULTIMEDIA_FVAT      10
+endif
+
+# Message ID z adresem ip
+header  LOCAL_MESSAGEID_IP  Message-ID=~/\@\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/
+describe LOCAL_MESSAGEID_IP Message-ID zamiast hosta adres IP
+score   LOCAL_MESSAGEID_IP  0.2
+
