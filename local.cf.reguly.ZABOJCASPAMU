@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-05-09
+# Ostatnia aktualizacja 2017-05-16
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1300,3 +1300,10 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         describe   ZABOJCASPAMU_PLUSNET_FVAT      falszywa faktura Plusnet
         score      ZABOJCASPAMU_PLUSNET_FVAT      10
 endif
+
+#Spam bandycituska
+rawbody  __ZABOJCASPAMU_BANDYCI_1  /font:11px sans-serif/
+uri      __ZABOJCASPAMU_BANDYCI_2  /bandycituska\.pl/
+meta     ZABOJCASPAMU_BANDYCI      __ZABOJCASPAMU_BANDYCI_1 && __ZABOJCASPAMU_BANDYCI_2
+describe ZABOJCASPAMU_BANDYCI      Terie spiskowe ze strony bandycituska.pl
+score    ZABOJCASPAMU_BANDYCI      5
