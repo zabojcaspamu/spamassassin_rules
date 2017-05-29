@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-05-31
+# Ostatnia aktualizacja 2017-05-29
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1307,3 +1307,12 @@ uri      __ZABOJCASPAMU_BANDYCI_2  /bandycituska\.pl/
 meta     ZABOJCASPAMU_BANDYCI      __ZABOJCASPAMU_BANDYCI_1 && __ZABOJCASPAMU_BANDYCI_2
 describe ZABOJCASPAMU_BANDYCI      Terie spiskowe ze strony bandycituska.pl
 score    ZABOJCASPAMU_BANDYCI      5
+
+# uregulowanie naleznosci na konto
+ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
+    header     __UREGULOWANIE_FAKTURY_S  Subject=~/Prosimy o uregulowanie naleznosci na konto/
+    mimeheader __UREGULOWANIE_FAKTURY_M  Content-Type=~/fakture[0-9].zip/
+    meta       UREGULOWANIE_FAKTURY      __UREGULOWANIE_FAKTURY_S && __UREGULOWANIE_FAKTURY_M
+    describe   UREGULOWANIE_FAKTURY      falszywe informacje o fakturach
+    score      UREGULOWANIE_FAKTURY      10
+endif
