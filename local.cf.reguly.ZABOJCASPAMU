@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-05-31
+# Ostatnia aktualizacja 2017-06-04
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1307,3 +1307,14 @@ uri      __ZABOJCASPAMU_BANDYCI_2  /bandycituska\.pl/
 meta     ZABOJCASPAMU_BANDYCI      __ZABOJCASPAMU_BANDYCI_1 && __ZABOJCASPAMU_BANDYCI_2
 describe ZABOJCASPAMU_BANDYCI      Terie spiskowe ze strony bandycituska.pl
 score    ZABOJCASPAMU_BANDYCI      5
+
+#
+# Spam z nacionale Niderlanden
+ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
+   header     __ZABOJCASPAMU_POLISA_NN_S  Subject=~/^Polisa nr \d+/
+   mimeheader __ZABOJCASPAMU_POLISA_NN_C  Content-Type=~ /Polisa nr \d+ PDF\.zip/
+   meta       ZABOJCASPAMU_POLISA_NN  __ZABOJCASPAMU_POLISA_NN_S && __ZABOJCASPAMU_POLISA_NN_C
+   describe   ZABOJCASPAMU_POLISA_NN  falszywe polisy z NN
+   score      ZABOJCASPAMU_POLISA_NN  10
+endif
+
