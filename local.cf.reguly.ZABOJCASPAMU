@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-06-04
+# Ostatnia aktualizacja 2017-06-12
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1318,3 +1318,7 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
    score      ZABOJCASPAMU_POLISA_NN  10
 endif
 
+#znaki graficzne na początku tematu
+header ZABOJCASPAMU_ZNAKIGRAFICZNE Subject:raw=~/=\?UTF-8\?Q\?=E2=9/
+describe ZABOJCASPAMU_ZNAKIGRAFICZNE Znak graficzny na poczatku tematu
+score ZABOJCASPAMU_ZNAKIGRAFICZNE  1.5
