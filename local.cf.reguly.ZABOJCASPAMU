@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-06-15
+# Ostatnia aktualizacja 2017-06-16
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1327,3 +1327,7 @@ score ZABOJCASPAMU_ZNAKIGRAFICZNE  1.5
 header   LOCAL_FROM_ADMINISTRATOR From=~/Administrator/
 describe LOCAL_FROM_ADMINISTRATOR Mail od administratora? Nie sadze
 score    LOCAL_FROM_ADMINISTRAT
+
+header ZABOJCASPAMU_TO_RECPIENTS To=~/Recipients /
+describe ZABOJCASPAMU_TO_RECIPIENTS Mail do recpients
+score ZABOJCASPAMU_TO_RECIPIENTS 1
