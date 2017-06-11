@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-06-12
+# Ostatnia aktualizacja 2017-06-15
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1322,3 +1322,8 @@ endif
 header ZABOJCASPAMU_ZNAKIGRAFICZNE Subject:raw=~/=\?UTF-8\?Q\?=E2=9/
 describe ZABOJCASPAMU_ZNAKIGRAFICZNE Znak graficzny na poczatku tematu
 score ZABOJCASPAMU_ZNAKIGRAFICZNE  1.5
+
+#mail od administratora
+header   LOCAL_FROM_ADMINISTRATOR From=~/Administrator/
+describe LOCAL_FROM_ADMINISTRATOR Mail od administratora? Nie sadze
+score    LOCAL_FROM_ADMINISTRAT
