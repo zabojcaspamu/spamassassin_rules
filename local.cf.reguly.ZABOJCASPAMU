@@ -1326,7 +1326,7 @@ score ZABOJCASPAMU_ZNAKIGRAFICZNE  1.5
 #mail od administratora
 header   LOCAL_FROM_ADMINISTRATOR From=~/Administrator/
 describe LOCAL_FROM_ADMINISTRATOR Mail od administratora? Nie sadze
-score    LOCAL_FROM_ADMINISTRAT
+score    LOCAL_FROM_ADMINISTRATOR 5
 
 header ZABOJCASPAMU_TO_RECPIENTS To=~/Recipients /
 describe ZABOJCASPAMU_TO_RECIPIENTS Mail do recpients
