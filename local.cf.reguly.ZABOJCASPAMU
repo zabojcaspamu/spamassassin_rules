@@ -581,7 +581,7 @@ score     ZABOJCASPAMU_VERY_LONG_SUBJ        0.3
 
 # Firmy zbierajace maile
 # https://zabojcaspamu.pl/firmy-zbierajace-maile/
-body      ZABOJCASPAMU_HARVEST_MAILI /(?:New Ursa Sp\. z o\.o|przez redsales\.pl|BuyTogether|ProDirect Sp\. z o\.o|SANMARKS Sp\. z o\.o|Polsk.{1,8} Agencj{1,14} Satelitarn.{1,8} Orbita S\. A\.|wyjatkoweoferty\.pl|SANMARKS Sp\. z o\.o|HBI Polska|KOMPASS Poland|Kompass Poland|IPEiK|UAB |TeleCom|Venito-Reklama|biz-catalogs|ProDirect Sp|OpenRate )/
+body      ZABOJCASPAMU_HARVEST_MAILI /(?:New Ursa Sp\. z o\.o|przez serwis domenabiznesu\.pl|przez redsales\.pl|BuyTogether|ProDirect Sp\. z o\.o|SANMARKS Sp\. z o\.o|Polsk.{1,8} Agencj{1,14} Satelitarn.{1,8} Orbita S\. A\.|wyjatkoweoferty\.pl|SANMARKS Sp\. z o\.o|HBI Polska|KOMPASS Poland|Kompass Poland|IPEiK|UAB |TeleCom|Venito-Reklama|biz-catalogs|ProDirect Sp|OpenRate )/
 describe  ZABOJCASPAMU_HARVEST_MAILI Pada nazwa firm harvestujacych maile(HBI,KOMPASS,IPEiKi,UAB(Venito-Reklama),biz-catalogs,ProDirect Sp,TeleCom)
 score     ZABOJCASPAMU_HARVEST_MAILI 4
  
