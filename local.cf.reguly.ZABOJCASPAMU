@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-06-16
+# Ostatnia aktualizacja 2017-06-25
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -360,7 +360,7 @@ score      ZABOJCASPAMU_XABUSE_FRESH    1
  
 #Kuszenie darmowym lub gratisem
 #https://zabojcaspamu.pl/kuszenie-darmowym-lub-gratisem/
-header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis)/
+header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis|bez op.{1,8}at)/
 describe ZABOJCASPAMU_SUBJECT_DARMO W temacie znajduje sie ' darmo' 'gratis'
 score    ZABOJCASPAMU_SUBJECT_DARMO 0.5
  
@@ -1340,3 +1340,10 @@ meta  ZABOJCASPAMU_PIOTRN_TORTURY      __ZABOJCASPAMU_PIOTRN_TORTURY1 && __ZABOJ
 describe ZABOJCASPAMU_PIOTRN_TORTURY  O torturach Piotr N i takie tam
 score    ZABOJCASPAMU_PIOTRN_TORTURY  5
 
+header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis|bez op.{1,8}at)/
+describe ZABOJCASPAMU_SUBJECT_DARMO W temacie znajduje sie ' darmo' 'gratis'
+score    ZABOJCASPAMU_SUBJECT_DARMO 0.5
+
+header ZABOJCASPAMU_TEMATMINUSCYFRY Subject=~/\-\d+\%/
+describe ZABOJCASPAMU_TEMATMINUSCYFRY W temacie -\d\d%
+score ZABOJCASPAMU_TEMATMINUSCYFRY 0.4
