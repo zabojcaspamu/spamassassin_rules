@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-06-25
+# Ostatnia aktualizacja 2017-07-10
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -29,7 +29,7 @@ score		ZABOJCASPAMU_PYTANIE_OFERT 1
 header __ZABOJCASPAMU_LOGIN_NAZWISKO From=~ /(abram|Abram|abramczyk|Abramczyk|abramowicz|Abramowicz|adamczak|Adamczak|adamczyk|Adamczyk|adamek|Adamek|adamiak|Adamiak|adamik|Adamik|adamowicz|adamski|Babiarz|Babicz|Babik|Babin|Babinski|Babka|Babula|Baran|Baranek|Baranoski|Baranowski|Baranski|Barczak|Barela|Bargiel)/
 header		__ZABOJCASPAMU_DOMENA_MAILCOM 	From=~ /email\.(com|info)/
 header		__ZABOJCASPAMU_RP_FOR_THIS_SPAM 	Return-Path=~/-.{2,20}\=WLASNADOMENA@/
-meta		ZABOJCASPAMU_EMAILCOM 	__LOCAL_LOGIN_NAZWISKO && __LOCAL_DOMENA_MAILCOM && __LOCAL_RP_FOR_THIS_SPAM
+meta		ZABOJCASPAMU_EMAILCOM 	__ZABOJCASPAMU_LOGIN_NAZWISKO && __LOCAL_DOMENA_MAILCOM && __LOCAL_RP_FOR_THIS_SPAM
 describe	ZABOJCASPAMU_EMAILCOM	Adres z nazwiskiem i domena z koncowka email.com
 score		ZABOJCASPAMU_EMAILCOM	0
 
@@ -47,13 +47,13 @@ score 		ZABOJCASPAMU_MANY_EXCL 	1.5
  
 #reguly dla Message-ID
 #https://zabojcaspamu.pl/reguly-dla-message-id/
-header    	ZABOJCASPAMU_MSID_LOCALHOST Message-ID=~/\@localhost\.localdomain>$/
-describe  	ZABOJCASPAMU_MSID_LOCALHOST Message-ID konczy sie  localhost\.localdomain
-score     	ZABOJCASPAMU_MSID_LOCALHOST 1.5
+header    	ZABOJCASPAMU_MSID_ZABOJCASPAMUHOST Message-ID=~/\@localhost\.localdomain>$/
+describe  	ZABOJCASPAMU_MSID_ZABOJCASPAMUHOST Message-ID konczy sie  localhost\.localdomain
+score     	ZABOJCASPAMU_MSID_ZABOJCASPAMUHOST 1.5
  
-header  	ZABOJCASPAMU_MSID_LOCAL      Message-ID=~/\.local>$/ 
-describe 	ZABOJCASPAMU_MSID_LOCAL      Message-ID konczy sie  local
-score     	ZABOJCASPAMU_MSID_LOCAL      1
+header  	ZABOJCASPAMU_MSID_ZABOJCASPAMU      Message-ID=~/\.local>$/ 
+describe 	ZABOJCASPAMU_MSID_ZABOJCASPAMU      Message-ID konczy sie  local
+score     	ZABOJCASPAMU_MSID_ZABOJCASPAMU      1
  
 header    	ZABOJCASPAMU_MSID_NODOT      Message-ID=~/\@[a-zA-Z0-9-]+>/
 describe  	ZABOJCASPAMU_MSID_NODOT      Message-ID po @ brak kropki
@@ -206,7 +206,7 @@ score       ZABOJCASPAMU_XMAILER_Oracle    1
 # spam z loginem prezent
 # https://zabojcaspamu.pl/spam-z-loginem-prezent/
 header   __ZABOJCASPAMU_FROM_PREZENT_1     From=~/\<prezent\@/
-meta     ZABOJCASPAMU_FROM_PREZENT         __ZABOJCASPAMU_FROM_PREZENT_1 && LOCAL_XMAILER_iMTA && LOCAL_MSID_LOCALHOST
+meta     ZABOJCASPAMU_FROM_PREZENT         __ZABOJCASPAMU_FROM_PREZENT_1 && ZABOJCASPAMU_XMAILER_iMTA && LOCAL_MSID_LOCALHOST
 describe ZABOJCASPAMU_FROM_PREZENT         Spam z prezent@ i ze masz 40PLN
 score    ZABOJCASPAMU_FROM_PREZENT         10
 
@@ -239,14 +239,14 @@ describe 	ZABOJCASPAMU_BULK_SIGNATURE Mail ma bulk
 score 		ZABOJCASPAMU_BULK_SIGNATURE 0.01
 
 meta      __ZABOJCASPAMU_XMAILER_SPAMER ZABOJCASPAMU_XMAILER_428134|| ZABOJCASPAMU_XMAILER_Ajaxel_CMS|| ZABOJCASPAMU_XMAILER_aspNetEmail|| ZABOJCASPAMU_XMAILER_Default||ZABOJCASPAMU_XMAILER_iMTA|| ZABOJCASPAMU_XMAILER_mLogic|| ZABOJCASPAMU_XMAILER_MS|| ZABOJCASPAMU_XMAILER_NeoFm|| ZABOJCASPAMU_XMAILER_Oracle|| ZABOJCASPAMU_XMAILER_PHP|| ZABOJCASPAMU_XMAILER_PROROUSERVICE|| ZABOJCASPAMU_XMAILER_SendBlaster|| ZABOJCASPAMU_XMAILER_SMART_SEND_2|| ZABOJCASPAMU_XMAILER_STREAMSEND|| ZABOJCASPAMU_XMAILER_TIDEPLATFORM|| ZABOJCASPAMU_XMAILER_Vladium
-meta     ZABOJCASPAMU_XMAILER_BULK    __LOCAL_XMAILER_SPAMER && ZABOJCASPAMU_BULK_SIGNATURE
+meta     ZABOJCASPAMU_XMAILER_BULK    __ZABOJCASPAMU_XMAILER_SPAMER && ZABOJCASPAMU_BULK_SIGNATURE
 describe ZABOJCASPAMU_XMAILER_BULK    Spamerskie XMAILER i ktorys z DCC lub RAZOR2 lub PYZOR
 score    ZABOJCASPAMU_XMAILER_BULK    5
 
 # Kończąc temat X-Mailer
 # https://zabojcaspamu.pl/konczac-temat-x-mailer/
 meta      __ZABOJCASPAMU_XMAILER_SPAMER ZABOJCASPAMU_XMAILER_428134|| ZABOJCASPAMU_XMAILER_Ajaxel_CMS|| ZABOJCASPAMU_XMAILER_aspNetEmail|| ZABOJCASPAMU_XMAILER_Default||ZABOJCASPAMU_XMAILER_iMTA|| ZABOJCASPAMU_XMAILER_mLogic|| ZABOJCASPAMU_XMAILER_MS|| ZABOJCASPAMU_XMAILER_NeoFm|| ZABOJCASPAMU_XMAILER_Oracle|| ZABOJCASPAMU_XMAILER_PHP|| ZABOJCASPAMU_XMAILER_PROROUSERVICE|| ZABOJCASPAMU_XMAILER_SendBlaster|| ZABOJCASPAMU_XMAILER_SMART_SEND_2|| ZABOJCASPAMU_XMAILER_STREAMSEND|| ZABOJCASPAMU_XMAILER_TIDEPLATFORM|| ZABOJCASPAMU_XMAILER_Vladium
-meta     ZABOJCASPAMU_XMAILER_PRECEDENCE __LOCAL_XMAILER_SPAMER && LOCAL_PRECEDENCE_BULK
+meta     ZABOJCASPAMU_XMAILER_PRECEDENCE __ZABOJCASPAMU_XMAILER_SPAMER && LOCAL_PRECEDENCE_BULK
 describe ZABOJCASPAMU_XMAILER_PRECEDENCE Spamerskie XMAILER i dodatkoweo precedence:bulk 
 score    ZABOJCASPAMU_XMAILER_PRECEDENCE 10
 
@@ -258,9 +258,9 @@ score    ZABOJCASPAMU_PUSTY_MAIL         0.4
  
 #Anomail śle spam
 #https://zabojcaspamu.pl/anomail-sle-spam/
-header    LOCAL_ANOMAIL        Organization =~ /^AnoMail/
-describe  LOCAL_ANOMAIL        Organization AnoMail
-score     LOCAL_ANOMAIL        3.5
+header    ZABOJCASPAMU_ANOMAIL        Organization =~ /^AnoMail/
+describe  ZABOJCASPAMU_ANOMAIL        Organization AnoMail
+score     ZABOJCASPAMU_ANOMAIL        3.5
  
 #Reguła 21 stycznia 2013
 #https://zabojcaspamu.pl/regula-21-stycznia-2013/
@@ -306,41 +306,41 @@ score       ZABOJCASPAMU_MAM_PRZYJEMNOSC  0.2
 
 #Pole X-PHP-Originating-Script
 #https://zabojcaspamu.pl/pole-x-php-originating-script/
-header   LOCAL_X_PHP_Originating  exists:X-PHP-Originating-Script
-describe LOCAL_X_PHP_Originating  Has X-PHP-Originating-Script header
-score    LOCAL_X_PHP_Originating  4
+header   ZABOJCASPAMU_X_PHP_Originating  exists:X-PHP-Originating-Script
+describe ZABOJCASPAMU_X_PHP_Originating  Has X-PHP-Originating-Script header
+score    ZABOJCASPAMU_X_PHP_Originating  4
  
 #Prosimy o zwrotną wiadomosc
 #https://zabojcaspamu.pl/prosimy-o-zwrotna-wiadomosc/
-body     LOCAL_ZWROTNA_WIADOMOSC  /wiadomo.{1,8} zwrotn.{1,8}|wiadomo(?:.{1,8}ci|.{1,10}) zwrotn(?:ej|.)|zwrotn(ej|.) wiadomo(.{1,8}ci|..)/
-describe LOCAL_ZWROTNA_WIADOMOSC  zwrotna wiadomosc
-score    LOCAL_ZWROTNA_WIADOMOSC  2.5
+body     ZABOJCASPAMU_ZWROTNA_WIADOMOSC  /wiadomo.{1,8} zwrotn.{1,8}|wiadomo(?:.{1,8}ci|.{1,10}) zwrotn(?:ej|.)|zwrotn(ej|.) wiadomo(.{1,8}ci|..)/
+describe ZABOJCASPAMU_ZWROTNA_WIADOMOSC  zwrotna wiadomosc
+score    ZABOJCASPAMU_ZWROTNA_WIADOMOSC  2.5
  
 # Parowanie regul
 # https://zabojcaspamu.pl/parowanie-regul/
-meta     LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
-describe LOCAL_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
-score    LOCAL_TWO_4427  0.5
+meta     ZABOJCASPAMU_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
+describe ZABOJCASPAMU_TWO_4427 ( ZABOJCASPAMU_MSID_LOCALHOST && ZABOJCASPAMU_XMAILER)
+score    ZABOJCASPAMU_TWO_4427  0.5
 
-meta     LOCAL_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
-describe LOCAL_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
-score    LOCAL_TWO_4 1
+meta     ZABOJCASPAMU_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
+describe ZABOJCASPAMU_TWO_4 ( DEAR_SOMETHING && FREEMAIL_FROM)
+score    ZABOJCASPAMU_TWO_4 1
 
-meta     LOCAL_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
-describe LOCAL_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
-score    LOCAL_TWO_275 0.7
+meta     ZABOJCASPAMU_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
+describe ZABOJCASPAMU_TWO_275 ( FREEMAIL_FROM && LOTS_OF_MONEY)
+score    ZABOJCASPAMU_TWO_275 0.7
 
-meta     LOCAL_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
-describe LOCAL_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
-score    LOCAL_TWO_17126  0.8
+meta     ZABOJCASPAMU_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
+describe ZABOJCASPAMU_TWO_17126 ( MIME_HTML_ONLY && MPART_ALT_DIFF)
+score    ZABOJCASPAMU_TWO_17126  0.8
 
-meta     LOCAL_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
-describe LOCAL_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
-score    LOCAL_TWO_6151  1.5
+meta     ZABOJCASPAMU_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
+describe ZABOJCASPAMU_TWO_6151 ( FUZZY_CREDIT && MIME_HTML_ONLY)
+score    ZABOJCASPAMU_TWO_6151  1.5
 
-meta     LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
-describe LOCAL_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
-score    LOCAL_TWO_5358  0.5
+meta     ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
+describe ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
+score    ZABOJCASPAMU_TWO_5358  0.5
  
 #Mail zawiera naglowek X-Campaign
 #https://zabojcaspamu.pl/mail-zawiera-naglowek-x-campaign/
@@ -477,11 +477,11 @@ score     ZABOJCASPAMU_FROM_IPKO_SPOOF  10
 #Twoja skrzynka zostala zablokowana
 #https://zabojcaspamu.pl/twoja-skrzynka-zostala-zablokowana/
 #Poprawiona regula https://zabojcaspamu.pl/skrzynka-pocztowa-zostala-tymczasowo-zawieszona/
-header    __LOCAL_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
-header    __LOCAL_TWOJASKRZYNKA_2 Subject=~/(Zostala Tymczasowo Zawieszona|woja skrzynka pocztowa zostala czasowo|Twoje konto email przekroczyles limitu bagazu|OSTRZEZENIE|Konto E-mail Zostal Zawieszony)/
-meta      LOCAL_TWOJASKRZYNKA     __LOCAL_TWOJASKRZYNKA_1 && __LOCAL_TWOJASKRZYNKA_2
-describe  LOCAL_TWOJASKRZYNKA     Email o przeplnionej skrzynce
-score     LOCAL_TWOJASKRZYNKA     10
+header    __ZABOJCASPAMU_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
+header    __ZABOJCASPAMU_TWOJASKRZYNKA_2 Subject=~/(Zostala Tymczasowo Zawieszona|woja skrzynka pocztowa zostala czasowo|Twoje konto email przekroczyles limitu bagazu|OSTRZEZENIE|Konto E-mail Zostal Zawieszony)/
+meta      ZABOJCASPAMU_TWOJASKRZYNKA     __LOCAL_TWOJASKRZYNKA_1 && __LOCAL_TWOJASKRZYNKA_2
+describe  ZABOJCASPAMU_TWOJASKRZYNKA     Email o przeplnionej skrzynce
+score     ZABOJCASPAMU_TWOJASKRZYNKA     10
 
 
 #Polski echelon
@@ -587,11 +587,11 @@ score     ZABOJCASPAMU_HARVEST_MAILI 4
  
 # Twoja skrzynak zostala zablokowana
 # https://zabojcaspamu.pl/skrzynka-pocztowa-zostala-tymczasowo-zawieszona/
-header    __LOCAL_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
-header    __LOCAL_TWOJASKRZYNKA_2 Subject=~/(YOUR EMAIL ACCOUNT SUSPENSION NOTICE|Zostala Tymczasowo Zawieszona|woja skrzynka pocztowa zostala czasowo|Twoje konto email przekroczyles limitu bagazu|OSTRZEZENIE!!!)/
-meta      LOCAL_TWOJASKRZYNKA     __LOCAL_TWOJASKRZYNKA_1 && __LOCAL_TWOJASKRZYNKA_2
-describe  LOCAL_TWOJASKRZYNKA     Email o przeplnionej skrzynce
-score     LOCAL_TWOJASKRZYNKA     10
+header    __ZABOJCASPAMU_TWOJASKRZYNKA_1 From=~/(System Admin|IT ADMIN|Admin)/
+header    __ZABOJCASPAMU_TWOJASKRZYNKA_2 Subject=~/(YOUR EMAIL ACCOUNT SUSPENSION NOTICE|Zostala Tymczasowo Zawieszona|woja skrzynka pocztowa zostala czasowo|Twoje konto email przekroczyles limitu bagazu|OSTRZEZENIE!!!)/
+meta      ZABOJCASPAMU_TWOJASKRZYNKA     __LOCAL_TWOJASKRZYNKA_1 && __LOCAL_TWOJASKRZYNKA_2
+describe  ZABOJCASPAMU_TWOJASKRZYNKA     Email o przeplnionej skrzynce
+score     ZABOJCASPAMU_TWOJASKRZYNKA     10
 
 # Login zawiera wiele cyfr
 # https://zabojcaspamu.pl/login-zawiera-wiele-cyfr/ 
@@ -607,9 +607,9 @@ score    ZABOJCASPAMU_SUBJ_SPRAWDZ       0.4
  
 # Duze czcionki w mailu
 # https://zabojcaspamu.pl/duze-czcionki-w-mailu/
-rawbody  LOCAL_LARGE_SIZE_FONT /font-size:\s*(2[0-9]|3[0-9]|4[0-9])\s*px/
-describe LOCAL_LARGE_SIZE_FONT Fonts 20+px
-score    LOCAL_LARGE_SIZE_FONT 0.3
+rawbody  ZABOJCASPAMU_LARGE_SIZE_FONT /font-size:\s*(2[0-9]|3[0-9]|4[0-9])\s*px/
+describe ZABOJCASPAMU_LARGE_SIZE_FONT Fonts 20+px
+score    ZABOJCASPAMU_LARGE_SIZE_FONT 0.3
  
 # Dobra regula wzmacniająca
 # https://zabojcaspamu.pl/dobra-regula-wzmacniajaca/
@@ -849,18 +849,18 @@ meta      ZABOJCASPAMU_PKOBP_FAKE          __ZABOJCASPAMU_PKOBP_FAKE_FROM1 && !_
 
 # Payment details
 # https://zabojcaspamu.pl/payment-details/
-mimeheader LOCAL_PAYMENT_DETAILS_ZIP Content-Type =~ /payment_details_\d\d\d\d\d\d.zip/
-describe   LOCAL_PAYMENT_DETAILS_ZIP Mail z payment details zip
-score      LOCAL_PAYMENT_DETAILS_ZIP 0.1
+mimeheader ZABOJCASPAMU_PAYMENT_DETAILS_ZIP Content-Type =~ /payment_details_\d\d\d\d\d\d.zip/
+describe   ZABOJCASPAMU_PAYMENT_DETAILS_ZIP Mail z payment details zip
+score      ZABOJCASPAMU_PAYMENT_DETAILS_ZIP 0.1
 describe  ZABOJCASPAMU_PKOBP_FAKE          Ktos sie pdoszywa pod pkobb
 score     ZABOJCASPAMU_PKOBP_FAKE          5.0
 
 # Sprawdzanei domen czy maja DKIM
 # https://zabojcaspamu.pl/sprawdzanie-podpisania-wiadomosci-dkimem/
 ifplugin Mail::SpamAssassin::Plugin::DKIM
-  header __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM  from:addr=~/\@(yahoo\.com|firma\.interia\.pl|facebookmail\.com|visa\.com|olx\.pl|interia\.pl|interia\.eu|wp\.pl|gmail\.com|pl\.orange\.com|sodexo\.com|poczta-polska\.pl|allegro\.pl)$/
-  meta   LOCAL_DOMAIN_MUST_HAVE_DKIM  __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM && !DKIM_SIGNED && !DKIM_VALID
-  score  LOCAL_DOMAIN_MUST_HAVE_DKIM  0.1
+  header __ZABOJCASPAMU_DOMAIN_MUST_HAVE_DKIM_FROM  from:addr=~/\@(yahoo\.com|firma\.interia\.pl|facebookmail\.com|visa\.com|olx\.pl|interia\.pl|interia\.eu|wp\.pl|gmail\.com|pl\.orange\.com|sodexo\.com|poczta-polska\.pl|allegro\.pl)$/
+  meta   ZABOJCASPAMU_DOMAIN_MUST_HAVE_DKIM  __LOCAL_DOMAIN_MUST_HAVE_DKIM_FROM && !DKIM_SIGNED && !DKIM_VALID
+  score  ZABOJCASPAMU_DOMAIN_MUST_HAVE_DKIM  0.1
 endif
 
 header     ZABOJCASPAMU_PRZESYLKA_NIE_DOSTARCZONA  Subject=~/[A-Z]{2}\d+PL (przesylka nie zostala dostarczona do ciebie|Przesylka nie moze zostac dostarczona)/
@@ -922,11 +922,11 @@ score    ZABOJCASPAMU_EFAKTURA_ZA_ENERGIE      10
 
 # Faktury z PGE sprawdzanie adresu nadawcy
 # https://zabojcaspamu.pl/faktury-pge-sprawdzanie-adresu-nadawcy/
-header    __LOCAL_EFAKTURA_ZA_ENERGIEv2_1  From=~/(PGE\-eBOK|Faktura PGE|PGE eBOK|eBOK PGE|gkpge\.pl eBOK)/
-header    __LOCAL_EFAKTURA_ZA_ENERGIEv2_2  From:addr=~/pge-efaktura\@bluemedia.pl/
-meta      LOCAL_EFAKTURA_ZA_ENERGIEv2      __LOCAL_EFAKTURA_ZA_ENERGIEv2_1 && ! __LOCAL_EFAKTURA_ZA_ENERGIEv2_2
-describe  LOCAL_EFAKTURA_ZA_ENERGIEv2      Falszywa faktura za energie elektryczna
-score     LOCAL_EFAKTURA_ZA_ENERGIEv2      15
+header    __ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv2_1  From=~/(PGE\-eBOK|Faktura PGE|PGE eBOK|eBOK PGE|gkpge\.pl eBOK)/
+header    __ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv2_2  From:addr=~/pge-efaktura\@bluemedia.pl/
+meta      ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv2      __LOCAL_EFAKTURA_ZA_ENERGIEv2_1 && ! __LOCAL_EFAKTURA_ZA_ENERGIEv2_2
+describe  ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv2      Falszywa faktura za energie elektryczna
+score     ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv2      15
 
 header    __ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv3_1  From=~/PGE/
 header    __ZABOJCASPAMU_EFAKTURA_ZA_ENERGIEv3_2  Subject=~/\d{10}/
@@ -1246,13 +1246,13 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
 endif
 
 # reguła dla koliby
-#
+# https://zabojcaspamu.pl/ciekawy-przypadek-oooilo-pl/
 rawbody  ZABOJCASPAMU_KOLIBA      /Ta wiadomo.{1,8} zosta.{1,8}a wys.{1,8}ana przez kolibe na zlecenie/
 describe ZABOJCASPAMU_KOLIBA      Wysłane przez spamera kolibe
 score    ZABOJCASPAMU_KOLIBA      5
 
 # falszywe maile z inpost
-#
+# https://zabojcaspamu.pl/falszywe-przesylki-inpost/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         header     __ZABOJCASPAMU_INPOST_20170418_S  Subject=~/Kurier\. paczka kurierska/
         mimeheader __ZABOJCASPAMU_INPOST_20170418_C  Content-Type=~/application\/msword/
@@ -1261,30 +1261,35 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         score      ZABOJCASPAMU_INPOST_20170418      10
 endif
 # Propozycje seksu
+# https://zabojcaspamu.pl/propozycje-seksu/
 uri    ZABOJCASPAMU_SEX_20170419       /\.php\?[a-z]=61&3SQwxoyu/
 describe ZABOJCASPAMU_SEX_20170419     Podejrzany link z propozycjami seksu
 score   ZABOJCASPAMU_SEX_20170419      10
 
 # falszywe faktury Multidemia Polska
+# https://zabojcaspamu.pl/falszywe-faktury-multimedia-polska/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
-        header     __LOCAL_MULTIMEDIA_FVAT_S  Subject=~/Nowa eFaktura dostepna w eBOK Multimedia Polska/
-        mimeheader __LOCAL_MULTIMEDIA_FVAT_M  Content-Type=~/eFaktura-FVT_[A-Z]{3}_\d+_\d+\.7z/
-        meta       LOCAL_MULTIMEDIA_FVAT      __LOCAL_MULTIMEDIA_FVAT_S && __LOCAL_MULTIMEDIA_FVAT_M
-        describe   LOCAL_MULTIMEDIA_FVAT      falszywa faktura Multimedia Polska
-        score      LOCAL_MULTIMEDIA_FVAT      10
+        header     __ZABOJCASPAMU_MULTIMEDIA_FVAT_S  Subject=~/Nowa eFaktura dostepna w eBOK Multimedia Polska/
+        mimeheader __ZABOJCASPAMU_MULTIMEDIA_FVAT_M  Content-Type=~/eFaktura-FVT_[A-Z]{3}_\d+_\d+\.7z/
+        meta       ZABOJCASPAMU_MULTIMEDIA_FVAT      __LOCAL_MULTIMEDIA_FVAT_S && __LOCAL_MULTIMEDIA_FVAT_M
+        describe   ZABOJCASPAMU_MULTIMEDIA_FVAT      falszywa faktura Multimedia Polska
+        score      ZABOJCASPAMU_MULTIMEDIA_FVAT      10
 endif
 
 # Message ID z adresem ip
+# https://zabojcaspamu.pl/message-id-adresem-ip-zamiast-hosta/
 header  ZABOJCASPAMU_MESSAGEID_IP  Message-ID=~/\@\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/
 describe ZABOJCASPAMU_MESSAGEID_IP Message-ID zamiast hosta adres IP
 score   ZABOJCASPAMU_MESSAGEID_IP  0.2
 
 #Phish IP
+# 
 header ZABOJCASPAMU_IP_PHISH Received=~/149\.56\.201\.93/
 describe ZABOJCASPAMU_IP_PHISH Phish z adresu ip 149.56.201.93
 score ZABOJCASPAMU_IP_PHISH 10
 
 #Rosyjski spam
+# https://zabojcaspamu.pl/rosyjski-spam/
 header        __ZABOJCASPAMU_User54377_1    From=~ /User\[54377\]/
 header        __ZABOJCASPAMU_User54377_2    Reply-To=~ /User\[54377\]/
 meta        ZABOJCASPAMU_User54377        __ZABOJCASPAMU_User54377_1 && __ZABOJCASPAMU_User54377_2
@@ -1292,6 +1297,7 @@ describe    ZABOJCASPAMU_User54377        Spam User54377
 score        ZABOJCASPAMU_User54377        10
 
 #falszywe fakury Plusnet
+# https://zabojcaspamu.pl/falszywe-faktury-plusnet/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         header     __ZABOJCASPAMU_PLUSNET_FVAT_S  Subject=~/Faktura, zam.{1,8}wienie \d+/
         mimeheader __ZABOJCASPAMU_PLUSNET_FVAT_M  Content-Type=~/Faktura\d+\.doc/
@@ -1302,6 +1308,7 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
 endif
 
 #Spam bandycituska
+# https://zabojcaspamu.pl/belkotliwy-spam/
 rawbody  __ZABOJCASPAMU_BANDYCI_1  /font:11px sans-serif/
 uri      __ZABOJCASPAMU_BANDYCI_2  /bandycituska\.pl/
 meta     ZABOJCASPAMU_BANDYCI      __ZABOJCASPAMU_BANDYCI_1 && __ZABOJCASPAMU_BANDYCI_2
@@ -1310,6 +1317,7 @@ score    ZABOJCASPAMU_BANDYCI      5
 
 #
 # Spam z nacionale Niderlanden
+# https://zabojcaspamu.pl/atak-podszywajacy-sie-polise-nationale-nederlanden/
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
    header     __ZABOJCASPAMU_POLISA_NN_S  Subject=~/^Polisa nr \d+/
    mimeheader __ZABOJCASPAMU_POLISA_NN_C  Content-Type=~ /Polisa nr \d+ PDF\.zip/
@@ -1319,20 +1327,25 @@ ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
 endif
 
 #znaki graficzne na początku tematu
+#https://zabojcaspamu.pl/znaki-graficzne-poczatku-tematu/
 header ZABOJCASPAMU_ZNAKIGRAFICZNE Subject:raw=~/=\?UTF-8\?Q\?=E2=9/
 describe ZABOJCASPAMU_ZNAKIGRAFICZNE Znak graficzny na poczatku tematu
 score ZABOJCASPAMU_ZNAKIGRAFICZNE  1.5
 
 #mail od administratora
-header   LOCAL_FROM_ADMINISTRATOR From=~/Administrator/
-describe LOCAL_FROM_ADMINISTRATOR Mail od administratora? Nie sadze
-score    LOCAL_FROM_ADMINISTRATOR 5
+# https://zabojcaspamu.pl/wazny-mail-administratora/
+header   ZABOJCASPAMU_FROM_ADMINISTRATOR From=~/Administrator/
+describe ZABOJCASPAMU_FROM_ADMINISTRATOR Mail od administratora? Nie sadze
+score    ZABOJCASPAMU_FROM_ADMINISTRATOR 5
 
+#Maile do recpients
+# https://zabojcaspamu.pl/a-mailami-recipients/
 header ZABOJCASPAMU_TO_RECIPIENTS To=~/Recipients /
 describe ZABOJCASPAMU_TO_RECIPIENTS Mail do recpients
 score ZABOJCASPAMU_TO_RECIPIENTS 1
 
 #Piotr N i jego przesladowcy
+# https://zabojcaspamu.pl/nawiedzony-spam-atakuje/
 body  __ZABOJCASPAMU_PIOTRN_TORTURY1   / tortur/
 body  __ZABOJCASPAMU_PIOTRN_TORTURY2   /pods.{1,8}uch/
 body  __ZABOJCASPAMU_PIOTRN_TORTURY3   /Piotr(a|ze|owi|) Ni.{1,8}y.{1,8}sk/
@@ -1340,10 +1353,34 @@ meta  ZABOJCASPAMU_PIOTRN_TORTURY      __ZABOJCASPAMU_PIOTRN_TORTURY1 && __ZABOJ
 describe ZABOJCASPAMU_PIOTRN_TORTURY  O torturach Piotr N i takie tam
 score    ZABOJCASPAMU_PIOTRN_TORTURY  5
 
+
 header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis|bez op.{1,8}at)/
 describe ZABOJCASPAMU_SUBJECT_DARMO W temacie znajduje sie ' darmo' 'gratis'
 score    ZABOJCASPAMU_SUBJECT_DARMO 0.5
 
+# temat ma minus i procenty
+# https://zabojcaspamu.pl/temacie-minus-cyfry-procent/
 header ZABOJCASPAMU_TEMATMINUSCYFRY Subject=~/\-\d+\%/
 describe ZABOJCASPAMU_TEMATMINUSCYFRY W temacie -\d\d%
 score ZABOJCASPAMU_TEMATMINUSCYFRY 0.4
+
+#Dwa slowa w temacie wielkimi literami
+header ZABOJCASPAMU_2WORDS_UPP Subject=~/[A-Z]{2,}\s.+?[A-Z]{2,}/ 
+describe ZABOJCASPAMU_2WORDS_UPP Dwa slowa WIELKIMI literami w temacie 
+score ZABOJCASPAMU_2WORDS_UPP 0.5
+
+#Temat sie konczy >>
+header ZABOJCASPAMU_SUBJ_END_2GT   Subject=~/>>$/
+describe ZABOJCASPAMU_SUBJ_END_2GT Temat sie konczy dwoma >>
+score ZABOJCASPAMU_SUBJ_END_2GT    0.3
+
+#Mieszanie ? i !
+header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_1 Subject=~/!.{4,}!/
+header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_2 Subject=~/\?.{4,}\?/
+header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_3 Subject=~/!.{4,}\?/
+header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_4 Subject=~/\?.{4,}!/
+meta   ZABOJCASPAMU_SUBJ_QMARK_EMARK   __ZABOJCASPAMU_SUBJ_QMARK_EMARK_1 || __ZABOJCASPAMU_SUBJ_QMARK_EMARK_2 || __ZABOJCASPAMU_SUBJ_QMARK_EMARK_3 || __ZABOJCASPAMU_SUBJ_QMARK_EMARK_4
+describe ZABOJCASPAMU_SUBJ_QMARK_EMARK   ! i pozniej ? lub kombinacja
+score    ZABOJCASPAMU_SUBJ_QMARK_EMARK   0.2
+
+
