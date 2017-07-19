@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-07-10
+# Ostatnia aktualizacja 2017-07-19
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1365,16 +1365,19 @@ describe ZABOJCASPAMU_TEMATMINUSCYFRY W temacie -\d\d%
 score ZABOJCASPAMU_TEMATMINUSCYFRY 0.4
 
 #Dwa slowa w temacie wielkimi literami
+#https://zabojcaspamu.pl/slowa-wielkimi-literami-temacie/
 header ZABOJCASPAMU_2WORDS_UPP Subject=~/[A-Z]{2,}\s.+?[A-Z]{2,}/ 
 describe ZABOJCASPAMU_2WORDS_UPP Dwa slowa WIELKIMI literami w temacie 
 score ZABOJCASPAMU_2WORDS_UPP 0.5
 
 #Temat sie konczy >>
+# https://zabojcaspamu.pl/temat-sie-konczy-dwoma-znakami/
 header ZABOJCASPAMU_SUBJ_END_2GT   Subject=~/>>$/
 describe ZABOJCASPAMU_SUBJ_END_2GT Temat sie konczy dwoma >>
 score ZABOJCASPAMU_SUBJ_END_2GT    0.3
 
 #Mieszanie ? i !
+# https://zabojcaspamu.pl/mieszanie-znakami-i/https://zabojcaspamu.pl/mieszanie-znakami-i/
 header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_1 Subject=~/!.{4,}!/
 header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_2 Subject=~/\?.{4,}\?/
 header __ZABOJCASPAMU_SUBJ_QMARK_EMARK_3 Subject=~/!.{4,}\?/
@@ -1383,4 +1386,23 @@ meta   ZABOJCASPAMU_SUBJ_QMARK_EMARK   __ZABOJCASPAMU_SUBJ_QMARK_EMARK_1 || __ZA
 describe ZABOJCASPAMU_SUBJ_QMARK_EMARK   ! i pozniej ? lub kombinacja
 score    ZABOJCASPAMU_SUBJ_QMARK_EMARK   0.2
 
+# uknown i prywatne
+# https://zabojcaspamu.pl/regula-serwer-bez-revdns/
+header ZABOJCASPAMU_FROM_UNKNOWN Received =~ /from .*\(unknown\s\[(?!192\.168)(?!10\.)(?!172\.(1[6-9]|2[0-9]|3[0-1]))/
+describe  ZABOJCASPAMU_FROM_UNKNOWN Received from unknown
+score  ZABOJCASPAMU_FROM_UNKNOWN 1.5
+
+# wzmocnienie dla uribl
+# http://zabojcaspamu.pl/uribl_blocked-dosc-fajny-rbl-czesc-2/
+meta        ZABOJCASPAMU_LARGEFONT_URIBL ( ZABOJCASPAMU_LARGE_SIZE_FONT && URIBL_BLOCKED) 
+describe ZABOJCASPAMU_LARGEFONT_URIBL ( ZABOJCASPAMU_LARGE_SIZE_FONT && URIBL_BLOCKED) 
+score       ZABOJCASPAMU_LARGEFONT_URIBL 0.5
+
+meta        ZABOJCASPAMU_LOGINLONG_URIBL ( ZABOJCASPAMU_RETURN_PATH_LOGIN_LONG && URIBL_BLOCKED) 
+describe ZABOJCASPAMU_LOGINLONG_URIBL ( ZABOJCASPAMU_RETURN_PATH_LOGIN_LONG && URIBL_BLOCKED) 
+score       ZABOJCASPAMU_LOGINLONG_URIBL 0.5
+
+meta	 ZABOJCASPAMU_3FRAZY_URIBL ( ZABOJCASPAMU_LINK_3FRAZY && URIBL_BLOCKED) 
+describe ZABOJCASPAMU_3FRAZY_URIBL ( ZABOJCASPAMU_LINK_3FRAZY && URIBL_BLOCKED) 
+score       ZABOJCASPAMU_3FRAZY_URIBL 0.5
 
