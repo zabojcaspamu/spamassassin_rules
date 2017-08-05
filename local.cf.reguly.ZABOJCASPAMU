@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-07-25
+# Ostatnia aktualizacja 2017-08-09
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1412,3 +1412,7 @@ score ZABOJCASPAMU_LINK_3FRAZY 0.01
 header ZABOJCASPAMU_VERY_LONG_SUBJ Subject=~/.{100,}/
 describe ZABOJCASPAMU_VERY_LONG_SUBJ Bardzo dlugi temat
 score ZABOJCASPAMU_VERY_LONG_SUBJ 0.3
+
+header ZABOJCASPAMU_BLOCKI_TEMAT Subject:raw=~/=\?UTF-8\?B\?4paI4pag4paI/
+describe ZABOJCASPAMU_BLOCKI_TEMAT Znak H w base64
+score ZABOJCASPAMU_BLOCKI_TEMAT 2.0
