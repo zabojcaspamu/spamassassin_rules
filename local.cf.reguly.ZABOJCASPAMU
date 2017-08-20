@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-08-14
+# Ostatnia aktualizacja 2017-08-20
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1428,3 +1428,7 @@ score    ZABOJCASPAMU_UPPERCOLON_SUBJ  0.3
 header   ZABOJCASPAMU_PIPE_SUBJ  Subject=~/|/
 describe ZABOJCASPAMU_PIPE_SUBJ  Pipe w temacie
 score    ZABOJCASPAMU_PIPE_SUBJ  0.3
+
+header ZABOJCASPAMU_MISSUS Received=~/from missus\d+\.[a-z]+\.(pl|eu)/
+describe ZABOJCASPAMU_MISSUS Host wysyłający z missus 
+score ZABOJCASPAMU_MISSUS 3
