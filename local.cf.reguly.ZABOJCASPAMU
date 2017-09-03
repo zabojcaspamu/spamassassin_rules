@@ -1432,3 +1432,9 @@ score    ZABOJCASPAMU_PIPE_SUBJ  0.3
 header ZABOJCASPAMU_MISSUS Received=~/from missus\d+\.[a-z]+\.(pl|eu)/
 describe ZABOJCASPAMU_MISSUS Host wysyłający z missus 
 score ZABOJCASPAMU_MISSUS 3
+
+
+# Received spamer
+header ZABOJCASPAMU_RECEIVED_SPAMER  Received=~/(\.einternetmarketing\.net|smtp\d+\.newofficing\.pl|smtp\d+\.specialclick\.pl|smtp\d+\.mailjoker\.pl|smtp\d+\.glassclick\.pl|smtp\d+.scpectrack.pl)/
+describe ZABOJCASPAMU_RECEIVED_SPAMER Spamerskei serwery w received
+score   ZABOJCASPAMU_RECEIVED_SPAMER  5
