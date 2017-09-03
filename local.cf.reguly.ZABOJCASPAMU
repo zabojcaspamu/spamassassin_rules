@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-08-20
+# Ostatnia aktualizacja 2017-09-03
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -823,7 +823,7 @@ describe ZABOJCASPAMU_TWO_REDDCC ( DCC_CHECK && ZABOJCASPAMU_RED_COLOR)
 score    ZABOJCASPAMU_TWO_REDDCC 2
 
 header    __ZABOJCASPAMU_SPF_REQ_2_1  From:addr=~/(dhl\.com|dhl\.pl|poczta\-polska\.pl|inpost\.pl|paczkomaty\.pl)/
-header    __ZABOJCASPAMU_SPF_REQ_2_2   ALL=~/(spf|SPF)(=|:) *pass.+\@(dhl\.com|dhl\.pl|poczta\-polska\.pl|inpost\.pl|paczkomaty\.pl) /
+header    __ZABOJCASPAMU_SPF_REQ_2_2   ALL=~/(spf|SPF)(=|:) *pass.+\@(dhl\.com|dhl\.pl|poczta\-polska\.pl|inpost\.pl|paczkomaty\.pl)/
 meta      ZABOJCASPAMU_SPF_REQ_2    __ZABOJCASPAMU_SPF_REQ_2_1 && ! __ZABOJCASPAMU_SPF_REQ_2_2
 describe  ZABOJCASPAMU_SPF_REQ_2 Wymagane SPF dla domen
 score     ZABOJCASPAMU_SPF_REQ_2 5
