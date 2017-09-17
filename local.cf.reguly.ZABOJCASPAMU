@@ -1438,3 +1438,8 @@ score ZABOJCASPAMU_MISSUS 3
 header ZABOJCASPAMU_RECEIVED_SPAMER  Received=~/(\.einternetmarketing\.net|smtp\d+\.newofficing\.pl|smtp\d+\.specialclick\.pl|smtp\d+\.mailjoker\.pl|smtp\d+\.glassclick\.pl|smtp\d+.scpectrack.pl)/
 describe ZABOJCASPAMU_RECEIVED_SPAMER Spamerskei serwery w received
 score   ZABOJCASPAMU_RECEIVED_SPAMER  5
+
+#jobtrade
+uri      ZABOJCASPAMU_JOBTRADE  /info.jabtrade.pl\/app\/panel\/Redirect.aspx\?link_id=/
+describe ZABOJCASPAMU_JOBTRADE  Link do usbubsribe jobtrade
+score    ZABOJCASPAMU_JOBTRADE  5
