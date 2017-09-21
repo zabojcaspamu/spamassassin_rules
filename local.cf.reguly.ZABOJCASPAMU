@@ -1425,7 +1425,7 @@ header    ZABOJCASPAMU_UPPERCOLON_SUBJ  Subject=~/[A-Z]{3,}+:/
 describe ZABOJCASPAMU_UPPERCOLON_SUBJ  Duze litery a potem dwukropek
 score    ZABOJCASPAMU_UPPERCOLON_SUBJ  0.3
 
-header   ZABOJCASPAMU_PIPE_SUBJ  Subject=~/|/
+header   ZABOJCASPAMU_PIPE_SUBJ  Subject=~/\|/
 describe ZABOJCASPAMU_PIPE_SUBJ  Pipe w temacie
 score    ZABOJCASPAMU_PIPE_SUBJ  0.3
 
