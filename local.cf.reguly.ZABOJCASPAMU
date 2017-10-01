@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2017-09-03
+# Ostatnia aktualizacja 2017-10-01
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1443,3 +1443,8 @@ score   ZABOJCASPAMU_RECEIVED_SPAMER  5
 uri      ZABOJCASPAMU_JOBTRADE  /info.jabtrade.pl\/app\/panel\/Redirect.aspx\?link_id=/
 describe ZABOJCASPAMU_JOBTRADE  Link do usbubsribe jobtrade
 score    ZABOJCASPAMU_JOBTRADE  5
+
+# numerowany serwer smtp
+header   ZABOJCASPAMU_SMTPNUMBER Received=~/from [a-zA-Z]+\d+\./
+describe ZABOJCASPAMU_SMTPNUMBER Numerowany server smtp
+score    ZABOJCASPAMU_SMTPNUMBER 0.01
