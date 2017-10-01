@@ -1366,7 +1366,7 @@ score ZABOJCASPAMU_TEMATMINUSCYFRY 0.4
 
 #Dwa slowa w temacie wielkimi literami
 #https://zabojcaspamu.pl/slowa-wielkimi-literami-temacie/
-header ZABOJCASPAMU_2WORDS_UPP Subject=~/[A-Z]{2,}\s.+?[A-Z]{2,}/ 
+header ZABOJCASPAMU_2WORDS_UPP Subject=~/[A-Z]{2,}\s.*?[A-Z]{2,}/ 
 describe ZABOJCASPAMU_2WORDS_UPP Dwa slowa WIELKIMI literami w temacie 
 score ZABOJCASPAMU_2WORDS_UPP 0.5
 
