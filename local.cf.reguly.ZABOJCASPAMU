@@ -1448,3 +1448,9 @@ score    ZABOJCASPAMU_JOBTRADE  5
 header   ZABOJCASPAMU_SMTPNUMBER Received=~/from [a-zA-Z]+\d+\./
 describe ZABOJCASPAMU_SMTPNUMBER Numerowany server smtp
 score    ZABOJCASPAMU_SMTPNUMBER 0.01
+
+# WIELKA LITERA i wykrzyknik
+header   ZABOJCASPAMU_UPPDIS     Subject=~/[A-Z]!/
+describe ZABOJCASPAMU_UPPDIS     WIELKA LITERA i wykrzyknik
+score    ZABOJCASPAMU_UPPDIS     0.4
+
