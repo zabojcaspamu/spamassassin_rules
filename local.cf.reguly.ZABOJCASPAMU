@@ -1458,7 +1458,7 @@ header   ZABOJCASPAMU_UPPDIS     Subject=~/[A-Z]!/
 describe ZABOJCASPAMU_UPPDIS     WIELKA LITERA i wykrzyknik
 score    ZABOJCASPAMU_UPPDIS     0.4
 
-hedaer   LOCAL_TO_KLIENT  To=~/(K|k)lient/
+header   LOCAL_TO_KLIENT  To=~/(K|k)lient/
 describe LOCAL_TO_KLIENT  W polu To: slowo klient
 score    LOCAL_TO_KLIENT  0.5
 
