@@ -3,7 +3,11 @@
 # 
 # v0.1 2018-02-11 Start script
 
+<<<<<<< HEAD
 # Katalog tymaczasowy do policzenia sumy kontrolnej 
+=======
+# Katalog tymaczasowy 
+>>>>>>> 7a89d46102f6bfbf225bd979a69db4ae800ab9cb
 WORK_DIR="/tmp"
 # Katalog docelowy z ktorego zaczytuje reguly SA
 SAVE_DIR="/etc/spamassassin"
