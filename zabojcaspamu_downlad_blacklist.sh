@@ -1,8 +1,13 @@
 #!/bin/bash
 # Wgrywanie blacklist ze strony http://zabojcaspamu.pl
 # 
+# v0.1 2018-02-11 Start script
+
+# Katalog tymaczasowy 
 WORK_DIR="/tmp"
+# Katalog docelowy z ktorego zaczytuje reguly SA
 SAVE_DIR="/etc/spamassassin"
+# Log z dzialanai skryptu
 LOG_FILE="/var/log/zabojcaspamu.log"
 
 #
