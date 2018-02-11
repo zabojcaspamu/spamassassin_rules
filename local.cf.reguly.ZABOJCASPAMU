@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2018-01-07
+# Ostatnia aktualizacja 2018-02-12
 # https://zabojcaspamu.pl
 # sa to reguly do programu spamassassin
 # Reguly maja dodane ZABOJCASPAMU aby bylo latwiej rozpoznac ktore sa z tej strony
@@ -1332,9 +1332,12 @@ endif
 
 #znaki graficzne na początku tematu
 #https://zabojcaspamu.pl/znaki-graficzne-poczatku-tematu/
-header ZABOJCASPAMU_ZNAKIGRAFICZNE Subject:raw=~/=\?UTF-8\?Q\?=E2=9/
-describe ZABOJCASPAMU_ZNAKIGRAFICZNE Znak graficzny na poczatku tematu
-score ZABOJCASPAMU_ZNAKIGRAFICZNE  1.5
+header __LOCAL_ZNAKIGRAFICZNE1 Subject:raw=~/=\?(UTF|utf)-8\?Q\?=E2=/
+header __LOCAL_ZNAKIGRAFICZNE2 Subject:raw=~/=\?(UTF|utf)-8\?Q\?=F0=/
+header __LOCAL_ZNAKIGRAFICZNE3 Subject:raw=~/=\?(UTF|utf)-8\?B\?4(p|q)/
+meta   LOCAL_ZNAKIGRAFICZNE __LOCAL_ZNAKIGRAFICZNE1 || __LOCAL_ZNAKIGRAFICZNE2 || __LOCAL_ZNAKIGRAFICZNE3
+describe LOCAL_ZNAKIGRAFICZNE Znak graficzny na poczatku tematu
+score LOCAL_ZNAKIGRAFICZNE  2.0
 
 #mail od administratora
 # https://zabojcaspamu.pl/wazny-mail-administratora/
