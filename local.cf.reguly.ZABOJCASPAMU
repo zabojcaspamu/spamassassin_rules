@@ -1469,3 +1469,7 @@ header   LOCAL_TO_BIZNES  To=~/biznesowy/
 describe LOCAL_TO_BIZNES  W polu To: slowo biznesowy
 score    LOCAL_TO_BIZNES  0.3
 
+# Mail w formacie UTF8
+header LOCAL_SUBJECT_UTF8   Subject:raw=~/=\?(UTF|utf)-8\?/
+describe LOCAL_SUBJECT_UTF8 temat jest w UTF8
+score   LOCAL_SUBJECT_UTF8  0.001
