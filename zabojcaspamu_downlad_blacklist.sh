@@ -16,7 +16,7 @@ LOG_FILE="/var/log/zabojcaspamu.log"
 FILE_BL=(local.cf.BL.ZABOJCASPAMU local.cf.BL.SPAMTRAP)
 
 for FILE in ${FILE_BL[*]};do
-    SIGN_DATA="[$(date +%Y-%m-%d_%H:%m:%S)]"
+    SIGN_DATA="[$(date +%Y-%m-%d_%H:%M:%S)]"
     curl -s https://zabojcaspamu.pl/$FILE -o ${WORK_DIR}/${FILE}
     RETV=$?
     if [ "$RETV" -ne "0" ];then
