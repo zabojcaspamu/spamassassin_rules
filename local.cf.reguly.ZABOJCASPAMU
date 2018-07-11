@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2018-02-12
+# Ostatnia aktualizacja 2018-07-11
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -1474,3 +1474,10 @@ score    LOCAL_TO_BIZNES  0.3
 header LOCAL_SUBJECT_UTF8   Subject:raw=~/=\?(UTF|utf)-8\?/
 describe LOCAL_SUBJECT_UTF8 temat jest w UTF8
 score   LOCAL_SUBJECT_UTF8  0.001
+
+# Mail w niby regionow
+header   __ZABOJCASPAMU_NIBYREGION_RECEIVED1 Received =~ /from smtp\.[^.]+?\.[^.]+?\.pl/
+header   __ZABOJCASPAMU_NIBYREGION_RECEIVED2 From=~/(?:bok|office|biuro)@/
+meta     ZABOJCASPAMU_NIBYREGION_RECEIVED __ZABOJCASPAMU_NIBYREGION_RECEIVED1 && __ZABOJCASPAMU_NIBYREGION_RECEIVED2 && DKIM_SIGNED && HTML_MESSAGE
+describe ZABOJCASPAMU_NIBYREGION_RECEIVED Spam wysylany przez niby regionalne servery
+score    ZABOJCASPAMU_NIBYREGION_RECEIVED 0.7
