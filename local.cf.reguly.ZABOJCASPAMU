@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2018-07-13
+# Ostatnia aktualizacja 2018-08-01
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -1502,3 +1502,10 @@ score    ZABOJCASPAMU_LONG_LOGIN_IN_FROM 0.3
 meta     ZABOJCASPAMU_RANDOM_LONG_FROM ZABOJCASPAMU_RANDOM_STRING && (ZABOJCASPAMU_LONG_LOGIN_IN_FROM || HK_RANDOM_ENVFROM)
 describe ZABOJCASPAMU_RANDOM_LONG Random and long From login
 score    ZABOJCASPAMU_RANDOM_LONG 1.2
+
+# Skracacze linkow
+# https://zabojcaspamu.pl/skracacze-linkow/
+uri_detail ZABOJCASPAMU_SERVICE_SHORT_URL domain =~ /^(1sl.pl|goo.gl|bitly.com|bit.ly|is.gd|tinyurl.com|ow.ly|buff.ly|bit.do|tiny.cc|shorturl.at|
+soo.gd|s2r.co|clicky.me|budurl.com|bc.vc|youtu.be|x.co)$/
+describe ZABOJCASPAMU_SERVICE_SHORT_URL Service short urls for example goo.gl, bitly.com etc
+score ZABOJCASPAMU_SERVICE_SHORT_URL 0.3
