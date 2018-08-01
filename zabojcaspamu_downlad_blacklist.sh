@@ -1,7 +1,8 @@
 #!/bin/bash
 # Wgrywanie blacklist ze strony http://zabojcaspamu.pl
 # 
-# v0.1 2018-02-11 Start script
+# v0.2 2018-07-02 Start script
+# https://zabojcaspamu.pl/program-sciagania-blacklist/
 
 # Katalog tymaczasowy do policzenia sumy kontrolnej 
 WORK_DIR="/tmp"
