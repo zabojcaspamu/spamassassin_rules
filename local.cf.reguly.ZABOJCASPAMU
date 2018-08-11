@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2018-08-01
+# Ostatnia aktualizacja 2018-08-11
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -1509,3 +1509,9 @@ uri_detail ZABOJCASPAMU_SERVICE_SHORT_URL domain =~ /^(1sl.pl|goo.gl|bitly.com|b
 soo.gd|s2r.co|clicky.me|budurl.com|bc.vc|youtu.be|x.co)$/
 describe ZABOJCASPAMU_SERVICE_SHORT_URL Service short urls for example goo.gl, bitly.com etc
 score ZABOJCASPAMU_SERVICE_SHORT_URL 0.3
+
+# Message-ID w formie pseudo IP
+# http://zabojcaspamu.pl/message-id-w-formie-pseudo-ip/
+ header ZABOJCASPAMU_MSID_LIKEIP Message-ID=~/\@\d+-\d+-\d+-\d+>$/
+describe ZABOJCASPAMU_MSID_LIKEIP Message-ID Domena w Message-ID jak IP 1-2-3-4
+score ZABOJCASPAMU_MSID_LIKEIP 1.5
