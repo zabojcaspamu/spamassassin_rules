@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-08-22 18:00 
+# Wygenerowana 2018-08-22 18:49 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -78,7 +78,6 @@ blacklist_from artur.wyszynski@pani-oferta.pl
 blacklist_from *@arubahosteria.com
 blacklist_from *@associationnour.com
 blacklist_from *@autentic.pl
-blacklist_from *@avlkala.com
 blacklist_from *@avrape.com
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
@@ -144,6 +143,7 @@ blacklist_from biuro@ilicja.waw.pl
 blacklist_from biuro@illiop.zachpomor.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kampa.opole.pl
+blacklist_from biuro@korusta.waw.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
@@ -190,6 +190,7 @@ blacklist_from biuro@tutoli.waw.pl
 blacklist_from biuro@twojastronawww.net.pl
 blacklist_from biuro@tworcyeventow.pl
 blacklist_from biuro@tworzenie-sklepow.eu
+blacklist_from biuro@typerson.waw.pl
 blacklist_from biuro@ulini.slask.pl
 blacklist_from biuro@umido.slask.pl
 blacklist_from biuro@urticadzieciom.pl
@@ -206,6 +207,7 @@ blacklist_from bok@argunt.katowice.pl
 blacklist_from bok@baribamba.czest.pl
 blacklist_from bok@biznesoweupominki.pl
 blacklist_from bok@brego.waw.pl
+blacklist_from bok@cezarini.warszawa.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@czempo.waw.pl
 blacklist_from bok@elun.radom.pl
@@ -339,6 +341,7 @@ blacklist_from Darek.Malik@Wyjazdy-24.pl
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from david@jl-int.co.kr
+blacklist_from dawidrafa@bok-multiinicjatywa.pl
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
 blacklist_from deezee_pl@s4s-pl1.pl
@@ -576,7 +579,6 @@ blacklist_from info@kosze1.e-czysto01.pl
 blacklist_from info@kosze1.i-czysto01.pl
 blacklist_from info@kosze????.einfoczystosc.pl
 blacklist_from info@kursangielskiego-promocja.pl
-blacklist_from *@info.leeloomail.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
 blacklist_from info@lokalehandlowe.pl
@@ -600,7 +602,6 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@prodottidisano.it
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@publikmusik.pl
-blacklist_from *@info.restarcop.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from information@panamfinance.com
@@ -770,6 +771,7 @@ blacklist_from krzysztof.brozek@express-tlumacz.pl
 blacklist_from krzysztof.minona@life.pl
 blacklist_from krzysztof.r@kruksas.pl
 blacklist_from ks@systemszkolenia.pl
+blacklist_from kstojowska@galentc.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@kursysekretarskie.pl
 blacklist_from kursy@zapytanie.edu.pl
@@ -1042,6 +1044,7 @@ blacklist_from news66@n66.m.okazikmail.pl
 blacklist_from news67@n67.m.okazikmail.pl
 blacklist_from news69@n69.m.okazikmail.pl
 blacklist_from news6@n6.m.okazikmail.pl
+blacklist_from news709@n709.o.okazikmail.pl
 blacklist_from news70@n70.m.okazikmail.pl
 blacklist_from news717@n717.o.okazikmail.pl
 blacklist_from news728@n728.o.okazikmail.pl
@@ -1073,6 +1076,7 @@ blacklist_from news869@n869.g.okazikmail.pl
 blacklist_from news86@n86.m.okazikmail.pl
 blacklist_from news870@n870.g.okazikmail.pl
 blacklist_from news886@n886.g.okazikmail.pl
+blacklist_from news887@n887.g.okazikmail.pl
 blacklist_from news896@n896.g.okazikmail.pl
 blacklist_from news89@n89.m.okazikmail.pl
 blacklist_from news901@n901.g.okazikmail.pl
@@ -1166,11 +1170,13 @@ blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from noreply.kartylunch@generalservices.company
+blacklist_from no-reply@mailer.econsultancy.com
 blacklist_from noreply@mailowo24.pl
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@mieszkaniec.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
 blacklist_from noreply.monitoringpojazdow@buildinform.agency
+blacklist_from noreply.monitoringpojazdow@buildplan.services
 blacklist_from noreply.monitoringpojazdow@companypro.trade
 blacklist_from noreply.monitoringpojazdow@companysupport.trade
 blacklist_from noreply.monitoringpojazdow@extendinform.agency
@@ -1236,6 +1242,7 @@ blacklist_from oferty@tanieogrzewanie.biz
 blacklist_from office@76management.com
 blacklist_from office@abraczi.katowice.pl
 blacklist_from office@bando.radom.pl
+blacklist_from office@beliso.radom.pl
 blacklist_from office@bobulowe.jgora.pl
 blacklist_from office@cebulde.waw.pl
 blacklist_from office@cento.olsztyn.pl
@@ -1251,14 +1258,17 @@ blacklist_from office@faro.szczecin.pl
 blacklist_from office@gazyna.waw.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@goodmail24.pl
+blacklist_from office@gutgerl.waw.pl
 blacklist_from office@helipto.slask.pl
 blacklist_from office@huals.bedzin.pl
 blacklist_from office@intraco.wroclaw.pl
 blacklist_from office@janto.olsztyn.pl
+blacklist_from office@kiszczo.slask.pl
 blacklist_from office@luigi.cieszyn.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@milares.radom.pl
 blacklist_from office@parole.nysa.pl
+blacklist_from office@reloni.swidnica.pl
 blacklist_from office@restkow.tgory.pl
 blacklist_from office@rustic.waw.pl
 blacklist_from office@santrinom.suwalki.pl
@@ -1378,6 +1388,7 @@ blacklist_from root@duetorri.syshotel-crm.it
 blacklist_from root@fach24.pl
 blacklist_from root@k3kmail.pl
 blacklist_from root@localhost.60042.meghost.pl
+blacklist_from root@pat-pro.pl
 blacklist_from root@runonhot.xyz
 blacklist_from root@server-1262170-1.noweszkolenia.pl
 blacklist_from root@vps322199.ovh.net
@@ -1521,6 +1532,7 @@ blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia-bezplatne@lbalegal.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
+blacklist_from szkolenia@info.oddk.net
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkolenia@novaakademia.pl
