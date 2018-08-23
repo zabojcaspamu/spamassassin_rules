@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-08-23 17:00 
+# Wygenerowana 2018-08-23 18:15 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -105,8 +105,10 @@ blacklist_from biuro3@galeriasz.pl
 blacklist_from biuro@absenergia.pl
 blacklist_from biuro@alepaczuszka.pl
 blacklist_from biuro@alfianco.pl
+blacklist_from biuro@aniko.olsztyn.pl
 blacklist_from biuro@anomi.bialystok.pl
 blacklist_from biuro@atram.wroclaw.pl
+blacklist_from biuro@bacziami.olsztyn.pl
 blacklist_from biuro@baldu.wroclaw.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
@@ -142,11 +144,13 @@ blacklist_from biuro@google-pozycjonowanie.com.pl
 blacklist_from biuro@grenat.elk.pl
 blacklist_from biuro@hapus.slask.pl
 blacklist_from biuro@hotelmagazin.pl
+blacklist_from biuro@hukij.wlocl.pl
 blacklist_from biuro@ilicja.waw.pl
 blacklist_from biuro@illiop.zachpomor.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kampa.opole.pl
 blacklist_from biuro@korusta.waw.pl
+blacklist_from biuro@kosamoto.zgora.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
@@ -205,6 +209,7 @@ blacklist_from *@bizdenorganik.com
 blacklist_from *@blackwolfca.com
 blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
+blacklist_from b.majdan@senekaszkolenia.pl
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@aliszia.waw.pl
 blacklist_from bok@anluno.bydgoszcz.pl
@@ -652,7 +657,6 @@ blacklist_from *@*.interactive-partners.me
 blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
 blacklist_from *@intoodns.com
-blacklist_from *@investboxteam.com
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from isabelleaupertuis@gmail.com
@@ -666,6 +670,7 @@ blacklist_from izabella@instagolf.es
 blacklist_from iza@ekredytowaniefirm.pl
 blacklist_from i.zurawska@ark-skills.com
 blacklist_from jacek.krolewiecki@auto-store.pl
+blacklist_from jacek.solarski@sportdlabiznesu.pl
 blacklist_from jakub@instagolf.es
 blacklist_from jakub@korzystnapropozycja4.com.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
@@ -894,6 +899,7 @@ blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
 blacklist_from m.golab@honest-team.com.pl
 blacklist_from m.golab@skilled-team.com.pl
+blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
 blacklist_from michael@sassb.com.my
 blacklist_from michal@instagolf.es
 blacklist_from michal.jaroszewski@pani-oferta.pl
@@ -936,18 +942,7 @@ blacklist_from natalia.nawrot@anb.pl
 blacklist_from natalia@webazy.pl
 blacklist_from *@newmessage.eu
 blacklist_from *@news0?.send360.pl
-blacklist_from news1082@n1082.g.okazikmail.pl
-blacklist_from news1101@n1101.z.okazikmail.pl
-blacklist_from news1103@n1103.z.okazikmail.pl
 blacklist_from news1@brr.nazwa.pl
-blacklist_from news3@n3.m.okazikmail.pl
-blacklist_from news456@n456.z.okazikmail.pl
-blacklist_from news45@n45.m.okazikmail.pl
-blacklist_from news654@n654.o.okazikmail.pl
-blacklist_from news743@n743.o.okazikmail.pl
-blacklist_from news756@n756.o.okazikmail.pl
-blacklist_from news988@n988.g.okazikmail.pl
-blacklist_from news9@n9.m.okazikmail.pl
 blacklist_from news@bell-news.de
 blacklist_from *@news??.campaignmail.pl
 blacklist_from *@news??.comfortmail.pl
@@ -977,6 +972,7 @@ blacklist_from newsletter@sanatorium-panorama.com.pl
 blacklist_from *@newsletter.schnellestelle.de
 blacklist_from newsletters.pl@company-catalogs.com
 blacklist_from newsletters.pl@express-contacts.com
+blacklist_from newsletter@szkolenia-forum.pl
 blacklist_from newsletter@sztukapodstepu.pl
 blacklist_from newsletter@twojczasdlarodziny.eu
 blacklist_from newsletter@tylkonajlepszeszkolenia.pl
@@ -1191,6 +1187,7 @@ blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozycjonowanie@maildelivery.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from *@preciseatv.com
 blacklist_from prenumerata@traveligo.net
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
@@ -1326,6 +1323,7 @@ blacklist_from sender360759@mailoferro.com
 blacklist_from sender360861@mailoferro.com
 blacklist_from sender364217@mailoferro.com
 blacklist_from sender364559@mailoferro.com
+blacklist_from sender366771@mailoferro.com
 blacklist_from *@senderus.pl
 blacklist_from *@sendmailcluster.com
 blacklist_from send@powerask.com.pl
@@ -1404,7 +1402,6 @@ blacklist_from szukaj@wyszukiwalnia.pl
 blacklist_from tadeusz.krostka@eu.kruk.pl
 blacklist_from *@tagoelectronics.com
 blacklist_from *@tanisklad.dla-najlepszych.pl
-blacklist_from *@tanselinsaat.com
 blacklist_from targetmarketing@emailing2.info.pl
 blacklist_from *@taseupdates.com
 blacklist_from team@gometrologie.com
