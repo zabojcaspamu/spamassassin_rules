@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-08-30 16:40 
+# Wygenerowana 2018-08-30 16:50 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1419,6 +1419,7 @@ blacklist_from sender373908@mailoferro.com
 blacklist_from sender373930@mailoferro.com
 blacklist_from sender375125@mailoferro.com
 blacklist_from sender375157@mailoferro.com
+blacklist_from sender376450@mailoferro.com
 blacklist_from *@senderus.pl
 blacklist_from *@sendmailcluster.com
 blacklist_from send@powerask.com.pl
