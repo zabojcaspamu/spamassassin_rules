@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-08-30 18:10 
+# Wygenerowana 2018-08-30 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -73,6 +73,7 @@ blacklist_from angelika.wawer@youmail.pl
 blacklist_from ania@evbsproduct.pl
 blacklist_from anitaluj@volenti.pl
 blacklist_from anna@e-bazy.com
+blacklist_from anonymous@smtp.hedea.pl
 blacklist_from antek@vps17888.ovh.net
 blacklist_from *@anteny.dla-najlepszych.pl
 blacklist_from anvix@anvix.pl
@@ -231,8 +232,10 @@ blacklist_from bok@anluno.bydgoszcz.pl
 blacklist_from bok@argunt.katowice.pl
 blacklist_from bok@bacharo.olsztyn.pl
 blacklist_from bok@baribamba.czest.pl
+blacklist_from bok@cezarini.warszawa.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@czempo.waw.pl
+blacklist_from bok@damok.bialystok.pl
 blacklist_from bok@drill.nysa.pl
 blacklist_from bok@elun.radom.pl
 blacklist_from bok@encypedia.jgora.pl
@@ -240,6 +243,7 @@ blacklist_from bok@falowani.bialystok.pl
 blacklist_from bok@fello.waw.pl
 blacklist_from bok@futrzatkow.beskidy.pl
 blacklist_from bok@gandal.ostroda.pl
+blacklist_from bok@guty.tgory.pl
 blacklist_from bok@hulaju.bedzin.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok@indirizz.warszawa.pl
@@ -460,7 +464,6 @@ blacklist_from eyborlp@skyfamaly.co.ua
 blacklist_from *@ey-vx.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
-blacklist_from *@failmates.com
 blacklist_from faktoring@finansowanie-dzialalnosci.pl
 blacklist_from faktoring@finansowanie-msp.pl
 blacklist_from *@faktura.org
@@ -483,7 +486,6 @@ blacklist_from *@fmsyayincilik.com
 blacklist_from food1@ricmail.com
 blacklist_from *@forb2bpromotion.pl
 blacklist_from foryou@blitzmail.pl
-blacklist_from *@fosterkidsuk.com
 blacklist_from *@fotografiamila.com
 blacklist_from franczyzaagencjireklamowej@gmail.com
 blacklist_from franczyzareklama@gmail.com
@@ -685,6 +687,7 @@ blacklist_from *@intoodns.com
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from *@irenebernards.com
+blacklist_from ireneusz.waliszewski@pani-oferta.pl
 blacklist_from isabelleaupertuis@gmail.com
 blacklist_from *@iskconmelukote.com
 blacklist_from *@islandpubco.com
@@ -823,6 +826,7 @@ blacklist_from kredyty@finanse-bankowe.pl
 blacklist_from krzysztof.baka@my4best.com.pl
 blacklist_from krzysztof.brozek@express-tlumacz.pl
 blacklist_from krzysztof.minona@life.pl
+blacklist_from krzysztofn@poradnikhandlowca.com.pl
 blacklist_from krzysztof.r@kruksas.pl
 blacklist_from ks@systemszkolenia.pl
 blacklist_from kuchannywaldemar14@wp.pl
@@ -1182,6 +1186,7 @@ blacklist_from office@luoip.wlocl.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@makij.sejny.pl
 blacklist_from office@parole.nysa.pl
+blacklist_from office@potag.bieszczady.pl
 blacklist_from office@reloni.swidnica.pl
 blacklist_from office@restkow.tgory.pl
 blacklist_from office@santrinom.suwalki.pl
@@ -1290,6 +1295,7 @@ blacklist_from redakcjar@jupiter.salesmanago.pl
 blacklist_from reklama@atrium-pc.pl
 blacklist_from reklamafranczyza@gmail.com
 blacklist_from reklama@sukcesshop.pl
+blacklist_from reklama@zyciehandlowe.com
 blacklist_from renault@samochod.olsztyn.pl
 blacklist_from *@retailshow.pl
 blacklist_from return@altkomakademia.com
@@ -1420,6 +1426,7 @@ blacklist_from sender373908@mailoferro.com
 blacklist_from sender373930@mailoferro.com
 blacklist_from sender375125@mailoferro.com
 blacklist_from sender375157@mailoferro.com
+blacklist_from sender376235@mailoferro.com
 blacklist_from sender376450@mailoferro.com
 blacklist_from *@senderus.pl
 blacklist_from *@sendmailcluster.com
@@ -1596,6 +1603,7 @@ blacklist_from wezleasing18@companiero.waw.pl
 blacklist_from *@whatacoin.com
 blacklist_from wiadomosc@wysylka.nadowod.pl
 blacklist_from *@wickfordboatguy.com
+blacklist_from wiktor.danowski@pani-oferta.pl
 blacklist_from william@tbs-ic.cn
 blacklist_from windykacja@kancelariawec.pl
 blacklist_from windykacja@teisestarnai.lt
