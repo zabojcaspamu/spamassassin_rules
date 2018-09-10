@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-09-10 05:30 
+# Wygenerowana 2018-09-10 13:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -155,6 +155,7 @@ blacklist_from biuro@biznesikasa.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@canozi.szczecin.pl
 blacklist_from biuro@color24.pl
+blacklist_from biuro@copymax.waw.pl
 blacklist_from biuro@czapol.waw.pl
 blacklist_from biuro@debtlawyer.pl
 blacklist_from biuro@deluz.bydgoszcz.pl
@@ -439,6 +440,7 @@ blacklist_from dzialka.zlotoryja@wp.pl
 blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
+blacklist_from *@ecashquick.info
 blacklist_from *@eclecticasrl.com
 blacklist_from eddy_fab@aim.com
 blacklist_from eden@baza-firm.biz.pl
@@ -474,6 +476,7 @@ blacklist_from *@escoecm.com
 blacklist_from ES_Edicom@news.edicomgroup.com
 blacklist_from eshot@executive-grapevine.com
 blacklist_from eshot@hrgrapevine.com
+blacklist_from *@eskandari.info
 blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
 blacklist_from *@esportsadictos.com
@@ -502,6 +505,7 @@ blacklist_from *@faktura.org
 blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
 blacklist_from fed@sfirmowe.pl
+blacklist_from *@feedstonee.info
 blacklist_from femibion@fiola.pl
 blacklist_from fernandoreis.ukfinance@gmail.com
 blacklist_from fiduroc.surg@crowe-fiduroc.fr
@@ -631,6 +635,7 @@ blacklist_from *@ilerideyazarim.com
 blacklist_from ilona.czernow@finansuj.biz.pl
 blacklist_from *@imagineamatrix.com
 blacklist_from imdn@wp.pl
+blacklist_from *@imeimachine.com
 blacklist_from *@imojbiznes.pl
 blacklist_from impresariat@artmail.pl
 blacklist_from indywidualnykurier@companybase.pl
@@ -761,6 +766,7 @@ blacklist_from *@???.interactivepartne-rs.com
 blacklist_from *@*.interactive-partners.me
 blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
+blacklist_from *@intltaobao.com
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from ipxijtm@vilkov.biz.ua
@@ -777,6 +783,8 @@ blacklist_from *@iskconmelukote.com
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
 blacklist_from *@italyinadinner.com
+blacklist_from *@itextdev.com
+blacklist_from *@ituagora.com
 blacklist_from iwoca@offers4me.pl
 blacklist_from iwoca@productcompany.pl
 blacklist_from izabella@instagolf.es
@@ -785,10 +793,12 @@ blacklist_from i.zurawska@ark-skills.com
 blacklist_from jacek.krolewiecki@auto-store.pl
 blacklist_from jacek.solarski@sportdlabiznesu.pl
 blacklist_from jacek.wozniak@yourdigital.pl
+blacklist_from *@jacobscarriage.com
 blacklist_from jakub@instagolf.es
 blacklist_from jakub@korzystnapropozycja4.com.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from jang@waang.xyz
+blacklist_from *@jazhut.com
 blacklist_from *@jbwilsonsbbq.com
 blacklist_from j.dova1@hotmail.com
 blacklist_from jeep@baza-firm.biz.pl
@@ -847,12 +857,14 @@ blacklist_from *@kilelllimited.com
 blacklist_from *@kimblechiro.com
 blacklist_from *@kingzie.com
 blacklist_from *@kirkbjohnson.com
+blacklist_from *@kiymetlimkres.com
 blacklist_from kj@hkipnet.net
 blacklist_from *@klassemart.com
 blacklist_from k_m09@wp.pl
 blacklist_from knissim@revelist.com
 blacklist_from *@kobfx.com
 blacklist_from kobietyiwino@gmail.com
+blacklist_from *@koklertarim.com
 blacklist_from kokomike055@gmail.com
 blacklist_from kolor@kolorowy-biurowy.com.pl
 blacklist_from kolportaz@biurowe-online.pl
@@ -930,14 +942,20 @@ blacklist_from kursy@pytanie.edu.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from *@kustomrig.com
 blacklist_from k.zakrzewski@higienicznaczystosc.com.pl
+blacklist_from *@lanternagenova.com
 blacklist_from *@lcftogo.com
+blacklist_from *@leadsoasis.com
 blacklist_from leason@zamowienie.org.pl
 blacklist_from *@legalmail.it
 blacklist_from legal.music?@poczta.pl
+blacklist_from *@legistor.com
 blacklist_from lek.kowalczewski@pani-oferta.pl
+blacklist_from *@lenamak.com
 blacklist_from lena@pl-fleetgps.online
 blacklist_from lendon@pani-oferta.pl
 blacklist_from lendon@productcompany.pl
+blacklist_from *@lescrus.com
+blacklist_from *@lesecretbh.com
 blacklist_from leslielebrun22@gmail.com
 blacklist_from lexus@lexus-polska.pl
 blacklist_from libris@libris.edu.pl
@@ -1552,11 +1570,20 @@ blacklist_from slim79@alice.it
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
 blacklist_from smtp@imwas.com
+blacklist_from *@smutquery.com
 blacklist_from smyk@oooli.eu
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
+blacklist_from *@solucionesimc.com
+blacklist_from *@somantoral.com
+blacklist_from *@someoneneew.com
+blacklist_from *@sonrisaslg.com
+blacklist_from *@soraineuganda.com
 blacklist_from spam@spamservices.tk
+blacklist_from *@spiralnewsng.com
 blacklist_from spolkikapitalowe@bfag.pl
+blacklist_from *@sportsdramavids.com
+blacklist_from *@sportsduniyawale.com
 blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
@@ -1645,6 +1672,7 @@ blacklist_from vbs@vbsproduct.pl
 blacklist_from vectra@productcompany.pl
 blacklist_from vergnanofoto@libero.it
 blacklist_from verify@waang.xyz
+blacklist_from *@videomoinhat.com
 blacklist_from vivianelondonstreet@gmail.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
