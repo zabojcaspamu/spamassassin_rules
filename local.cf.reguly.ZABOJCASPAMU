@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2018-08-16
+# Ostatnia aktualizacja 2018-09-02
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -1489,7 +1489,7 @@ header   __ZABOJCASPAMU_RANDOM_STRING_1  From:addr =~ /[bcdfghjklmnprstwqz]{6}/
 header   __ZABOJCASPAMU_RANDOM_STRING_2  From:addr =~ /[aeyioou]{6}/
 meta     ZABOJCASPAMU_RANDOM_STRING  __ZABOJCASPAMU_RANDOM_STRING_1 || __ZABOJCASPAMU_RANDOM_STRING_2
 describe ZABOJCASPAMU_RANDOM_STRING  Random string in address
-score    ZABOJCASPAMU_RANDOM_STRING  0.1
+score    ZABOJCASPAMU_RANDOM_STRING  0.4
 
 # Dlugi ciąg samych malych liter
 # http://zabojcaspamu.pl/dlugi-login-adresie/
@@ -1514,3 +1514,33 @@ score ZABOJCASPAMU_SERVICE_SHORT_URL 0.3
  header ZABOJCASPAMU_MSID_LIKEIP Message-ID=~/\@\d+-\d+-\d+-\d+>$/
 describe ZABOJCASPAMU_MSID_LIKEIP Message-ID Domena w Message-ID jak IP 1-2-3-4
 score ZABOJCASPAMU_MSID_LIKEIP 1.5
+
+# Grzybica, podlewanie, klimatyzator i inne badziewia
+# http://zabojcaspamu.pl/grzybica-podlewanie-klimatyzator-i-inne-badziewia/
+header   ZABOJCASPAMU_RECEIVED_COM  Received =~ /\.com /
+describe ZABOJCASPAMU_RECEIVED_COM  Domain in received com
+score    ZABOJCASPAMU_RECEIVED_COM  0.01
+
+meta     ZABOJCASPAMU_NATARCZYWYSPAM_1 (ZABOJCASPAMU_RANDOM_STRING || HK_RANDOM_ENVFROM) && ZABOJCASPAMU_FROM_UNKNOWN && ZABOJCASPAMU_RECEIVED_COM
+describe ZABOJCASPAMU_NATARCZYWYSPAM_1 Spam grzybica, detektor, klimatyzator ...(rodzaj 1)
+score    ZABOJCASPAMU_NATARCZYWYSPAM_1 10
+
+ uri      __URI_LINK_USUB_NATARCZYWY /ub\.php\?[a-z0-9]{3}=/
+ meta     ZABOJCASPAMU_NATARCZYWYSPAM_1_2 __URI_LINK_USUB_NATARCZYWY && ZABOJCASPAMU_FROM_UNKNOWN && ZABOJCASPAMU_RECEIVED_COM
+ describe ZABOJCASPAMU_NATARCZYWYSPAM_1_2 Spam grzybica, detektor, klimatyzator ...(rodzaj 1 uknown z linkiem)
+ score    ZABOJCASPAMU_NATARCZYWYSPAM_1_2 3
+
+header  __ZABOJCASPAMU_NATARCZYWYSPAM_2_1 Received =~ /from ([^.]+)\.[a-z]+\.com \(\1\.[a-z]+\.com/
+header  __ZABOJCASPAMU_NATARCZYWYSPAM_2_2 Received =~ /from [^.]+\.([a-z]+)\.com \([^.]+\.\1\.com/
+meta    ZABOJCASPAMU_NATARCZYWYSPAM_2_1   __ZABOJCASPAMU_NATARCZYWYSPAM_2_1 && !  __ZABOJCASPAMU_NATARCZYWYSPAM_2_2 && (ZABOJCASPAMU_RANDOM_STRING || HK_RANDOM_ENVFROM)
+describe ZABOJCASPAMU_NATARCZYWYSPAM_2_1 Spam grzybica, detektor, klimatyzator ... (rodzaj 2)
+score    ZABOJCASPAMU_NATARCZYWYSPAM_2_1 10
+
+meta    ZABOJCASPAMU_NATARCZYWYSPAM_2_S   __ZABOJCASPAMU_NATARCZYWYSPAM_2_1 && ! __ZABOJCASPAMU_NATARCZYWYSPAM_2_2 && ZABOJCASPAMU_LONG_LOGIN_IN_FROM
+describe ZABOJCASPAMU_NATARCZYWYSPAM_2_S Spam grzybica, detektor, klimatyzator ... (rodzaj 2 Soft)
+score    ZABOJCASPAMU_NATARCZYWYSPAM_2_S 1.8
+
+meta    ZABOJCASPAMU_NATARCZYWYSPAM_2_VSOFT   __ZABOJCASPAMU_NATARCZYWYSPAM_2_1 && ! __ZABOJCASPAMU_NATARCZYWYSPAM_2_2 && __URI_LINK_USUB_NATARCZYWY
+describe ZABOJCASPAMU_NATARCZYWYSPAM_2_VSOFT Spam grzybica, detektor, klimatyzator ... (rodzaj 2 Very Soft)
+score    ZABOJCASPAMU_NATARCZYWYSPAM_2_VSOFT 1
+
