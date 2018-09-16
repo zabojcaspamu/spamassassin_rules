@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-09-16 04:30 
+# Wygenerowana 2018-09-16 04:40 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1707,6 +1707,7 @@ blacklist_from *@solutions1-nails-at.com
 blacklist_from *@solutions-nails-cz.com
 blacklist_from *@solutions-nails-de.com
 blacklist_from *@solutions-nails-es.com
+blacklist_from *@solutions-nails-hu.com
 blacklist_from spam@spamservices.tk
 blacklist_from *@speaksarcasm.com
 blacklist_from spolkikapitalowe@bfag.pl
