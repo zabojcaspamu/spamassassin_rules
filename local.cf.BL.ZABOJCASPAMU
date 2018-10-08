@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-08 18:00 
+# Wygenerowana 2018-10-08 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -124,6 +124,7 @@ blacklist_from *@arubahosteria.com
 blacklist_from *@associationnour.com
 blacklist_from *@atdmax.info
 blacklist_from *@atsiysports.com
+blacklist_from attempt@shancomm.com
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
 blacklist_from *@awanzytech.com
@@ -167,6 +168,7 @@ blacklist_from biuro@androsza.beskidy.pl
 blacklist_from biuro@anomi.bialystok.pl
 blacklist_from biuro@arhewa.pl
 blacklist_from biuro@arkon.szczecin.pl
+blacklist_from biuro@atram.wroclaw.pl
 blacklist_from biuro@azab.turek.pl
 blacklist_from biuro@bacziami.olsztyn.pl
 blacklist_from biuro@bambola.beskidy.pl
@@ -240,6 +242,7 @@ blacklist_from biuro@poznajkredyt.pl
 blacklist_from biuro@ppsszkolenia.pl
 blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
+blacklist_from biuro@pysta.waw.pl
 blacklist_from biuro@rezbic.waw.pl
 blacklist_from biuro@sakaz.jgora.pl
 blacklist_from biuro@semprojekt.com
@@ -322,6 +325,7 @@ blacklist_from bok@okita.bydgoszcz.pl
 blacklist_from bok@okslip.waw.pl
 blacklist_from bok@olendi.waw.pl
 blacklist_from bok@orgun.elk.pl
+blacklist_from bok@parifka.waw.pl
 blacklist_from bok@radisli.zgora.pl
 blacklist_from bok@ramban.czest.pl
 blacklist_from bok@rbdo.biz
@@ -817,6 +821,7 @@ blacklist_from iwoca@productcompany.pl
 blacklist_from iwqavtd@lincoral.eu
 blacklist_from iza@ekredytowaniefirm.pl
 blacklist_from i.zurawska@ark-skills.com
+blacklist_from jacek.krolewiecki@auto-store.pl
 blacklist_from jacek@sprawdzaukcje.tk
 blacklist_from jacek.wozniak@yourdigital.pl
 blacklist_from jakub@korzystnapropozycja4.com.pl
@@ -881,7 +886,6 @@ blacklist_from kasa@kasaiterminal.pl
 blacklist_from katarzyna.chlupka@eurodirect.net.pl
 blacklist_from katarzyna@webazy.pl
 blacklist_from katbor@effectivework.com.pl
-blacklist_from *@katefolio.com
 blacklist_from *@kathyadkins.com
 blacklist_from kazio.zurawski@wp.pl
 blacklist_from *@kccludhiana.com
@@ -1095,7 +1099,6 @@ blacklist_from *@mehricecream.com
 blacklist_from *@mehrmarket.com
 blacklist_from melania.kula@hhueq.com
 blacklist_from melania.wozniak@hhueq.com
-blacklist_from *@message-line.services
 blacklist_from *@metallicapinball.com
 blacklist_from m@eudotacje24.pl
 blacklist_from *@mfcqatar.com
@@ -1255,6 +1258,7 @@ blacklist_from noreply.systememgeolokalizacjisamochod@directdisplay.services
 blacklist_from noreply.systememgeolokalizacjisamochod@engine-office.email
 blacklist_from noreply.systememgeolokalizacjisamochod@facility-good.trade
 blacklist_from noreply.systememgeolokalizacjisamochod@good-industry.date
+blacklist_from noreply.systememgeolokalizacjisamochod@message-line.services
 blacklist_from noreply.systemmonitorowanipojazdow@activebegin.services
 blacklist_from noreply.systemmonitorowanipojazdow@engineeconomic.services
 blacklist_from noreply.systemmonitorowanipojazdow@in-demand.services
