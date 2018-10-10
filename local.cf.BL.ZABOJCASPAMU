@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-10 18:00 
+# Wygenerowana 2018-10-10 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -77,6 +77,7 @@ blacklist_from *@???.a.luzno.com.pl
 blacklist_from *@??.a.luzno.com.pl
 blacklist_from *@alzuriqalnahdi.com
 blacklist_from amelia.kowalczyk@stargames.ovh
+blacklist_from amierzejewska@swiatecznakarta.com.pl
 blacklist_from ampuync@hromes.biz.ua
 blacklist_from amswital@gmail.com
 blacklist_from analyzer@eims.tradeeasy.com
@@ -113,6 +114,7 @@ blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
 blacklist_from AW@finansowanie-msp.pl
 blacklist_from AW@finansowanie-rozwoju.com.pl
+blacklist_from AW@industrial-finance.pl
 blacklist_from a.wojcik@partnerbiznesu.pl
 blacklist_from awolff@gmail.com
 blacklist_from AW@rozwoj-biznesu.pl
@@ -182,6 +184,7 @@ blacklist_from biuro@finansowaniefaktur.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
+blacklist_from biuro@furtuno.waw.pl
 blacklist_from biuro@gabos.pila.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@gaszkara.zgora.pl
@@ -196,9 +199,12 @@ blacklist_from biuro@informacja.cloud
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jahim.ostroleka.pl
 blacklist_from biuro@klich.pl
+blacklist_from biuro@korusta.waw.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
+blacklist_from biuro@lampioni.slask.pl
+blacklist_from biuro@lasini.slask.pl
 blacklist_from biuro@liderwiedzy.eu
 blacklist_from biuro@lotkip.tgory.pl
 blacklist_from biuro@mastersend.pl
@@ -222,6 +228,7 @@ blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
 blacklist_from biuro@pysta.waw.pl
 blacklist_from biuro@rezbic.waw.pl
+blacklist_from biuro@rijani.czest.pl
 blacklist_from biuro@sakaz.jgora.pl
 blacklist_from biuro@semprojekt.com
 blacklist_from biurosf@szkolenief.net.pl
@@ -271,7 +278,9 @@ blacklist_from bok@dmsender.pl
 blacklist_from bok@errazmi.olsztyn.pl
 blacklist_from bok@fartz.swidnica.pl
 blacklist_from bok@fello.waw.pl
+blacklist_from bok@futrzatkow.beskidy.pl
 blacklist_from bok@gandal.ostroda.pl
+blacklist_from bok@garfit.sejny.pl
 blacklist_from bok@gelewere.waw.pl
 blacklist_from bok@gmail.com
 blacklist_from bok@guty.tgory.pl
@@ -467,6 +476,7 @@ blacklist_from eden@baza-firm.biz.pl
 blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
+blacklist_from edward@edm.bluedotled.com
 blacklist_from edytamaliszewska@pomocdlafilipa.pl
 blacklist_from *@e-frot.pl
 blacklist_from eg4@a.Ljxb.wang
@@ -498,6 +508,7 @@ blacklist_from *@escoecm.com
 blacklist_from ES_Edicom@news.edicomgroup.com
 blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
+blacklist_from eurogastro@gastrona.pl
 blacklist_from ewa.gruszczyk@grupainfomax.com
 blacklist_from ewelina@mailowy.tk
 blacklist_from ewelina.tymoniuk@multiexpo.pl
@@ -577,7 +588,6 @@ blacklist_from *@gyalcast.com
 blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@hablayvende.com
 blacklist_from *@hacksfarm.com
-blacklist_from *@haiinpuglia.com
 blacklist_from handlowy@energooszczedne-ogrzewanie.pl
 blacklist_from *@hanvietco.com
 blacklist_from hapipozyczki@pani-oferta.pl
@@ -624,6 +634,7 @@ blacklist_from info@biurodrukserwis.info
 blacklist_from info@bluebusinesmedia.com
 blacklist_from info@box.com.pl
 blacklist_from info@centrum.szkoleniowe.org
+blacklist_from info@cpi-seminaria.waw.pl
 blacklist_from info@cpi-szkolenia.waw.pl
 blacklist_from info@cpwakacje.pl
 blacklist_from info@czabitek.waw.pl
@@ -1149,6 +1160,7 @@ blacklist_from odbicia@sprzedaz.win
 blacklist_from odbicia@stworzymy.website
 blacklist_from odbicia@swiatgadzetow.info
 blacklist_from odbicia@szkolenia-ibd.com.pl
+blacklist_from odbicia@wspolpracabiznesowa.eu
 blacklist_from odbicia@zapytanie.bid
 blacklist_from odbicia@zapytanie.win
 blacklist_from odbicia@zismo.com.pl
@@ -1181,6 +1193,7 @@ blacklist_from office@executive-club.com.pl
 blacklist_from office@farnkotzi.waw.pl
 blacklist_from office@felicjom.agro.pl
 blacklist_from office@fumop.olsztyn.pl
+blacklist_from office@futber.zgora.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@goodmail24.pl
 blacklist_from office@gutgerl.waw.pl
@@ -1194,6 +1207,7 @@ blacklist_from office@lendi.zgora.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@makij.sejny.pl
 blacklist_from office@marineli.slask.pl
+blacklist_from office@movmient.slask.pl
 blacklist_from office@nawidu.waw.pl
 blacklist_from office@noisto.beskidy.pl
 blacklist_from office@paszkit.zgora.pl
@@ -1203,6 +1217,7 @@ blacklist_from office@powalok.wlocl.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@semowac.waw.pl
 blacklist_from office@tuder.waw.pl
+blacklist_from office@ulepio.waw.pl
 blacklist_from office@zanzel.ostroda.pl
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from *@ohyeahmedia.com
@@ -1632,7 +1647,6 @@ blacklist_from wojciech.murawski@pani-oferta.pl
 blacklist_from wojcikfpbsrjz@privatransfer.com
 blacklist_from *@wondersquirt.com
 blacklist_from wpadmin@igpim.pl
-blacklist_from *@wspolpracabiznesowa.eu
 blacklist_from wspolpraca@telemarketing-24.pl
 blacklist_from wtyszkowski@wiselimber.pl
 blacklist_from www-data@brunetprod.nexen.net
