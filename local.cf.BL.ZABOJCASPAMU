@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-15 18:10 
+# Wygenerowana 2018-10-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -138,6 +138,7 @@ blacklist_from *@atlasseir.info
 blacklist_from attempt@shancomm.com
 blacklist_from atten2@atten.com.cn
 blacklist_from *@autentic.pl
+blacklist_from autoreply@testemail.pl
 blacklist_from *@avrape.com
 blacklist_from AW@finansowanie-msp.pl
 blacklist_from AW@finansowanie-rozwoju.com.pl
@@ -155,6 +156,7 @@ blacklist_from *@bankowefinansowanie.pl
 blacklist_from baoguan@hotmail.com
 blacklist_from bar@studio.com
 blacklist_from bartczakedward1970@wp.pl
+blacklist_from bartlomiej.makolus@evention.com.pl
 blacklist_from *@bassbudha.com
 blacklist_from baza@eniro.com
 blacklist_from *@bazarpoosh.com
@@ -362,6 +364,7 @@ blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
 blacklist_from bounce2@inboxposta.com
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-448112@bounce.mail-2b8z3.getresponse.com
+blacklist_from bounce-448112@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-539547@bounce.mail-2b8z3.getresponse.com
 blacklist_from bounce-59512001@bounce.mail-zg367.getresponse.com
 blacklist_from bounce@adwordskeyword.com
@@ -404,6 +407,7 @@ blacklist_from cds@e-praktyczneszkolenia.pl
 blacklist_from cecilia.goh@metalor.co.uk
 blacklist_from *@centroganesh.com
 blacklist_from cert@mbankcompanypl.pl
+blacklist_from ce@znak-ce-szkolenie.pl
 blacklist_from chang-he@vip.126.com
 blacklist_from *@chanmyayit.com
 blacklist_from *@charaktery.com.pl
@@ -484,6 +488,7 @@ blacklist_from *@dicikala.info
 blacklist_from dieta@doktorbio.net
 blacklist_from *@dietgiri.com
 blacklist_from digmarsolution@gmail.com
+blacklist_from d.kaczmarczyk@wizualprofit.pl
 blacklist_from dlapalaczy@pharmaadv.pl
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from *@dodocheap.com
@@ -525,6 +530,7 @@ blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from edward@edm.bluedotled.com
+blacklist_from edyta.zak@hhueq.com
 blacklist_from *@e-frot.pl
 blacklist_from eg4@a.Ljxb.wang
 blacklist_from *@egybst.com
@@ -539,7 +545,6 @@ blacklist_from *@elbranch.com
 blacklist_from *@electricaincii.com
 blacklist_from *@electricscoots.com
 blacklist_from *@elespectadpr.com
-blacklist_from *@ellentuve.com
 blacklist_from elsa@greatriver.cn
 blacklist_from elwira.dys@hhueq.com
 blacklist_from *@emailapp.pl
@@ -1153,6 +1158,7 @@ blacklist_from *@newsletter-hub.com
 blacklist_from newsletter@hurtidetal.pl
 blacklist_from newsletter@kursangielskiego-promocja.pl
 blacklist_from newsletter@luxurytravel.pl
+blacklist_from newsletter@mundoportugues.com.pt
 blacklist_from newsletter@newsletter.topsecret.pl
 blacklist_from newsletter@offers4you.pl
 blacklist_from newsletter@petraenergia.pl
@@ -1629,6 +1635,7 @@ blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkola@pcsn.pl
 blacklist_from szkolenia8@acc.net.pl
+blacklist_from szkolenia@apm.wroclaw.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
 blacklist_from szkolenia@lbalegal.pl
