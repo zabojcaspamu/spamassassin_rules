@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-16 23:20 
+# Wygenerowana 2018-10-16 23:40 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1610,6 +1610,7 @@ blacklist_from tomasz.berlinski@proteleconf.com.pl
 blacklist_from tomasz.berlinski@proteleconf.pl
 blacklist_from tomasz.uzdebski@pani-oferta.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
+blacklist_from *@tonirovany.biz.ua
 blacklist_from *@tophostel.eu
 blacklist_from *@torell.pl
 blacklist_from toyota@affiliate.szczecin.pl
