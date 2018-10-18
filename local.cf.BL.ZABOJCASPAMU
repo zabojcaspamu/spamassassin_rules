@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-18 18:20 
+# Wygenerowana 2018-10-18 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -123,6 +123,7 @@ blacklist_from *@ayannetwork.com
 blacklist_from aymafcv@tonirovany.biz.ua
 blacklist_from *@ayosinmi.com
 blacklist_from a.zaborowski@generalfinance.pl
+blacklist_from *@azadicecream.com
 blacklist_from azdentalmeltdesi@meltcreative.servers.prgn.misp.co.uk
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
@@ -355,7 +356,6 @@ blacklist_from *@bounce.getresponse.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@plan.intel.com
 blacklist_from bounce@pwm0.com
-blacklist_from bounces+1527851-be0a-info=almamarket.pl@em.utilinox.com
 blacklist_from bounces@blind-tasted.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@out.byside.com
@@ -733,6 +733,7 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@powalok.wlocl.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@publikmusik.pl
+blacklist_from *@info.restarcop.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@sasayama-sec.co.jp
@@ -1090,41 +1091,7 @@ blacklist_from *@navidress.com
 blacklist_from *@newlevis.eu
 blacklist_from *@newmessage.eu
 blacklist_from *@news0?.send360.pl
-blacklist_from news1000@n1000.g.okazikmail.pl
-blacklist_from news1004@n1004.g.okazikmail.pl
-blacklist_from news1012@n1012.g.okazikmail.pl
-blacklist_from news1030@n1030.g.okazikmail.pl
-blacklist_from news1038@n1038.g.okazikmail.pl
-blacklist_from news1085@n1085.g.okazikmail.pl
-blacklist_from news1094@n1094.z.okazikmail.pl
-blacklist_from news1098@n1098.z.okazikmail.pl
-blacklist_from news153@n153.o.okazikmail.pl
-blacklist_from news156@n156.o.okazikmail.pl
 blacklist_from news1@brr.nazwa.pl
-blacklist_from news438@n438.z.okazikmail.pl
-blacklist_from news452@n452.z.okazikmail.pl
-blacklist_from news487@n487.z.okazikmail.pl
-blacklist_from news570@n570.z.okazikmail.pl
-blacklist_from news609@n609.z.okazikmail.pl
-blacklist_from news628@n628.o.okazikmail.pl
-blacklist_from news652@n652.o.okazikmail.pl
-blacklist_from news747@n747.o.okazikmail.pl
-blacklist_from news763@n763.o.okazikmail.pl
-blacklist_from news777@n777.o.okazikmail.pl
-blacklist_from news799@n799.o.okazikmail.pl
-blacklist_from news826@n826.g.okazikmail.pl
-blacklist_from news830@n830.g.okazikmail.pl
-blacklist_from news848@n848.g.okazikmail.pl
-blacklist_from news888@n888.g.okazikmail.pl
-blacklist_from news891@n891.g.okazikmail.pl
-blacklist_from news898@n898.g.okazikmail.pl
-blacklist_from news918@n918.g.okazikmail.pl
-blacklist_from news945@n945.g.okazikmail.pl
-blacklist_from news965@n965.g.okazikmail.pl
-blacklist_from news966@n966.g.okazikmail.pl
-blacklist_from news979@n979.g.okazikmail.pl
-blacklist_from news992@n992.g.okazikmail.pl
-blacklist_from news998@n998.g.okazikmail.pl
 blacklist_from news@bell-news.de
 blacklist_from *@news??.campaignmail.pl
 blacklist_from *@news??.comfortmail.pl
