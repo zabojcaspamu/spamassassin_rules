@@ -1,8 +1,9 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-23 18:10 
+# Wygenerowana 2018-10-23 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
+blacklist_from 08b62d239754f74ef9577d39106d479c@linktrackenv.com
 blacklist_from *@163.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
@@ -19,6 +20,7 @@ blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 97zawizytowki@97zawizytowki.pl
 blacklist_from 9kgw20dni@9kgwdol.pl
 blacklist_from *@a2data.biz.pl
+blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@linktrackenv.com
 blacklist_from a9h0x@bounce.musvc.com
 blacklist_from abby@custommanu.com
 blacklist_from abuse@leclub.com.ve
@@ -153,6 +155,7 @@ blacklist_from biuro@amoniks.tgory.pl
 blacklist_from biuro@androsza.beskidy.pl
 blacklist_from biuro@anomi.bialystok.pl
 blacklist_from biuro@arhewa.pl
+blacklist_from biuro@arkon.szczecin.pl
 blacklist_from biuro@azab.turek.pl
 blacklist_from biuro@bacziami.olsztyn.pl
 blacklist_from biuro@bambola.beskidy.pl
@@ -171,6 +174,7 @@ blacklist_from biuro@doradztwo-prostepytania.pl
 blacklist_from biuro@eko-instytut.pl
 blacklist_from biuro@emobiola.katowice.pl
 blacklist_from biuro@enimy.zgora.pl
+blacklist_from biuro@enous.waw.pl
 blacklist_from biuro@euno.warszawa.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
@@ -266,12 +270,14 @@ blacklist_from bok@baszun.mazowsze.pl
 blacklist_from bok@biznesoweupominki.pl
 blacklist_from bok@cezarini.warszawa.pl
 blacklist_from bok@ciekaweupominki.com.pl
+blacklist_from bok@czempo.waw.pl
 blacklist_from bok@czerto.elk.pl
 blacklist_from bok@dadno.bialystok.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@encypedia.jgora.pl
 blacklist_from bok@enous.waw.pl
 blacklist_from bok@errazmi.olsztyn.pl
+blacklist_from bok@falowani.bialystok.pl
 blacklist_from bok@fartz.swidnica.pl
 blacklist_from bok@futrzatkow.beskidy.pl
 blacklist_from bok@garfit.sejny.pl
@@ -314,6 +320,7 @@ blacklist_from bok@suszostki.wlocl.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@unowo.waw.pl
 blacklist_from bok@usbox.eu
+blacklist_from bok@waruno.slask.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
@@ -322,6 +329,7 @@ blacklist_from bounce-133397@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-15@bounce.news.fabrykawiedzy.com
 blacklist_from bounce-15@bounce.news.wip.pl
 blacklist_from bounce-15@bounce.wipinfo.pl
+blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
 blacklist_from bounce2@inboxposta.com
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
@@ -468,7 +476,6 @@ blacklist_from ds@lumex.pl
 blacklist_from *@duckncrab.com
 blacklist_from durbanski@gmail.com
 blacklist_from dzialka.zlotoryja@wp.pl
-blacklist_from dzialsprzedazy@asmsalesforce.pl
 blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
@@ -524,7 +531,6 @@ blacklist_from extraportfel@pani-oferta.pl
 blacklist_from *@ey-vx.com
 blacklist_from ezpuzrr@loomberge.eu
 blacklist_from *@fabianrendon.com
-blacklist_from *@facility-industry.agency
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@faktura.org
 blacklist_from fec7327236e165cbbe60448307d0d1e9@linktrackenv.com
@@ -806,6 +812,7 @@ blacklist_from kalendarzenacalyrok@karodruki.pl
 blacklist_from kalkulator@pani-oferta.pl
 blacklist_from *@kalkuluje.com
 blacklist_from kamila.krakowska@whiteone.tk
+blacklist_from kamil.muszynski@ap2mszkolenia.pl
 blacklist_from kampania@najlepszeokazje.co.pl
 blacklist_from kapela@goralska-hora.pl
 blacklist_from karolina@fotowoltaikakrk.pl
@@ -833,6 +840,7 @@ blacklist_from konferencja@cpi-sk.info.pl
 blacklist_from konpol@data.pl
 blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
+blacklist_from konsultingts@konsultingts.nazwa.pl
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@aktywnyrozwoj.info
@@ -994,6 +1002,7 @@ blacklist_from *@?.mediaexpln.pl
 blacklist_from *@mediasofttec.com
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
+blacklist_from Mercedesbenzlottery@email.com
 blacklist_from m@eudotacje24.pl
 blacklist_from m.golab@honest-team.com.pl
 blacklist_from m.golab@skilled-team.com.pl
@@ -1124,6 +1133,7 @@ blacklist_from noreply@iqelite.com
 blacklist_from noreply@itbud.pl
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from noreply.kartylunch@facility-good.agency
+blacklist_from noreply.kartylunch@facility-industry.agency
 blacklist_from noreply.kartylunch@it-central.services
 blacklist_from noreply@mail.com
 blacklist_from noreply@mailtarget.pl
@@ -1219,6 +1229,7 @@ blacklist_from office@kiszczo.slask.pl
 blacklist_from office@kotilip.zgora.pl
 blacklist_from office@latisti.waw.pl
 blacklist_from office@lendi.zgora.pl
+blacklist_from office@lojun.slask.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@makij.sejny.pl
 blacklist_from office@marineli.slask.pl
@@ -1227,6 +1238,7 @@ blacklist_from office@movmient.slask.pl
 blacklist_from office@nawidu.waw.pl
 blacklist_from office@noisto.beskidy.pl
 blacklist_from office@paszkit.zgora.pl
+blacklist_from office@plugini.waw.pl
 blacklist_from office@potag.bieszczady.pl
 blacklist_from office@powalok.wlocl.pl
 blacklist_from office@restkow.tgory.pl
@@ -1293,6 +1305,7 @@ blacklist_from *@play4.pl
 blacklist_from *@playtrailmaker.com
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
+blacklist_from poczta@crmromaxwawp.nazwa.pl
 blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
@@ -1475,6 +1488,7 @@ blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from stanislawa@instagolf.es
 blacklist_from stephanie_sharon@stephanie-and-sharon.info
+blacklist_from store@adoriavineyards.com
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from suite5@mailreply.travelist.pl
 blacklist_from *@sunhusk.com
