@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-25 13:50 
+# Wygenerowana 2018-10-25 14:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1264,6 +1264,7 @@ blacklist_from *@pimptania.com
 blacklist_from piotrbnc@e-bazy.com
 blacklist_from piotr.gawrysiak@kusloncu.com.pl
 blacklist_from piotr.malarski@gmail.com
+blacklist_from *@plannifica.com
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
