@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-26 18:10 
+# Wygenerowana 2018-10-26 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -18,6 +18,7 @@ blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@linktrackenv.com
 blacklist_from 65226e4729270d335b404a42de0ba83d@linktrackenv.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@linktrackenv.com
+blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@linktrackenv.com
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 97zawizytowki@97zawizytowki.pl
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@linktrackenv.com
@@ -124,6 +125,7 @@ blacklist_from aymafcv@tonirovany.biz.ua
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from azdentalmeltdesi@meltcreative.servers.prgn.misp.co.uk
 blacklist_from b2b@blikle.pl
+blacklist_from b3278679f9c487bfdf04020a6a53f4f0@linktrackenv.com
 blacklist_from *@badoo.com
 blacklist_from bancovo@pani-oferta.pl
 blacklist_from *@bankowefinansowanie.pl
@@ -252,6 +254,7 @@ blacklist_from biuro@twojastronawww.net.pl
 blacklist_from biuro@tworcyeventow.pl
 blacklist_from biuro@tworzenie-sklepow.eu
 blacklist_from biuro@ulini.slask.pl
+blacklist_from biuro@umido.slask.pl
 blacklist_from biuro@urticadzieciom.pl
 blacklist_from biuro@utarfek.waw.pl
 blacklist_from biuro@w5homedecor.com
@@ -262,14 +265,17 @@ blacklist_from biurozarzadu@szkoleniazarzadu.waw.pl
 blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
+blacklist_from bogdan.szulc@pani-oferta.pl
 blacklist_from bok@aaloped.ostroleka.pl
 blacklist_from bok@aliszia.waw.pl
 blacklist_from bok@anluno.bydgoszcz.pl
 blacklist_from bok@bamola.malopolska.pl
+blacklist_from bok@baribamba.czest.pl
 blacklist_from bok@baszun.mazowsze.pl
 blacklist_from bok@biznesoweupominki.pl
 blacklist_from bok@cezarini.warszawa.pl
 blacklist_from bok@ciekaweupominki.com.pl
+blacklist_from bok@czempo.waw.pl
 blacklist_from bok@czerto.elk.pl
 blacklist_from bok@dadno.bialystok.pl
 blacklist_from bok@daniowi.waw.pl
@@ -307,16 +313,20 @@ blacklist_from bok@omnixar.zgora.pl
 blacklist_from bok@orgun.elk.pl
 blacklist_from bok@parifka.waw.pl
 blacklist_from bok@radisli.zgora.pl
+blacklist_from bok@ramban.czest.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@sakaz.jgora.pl
 blacklist_from bok@samboni.waw.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@suszostki.wlocl.pl
 blacklist_from bok@tonerypolska.pl
+blacklist_from bok@unowo.waw.pl
 blacklist_from bok@usbox.eu
 blacklist_from bok@waruno.slask.pl
+blacklist_from bok@webudo.waw.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
+blacklist_from bonomupominkowym@it-central.world
 blacklist_from *@bouledivoire.com
 blacklist_from bounce-133397@bounce.mail-3i7y8.getresponse.com
 blacklist_from bounce-133397@bounce.mail-zg367.getresponse.com
@@ -514,6 +524,7 @@ blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
 blacklist_from email@marketing.verisign.com
 blacklist_from *@embarce.com
+blacklist_from emilia.klos@hhueq.com
 blacklist_from *@eminaliyev.com
 blacklist_from *@emlgrid.com
 blacklist_from *@emsgrid.com
@@ -1132,6 +1143,7 @@ blacklist_from newsletter@sztukapodstepu.pl
 blacklist_from newsletter@tydzienspelnionychmarzen.com.pl
 blacklist_from newsletter@tylkonajlepszeszkolenia.pl
 blacklist_from newsletter@wiadomoscikosmetyczne.pl
+blacklist_from newsletter@wikispanishfood.com
 blacklist_from *@news??.mailjoker.pl
 blacklist_from news@mypiggybank.biz
 blacklist_from news@newscanfor.pl
@@ -1167,6 +1179,7 @@ blacklist_from noreply.bonomupominkowym@services-market.trade
 blacklist_from noreply@cebltgroup.pl
 blacklist_from noreply@clrpl10u.pl
 blacklist_from noreply@clrpsi8.pl
+blacklist_from noreply@dhI.com
 blacklist_from noreply@domain-admin.com
 blacklist_from noreply@ebazafirm.com
 blacklist_from no-reply@e-pasaz.eu
@@ -1247,6 +1260,7 @@ blacklist_from office@bambini.waw.pl
 blacklist_from office@beliso.radom.pl
 blacklist_from office@bobulowe.jgora.pl
 blacklist_from office@bratno.opole.pl
+blacklist_from office@bukiter.waw.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@czabitek.waw.pl
 blacklist_from office@czastra.malopolska.pl
@@ -1282,6 +1296,7 @@ blacklist_from office@restkow.tgory.pl
 blacklist_from office@rustic.waw.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@semowac.waw.pl
+blacklist_from office@tapuszki.slask.pl
 blacklist_from office@tuder.waw.pl
 blacklist_from office@ulepio.waw.pl
 blacklist_from office@zanzel.ostroda.pl
@@ -1460,6 +1475,7 @@ blacklist_from *@schemezine.com
 blacklist_from *@scionofrockwall.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
+blacklist_from sekretariat@infobiztech.pl
 blacklist_from selva@alreef-me.com
 blacklist_from *@semanacarlosmotta.com
 blacklist_from seminarium@fignews.pl
@@ -1478,6 +1494,8 @@ blacklist_from sender413367@mailoferro.com
 blacklist_from sender421952@mailoferro.com
 blacklist_from sender422086@mailoferro.com
 blacklist_from sender470039@mailoferro.com
+blacklist_from sender472133@mailoferro.com
+blacklist_from sender472165@mailoferro.com
 blacklist_from *@senderus.pl
 blacklist_from *@sendmailcluster.com
 blacklist_from send@powerask.com.pl
