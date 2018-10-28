@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-10-28 18:10 
+# Wygenerowana 2018-10-28 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -119,6 +119,7 @@ blacklist_from atten2@atten.com.cn
 blacklist_from *@autentic.pl
 blacklist_from autoreply@premiummail.pl
 blacklist_from autoreply@testemail.pl
+blacklist_from autoreply@twojegadzety.pl
 blacklist_from *@avrape.com
 blacklist_from *@avvstudio.com
 blacklist_from *@awesomemallu.com
@@ -127,7 +128,6 @@ blacklist_from AW@industrial-finance.pl
 blacklist_from a.wojcik@partnerbiznesu.pl
 blacklist_from aymafcv@tonirovany.biz.ua
 blacklist_from a.zaborowski@generalfinance.pl
-blacklist_from *@azadicecream.com
 blacklist_from azdentalmeltdesi@meltcreative.servers.prgn.misp.co.uk
 blacklist_from b2b@blikle.pl
 blacklist_from b3278679f9c487bfdf04020a6a53f4f0@linktrackenv.com
@@ -591,6 +591,7 @@ blacklist_from *@fotografiamila.com
 blacklist_from *@francoisgelinas.com
 blacklist_from franczyzaagencjireklamowej@gmail.com
 blacklist_from franczyzareklama@gmail.com
+blacklist_from frankdarwin3456@msn.com
 blacklist_from franz.roldan77@gmail.com
 blacklist_from freedome@intia.pl
 blacklist_from *@frenzydonor.com
@@ -1727,6 +1728,7 @@ blacklist_from *@zibojinda.com
 blacklist_from zlotorzynska@owal12.edu.pl
 blacklist_from *@zulianito.info
 blacklist_from zuzanna.kuzma@infortraining.pl
+blacklist_from zwrotki@alfa-omega.services
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@marketingbi.pl
 blacklist_from zwroty@biznesowydoradca.info
