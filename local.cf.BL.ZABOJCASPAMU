@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-02 14:40 
+# Wygenerowana 2018-11-02 15:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1578,6 +1578,7 @@ blacklist_from test@freshb2b.pl
 blacklist_from test@ovagames.com
 blacklist_from test@tiags.vn
 blacklist_from *@thebloozebros.com
+blacklist_from *@thedayheadlines.com
 blacklist_from tiffany_margaret@tiffany-and-margaret.info
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from t-mobile@pani-oferta.pl
