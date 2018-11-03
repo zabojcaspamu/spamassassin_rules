@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-02 22:00 
+# Wygenerowana 2018-11-03 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -332,6 +332,7 @@ blacklist_from bounce-15@bounce.news.wip.pl
 blacklist_from bounce-15@bounce.wipinfo.pl
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
+blacklist_from bounce2@edm30.hktdc.com
 blacklist_from bounce2@inboxposta.com
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-448112@bounce.mail-2b8z3.getresponse.com
@@ -434,6 +435,7 @@ blacklist_from d1@twoja-drukarnia1.pl
 blacklist_from dagmara.dys@ittwt.com
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from damian.puchniarz@progressproject.pl
+blacklist_from *@dandgmediapros.com
 blacklist_from daria.mikula@hhueq.com
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
@@ -445,6 +447,7 @@ blacklist_from decathlon@productcompany.pl
 blacklist_from *@decoartvinilos.com
 blacklist_from *@decraftfwclt.com
 blacklist_from dee7550ce9815b2fcefdb10c3f390608@linktrackenv.com
+blacklist_from *@deep-sx-bg.com
 blacklist_from deezee_pl@s4s-pl1.pl
 blacklist_from *@dekhomovie.com
 blacklist_from delete@mediarun.com
@@ -632,6 +635,7 @@ blacklist_from hk@rozwoj-biznesu.pl
 blacklist_from *@hktdc.com
 blacklist_from *@hofacom.com
 blacklist_from *@homeglancer.com
+blacklist_from *@hookahvilla.info
 blacklist_from *@hoomanshimi.com
 blacklist_from hornet@dochodowe-szkolenia.pl
 blacklist_from *@hostclimb.com
@@ -650,6 +654,7 @@ blacklist_from *@iamversed.com
 blacklist_from *@iandjservices.com
 blacklist_from *@ibsmuhendislik.com
 blacklist_from ideabank@productcompany.pl
+blacklist_from *@ideamapmail.com
 blacklist_from iforex@offers4you.pl
 blacklist_from ilona.czernow@finansuj.biz.pl
 blacklist_from imdn@wp.pl
@@ -818,7 +823,9 @@ blacklist_from jan.czerski@proloyal.com.pl
 blacklist_from jan.tarczynski@best-credits.com.pl
 blacklist_from januszgajos23@wp.pl
 blacklist_from *@jardineriadavid.com
+blacklist_from *@jayvijaysachan.info
 blacklist_from *@jbwilsonsbbq.com
+blacklist_from *@jctechnosoft.info
 blacklist_from j.dova1@hotmail.com
 blacklist_from jeep@baza-firm.biz.pl
 blacklist_from *@jetmail.pl
@@ -867,6 +874,7 @@ blacklist_from katarzyna@webazy.pl
 blacklist_from katbor@effectivework.com.pl
 blacklist_from kazio.zurawski@wp.pl
 blacklist_from k.dudek@visualcom.pl
+blacklist_from kelly@forbesitmedia.com
 blacklist_from *@kevinjmccarthy.com
 blacklist_from *@keymastercrm.com
 blacklist_from *@kiitder.com
@@ -946,6 +954,7 @@ blacklist_from legal.music?@poczta.pl
 blacklist_from lek.kowalczewski@pani-oferta.pl
 blacklist_from lendon@pani-oferta.pl
 blacklist_from lendon@productcompany.pl
+blacklist_from les.matheson@rbs-auditfinancecommittee.co.uk
 blacklist_from *@letterbpxd.com
 blacklist_from lexus@lexus-polska.pl
 blacklist_from libris@libris.edu.pl
@@ -1042,13 +1051,17 @@ blacklist_from media@verstecktag.de
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from melania.zak@pwpnp.com
+blacklist_from *@mercaadolivre.com
 blacklist_from Mercedesbenzlottery@email.com
 blacklist_from m@eudotacje24.pl
 blacklist_from m.golab@honest-team.com.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
 blacklist_from michalina.wieczorek@hhueq.com
 blacklist_from michal.kowalski@pani-oferta.pl
+blacklist_from *@milalux.com
 blacklist_from milomlynspa@onintarget.pl
+blacklist_from *@minemeister.com
+blacklist_from *@minimalandme.info
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
 blacklist_from miroslawa.sobecka@b-ss.com.pl
@@ -1436,6 +1449,7 @@ blacklist_from return@news.tchibo.pl
 blacklist_from return@sendbridge.com
 blacklist_from returns@server01.zoocam.pl
 blacklist_from returns@server42.opm.net.pl
+blacklist_from *@richond.com
 blacklist_from *@rindongho.info
 blacklist_from *@rinkyfashion.com
 blacklist_from robertomoretti2003@gmail.com
@@ -1481,6 +1495,7 @@ blacklist_from *@samochod.warszawa.pl
 blacklist_from *@samochod.wroclaw.pl
 blacklist_from *@samuelgaleano.com
 blacklist_from *@santoshcollege.com
+blacklist_from *@santoshshindecs.info
 blacklist_from sanusfood5@yahoo.com
 blacklist_from *@sarktelecom.com
 blacklist_from *@sarvaads.com
@@ -1514,6 +1529,7 @@ blacklist_from sent03@m.fotomagazzino.com
 blacklist_from sent47909@rspmail-apn4.com
 blacklist_from sent47909@spread10.com
 blacklist_from *@sepehrtelecom.info
+blacklist_from *@serijules.com
 blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
 blacklist_from *@serveread.com
@@ -1559,13 +1575,16 @@ blacklist_from *@solidmarketing.eu
 blacklist_from *@solitairelife.info
 blacklist_from *@solutions1-nails-at.com
 blacklist_from *@solutions-nails-cz.com
+blacklist_from *@solutions-nails-fr.com
 blacklist_from *@solutions-nails-hu.com
+blacklist_from *@solutions-nails-pl.com
 blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from *@srikarainfra.info
 blacklist_from stanislawa@instagolf.es
+blacklist_from *@stjosephsrehab.info
 blacklist_from *@stopbeggin.com
 blacklist_from store@adoriavineyards.com
 blacklist_from stronywwwdorota@gmail.com
@@ -1671,6 +1690,7 @@ blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from urxiklt@intersport.biz.ua
 blacklist_from *@utsaesports.com
+blacklist_from *@valorglobalph.com
 blacklist_from vbs@vbsproduct.pl
 blacklist_from vectra@productcompany.pl
 blacklist_from *@veilhcf.com
@@ -1681,6 +1701,7 @@ blacklist_from vicxu@safe-pacific.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
+blacklist_from *@vutranthanh.com
 blacklist_from *@vvsalon.com
 blacklist_from waller@waller.com.pl
 blacklist_from warszawa@szkolenia-warszawa24.pl
