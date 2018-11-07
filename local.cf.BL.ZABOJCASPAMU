@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-07 16:20 
+# Wygenerowana 2018-11-07 17:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1724,6 +1724,7 @@ blacklist_from *@vforte-at.com
 blacklist_from *@vforte-cz.com
 blacklist_from *@vforte-fr.com
 blacklist_from *@vforte-gr.com
+blacklist_from *@vforte-hu.com
 blacklist_from *@vforte-sk.com
 blacklist_from victus2019@kalendarzevictus.pl
 blacklist_from victus@vkalendarze.pl
