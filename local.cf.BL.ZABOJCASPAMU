@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-09 18:10 
+# Wygenerowana 2018-11-09 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -204,6 +204,7 @@ blacklist_from biuro@farfanele.wroclaw.pl
 blacklist_from biuro@fastmail24.pl
 blacklist_from biuro@fastmailing24.pl
 blacklist_from biuro@felini.walbrzych.pl
+blacklist_from biuro@finanse-gi.pl
 blacklist_from biuro@finansowaniefaktur.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
@@ -217,6 +218,7 @@ blacklist_from biuro@hydef.turek.pl
 blacklist_from biuro@informacja.cloud
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jukifa.slask.pl
+blacklist_from biuro@kalaretus.agro.pl
 blacklist_from biuro@kamor.waw.pl
 blacklist_from biuro@korusta.waw.pl
 blacklist_from biuro@kosmicznymecz.pl
@@ -324,8 +326,11 @@ blacklist_from bok@natanio.slask.pl
 blacklist_from bok@nece.czest.pl
 blacklist_from bok@nikop.naklo.pl
 blacklist_from bok@olendi.waw.pl
+blacklist_from bok@omnixar.zgora.pl
 blacklist_from bok@ongis.jgora.pl
+blacklist_from bok@orgun.elk.pl
 blacklist_from bok@parifka.waw.pl
+blacklist_from bok@poligaser.zgora.pl
 blacklist_from bok@ramban.czest.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@samboni.waw.pl
@@ -627,6 +632,7 @@ blacklist_from Generaltradecomp01@hotmail.com
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
 blacklist_from ggrzg@server.gg.media.pl
+blacklist_from gildan@gildan-koszulki.pl
 blacklist_from ginorossi@brasletik.pl
 blacklist_from *@giopik.co.ua
 blacklist_from *@girdironnow.com
@@ -656,6 +662,7 @@ blacklist_from *@hellineyes.com
 blacklist_from hello@00LoL.com
 blacklist_from hello@cxykzqj.com
 blacklist_from hello@pingchuai.com
+blacklist_from hello@wkcwkc.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from help@spot.com
 blacklist_from *@heroldgroup.pl
@@ -834,6 +841,7 @@ blacklist_from irsibbj@newlevis.eu
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
 blacklist_from *@italyinadinner.com
+blacklist_from *@itsthehouse.com
 blacklist_from iwoca@offers4me.pl
 blacklist_from iwoca@productcompany.pl
 blacklist_from iza@ekredytowaniefirm.pl
@@ -1088,6 +1096,7 @@ blacklist_from *@melaminedorsa.com
 blacklist_from melania.zak@pwpnp.com
 blacklist_from *@meltmacnheese.com
 blacklist_from Mercedesbenzlottery@email.com
+blacklist_from mesralink@petronas.com.my
 blacklist_from m@eudotacje24.pl
 blacklist_from m.golab@honest-team.com.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
@@ -1316,7 +1325,10 @@ blacklist_from office@farnkotzi.waw.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@goodmail24.pl
 blacklist_from office@hikaret.waw.pl
+blacklist_from office@kajutered.zgora.pl
 blacklist_from office@kali.jgora.pl
+blacklist_from office@kiszczo.slask.pl
+blacklist_from office@kopaliz.czest.pl
 blacklist_from office@latisti.waw.pl
 blacklist_from office@lendi.zgora.pl
 blacklist_from office@lojun.slask.pl
@@ -1329,6 +1341,7 @@ blacklist_from office@paszkit.zgora.pl
 blacklist_from office@restkow.tgory.pl
 blacklist_from office@samurani.waw.pl
 blacklist_from office@scc.org.pl
+blacklist_from office@semowac.waw.pl
 blacklist_from office@tapuszki.slask.pl
 blacklist_from office@tuder.waw.pl
 blacklist_from office@ulepio.waw.pl
@@ -1448,6 +1461,7 @@ blacklist_from return@infoteachl.club
 blacklist_from return@mail.promocjeweb.eu
 blacklist_from return@newsletter.fly.pl
 blacklist_from return@news.tchibo.pl
+blacklist_from return@sendbridge.com
 blacklist_from returns@server01.zoocam.pl
 blacklist_from returns@server42.opm.net.pl
 blacklist_from *@rmask-black-at.com
@@ -1471,6 +1485,7 @@ blacklist_from root@vps490522.ovh.net
 blacklist_from root@vps510752.ovh.net
 blacklist_from root@vps569360.ovh.net
 blacklist_from root@vps604833.ovh.net
+blacklist_from root@vps608161.ovh.net
 blacklist_from root@vps609000.ovh.net
 blacklist_from rose.torres@talktalk.net
 blacklist_from RReyes@jamesperse.com
@@ -1501,6 +1516,7 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from *@scenna.co.ua
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
+blacklist_from sekretariat@infobiztech.pl
 blacklist_from selva@alreef-me.com
 blacklist_from *@semanacarlosmotta.com
 blacklist_from seminarium@executiveprogram.pl
@@ -1735,7 +1751,6 @@ blacklist_from windykacja@kancelariawec.pl
 blacklist_from windykacja@teisestarnai.lt
 blacklist_from *@winners-szkolenia.net.pl
 blacklist_from wjedendzien@o2.pl
-blacklist_from *@wkcwkc.com
 blacklist_from wlc@supmail.pl
 blacklist_from w.murawski@bialowieski.com
 blacklist_from wnioski@sukcesshop.pl
