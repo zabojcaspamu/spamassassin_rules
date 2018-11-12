@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-12 18:10 
+# Wygenerowana 2018-11-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -143,6 +143,7 @@ blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
+blacklist_from beata.krawczyk@pwpnp.com
 blacklist_from beata.zak@hhueq.com
 blacklist_from beauty@istanbul-beauty.com
 blacklist_from *@betdatastats.com
@@ -194,6 +195,8 @@ blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hapus.slask.pl
 blacklist_from biuro@hotelmagazin.pl
+blacklist_from biuro@hukij.wlocl.pl
+blacklist_from biuro@hydef.turek.pl
 blacklist_from biuro@informacja.cloud
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jukifa.slask.pl
@@ -252,6 +255,7 @@ blacklist_from biuro@tutoli.waw.pl
 blacklist_from biuro@twojastronawww.net.pl
 blacklist_from biuro@tworcyeventow.pl
 blacklist_from biuro@tworzenie-sklepow.eu
+blacklist_from biuro@typerson.waw.pl
 blacklist_from biuro@umido.slask.pl
 blacklist_from biuro@urticadzieciom.pl
 blacklist_from biuro@utarfek.waw.pl
@@ -301,15 +305,18 @@ blacklist_from bok@mojeokazje.com
 blacklist_from bok@natanio.slask.pl
 blacklist_from bok@nece.czest.pl
 blacklist_from bok@nikop.naklo.pl
+blacklist_from bok@nukiti.waw.pl
 blacklist_from bok@omnixar.zgora.pl
 blacklist_from bok@ongis.jgora.pl
 blacklist_from bok@poligaser.zgora.pl
+blacklist_from bok@qurtucta.bieszczady.pl
 blacklist_from bok@ramban.czest.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@samboni.waw.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@unowo.waw.pl
+blacklist_from bok@uruu.waw.pl
 blacklist_from bok@usbox.eu
 blacklist_from bok@uslyosl.slask.pl
 blacklist_from bok@waruno.slask.pl
@@ -488,6 +495,7 @@ blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
 blacklist_from *@electricaincii.com
 blacklist_from eliashastings@www5.twoje-konto.tk
+blacklist_from *@elixirnexis.com
 blacklist_from elsa@greatriver.cn
 blacklist_from elwira.dys@hhueq.com
 blacklist_from *@emailapp.pl
@@ -1241,6 +1249,7 @@ blacklist_from office@andiejew.podhale.pl
 blacklist_from office@bambini.waw.pl
 blacklist_from office@beliso.radom.pl
 blacklist_from office@bobulowe.jgora.pl
+blacklist_from office@boserka.jgora.pl
 blacklist_from office@bukiter.waw.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@czastra.malopolska.pl
@@ -1255,6 +1264,7 @@ blacklist_from office@gibinternational.de
 blacklist_from office@goodmail24.pl
 blacklist_from office@kajutered.zgora.pl
 blacklist_from office@kali.jgora.pl
+blacklist_from office@kompersen.agro.pl
 blacklist_from office@kopaliz.czest.pl
 blacklist_from office@latisti.waw.pl
 blacklist_from officemail@thylordzdoing.us
@@ -1709,6 +1719,7 @@ blacklist_from zwrotki@marketingbi.pl
 blacklist_from zwroty@biznesowydoradca.info
 blacklist_from zwroty@kalendarze2019.info
 blacklist_from zwroty@konferencjeksi.com.pl
+blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@nowafirma.online
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@pomagam.online
