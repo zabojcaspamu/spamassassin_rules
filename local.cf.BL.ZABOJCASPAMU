@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-17 07:10 
+# Wygenerowana 2018-11-17 07:50 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -482,6 +482,7 @@ blacklist_from deezee_pl@s4s-pl1.pl
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from deneufbourg@b2b4wine.eu
+blacklist_from *@deshilisting.info
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from d.furtak@polexpert.com.pl
 blacklist_from dhl@caronequipment.com
@@ -888,6 +889,7 @@ blacklist_from januszgajos23@wp.pl
 blacklist_from *@jarafotografia.info
 blacklist_from *@jardineriadavid.com
 blacklist_from jaroslaw.kociubinski@madex-serwis.nazwa.pl
+blacklist_from *@javcollectboom.info
 blacklist_from *@jazhut.com
 blacklist_from *@jbwilsonsbbq.com
 blacklist_from j.dova1@hotmail.com
