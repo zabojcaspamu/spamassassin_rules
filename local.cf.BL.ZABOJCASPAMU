@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-20 17:50 
+# Wygenerowana 2018-11-20 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -166,6 +166,7 @@ blacklist_from *@bebitv.info
 blacklist_from *@beyazittaki.info
 blacklist_from bfacf5665a8e605d290200f2d49e275c@linktrackenv.com
 blacklist_from bielsko@rgn.pl
+blacklist_from biernacki@yoursolution.com.pl
 blacklist_from billing@chrismissirian.net
 blacklist_from billing@csastudios.com
 blacklist_from billing@ezyloan.com
@@ -188,6 +189,7 @@ blacklist_from biuro@biznesikasa.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@cds-szkolenia.com.pl
 blacklist_from biuro@cecuna.podhale.pl
+blacklist_from biuro@colias.zgora.pl
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czyszczeniewpisow.eu
 blacklist_from biuro@dealmarket.biz.pl
@@ -197,6 +199,7 @@ blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@dopadlo.agro.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
+blacklist_from biuro@enimy.zgora.pl
 blacklist_from biuro@enklawamielno.info
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
@@ -215,6 +218,7 @@ blacklist_from biuro@gigliv.jgora.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hapus.slask.pl
 blacklist_from biuro@hotelmagazin.pl
+blacklist_from biuro@illiop.zachpomor.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jukifa.slask.pl
 blacklist_from biuro@kalaretus.agro.pl
@@ -229,9 +233,11 @@ blacklist_from biuro@lophfer.jgora.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@mulisr.czest.pl
+blacklist_from biuro@myszakij.waw.pl
 blacklist_from biuro@narak.slask.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
+blacklist_from biuro@onexer.naklo.pl
 blacklist_from biuro@osztym.jgora.pl
 blacklist_from biuro@pactum.gda.pl
 blacklist_from biuro@panewkowi.zgora.pl
@@ -241,6 +247,7 @@ blacklist_from biuro@piraniakredyty.pl
 blacklist_from biuro@platformawiedzy.com.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
+blacklist_from biuro@posbroker24.pl
 blacklist_from biuro@posterx.com.pl
 blacklist_from biuro@poznajkredyt.pl
 blacklist_from biuro@ppsszkolenia.pl
@@ -287,20 +294,25 @@ blacklist_from *@bnc.mailjet.com
 blacklist_from bogdan.szulc@pani-oferta.pl
 blacklist_from bok@ahetas.waw.pl
 blacklist_from bok@aliszia.waw.pl
+blacklist_from bok@anluno.bydgoszcz.pl
 blacklist_from bok@anomi.bialystok.pl
 blacklist_from bok@bamola.malopolska.pl
 blacklist_from bok@baribamba.czest.pl
 blacklist_from bok@baszun.mazowsze.pl
 blacklist_from bok@cezarini.warszawa.pl
+blacklist_from bok@chichi.elk.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@colosfik.bieszczady.pl
 blacklist_from bok@czempo.waw.pl
 blacklist_from bok@daniowi.waw.pl
+blacklist_from bok@ding.wroclaw.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@docton.agro.pl
+blacklist_from bok@encypedia.jgora.pl
 blacklist_from bok@euno.warszawa.pl
 blacklist_from bok@fortbif.bieszczady.pl
 blacklist_from bok@freshb2b.pl
+blacklist_from bok@garfit.sejny.pl
 blacklist_from bok@guty.tgory.pl
 blacklist_from bok@hydef.turek.pl
 blacklist_from bok@ib2c.pl
@@ -322,12 +334,15 @@ blacklist_from bok@nece.czest.pl
 blacklist_from bok@nikop.naklo.pl
 blacklist_from bok@olendi.waw.pl
 blacklist_from bok@omnikitas.waw.pl
+blacklist_from bok@omnixar.zgora.pl
 blacklist_from bok@onugar.jgora.pl
 blacklist_from bok@poderwej.beskidy.pl
 blacklist_from bok@poligaser.zgora.pl
+blacklist_from bok@polityker.waw.pl
 blacklist_from bok@qurtucta.bieszczady.pl
 blacklist_from bok@ramban.czest.pl
 blacklist_from bok@rbdo.biz
+blacklist_from bok@sakaz.jgora.pl
 blacklist_from bok@samboni.waw.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
@@ -823,6 +838,7 @@ blacklist_from jakub@korzystnapropozycja4.com.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from jan.czerski@proloyal.com.pl
 blacklist_from jannifer@platinumitmedia.com
+blacklist_from jan.szczesniak@pani-oferta.pl
 blacklist_from jan.tarczynski@best-credits.com.pl
 blacklist_from januszgajos23@wp.pl
 blacklist_from jaroslaw.kociubinski@madex-serwis.nazwa.pl
@@ -958,6 +974,7 @@ blacklist_from *@kredytprzyjazny24.pl
 blacklist_from kredyty@industrial-finance.pl
 blacklist_from krystian.przetocki@pani-oferta.pl
 blacklist_from krystyna@instagolf.es
+blacklist_from krzysztof.baka@makeyourbiz.com.pl
 blacklist_from krzysztof.brozek@express-tlumacz.pl
 blacklist_from krzysztof.minona@life.pl
 blacklist_from krzysztof.r@kruksas.pl
@@ -1025,6 +1042,7 @@ blacklist_from mailingobpon@mailing.obpon.pl
 blacklist_from *@?.mailing.salelifter.com
 blacklist_from mailing@sampledata.pl
 blacklist_from mailing@serwer1428640.home.pl
+blacklist_from mailing@slodkieupominki.pl
 blacklist_from mailing@tarsago.pl
 blacklist_from *@mailinstitute.pl
 blacklist_from mail-paypal.inc@congress.gov.ph
@@ -1278,6 +1296,7 @@ blacklist_from office@bazryfig.beskidy.pl
 blacklist_from office@beliso.radom.pl
 blacklist_from office@bobulowe.jgora.pl
 blacklist_from office@boserka.jgora.pl
+blacklist_from office@bukiter.waw.pl
 blacklist_from office@calonyv.slask.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@czastra.malopolska.pl
@@ -1364,6 +1383,7 @@ blacklist_from piotr.gawrysiak@kusloncu.com.pl
 blacklist_from piotr.malarski@gmail.com
 blacklist_from piotr.szymczak@av-sale.com.pl
 blacklist_from *@play4.pl
+blacklist_from p.legierski@prowizerunek.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
 blacklist_from poczta@crmromaxwawp.nazwa.pl
@@ -1617,6 +1637,7 @@ blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@telugulang.info
 blacklist_from *@teme.home.pl
+blacklist_from *@tenzstyles.info
 blacklist_from terial@londonpcwizard.co
 blacklist_from terminal@terminalikasa.pl
 blacklist_from tester@grupaaf.pl
