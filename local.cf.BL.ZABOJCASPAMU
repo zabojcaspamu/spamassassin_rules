@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-11-27 18:20 
+# Wygenerowana 2018-11-27 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -404,9 +404,7 @@ blacklist_from bounce2@edm30.hktdc.com
 blacklist_from bounce2@emd01.net
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-539547@bounce.mail-zg367.getresponse.com
-blacklist_from bounce+7ff7c3.b900d2-mmol=almamarket.pl@mg.snoothmail.com
 blacklist_from *@bounce.bluestatedigital.com
-blacklist_from bounce-bok.modlniczka=almamarket.pl-bok.modlniczka=almamarket.pl@callcenternation.com
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@eskk.pl
 blacklist_from *@bounce.freshmail.pl
@@ -415,8 +413,6 @@ blacklist_from bounce@mxmexpofairs.info
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@plan.intel.com
 blacklist_from bounce@pwm0.com
-blacklist_from bounces-74945878-kwasowicz=almamarket.pl@punpriota.com
-blacklist_from bounces-74945878-rdylag=almamarket.pl@punpriota.com
 blacklist_from bounces@blind-tasted.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@oboheme.com
@@ -425,7 +421,6 @@ blacklist_from bounces@rneyra.com
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounces@thinkopen.pl
 blacklist_from bounce@successpoint.com.pl
-blacklist_from bounce-uwagi=almamarket.pl-uwagi=almamarket.pl@callcenternation.com
 blacklist_from bounce@yellow.scot
 blacklist_from b.pawlak@senekaszkolenia.pl
 blacklist_from *@breathevapespot.com
@@ -1354,54 +1349,7 @@ blacklist_from *@nelsonjasper.info
 blacklist_from *@neosoftwarelabs.info
 blacklist_from *@newmessage.eu
 blacklist_from *@news0?.send360.pl
-blacklist_from news1002@n1002.g.okazikmail.pl
-blacklist_from news1100@n1100.z.okazikmail.pl
-blacklist_from news1111@n1111.z.okazikmail.pl
-blacklist_from news152@n152.o.okazikmail.pl
 blacklist_from news1@brr.nazwa.pl
-blacklist_from news445@n445.z.okazikmail.pl
-blacklist_from news455@n455.z.okazikmail.pl
-blacklist_from news472@n472.z.okazikmail.pl
-blacklist_from news479@n479.z.okazikmail.pl
-blacklist_from news485@n485.z.okazikmail.pl
-blacklist_from news497@n497.z.okazikmail.pl
-blacklist_from news498@n498.z.okazikmail.pl
-blacklist_from news499@n499.z.okazikmail.pl
-blacklist_from news503@n503.z.okazikmail.pl
-blacklist_from news504@n504.z.okazikmail.pl
-blacklist_from news508@n508.z.okazikmail.pl
-blacklist_from news512@n512.z.okazikmail.pl
-blacklist_from news528@n528.z.okazikmail.pl
-blacklist_from news532@n532.z.okazikmail.pl
-blacklist_from news543@n543.z.okazikmail.pl
-blacklist_from news548@n548.z.okazikmail.pl
-blacklist_from news578@n578.z.okazikmail.pl
-blacklist_from news590@n590.z.okazikmail.pl
-blacklist_from news592@n592.z.okazikmail.pl
-blacklist_from news596@n596.z.okazikmail.pl
-blacklist_from news603@n603.z.okazikmail.pl
-blacklist_from news608@n608.z.okazikmail.pl
-blacklist_from news626@n626.o.okazikmail.pl
-blacklist_from news672@n672.o.okazikmail.pl
-blacklist_from news684@n684.o.okazikmail.pl
-blacklist_from news721@n721.o.okazikmail.pl
-blacklist_from news733@n733.o.okazikmail.pl
-blacklist_from news735@n735.o.okazikmail.pl
-blacklist_from news744@n744.o.okazikmail.pl
-blacklist_from news764@n764.o.okazikmail.pl
-blacklist_from news789@n789.o.okazikmail.pl
-blacklist_from news795@n795.o.okazikmail.pl
-blacklist_from news822@n822.o.okazikmail.pl
-blacklist_from news837@n837.g.okazikmail.pl
-blacklist_from news845@n845.g.okazikmail.pl
-blacklist_from news864@n864.g.okazikmail.pl
-blacklist_from news888@n888.g.okazikmail.pl
-blacklist_from news901@n901.g.okazikmail.pl
-blacklist_from news902@n902.g.okazikmail.pl
-blacklist_from news979@n979.g.okazikmail.pl
-blacklist_from news985@n985.g.okazikmail.pl
-blacklist_from news992@n992.g.okazikmail.pl
-blacklist_from news998@n998.g.okazikmail.pl
 blacklist_from news@bell-news.de
 blacklist_from *@news??.campaignmail.pl
 blacklist_from *@news??.comfortmail.pl
