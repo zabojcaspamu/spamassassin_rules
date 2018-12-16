@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2018-11-19
+# Ostatnia aktualizacja 2018-12-16
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -275,7 +275,7 @@ score     ZABOJCASPAMU_21STY2013   1
  
 #Pisze do Pana/Pani
 #https://zabojcaspamu.pl/pisze-do-panapani/
-body     ZABOJCASPAMU_PANIPANA           /Pan.{,3}\s*\/\s*Pan.{,3}/
+body     ZABOJCASPAMU_PANIPANA           /Pan.{0,3}\s*\/\s*Pan.{0,3}/
 describe ZABOJCASPAMU_PANIPANA           Zwrot Pan/Pani, Pani/Pana itd
 score    ZABOJCASPAMU_PANIPANA           0.3
  
@@ -1306,7 +1306,7 @@ score        ZABOJCASPAMU_User54377        10
 ifplugin Mail::SpamAssassin::Plugin::MIMEHeader
         header     __ZABOJCASPAMU_PLUSNET_FVAT_S  Subject=~/Faktura, zam.{1,8}wienie \d+/
         mimeheader __ZABOJCASPAMU_PLUSNET_FVAT_M  Content-Type=~/Faktura\d+\.doc/
-        body       __ZABOJCASPAMU_PLUSNET_FVAT_B /Prosz.{1,8} o wystawienie faktury VAT za zam.{1,8}wienie \d+\. Nie zosta.{1,8}a ona za.{1,8.}{1,8}czona do przesy.{1,8}ki/i
+        body       __ZABOJCASPAMU_PLUSNET_FVAT_B /Prosz.{1,8} o wystawienie faktury VAT za zam.{1,8}wienie \d+\. Nie zosta.{1,8}a ona za.{1,8}czona do przesy.{1,8}ki/i
         meta       ZABOJCASPAMU_PLUSNET_FVAT      __ZABOJCASPAMU_PLUSNET_FVAT_S && __ZABOJCASPAMU_PLUSNET_FVAT_M && __ZABOJCASPAMU_PLUSNET_FVAT_B
         describe   ZABOJCASPAMU_PLUSNET_FVAT      falszywa faktura Plusnet
         score      ZABOJCASPAMU_PLUSNET_FVAT      10
