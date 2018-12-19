@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-12-19 13:30 
+# Wygenerowana 2018-12-19 13:40 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1649,6 +1649,7 @@ blacklist_from tomasz.rosiak@exchangeofserv.eu
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
 blacklist_from top4@top-4.pl
 blacklist_from topoferta@mediadirect.pl
+blacklist_from *@topwphostings.info
 blacklist_from *@torell.pl
 blacklist_from toyota@affiliate.szczecin.pl
 blacklist_from toyota@gastrona.pl
