@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2018-12-20 20:50 
+# Wygenerowana 2018-12-21 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -76,6 +76,7 @@ blacklist_from AM@finansowanie-firmy.pl
 blacklist_from amierzejewska@swiatecznakarta.com.pl
 blacklist_from *@amrinshaikh.info
 blacklist_from amswital@gmail.com
+blacklist_from *@amznos.info
 blacklist_from analyzer@eims.tradeeasy.com
 blacklist_from *@andreigronski.info
 blacklist_from andrzej.kowalik@kruka.pl
@@ -554,9 +555,12 @@ blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@fahadxp.info
 blacklist_from *@fainsbazar.info
+blacklist_from *@fairviewtimes.info
+blacklist_from *@faktajakarta.info
 blacklist_from faktoring@bankowe-finansowanie.pl
 blacklist_from faktoring@financial-services.pl
 blacklist_from *@faktura.org
+blacklist_from *@familypersonal.info
 blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
 blacklist_from fed@sfirmowe.pl
@@ -611,6 +615,9 @@ blacklist_from *@getyourownbooks.info
 blacklist_from *@gexodrom.info
 blacklist_from *@gezginlerden.info
 blacklist_from *@gfoal.com
+blacklist_from *@gidcdared.info
+blacklist_from *@gigishibabaw.info
+blacklist_from *@gingerandzack.info
 blacklist_from ginorossi@brasletik.pl
 blacklist_from *@giopik.co.ua
 blacklist_from gogastro@gastrona.pl
@@ -1332,6 +1339,7 @@ blacklist_from office@zortix.zgora.pl
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from okazik@okazik.pl
 blacklist_from okazje@ravelo.pl
+blacklist_from okdulys@rentautos.eu
 blacklist_from okrakiem@gmail.com
 blacklist_from oktaykutsal@yahoo.com
 blacklist_from olga@biurodrukserwis.pl
@@ -1590,6 +1598,7 @@ blacklist_from *@thekickscooter.info
 blacklist_from *@thirtyonebox.info
 blacklist_from *@thrixe.info
 blacklist_from *@tjdavison.info
+blacklist_from tma@psseliac.us
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from t-mobile@pani-oferta.pl
 blacklist_from *@todoparachicas.info
