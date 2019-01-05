@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-01-05 14:50 
+# Wygenerowana 2019-01-05 15:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1305,6 +1305,7 @@ blacklist_from RH@pozyczki-firmowe.pl
 blacklist_from robert.lotecki@car-leasing.pl
 blacklist_from robertomoretti2003@gmail.com
 blacklist_from robert.wojcik@energysaver.com.pl
+blacklist_from *@rokulab.icu
 blacklist_from roman@almar-sport.pl
 blacklist_from root@begarring.xyz
 blacklist_from root@localhost.60042.meghost.pl
