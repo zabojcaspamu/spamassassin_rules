@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-01-06 18:10 
+# Wygenerowana 2019-01-06 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -84,6 +84,7 @@ blacklist_from *@asnafkala.icu
 blacklist_from *@associationnour.com
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
+blacklist_from AW@bankowe-finansowanie.com.pl
 blacklist_from AW@finansowanie-firmy.pl
 blacklist_from AW@kredyt-firmowy.com.pl
 blacklist_from aw@kredytowanie-firmowe.pl
@@ -409,6 +410,7 @@ blacklist_from contact@new-horizons.pl
 blacklist_from contact@saeclum.pl
 blacklist_from controlling@mediaexpln.pl
 blacklist_from coupons@1121cc.com
+blacklist_from coupons@jks988.com
 blacklist_from *@cpatrafficword.com
 blacklist_from *@crmbartar.com
 blacklist_from csk@csk-partner.pl
@@ -437,6 +439,7 @@ blacklist_from diana@mail.jasnowidzeniediana.com
 blacklist_from dieta@doktorbio.net
 blacklist_from digmarsolution@gmail.com
 blacklist_from DK@financial-services.pl
+blacklist_from DK@industrial-finance.pl
 blacklist_from *@dlucasalimentos.icu
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from *@dogoutatx.com
@@ -768,6 +771,7 @@ blacklist_from jr@bankowe-finansowanie.com.pl
 blacklist_from jr@bankowe-finansowanie.pl
 blacklist_from jr@financial-services.pl
 blacklist_from JR@kredyt-firmowy.com.pl
+blacklist_from JR@pozyczki-firmowe.pl
 blacklist_from judyta.kleszko@odszkodowania-pomoc24.pl
 blacklist_from julie.finance@gmail.com
 blacklist_from jums@ttlt.lt
@@ -1338,6 +1342,7 @@ blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
 blacklist_from *@serveread.com
 blacklist_from serverpaypal@megatec.com.br
+blacklist_from service@chinaregistry-shanghai.cn
 blacklist_from service??@mx?.hulsing.xyz
 blacklist_from service?@mx?.hulsing.xyz
 blacklist_from service?@mx?.manechine.xyz
