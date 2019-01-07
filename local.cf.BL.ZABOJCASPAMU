@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-01-07 13:20 
+# Wygenerowana 2019-01-07 14:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1298,6 +1298,7 @@ blacklist_from returns@server45.budynki-osuszanie.pl
 blacklist_from returns@server67.internetisp.net.pl
 blacklist_from RH@industrial-finance.pl
 blacklist_from RH@pozyczki-firmowe.pl
+blacklist_from *@riserecruiters.info
 blacklist_from robert.lotecki@car-leasing.pl
 blacklist_from robertomoretti2003@gmail.com
 blacklist_from robert.wojcik@energysaver.com.pl
@@ -1442,6 +1443,7 @@ blacklist_from szkolenie@certyfikowane-szkolenie.pl
 blacklist_from szkolenie@systemszkolenia.pl
 blacklist_from szukaj@wyszukiwalnia.pl
 blacklist_from tadeusz.krostka@eu.kruk.pl
+blacklist_from *@tamtuongacotec.icu
 blacklist_from *@tanisklad.dla-najlepszych.pl
 blacklist_from targetmarketing@emailing2.info.pl
 blacklist_from tatyana@event-tm.biz.ua
@@ -1575,6 +1577,7 @@ blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
 blacklist_from zlotorzynska@owal12.edu.pl
+blacklist_from *@z.mailifter.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@alfa-omega.services
 blacklist_from zwrotki@informail.infor.pl
