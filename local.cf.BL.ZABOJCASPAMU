@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-01-10 13:10 
+# Wygenerowana 2019-01-10 14:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -88,6 +88,7 @@ blacklist_from *@autohood.icu
 blacklist_from *@avenasecurity.icu
 blacklist_from *@avoxxworld.icu
 blacklist_from *@avrape.com
+blacklist_from *@avsallarhaber.icu
 blacklist_from AW@bankowe-finansowanie.com.pl
 blacklist_from AW@finansowanie-firmy.pl
 blacklist_from AW@kredyt-firmowy.com.pl
@@ -350,6 +351,7 @@ blacklist_from bounce-539547@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-65608305@bounce.mail-zg367.getresponse.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounced@euve?????.serverprofi24.com
+blacklist_from *@bounce.email-reedexpo.com
 blacklist_from bounce@eskk.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
@@ -427,6 +429,7 @@ blacklist_from *@cztengran.icu
 blacklist_from czytelnicy@controlling-zarzadzanie.pl
 blacklist_from *@dailypowerhour.info
 blacklist_from damian.kaszuba@lpkruk.eu
+blacklist_from *@danbauthayhung.icu
 blacklist_from darek@bankowe-finansowanie.pl
 blacklist_from Darek.Malik@Wyjazdy-24.pl
 blacklist_from databases.en@company-catalogs.com
