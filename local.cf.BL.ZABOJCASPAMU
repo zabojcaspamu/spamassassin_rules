@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-01-19 10:20 
+# Wygenerowana 2019-01-19 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -390,6 +390,7 @@ blacklist_from BU@financial-services.pl
 blacklist_from BU@finansowanie-rozwoju.com.pl
 blacklist_from BU@kredyt-firmy.pl
 blacklist_from BU@kredytowanie-firm.pl
+blacklist_from bulbul.sc@goldenharvestbd.com
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
@@ -766,7 +767,16 @@ blacklist_from info@nonolid.bieszczady.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info.office86@gmx.com
 blacklist_from info@oleariaclemente.it
+blacklist_from info@plustranslators.pw
 blacklist_from info@plustranslex24.site
+blacklist_from info@plustranslex.pw
+blacklist_from info@plus-translit.site
+blacklist_from info@plustsl24.pw
+blacklist_from info@plus-tsl24.site
+blacklist_from info@plus-tsl24.xyz
+blacklist_from info@plus-tsl.pw
+blacklist_from info@plustsl.pw
+blacklist_from info@plustsl.site
 blacklist_from *@info.popularsending.pl
 blacklist_from info@powalok.wlocl.pl
 blacklist_from info@profesjonalnydruk.biz
@@ -792,6 +802,10 @@ blacklist_from info@szkolenia-win.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@tm-event.in.ua
 blacklist_from info@translateplus.site
+blacklist_from info@translation24.pw
+blacklist_from info@transleo24.site
+blacklist_from info@trans-leo.site
+blacklist_from info@translit-plus.pw
 blacklist_from info@tyferet.czest.pl
 blacklist_from info@ulepio.waw.pl
 blacklist_from info@uruu.waw.pl
@@ -1442,6 +1456,7 @@ blacklist_from root@vps608426.ovh.net
 blacklist_from root@vps608979.ovh.net
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps613923.ovh.net
+blacklist_from root@vps623551.ovh.net
 blacklist_from root@vps627154.ovh.net
 blacklist_from root@vps628438.ovh.net
 blacklist_from root@vps628439.ovh.net
