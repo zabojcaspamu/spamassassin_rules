@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2019-01-20
+# Ostatnia aktualizacja 2019-01-27
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -1482,6 +1482,10 @@ header   __ZABOJCASPAMU_NIBYREGION_RECEIVED2 From=~/(?:bok|office|biuro)@/
 meta     ZABOJCASPAMU_NIBYREGION_RECEIVED __ZABOJCASPAMU_NIBYREGION_RECEIVED1 && __ZABOJCASPAMU_NIBYREGION_RECEIVED2 && DKIM_SIGNED && HTML_MESSAGE
 describe ZABOJCASPAMU_NIBYREGION_RECEIVED Spam wysylany przez niby regionalne servery
 score    ZABOJCASPAMU_NIBYREGION_RECEIVED 0.7
+
+ header ZABOJCASPAMU_FROM_VPS_OVH From=~/\@vps[0-9]{1,8}\.ovh\.net$/i 
+ describe ZABOJCASPAMU_FROM_VPS_OVH From misconfigured VPS on ovh.net 
+ score ZABOJCASPAMU_FROM_VPS_OVH 10
 
 # Przypadkowy ciag znakow w From
 # http://zabojcaspamu.pl/przypadkowy-ciag-znakow-loginie/
