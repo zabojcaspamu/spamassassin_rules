@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-01-31 18:00 
+# Wygenerowana 2019-01-31 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -128,6 +128,7 @@ blacklist_from biuro@acertbum.tgory.pl
 blacklist_from biuro@ajro.lapy.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@almiet.tgory.pl
+blacklist_from biuro@alort.naklo.pl
 blacklist_from biuro@ambu.agro.pl
 blacklist_from biuro@anomi.bialystok.pl
 blacklist_from biuro@bacziami.olsztyn.pl
@@ -138,6 +139,7 @@ blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@bewert.tgory.pl
 blacklist_from biuro@biznesikasa.pl
 blacklist_from biuro@blifig.sejny.pl
+blacklist_from biuro@braet.pisz.pl
 blacklist_from biuro@bulma.waw.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@cds-szkolenia.com.pl
@@ -210,6 +212,7 @@ blacklist_from biuro@omanny.szczecin.pl
 blacklist_from biuro@osztym.jgora.pl
 blacklist_from biuro@oupij.jgora.pl
 blacklist_from biuro@panewkowi.zgora.pl
+blacklist_from biuro@picollo.elk.pl
 blacklist_from biuro@pimo.edu.pl
 blacklist_from biuro@piraniakredyty.pl
 blacklist_from biuro@plant.sejny.pl
@@ -332,6 +335,7 @@ blacklist_from bok@ongis.jgora.pl
 blacklist_from bok@onugar.jgora.pl
 blacklist_from bok@panewkowi.zgora.pl
 blacklist_from bok@parifka.waw.pl
+blacklist_from bok@piachu.pisz.pl
 blacklist_from bok@porto.zgora.pl
 blacklist_from bok@powart.pisz.pl
 blacklist_from bok@rbdo.biz
@@ -634,6 +638,7 @@ blacklist_from *@grovinpat.com
 blacklist_from *@gr-servizi.com
 blacklist_from grss@presidency.com
 blacklist_from *@grupojarisa.com
+blacklist_from grzegorz.jaskula@bi-qliksys.com.pl
 blacklist_from *@gulfmobiletech.icu
 blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@hacksfarm.com
@@ -993,6 +998,7 @@ blacklist_from kontakt@unitedvalue.pl
 blacklist_from kontakt@websiteon.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
 blacklist_from kontakt@zajazduhermanow.pl
+blacklist_from kontakt@zapach-sukcesu.biz
 blacklist_from kopacz.pawel@salesmanago.pl
 blacklist_from korwin-energy-drink@gastrona.pl
 blacklist_from koska.martyna.wiara5@wp.pl
@@ -1240,6 +1246,7 @@ blacklist_from noreply@angielski-z-dojazdem.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
 blacklist_from noreply@bdo.edu.pl
+blacklist_from noreply@bimobile.eu
 blacklist_from noreply@btnews.pl
 blacklist_from noreply@cebltgroup.pl
 blacklist_from noreply@clrpl10u.pl
@@ -1264,6 +1271,7 @@ blacklist_from noreply@nfmail???.pl
 blacklist_from noreply@ofertasuper.pl
 blacklist_from noreply@on-letter.info
 blacklist_from no-reply@ostatnia.pl
+blacklist_from noreply@qualivita.it
 blacklist_from no-reply@smn.gov.ar
 blacklist_from noreply@streaming.qqpp.pl
 blacklist_from noreply@toughbook4you.eu
@@ -1314,6 +1322,7 @@ blacklist_from office@executive-club.com.pl
 blacklist_from office@fifik.zgora.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@gibon.elblag.pl
+blacklist_from office@grwer.pisz.pl
 blacklist_from office@hatme.tgory.pl
 blacklist_from office@helisa.jgora.pl
 blacklist_from office@igieki.zgora.pl
@@ -1332,6 +1341,7 @@ blacklist_from office@loperty.beskidy.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@marep.elk.pl
 blacklist_from office@mazryfko.beskidy.pl
+blacklist_from office@merk.naklo.pl
 blacklist_from office@mijako.waw.pl
 blacklist_from office@millo.agro.pl
 blacklist_from office@monitar.wroclaw.pl
@@ -1339,11 +1349,13 @@ blacklist_from office@movmient.slask.pl
 blacklist_from office@ophyz.beskidy.pl
 blacklist_from office@pemba.elk.pl
 blacklist_from office@prion.jgora.pl
+blacklist_from office@raiczu.elk.pl
 blacklist_from office@rifig.zgora.pl
 blacklist_from office@roszi.pisz.pl
 blacklist_from office@samted.zarow.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@sepys.wlocl.pl
+blacklist_from office@sornul.turek.pl
 blacklist_from office@storki.wegrow.pl
 blacklist_from office@stubi.lapy.pl
 blacklist_from office@uhipok.beskidy.pl
@@ -1774,7 +1786,6 @@ blacklist_from yrtebqj@motherm.eu
 blacklist_from yvlycpf@eurosalm.eu
 blacklist_from yxtonbf@alixeyov.art
 blacklist_from zamowienie@express-contacts.com
-blacklist_from *@zapach-sukcesu.biz
 blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
 blacklist_from zapytanie@swiatlowodorange.pl
