@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-02-02 18:10 
+# Wygenerowana 2019-02-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -379,6 +379,7 @@ blacklist_from bounce-21@bounce.getresponsepl.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-27695001@bounce.mail-zg367.getresponse.com
+blacklist_from bounce2@emd01.net
 blacklist_from bounce2@inboxposta.com
 blacklist_from bounce-32316404@bounce.mail-2b8z3.getresponse.com
 blacklist_from bounce-32316404@bounce.mail-wt775.getresponse.com
@@ -1154,6 +1155,7 @@ blacklist_from *@myparagonhome.com
 blacklist_from *@myphamthuhuong.icu
 blacklist_from *@myzaxysvisit.icu
 blacklist_from m.zielinski@ourexperience.pl
+blacklist_from *@n53.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1260,6 +1262,7 @@ blacklist_from noreply@qualivita.it
 blacklist_from no-reply@smn.gov.ar
 blacklist_from noreply@streaming.qqpp.pl
 blacklist_from noreply@toughbook4you.eu
+blacklist_from noreply@vbnews.pl
 blacklist_from noreply@xcompany.pl
 blacklist_from *@nufanbalafif.com
 blacklist_from obowiazek_informacyjny@easyba.se
@@ -1536,6 +1539,7 @@ blacklist_from *@samochod.szczecin.pl
 blacklist_from *@samochod.warszawa.pl
 blacklist_from *@samochod.wroclaw.pl
 blacklist_from *@samueljharper.com
+blacklist_from sanna@jsd-circuit.com
 blacklist_from sanusfood5@yahoo.com
 blacklist_from sara.mobitechers@gmail.com
 blacklist_from seaman@swsufer.cf
