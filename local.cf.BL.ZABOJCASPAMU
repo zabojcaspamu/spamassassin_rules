@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-02-05 14:20 
+# Wygenerowana 2019-02-05 15:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -484,6 +484,7 @@ blacklist_from *@darwinlui.icu
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from *@datemeetsafe.icu
+blacklist_from *@datiskala.icu
 blacklist_from *@davidisoninc.icu
 blacklist_from dd555835971b597fa0ef2512d985d574@linktrackenv.com
 blacklist_from *@dddmagazine.icu
@@ -851,6 +852,7 @@ blacklist_from info@qurtucta.bieszczady.pl
 blacklist_from info@razemzadamomem.pl
 blacklist_from info@reliser.waw.pl
 blacklist_from info@relista.zgora.pl
+blacklist_from *@info.restarcop.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@sasayama-sec.co.jp
@@ -898,6 +900,7 @@ blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from ireneusz.derka@noaccidents.pl
 blacklist_from irsehlx@eurosalm.eu
+blacklist_from *@iruntraffic.com
 blacklist_from *@isecuritypro.icu
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
