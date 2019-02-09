@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-02-08 23:00 
+# Wygenerowana 2019-02-09 07:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -111,6 +111,7 @@ blacklist_from AW@finansowanie-malychfirm.pl
 blacklist_from AW@firmowe-finansowanie.pl
 blacklist_from aw@kredytowanie-firmowe.pl
 blacklist_from AW@rozwoj-biznesu.com.pl
+blacklist_from *@aytechnoserve.icu
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from *@azhgar.com
 blacklist_from a.zielinska@crzseneka.com.pl
@@ -654,7 +655,10 @@ blacklist_from grss@presidency.com
 blacklist_from *@gruhpavitram.icu
 blacklist_from *@grunertech.icu
 blacklist_from *@grupojarisa.com
+blacklist_from *@gruporealtors.icu
+blacklist_from *@grupospg.icu
 blacklist_from grzegorz.jaskula@bi-qliksys.com.pl
+blacklist_from *@gsmcharity.icu
 blacklist_from *@guitarrapos.icu
 blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@hacksfarm.com
@@ -677,6 +681,7 @@ blacklist_from helpdesk1@admin.pl
 blacklist_from henryk@instagolf.es
 blacklist_from *@heroldgroup.pl
 blacklist_from *@hktdc.com
+blacklist_from *@homelycity.icu
 blacklist_from *@hostclimb.com
 blacklist_from *@hostingscribe.com
 blacklist_from *@host??.parscancer.com
@@ -864,6 +869,7 @@ blacklist_from *@???.interactivepartne-rs.com
 blacklist_from *@*.interactive-partners.me
 blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
+blacklist_from interpol.@coffee.ocn.ne.jp
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from ireneusz.derka@noaccidents.pl
@@ -888,6 +894,7 @@ blacklist_from jeep@baza-firm.biz.pl
 blacklist_from jerzy@instagolf.es
 blacklist_from *@jetmail.pl
 blacklist_from jgutel@eg-mix.pl
+blacklist_from *@jhbogo.com
 blacklist_from *@jimseg.eu
 blacklist_from jk9039133@gmail.com
 blacklist_from j.krolewiecki@bestmice.pl
@@ -932,6 +939,7 @@ blacklist_from *@kashiastrologer.icu
 blacklist_from katarzyna@reklamainternetowaskuteczna.pl
 blacklist_from katarzyna@webazy.pl
 blacklist_from katbor@effectivework.com.pl
+blacklist_from *@kayisimalatya.icu
 blacklist_from kazio.zurawski@wp.pl
 blacklist_from k.dudek@visualcom.pl
 blacklist_from kili0ng@foxmail.com
@@ -1072,6 +1080,7 @@ blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from *@majlisfatih.icu
+blacklist_from *@maksitsoft.icu
 blacklist_from malgorzata.fliszkiewicz@energyopti.pl
 blacklist_from malwina.kwiecien@khomb.com
 blacklist_from *@mangaxonepiece.com
@@ -1117,6 +1126,7 @@ blacklist_from *@mikesezhauling.icu
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
+blacklist_from *@mixawya.icu
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
 blacklist_from mmreturn@magnetdev.com
@@ -1356,6 +1366,7 @@ blacklist_from onsohxr@alixeyov.art
 blacklist_from *@oobo.info
 blacklist_from *@opeluzywany.pl
 blacklist_from *@openmailing.pl
+blacklist_from *@operbangla.com
 blacklist_from opotapova53@gmail.com
 blacklist_from orange@kaami.pl
 blacklist_from orders@zoi.es
@@ -1374,6 +1385,7 @@ blacklist_from *@paglwod.icu
 blacklist_from pam.hughes@gmx.com
 blacklist_from pamrhes@hotmail.com
 blacklist_from panele@paneledaske.pl
+blacklist_from *@papeleraaml.com
 blacklist_from papsupl@lubiszpalicpapierosy.pl
 blacklist_from *@parisnomansion.com
 blacklist_from *@parkervessels.com
@@ -1588,6 +1600,7 @@ blacklist_from softlike@cyklmail.com
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
 blacklist_from *@soroushsanat.icu
+blacklist_from *@souqelsabteya.icu
 blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from *@sprucewriters.icu
 blacklist_from sprzedaz@intia.pl
@@ -1621,6 +1634,7 @@ blacklist_from szkolenie@systemszkolenia.pl
 blacklist_from szukaj@wyszukiwalnia.pl
 blacklist_from tadeusz.krostka@eu.kruk.pl
 blacklist_from *@tanisklad.dla-najlepszych.pl
+blacklist_from *@tarainoxford.icu
 blacklist_from targetmarketing@emailing2.info.pl
 blacklist_from tatyana@event-tm.biz.ua
 blacklist_from techniki@technikiszkolenia.info.pl
@@ -1701,6 +1715,7 @@ blacklist_from warszawa@szkolenia-warszawa24.pl
 blacklist_from warsztaty@zwiekszanie-sprzedazy.warszawa.pl
 blacklist_from warsztaty@zwiekszaniesprzedazy.waw.pl
 blacklist_from *@wasowskiispolka.pl
+blacklist_from *@wataikarate.icu
 blacklist_from *@waynestorey.com
 blacklist_from wconsultantancy1@gmail.com
 blacklist_from *@weareenjaz.icu
@@ -1722,6 +1737,7 @@ blacklist_from wojciech@zwieksz-sprzedaz.pl
 blacklist_from *@wondersquirt.com
 blacklist_from wordpress@prestomedia.site
 blacklist_from wpadmin@igpim.pl
+blacklist_from *@wpbilge.icu
 blacklist_from wtyszkowski@wiselimber.pl
 blacklist_from www-data@brunetprod.nexen.net
 blacklist_from www-data@investorkirov.ru
@@ -1751,6 +1767,7 @@ blacklist_from *@z.ecampaign.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailifter.pl
 blacklist_from zuzanna.kuzma@bdo.net.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@alfa-omega.services
