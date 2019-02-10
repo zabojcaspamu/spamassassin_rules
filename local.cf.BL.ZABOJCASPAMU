@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-02-10 22:00 
+# Wygenerowana 2019-02-10 23:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1333,6 +1333,7 @@ blacklist_from patrycja.kwasniak@effectgroup.pl
 blacklist_from paulina.zak@hrpremium.pl
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
 blacklist_from pawel.szot@law-experts.eu
+blacklist_from *@pennyinyopants.icu
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
 blacklist_from pharmamega@pharmamega.pl
