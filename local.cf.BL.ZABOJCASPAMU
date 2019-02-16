@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-02-16 18:10 
+# Wygenerowana 2019-02-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -342,6 +342,7 @@ blacklist_from bounce-1@bounce.news.morele.net
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-27695001@bounce.mail-zg367.getresponse.com
+blacklist_from bounce2@emd01.net
 blacklist_from bounce-32316404@bounce.mail-2b8z3.getresponse.com
 blacklist_from bounce-32316404@bounce.mail-wt775.getresponse.com
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
@@ -647,6 +648,7 @@ blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@asedaj.zgora.pl
 blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
+blacklist_from info@blaublitz.eu
 blacklist_from info@bluebusinesmedia.com
 blacklist_from info@boserka.jgora.pl
 blacklist_from info@calonyv.slask.pl
@@ -908,6 +910,7 @@ blacklist_from kontakt@e-content.net.pl
 blacklist_from kontakt@e-marketingweb.pl
 blacklist_from kontakt@e-systembiz.pl
 blacklist_from kontakt@ewiss.pl
+blacklist_from kontakt@finance24.com.pl
 blacklist_from kontakt@finansowanie-biznesu.pl
 blacklist_from kontakt@gadzetomania.info.pl
 blacklist_from kontakt@gadzetownia.com.pl
