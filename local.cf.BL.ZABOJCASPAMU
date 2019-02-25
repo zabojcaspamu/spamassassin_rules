@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-02-25 17:00 
+# Wygenerowana 2019-02-25 17:50 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -982,6 +982,7 @@ blacklist_from legal.music?@poczta.pl
 blacklist_from *@legaloprno.com
 blacklist_from lego.3781@envfrm.rsys2.com
 blacklist_from *@leizureflex.com
+blacklist_from *@lenamak.com
 blacklist_from lendon@productcompany.pl
 blacklist_from leon@instagolf.es
 blacklist_from les.matheson@rbs-auditfinancecommittee.co.uk
