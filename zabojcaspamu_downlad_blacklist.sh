@@ -28,17 +28,17 @@ for FILE in ${FILE_BL[*]};do
     echo "$SUMA ${WORK_DIR}/${FILE}" | md5sum -c - >/dev/null
     RETV=$?
     if [ "$RETV" -ne "0" ];then
-       echo "$SIGN_DATA Plik $FILE sciagniety ale suma kontrola sie nie zgadza"  >> ${LOG_FILE}
+       echo "$SIGN_DATA Plik $FILE zostal pobrany, ale suma kontrolna sie nie zgadza"  >> ${LOG_FILE}
        exit 1
     fi
 
     cp -f ${WORK_DIR}/${FILE} ${SAVE_DIR}/${FILE} 2>/dev/null
     RETV=$?
     if [ "$RETV" -ne "0" ];then
-       echo "$SIGN_DATA Plik $FILE sciagniety suma kontrola OK ale przegranie do $SAVE_DIR katalogu sie nie powiodlo"  >> ${LOG_FILE}
+       echo "$SIGN_DATA Plik $FILE zostal pobrany, suma kontrolna OK, ale kopiowanie do folderu $SAVE_DIR sie nie powiodlo"  >> ${LOG_FILE}
        exit 1
     fi
 
-    echo "$SIGN_DATA  Plik $FILE sciagniety i wgrany prawidlowo do $SAVE_DIR"  >> ${LOG_FILE}
+    echo "$SIGN_DATA Plik $FILE zostal pobrany prawidlowo i umieszczony w $SAVE_DIR"  >> ${LOG_FILE}
 done
 
