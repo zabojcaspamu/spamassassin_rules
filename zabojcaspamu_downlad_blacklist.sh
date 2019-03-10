@@ -14,7 +14,7 @@ LOG_FILE="/var/log/zabojcaspamu.log"
 #
 #
 #
-FILE_BL=(local.cf.BL.ZABOJCASPAMU local.cf.BL.SPAMTRAP)
+FILE_BL=(local.cf.BL.ZABOJCASPAMU local.cf.BL.SPAMTRAP local.cf.reguly.ZABOJCASPAMU)
 
 for FILE in ${FILE_BL[*]};do
     SIGN_DATA="[$(date +%Y-%m-%d_%H:%M:%S)]"
