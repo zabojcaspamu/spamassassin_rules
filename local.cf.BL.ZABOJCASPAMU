@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-03-14 16:00 
+# Wygenerowana 2019-03-14 16:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -474,6 +474,7 @@ blacklist_from digimarslution@gmail.com
 blacklist_from digimarsouton@gmail.com
 blacklist_from digimasolution@gmail.com
 blacklist_from digimrsoution@gmail.com
+blacklist_from *@digitalguiders.com
 blacklist_from digmarsoution@gmail.com
 blacklist_from d.kaczmarek@obdyy.com
 blacklist_from DK@finansowanie-malychfirm.pl
@@ -689,6 +690,7 @@ blacklist_from info@euro-noclegi.com
 blacklist_from *@info.fastymail.pl
 blacklist_from *@info.fewmembers.pl
 blacklist_from info@finansowanie-firm.com.pl
+blacklist_from *@info.firelinks.pl
 blacklist_from info@firmajutra.eu
 blacklist_from info@flipmailer.com
 blacklist_from *@info??.flyemail.pl
