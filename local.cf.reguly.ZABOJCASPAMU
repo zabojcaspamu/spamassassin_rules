@@ -1559,3 +1559,15 @@ score ZABOJASPAMU_SPAM_FAKTURA2_ALL 10
  header  ZABOJCASPAMU_MAIL_FROM_ICU  Received=~/\s[a-z]+\.[a-z]+\.icu \([a-z]+\.[a-z]+\.com /
  describe ZABOJCASPAMU_MAIL_FROM_ICU Mail from domain .icu a revDNS .com
  score   ZABOJCASPAMU_MAIL_FROM_ICU  2.5
+ 
+  rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_1   /[\'\"\>](TAK|NIE)[\'\"\<]/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_2   /subject\=(TAK|NIE|Tak|Nie|Zgoda|ZGODA)\W/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_3   /o tre.{1,8}ci (?:TAK|NIE) /
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_4   /(?:NIE w jej temacie|slowem NIE w temacie)/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_5   /odpowied.{1,8} wpisuj.{1,8}c \"nie\"/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_6   /prosimy o odpowied.{1,8} "?TAK/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_7   /">TAK\s*</
+ meta     ZABOJCASPAMU_MAIL_TAKNIE   __ZABOJCASPAMU_MAIL_TAKNIE_1 || __ZABOJCASPAMU_MAIL_TAKNIE_2 || __ZABOJCASPAMU_MAIL_TAKNIE_3 || __ZABOJCASPAMU_MAIL_TAKNIE_4 || __ZABOJCASPAMU_
+MAIL_TAKNIE_5  || __ZABOJCASPAMU_MAIL_TAKNIE_6 || ZABOJCASPAMU_MAIL_TAKNIE_7
+ describe ZABOJCASPAMU_MAIL_TAKNIE   Prawdopodobny TAK lub NIE temat/tresc maila
+ score    ZABOJCASPAMU_MAIL_TAKNIE   2.5
