@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2019-01-27
+# Ostatnia aktualizacja 2019-03-17
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -33,12 +33,6 @@ header		__ZABOJCASPAMU_RP_FOR_THIS_SPAM 	Return-Path=~/-.{2,20}\=WLASNADOMENA@/
 meta		ZABOJCASPAMU_EMAILCOM 	__ZABOJCASPAMU_LOGIN_NAZWISKO && __LOCAL_DOMENA_MAILCOM && __LOCAL_RP_FOR_THIS_SPAM
 describe	ZABOJCASPAMU_EMAILCOM	Adres z nazwiskiem i domena z koncowka email.com
 score		ZABOJCASPAMU_EMAILCOM	0
-
-# przyklad na pary regul
-#
-meta		ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
-describe	ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
-score		ZABOJCASPAMU_TWO_01 	1
 
 # wykrzykniki na koncu tematu
 # https://zabojcaspamu.pl/wykrzykniki-na-koncu-tematu/
