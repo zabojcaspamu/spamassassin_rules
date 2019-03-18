@@ -28,6 +28,7 @@ for FILE in ${FILE_BL[*]};do
     RETV=$?
         if [ "$RETV" -ne "0" ];then
         echo "$SIGN_DATA Plik $FILE sciagniety ale suma kontrola sie nie zgadza"  >> ${LOG_FILE}
+        else
         cp -f ${WORK_DIR}/${FILE} ${SAVE_DIR}/${FILE} 2>/dev/null
         RETV=$?
             if [ "$RETV" -ne "0" ];then
