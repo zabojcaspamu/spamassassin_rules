@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-03-27 20:50 
+# Wygenerowana 2019-03-28 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -411,6 +411,7 @@ blacklist_from bounce-133397@bounce.mail-3i7y8.getresponse.com
 blacklist_from bounce-133397@bounce.mail-zg367.getresponse.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
+blacklist_from bounce2@edm30.hktdc.com
 blacklist_from bounce2@emd01.net
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-8804602@bounce.mail-zg367.getresponse.com
@@ -533,6 +534,7 @@ blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
 blacklist_from *@eclecticasrl.com
 blacklist_from ecojvs@gmail.com
+blacklist_from *@ecopakenergy.icu
 blacklist_from eden@baza-firm.biz.pl
 blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@bomis.eu
@@ -639,6 +641,7 @@ blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
+blacklist_from *@greencapitallc.icu
 blacklist_from Groupon@offerway.pl
 blacklist_from *@grovinpat.com
 blacklist_from *@gr-servizi.com
@@ -658,7 +661,9 @@ blacklist_from hello@seeingar.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from henrydenavarrin@gmail.com
 blacklist_from *@heroldgroup.pl
+blacklist_from *@hindimeintips.com
 blacklist_from *@hktdc.com
+blacklist_from *@homedatxanh.com
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
 blacklist_from *@hprofit.pl
@@ -873,6 +878,7 @@ blacklist_from *@info.xylionmail.pl
 blacklist_from info@yaence.tgory.pl
 blacklist_from info@zawub.lapy.pl
 blacklist_from infu@piomi.pl
+blacklist_from *@ingilizcex.icu
 blacklist_from *@inkersallstars.com
 blacklist_from *@inquisio.pl
 blacklist_from *@???.instytutmarketingu.com
@@ -1000,6 +1006,7 @@ blacklist_from kontakt@prawniktwojejfirmy.pl
 blacklist_from kontakt@progrster.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@r-color.pl
+blacklist_from kontakt@sendeer.pl
 blacklist_from kontakt@sendhub.pl
 blacklist_from kontakt@sendia.pl
 blacklist_from kontakt@skk.com.pl
@@ -1029,6 +1036,7 @@ blacklist_from krzysztof.perzynski@energysaver.com.pl
 blacklist_from krzysztof.r@kruksas.pl
 blacklist_from kstojowska@galentc.pl
 blacklist_from kuchannywaldemar14@wp.pl
+blacklist_from *@kuluckadan.icu
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from leason@zamowienie.org.pl
@@ -1154,6 +1162,7 @@ blacklist_from mirabelwilson2@hotmail.com
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
 blacklist_from mmreturn@magnetdev.com
+blacklist_from m.nawrocki@profesjonalne-tlumaczenia.com
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from m.olesiak@interia.pl
 blacklist_from monika.lawrynowicz@progressproject.pl
@@ -1518,6 +1527,7 @@ blacklist_from *@rashidminhaj.icu
 blacklist_from rb@russellbedford.pl
 blacklist_from r.dys@obdyy.com
 blacklist_from *@realbuzzads.com
+blacklist_from *@realityspec.icu
 blacklist_from recepcja@meta-hotel.pl
 blacklist_from recepcja@zamek-tuczno.pl
 blacklist_from redakcja_mk1@nfmail.pl
@@ -1534,9 +1544,11 @@ blacklist_from reply@romarwit.online
 blacklist_from *@retailshow.pl
 blacklist_from *@retromixfm.icu
 blacklist_from return@evedm.info
+blacklist_from return@hwsrv-474313.hostwindsdns.com
 blacklist_from return@mail.promocjeweb.eu
 blacklist_from return@newsletter.fly.pl
 blacklist_from return-path@centralabanku.com
+blacklist_from returns@bocianbocian.pl
 blacklist_from return@sendbridge.com
 blacklist_from returns@ratowaniemurow.pl
 blacklist_from returns@server03.forummiast.pl
@@ -1674,6 +1686,7 @@ blacklist_from support@square-enix-montreal.mail.helpshift.com
 blacklist_from *@syriusgroup.com
 blacklist_from systememgeolokalizacjisamochodow@support-central.top
 blacklist_from szarpie@alleobozy.pl
+blacklist_from szkolenia@apm.wroclaw.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
 blacklist_from szkolenia@mediaexpln.pl
