@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-04-02 21:40 
+# Wygenerowana 2019-04-03 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -484,6 +484,7 @@ blacklist_from darek@finanse-bankowe.pl
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from *@dawlive.icu
+blacklist_from *@dayiinsaat.icu
 blacklist_from decathlon@productcompany.pl
 blacklist_from decker@ilovepdf.com
 blacklist_from *@decraftfwclt.com
@@ -788,6 +789,7 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@onowlat.zarow.pl
 blacklist_from info@owal55.edu.pl
+blacklist_from *@info.paperstat.pl
 blacklist_from info@parief.tgory.pl
 blacklist_from info@paymtverif.xyz
 blacklist_from info@perpopo.tgory.pl
@@ -828,6 +830,7 @@ blacklist_from info@sasayama-sec.co.jp
 blacklist_from infos@campagnentreprise.top
 blacklist_from *@info.scpectrack.pl
 blacklist_from info@seminaria.pl
+blacklist_from *@info.senderit.pl
 blacklist_from info@servicemailins.cf
 blacklist_from info@silviaastuzia.com
 blacklist_from info@sklep.?-czysto01.pl
@@ -1044,6 +1047,7 @@ blacklist_from lexus@lexus-polska.pl
 blacklist_from libris@libris.edu.pl
 blacklist_from lider.cosmetic@gmail.com
 blacklist_from lilbd@gmail.com
+blacklist_from *@livingcomillas.icu
 blacklist_from liyong.chan@freedefoods.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from logistics@ariesmar.com
@@ -1285,6 +1289,7 @@ blacklist_from odbicia@rodo-ekspert.com.pl
 blacklist_from odbicia@slonecznaenergia.com.pl
 blacklist_from odbicia@sysmot.com.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
+blacklist_from odbicia@szybkie-finansowanie.com.pl
 blacklist_from odpubxt@loomberge.eu
 blacklist_from odrzucone@symen24.pl
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
@@ -1481,6 +1486,7 @@ blacklist_from pzu@tpmcf.com
 blacklist_from *@qkjejugain.icu
 blacklist_from quideledvard7617@gmail.com
 blacklist_from r.adamczyk@bazadfc.pl
+blacklist_from *@rahuljawahar.icu
 blacklist_from *@rajarathaev.icu
 blacklist_from *@rajfashionworld.icu
 blacklist_from rb@russellbedford.pl
@@ -1496,6 +1502,7 @@ blacklist_from reklama@zyciehandlowe.com
 blacklist_from renault@samochod.olsztyn.pl
 blacklist_from *@restoreuva.icu
 blacklist_from *@retailshow.pl
+blacklist_from *@retromixfm.icu
 blacklist_from return@evedm.info
 blacklist_from return@hwsrv-474313.hostwindsdns.com
 blacklist_from return@mail.promocjeweb.eu
@@ -1577,6 +1584,8 @@ blacklist_from *@sendmailcluster.com
 blacklist_from send@powerask.com.pl
 blacklist_from senpingtech@163.com
 blacklist_from *@sensdelivery.com
+blacklist_from sent03@m.fotomagazzino.com
+blacklist_from sent05@m.fotomagazzino.com
 blacklist_from *@seoblust.icu
 blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
@@ -1614,6 +1623,7 @@ blacklist_from skoda@notice4you.pl
 blacklist_from skrzynka@biznesowydoradca.info
 blacklist_from skrzynka@lubiedzemik.pl
 blacklist_from skrzynka@rodo.email
+blacklist_from skrzynka@zaufanylink.pl
 blacklist_from skrzynka@zerkniemy.co.pl
 blacklist_from skrzynka@zobaczymy.co.pl
 blacklist_from sk@systemszkolenia.pl
@@ -1662,7 +1672,6 @@ blacklist_from szkolenia@taxus.edu.pl
 blacklist_from szkolenie@certyfikowane-szkolenie.pl
 blacklist_from szkolenie@systemszkolenia.pl
 blacklist_from szukaj@wyszukiwalnia.pl
-blacklist_from *@szybkie-finansowanie.com.pl
 blacklist_from szymon.bujanowski@pani-oferta.pl
 blacklist_from ta2ana@widget-meteo.com
 blacklist_from tadeusz.krostka@eu.kruk.pl
