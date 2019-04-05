@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-04-05 11:20 
+# Wygenerowana 2019-04-05 12:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -609,6 +609,7 @@ blacklist_from geolokalizacja@companysupport.store
 blacklist_from geolokalizacja@entry-drive.today
 blacklist_from geolokalizacja@localprimary.today
 blacklist_from geolokalizacja@office-brand.today
+blacklist_from *@geophost.icu
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
 blacklist_from ginorossi@brasletik.pl
