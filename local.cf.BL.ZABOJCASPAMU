@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-05-04 16:40 
+# Wygenerowana 2019-05-04 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -453,6 +453,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
 blacklist_from bounce2@edm30.hktdc.com
 blacklist_from bounce2@emd01.net
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-8804602@bounce.mail-zg367.getresponse.com
 blacklist_from *@bounce.bluestatedigital.com
@@ -467,6 +468,9 @@ blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@plan.intel.com
 blacklist_from bounce@pwm0.com
+blacklist_from bounces+5805323-58d9-durbanski=almamarket.pl@subscribe.discovercarhire.com
+blacklist_from bounces+6829188-aad7-info=almamarket.pl@email.euroasiaschem.com
+blacklist_from bounces+84502-bf77-mkapuscinska=almamarket.pl@mail.marcusevans-event.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounces@thinkopen.pl
@@ -537,6 +541,7 @@ blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from daniel.chirica@conferences-united.pl
 blacklist_from danusia.majek@pakowanieozdobne.pl
 blacklist_from darek@finanse-bankowe.pl
+blacklist_from daria.szewczyk@khomb.com
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from david@jl-int.co.kr
@@ -853,7 +858,6 @@ blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@mordayt.zagan.pl
 blacklist_from info@multibanki.pl
 blacklist_from info@nermat.sejny.pl
-blacklist_from *@info.newofficing.pl
 blacklist_from info@news-1etter.xyz
 blacklist_from info@nidenrt.jgora.pl
 blacklist_from info@niemozliwe.com.pl
@@ -1247,9 +1251,6 @@ blacklist_from msp@industrial-sme.pl
 blacklist_from *@muavemaybayre.icu
 blacklist_from *@mundantecno.icu
 blacklist_from m.zielinski@ourexperience.pl
-blacklist_from *@n40.m.okazikmail.pl
-blacklist_from *@n42.m.okazikmail.pl
-blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@napamod.com
@@ -1266,7 +1267,39 @@ blacklist_from *@neverovski.icu
 blacklist_from *@newdadspot.icu
 blacklist_from *@newmessage.eu
 blacklist_from *@news0?.send360.pl
+blacklist_from news101@n101.m.okazikmail.pl
+blacklist_from news1057@n1057.m.okazikmail.pl
+blacklist_from news1097@n1097.z.okazikmail.pl
+blacklist_from news1106@n1106.z.okazikmail.pl
+blacklist_from news116@n116.m.okazikmail.pl
+blacklist_from news129@n129.o.okazikmail.pl
 blacklist_from news1@brr.nazwa.pl
+blacklist_from news34@n34.m.okazikmail.pl
+blacklist_from news359@n359.z.okazikmail.pl
+blacklist_from news376@n376.m.okazikmail.pl
+blacklist_from news40@n40.m.okazikmail.pl
+blacklist_from news42@n42.m.okazikmail.pl
+blacklist_from news454@n454.z.okazikmail.pl
+blacklist_from news46@n46.m.okazikmail.pl
+blacklist_from news470@n470.z.okazikmail.pl
+blacklist_from news494@n494.z.okazikmail.pl
+blacklist_from news505@n505.z.okazikmail.pl
+blacklist_from news515@n515.z.okazikmail.pl
+blacklist_from news52@n52.m.okazikmail.pl
+blacklist_from news561@n561.z.okazikmail.pl
+blacklist_from news625@n625.o.okazikmail.pl
+blacklist_from news636@n636.o.okazikmail.pl
+blacklist_from news639@n639.o.okazikmail.pl
+blacklist_from news661@n661.o.okazikmail.pl
+blacklist_from news725@n725.o.okazikmail.pl
+blacklist_from news741@n741.o.okazikmail.pl
+blacklist_from news763@n763.o.okazikmail.pl
+blacklist_from news808@n808.o.okazikmail.pl
+blacklist_from news83@n83.m.okazikmail.pl
+blacklist_from news87@n87.m.okazikmail.pl
+blacklist_from news88@n88.m.okazikmail.pl
+blacklist_from news94@n94.m.okazikmail.pl
+blacklist_from news96@n96.m.okazikmail.pl
 blacklist_from news@bell-news.de
 blacklist_from *@news??.campaignmail.pl
 blacklist_from *@news??.comfortmail.pl
@@ -1642,6 +1675,7 @@ blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
 blacklist_from *@royalkaua.icu
+blacklist_from rtpath+mbednarczyk=almamarket.pl==kjYWRyPHPEGWo@werwa.net
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
