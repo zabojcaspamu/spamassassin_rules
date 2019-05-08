@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-05-08 14:50 
+# Wygenerowana 2019-05-08 16:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -741,6 +741,7 @@ blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
 blacklist_from info@mailsystems.com.pl
+blacklist_from *@info.mailtracker.pl
 blacklist_from info@maplec.jgora.pl
 blacklist_from info@mbabm.uz
 blacklist_from infomechmasz@mech-masz.com.pl
@@ -1101,6 +1102,7 @@ blacklist_from monitoringgps@it-actives1.world
 blacklist_from monitoringgps@itgen5pro.world
 blacklist_from monitoringgps@primarysales.world
 blacklist_from monitoringgps@sales-local.world
+blacklist_from *@mooicreative.icu
 blacklist_from *@mormonrivals.icu
 blacklist_from *@motherm.eu
 blacklist_from mp@biurozarzadu.pl
@@ -1755,10 +1757,12 @@ blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zenon.krajnik@pani-oferta.pl
+blacklist_from *@zeytineli.icu
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibarokh.icu
 blacklist_from *@zibojinda.com
 blacklist_from zofia@instagolf.es
+blacklist_from *@zoghalemarkazi.icu
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwroty@konferencjeksi.com.pl
