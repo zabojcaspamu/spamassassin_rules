@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-05-19 18:00 
+# Wygenerowana 2019-05-19 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -423,6 +423,7 @@ blacklist_from *@codescat.icu
 blacklist_from coleacp@info.coleacp.org
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
+blacklist_from composite@icomis.com
 blacklist_from conceptronic@conceptronic.pl
 blacklist_from confirmation@pl.pwc.com
 blacklist_from contact@new-horizons.pl
@@ -616,6 +617,7 @@ blacklist_from *@host??.parscancer.com
 blacklist_from *@hprofit.pl
 blacklist_from hr@cherishhealth.net
 blacklist_from hr@palm-plaza.zp.ua
+blacklist_from huda.alghoson4@gmail.com
 blacklist_from huixinsoft11@foxmail.com
 blacklist_from huixinsoft43@foxmail.com
 blacklist_from huixinsoft5@foxmail.com
@@ -1374,6 +1376,7 @@ blacklist_from poradnik@sztefanwons.com
 blacklist_from poradnik@wons123.com
 blacklist_from postmaster@freemailmax.com
 blacklist_from postmaster@gdcc.com.cn
+blacklist_from postmaster@idcmdc.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@netmarketer.com.pl
 blacklist_from postmaster@smtp1.smtp-test.pl
@@ -1611,6 +1614,7 @@ blacklist_from *@thelonemormomma.icu
 blacklist_from *@themoviebomber.icu
 blacklist_from *@thinasudar.icu
 blacklist_from tiger@wmkflt1.com
+blacklist_from timetable@wcc.vic.edu.au
 blacklist_from *@tkmglobalalumni.icu
 blacklist_from tma@ready4hotgirls.site
 blacklist_from t-mobile@mobile.olsztyn.pl
