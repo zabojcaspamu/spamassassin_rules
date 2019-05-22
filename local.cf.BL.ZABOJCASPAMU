@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-05-21 19:40 
+# Wygenerowana 2019-05-22 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -787,13 +787,19 @@ blacklist_from info@plus-translat24.press
 blacklist_from info@plustranslat24.press
 blacklist_from info@plus-translat24.pw
 blacklist_from info@plus-translation24.press
+blacklist_from info@plus-translato.info
+blacklist_from info@plustranslato.info
 blacklist_from info@plustranslator24.press
 blacklist_from info@plus-translator.press
+blacklist_from info@plus-translex24.info
+blacklist_from info@plustranslex24.info
+blacklist_from info@plus-translex.info
 blacklist_from info@plus-translit24.press
 blacklist_from info@plustranslit.site
 blacklist_from info@plus-tsl24.info
 blacklist_from info@plus-tsl.press
 blacklist_from info@plustsl.pw
+blacklist_from info@profesjonalne-finansowanie.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@protranslate-plus24.pw
 blacklist_from info@protranslateplus24.pw
@@ -1414,9 +1420,6 @@ blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
 blacklist_from p.luczak@bestpractice.com.pl
-blacklist_from *@plustranslato.info
-blacklist_from *@plus-translex24.info
-blacklist_from *@plustranslex24.info
 blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
@@ -1492,6 +1495,7 @@ blacklist_from root@vps608426.ovh.net
 blacklist_from root@vps608979.ovh.net
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps613923.ovh.net
+blacklist_from root@vps623551.ovh.net
 blacklist_from root@vps628439.ovh.net
 blacklist_from root@vps628570.ovh.net
 blacklist_from root@vps628572.ovh.net
@@ -1782,6 +1786,7 @@ blacklist_from zofia@instagolf.es
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrot@obczaimy.co.pl
+blacklist_from zwrot@pogodynka.co.pl
 blacklist_from zwroty@konferencjeksi.com.pl
 blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@oobo.info
