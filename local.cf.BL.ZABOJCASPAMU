@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-05-23 21:10 
+# Wygenerowana 2019-05-24 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -755,6 +755,7 @@ blacklist_from info@nn.pl
 blacklist_from info@nortat.zgora.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@onowlat.zarow.pl
+blacklist_from *@info.paperstat.pl
 blacklist_from info@perpopo.tgory.pl
 blacklist_from info@pertyp.pisz.pl
 blacklist_from *@info.pixelmail.pl
@@ -762,11 +763,13 @@ blacklist_from info@plus-translat24.press
 blacklist_from info@plustranslat24.press
 blacklist_from info@plus-translat24.pw
 blacklist_from info@plus-translation.press
+blacklist_from info@plustranslation.press
 blacklist_from info@plus-translato.info
 blacklist_from info@plustranslato.info
 blacklist_from info@plus-translator24.press
 blacklist_from info@plustranslator24.press
 blacklist_from info@plus-translator.press
+blacklist_from info@plustranslators.press
 blacklist_from info@plus-translex24.info
 blacklist_from info@plustranslex24.info
 blacklist_from info@plus-translex.info
@@ -774,6 +777,7 @@ blacklist_from info@plus-translit24.press
 blacklist_from info@plustranslit.site
 blacklist_from info@plus-tsl24.info
 blacklist_from info@plustsl24.press
+blacklist_from info@plus-tsl.info
 blacklist_from info@plus-tsl.press
 blacklist_from info@plustsl.press
 blacklist_from info@plustsl.pw
@@ -892,6 +896,7 @@ blacklist_from kamila.krakowska@whiteone.tk
 blacklist_from kamil.muszynski@szkoleniedofinansowane.pl
 blacklist_from kamil.muszynski@warsztatydofinansowane.pl
 blacklist_from kampania@najlepszeokazje.co.pl
+blacklist_from *@kangoroominty.icu
 blacklist_from kapela@goralska-hora.pl
 blacklist_from karolina.wilczynska@waznawiadomosc.pl
 blacklist_from karolscislicki@obslugamultiinicjatywa.pl
@@ -953,6 +958,7 @@ blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@sendeer.pl
 blacklist_from kontakt@sendhub.pl
 blacklist_from kontakt@seo-za-wynik1.pl
+blacklist_from kontakt@seo-zawyniki.com
 blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@sklep-bwm.pl
 blacklist_from kontakt@skutecznepromocje.pl
@@ -1064,6 +1070,7 @@ blacklist_from marketing@towergraphics.pl
 blacklist_from marlena.szewczyk@khomb.com
 blacklist_from marryaden6@gmail.com
 blacklist_from marta@bezpiecznedokumenty.eu
+blacklist_from marta@nauka-archiwizacji.pl
 blacklist_from marta@przydatnekwalifikacje.pl
 blacklist_from marydan043@bol.com.br
 blacklist_from marzena.szewczyk@khomb.com
@@ -1119,6 +1126,9 @@ blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@firmowe-finansowanie.pl
 blacklist_from msp@industrial-sme.pl
 blacklist_from m.tutiyama@tutiyamagumi.co.jp
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n42.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from narcyz@instagolf.es
@@ -1222,10 +1232,12 @@ blacklist_from odbicia@0kazje.pl
 blacklist_from odbicia@e-marketingowo.pl
 blacklist_from odbicia@e-marketingweb.pl
 blacklist_from odbicia@i-fast.pl
+blacklist_from odbicia@lorbeer-info.eu
 blacklist_from odbicia@mailmedia.com.pl
 blacklist_from odbicia@newmessage.eu
 blacklist_from odbicia@novamo.pl
 blacklist_from odbicia@okazje-info.pl
+blacklist_from odbicia@profesjonalne-finansowanie.pl
 blacklist_from odbicia@sysmot.com.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
 blacklist_from odbicia@szkolenieotwarte.com.pl
@@ -1241,6 +1253,7 @@ blacklist_from ofertaspecjalna@domdevelopment.com.pl
 blacklist_from oferta@szkolenie4u.pl
 blacklist_from *@ofertownia.com.pl
 blacklist_from oferty@multi-banki.pl
+blacklist_from office1@vbs-24.com
 blacklist_from office@76management.com
 blacklist_from office@acuter.lapy.pl
 blacklist_from office@arumach.waw.pl
@@ -1341,6 +1354,7 @@ blacklist_from owocowe777@inboxtouch.co.in
 blacklist_from ozninsp@bestorbit.eu
 blacklist_from paamshomecenter@hotmail.com
 blacklist_from *@paczkoinfo.tk
+blacklist_from *@palmsyrupfc.icu
 blacklist_from pam.hughes@gmx.com
 blacklist_from pamrhes@hotmail.com
 blacklist_from panele@paneledaske.pl
@@ -1453,6 +1467,7 @@ blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
 blacklist_from rzoologiczny-www@mediaexperts.vps.ogicom.net
 blacklist_from sabina.gosik@gmail.com
+blacklist_from *@safarihomesug.icu
 blacklist_from SagePolska@supmail.pl
 blacklist_from sale@geoiptool.com
 blacklist_from sales01@injectionmolding.xyz
