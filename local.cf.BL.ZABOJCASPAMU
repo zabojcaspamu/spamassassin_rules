@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-05-30 23:10 
+# Wygenerowana 2019-05-31 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -39,6 +39,7 @@ blacklist_from admin@beasados.ml
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from admin@lanladen.ga
+blacklist_from admin@limenora.ml
 blacklist_from admin@linosine.gq
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
@@ -1018,7 +1019,6 @@ blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from *@lalagraphy.icu
-blacklist_from *@law2app-news.pl
 blacklist_from leason@zamowienie.org.pl
 blacklist_from *@legalmail.it
 blacklist_from legal.music?@poczta.pl
@@ -1247,6 +1247,7 @@ blacklist_from no-reply@horecanet.pl
 blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from noreply@kamery.srvv.pl
+blacklist_from noreply@law2app-news.pl
 blacklist_from noreply@mail.com
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
@@ -1698,6 +1699,7 @@ blacklist_from *@twoomail.com
 blacklist_from ubnyxpd@fulince.eu
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
+blacklist_from ufvytjp@centroban.eu
 blacklist_from uhnenvh@bestorbit.eu
 blacklist_from *@ulacabs.icu
 blacklist_from ulwybwf@jolinger.eu
