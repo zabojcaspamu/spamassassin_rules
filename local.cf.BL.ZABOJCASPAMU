@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-06-16 18:00 
+# Wygenerowana 2019-06-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -21,6 +21,7 @@ blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@trackingbears.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@zerotrckg.com
+blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@mtrckg.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@trackingbears.com
 blacklist_from 65226e4729270d335b404a42de0ba83d@zerotrckg.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@yelltrack.com
@@ -502,6 +503,7 @@ blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from david@jl-int.co.kr
 blacklist_from dd555835971b597fa0ef2512d985d574@yelltrack.com
+blacklist_from dd555835971b597fa0ef2512d985d574@zerotrckg.com
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
 blacklist_from deepak@itsupportsoftsolutions.com
@@ -1193,6 +1195,7 @@ blacklist_from metu@bariqarabiasjs.tk
 blacklist_from m@eudotacje24.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
 blacklist_from mh@tes.com
+blacklist_from michalina.dys@khomb.com
 blacklist_from michalina.wieczorek@khomb.com
 blacklist_from michalmatusiak@tmdk.com.pl
 blacklist_from michalmatusiak@tmdkdoradca.pl
@@ -1780,6 +1783,7 @@ blacklist_from vlee@evercomm.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
+blacklist_from w1@nikostop.pl
 blacklist_from w3@nikostop.pl
 blacklist_from waller@waller.com.pl
 blacklist_from warszawa@szkolenia-warszawa24.pl
