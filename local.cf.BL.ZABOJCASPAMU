@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-06-21 18:10 
+# Wygenerowana 2019-06-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -66,6 +66,7 @@ blacklist_from ajjuxmj@fulince.eu
 blacklist_from akrivnc@eurosalm.eu
 blacklist_from *@aktywna-firma.pl
 blacklist_from albek@online.kharkov.ua
+blacklist_from aldona.dys@khomb.com
 blacklist_from aldona.piatek@khomb.com
 blacklist_from *@aleelilydesigns.com
 blacklist_from aleksandra.kwiecien@khomb.com
@@ -284,6 +285,7 @@ blacklist_from biuro@signumodszkodowania.pl
 blacklist_from biuro@snorlaks.waw.pl
 blacklist_from biuro@sollyn.zarow.pl
 blacklist_from biuro@sonatiks.agro.pl
+blacklist_from biuro@sopart.zarow.pl
 blacklist_from biuro@spagi.naklo.pl
 blacklist_from biuro@sprawdzgotowke.pl
 blacklist_from biuro@spryciucha.zagan.pl
@@ -347,6 +349,7 @@ blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@clarun.sejny.pl
 blacklist_from bok@coliadan.zgora.pl
 blacklist_from bok@curly.sejny.pl
+blacklist_from bok@cznikaw.pisz.pl
 blacklist_from bok@deciten.pisz.pl
 blacklist_from bok@denom.zarow.pl
 blacklist_from bok@diniort.zgora.pl
@@ -394,10 +397,12 @@ blacklist_from bok@penger.zarow.pl
 blacklist_from bok@perset.zagan.pl
 blacklist_from bok@piachu.pisz.pl
 blacklist_from bok@pology.zagan.pl
+blacklist_from bok@powart.pisz.pl
 blacklist_from bok@prelon.sejny.pl
 blacklist_from bok@pronzo.lapy.pl
 blacklist_from bok@prophka.sejny.pl
 blacklist_from bok@propoc.zagan.pl
+blacklist_from bok@rainitsy.agro.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@rionad.lapy.pl
 blacklist_from bok@roper.lapy.pl
@@ -447,6 +452,7 @@ blacklist_from borsukiewicz.jacek@progressproject.pl
 blacklist_from *@bouledivoire.com
 blacklist_from bounce-15@bounce.news.wip.pl
 blacklist_from bounce-27274202@bounce.mail-zg367.getresponse.com
+blacklist_from bounce2@emd01.net
 blacklist_from bounce-3449303@bounce.mail-zg367.getresponse.com
 blacklist_from bounce-3@bounce.graftonrecruitment.eu
 blacklist_from bounce-448112@bounce.mail-zg367.getresponse.com
@@ -570,6 +576,7 @@ blacklist_from e12be84c8c0b8db9743405996d8008b8@zerotrckg.com
 blacklist_from *@easevision.com
 blacklist_from *@easymlmplans.icu
 blacklist_from *@ebberhealth.com
+blacklist_from ec3678a5bce1a7276393e7630de728fa@zerotrckg.com
 blacklist_from *@eclecticasrl.com
 blacklist_from ecmuldw@bestorbit.eu
 blacklist_from eden@baza-firm.biz.pl
@@ -735,6 +742,7 @@ blacklist_from info@bignote.pl
 blacklist_from info@binecom.jgora.pl
 blacklist_from info@biskroom.zagan.pl
 blacklist_from info@blency.zgora.pl
+blacklist_from info@bnertbas.zagan.pl
 blacklist_from info@brefetan.zarow.pl
 blacklist_from info@cambit.lapy.pl
 blacklist_from info@camitan.zarow.pl
@@ -755,6 +763,7 @@ blacklist_from *@??.infoczystosc.com.pl
 blacklist_from info@dalniger.jgora.pl
 blacklist_from info@darcomn.zarow.pl
 blacklist_from info@darinaf.tgory.pl
+blacklist_from info@dectaw.zgora.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -1403,6 +1412,7 @@ blacklist_from odbicia@szkolenia-ibd.com.pl
 blacklist_from odbicia@szkolenieotwarte.com.pl
 blacklist_from odbicia@uslugidlabiznesu.online
 blacklist_from odbicia@wspolpracabiznesowa.eu
+blacklist_from *@odinforpc.icu
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
@@ -1424,6 +1434,7 @@ blacklist_from office@cortijodelmar.eu
 blacklist_from office@cosualtr.waw.pl
 blacklist_from office@cubbly.pisz.pl
 blacklist_from office@darcil.agro.pl
+blacklist_from office@dazzlem.zagan.pl
 blacklist_from office@dball.pisz.pl
 blacklist_from office@debutu.lapy.pl
 blacklist_from office@demense.lapy.pl
@@ -1512,6 +1523,7 @@ blacklist_from office@voxige.tgory.pl
 blacklist_from office@wartnow.naklo.pl
 blacklist_from office@wede.jgora.pl
 blacklist_from office@wercman.naklo.pl
+blacklist_from office@wielbyt.waw.pl
 blacklist_from office@worten.sejny.pl
 blacklist_from office@wozip.agro.pl
 blacklist_from office@zakinsort.lapy.pl
@@ -1882,7 +1894,6 @@ blacklist_from www-data@ad39.finansowanie-handlu.cloud
 blacklist_from www-data@ad41.finansowanie-handlu.cloud
 blacklist_from www-data@ad42.finansowanie-handlu.cloud
 blacklist_from www-data@ad43.finansowanie-handlu.cloud
-blacklist_from www-data@ad44.finansowanie-handlu.cloud
 blacklist_from www-data@ad45.finansowanie-handlu.cloud
 blacklist_from www-data@ad73.ad2-finansowanie-handlu.cloud
 blacklist_from www-data@investorkirov.ru
