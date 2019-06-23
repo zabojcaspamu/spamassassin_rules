@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2019-01-27
+# Ostatnia aktualizacja 2019-03-17
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -33,12 +33,6 @@ header		__ZABOJCASPAMU_RP_FOR_THIS_SPAM 	Return-Path=~/-.{2,20}\=WLASNADOMENA@/
 meta		ZABOJCASPAMU_EMAILCOM 	__ZABOJCASPAMU_LOGIN_NAZWISKO && __LOCAL_DOMENA_MAILCOM && __LOCAL_RP_FOR_THIS_SPAM
 describe	ZABOJCASPAMU_EMAILCOM	Adres z nazwiskiem i domena z koncowka email.com
 score		ZABOJCASPAMU_EMAILCOM	0
-
-# przyklad na pary regul
-#
-meta		ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
-describe	ZABOJCASPAMU_TWO_01 	( FORGED_OUTLOOK_HTML && MIME_HTML_ONLY) 
-score		ZABOJCASPAMU_TWO_01 	1
 
 # wykrzykniki na koncu tematu
 # https://zabojcaspamu.pl/wykrzykniki-na-koncu-tematu/
@@ -1548,12 +1542,12 @@ meta    ZABOJCASPAMU_NATARCZYWYSPAM_2_VSOFT   __ZABOJCASPAMU_NATARCZYWYSPAM_2_1 
 describe ZABOJCASPAMU_NATARCZYWYSPAM_2_VSOFT Spam grzybica, detektor, klimatyzator ... (rodzaj 2 Very Soft)
 score    ZABOJCASPAMU_NATARCZYWYSPAM_2_VSOFT 1
 
-header ZABOJASPAMU_SPAM_FAKTURA Subject=~/faktur.{1,50}/i
-score ZABOJASPAMU_SPAM_FAKTURA 0.006
-mimeheader ZABOJASPAMU_SPAM_FAKTURA2 Content-Type =~ /faktur.{1,20}\.(rar|zip)/i
-meta ZABOJASPAMU_SPAM_FAKTURA_ALL ZABOJASPAMU_SPAM_FAKTURA && ZABOJASPAMU_SPAM_FAKTURA2
-describe ZABOJASPAMU_SPAM_FAKTURA_ALL Fake faktura
-score ZABOJASPAMU_SPAM_FAKTURA_ALL 10
+header ZABOJCASPAMU_SPAM_FAKTURA Subject=~/faktur.{1,50}/i
+score ZABOJCASPAMU_SPAM_FAKTURA 0.006
+mimeheader ZABOJCASPAMU_SPAM_FAKTURA2 Content-Type =~ /faktur.{1,20}\.(rar|zip)/i
+meta ZABOJCASPAMU_SPAM_FAKTURA_ALL ZABOJASPAMU_SPAM_FAKTURA && ZABOJASPAMU_SPAM_FAKTURA2
+describe ZABOJCASPAMU_SPAM_FAKTURA_ALL Fake faktura
+score ZABOJCASPAMU_SPAM_FAKTURA_ALL 10
 
 header ZABOJASPAMU_SPAM_FAKTURA2_2 Subject=~/Faktu\D*\d*.(MAG|_).*/i
 score ZABOJASPAMU_SPAM_FAKTURA2_2 0.5
@@ -1565,3 +1559,14 @@ score ZABOJASPAMU_SPAM_FAKTURA2_ALL 10
  header  ZABOJCASPAMU_MAIL_FROM_ICU  Received=~/\s[a-z]+\.[a-z]+\.icu \([a-z]+\.[a-z]+\.com /
  describe ZABOJCASPAMU_MAIL_FROM_ICU Mail from domain .icu a revDNS .com
  score   ZABOJCASPAMU_MAIL_FROM_ICU  2.5
+ 
+  rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_1   /[\'\"\>](TAK|NIE)[\'\"\<]/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_2   /subject\=(TAK|NIE|Tak|Nie|Zgoda|ZGODA)\W/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_3   /o tre.{1,8}ci (?:TAK|NIE) /
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_4   /(?:NIE w jej temacie|slowem NIE w temacie)/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_5   /odpowied.{1,8} wpisuj.{1,8}c \"nie\"/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_6   /prosimy o odpowied.{1,8} "?TAK/
+ rawbody     __ZABOJCASPAMU_MAIL_TAKNIE_7   /">TAK\s*</
+ meta     ZABOJCASPAMU_MAIL_TAKNIE   __ZABOJCASPAMU_MAIL_TAKNIE_1 || __ZABOJCASPAMU_MAIL_TAKNIE_2 || __ZABOJCASPAMU_MAIL_TAKNIE_3 || __ZABOJCASPAMU_MAIL_TAKNIE_4 || __ZABOJCASPAMU_MAIL_TAKNIE_5  || __ZABOJCASPAMU_MAIL_TAKNIE_6 || ZABOJCASPAMU_MAIL_TAKNIE_7
+ describe ZABOJCASPAMU_MAIL_TAKNIE   Prawdopodobny TAK lub NIE temat/tresc maila
+ score    ZABOJCASPAMU_MAIL_TAKNIE   2.5
