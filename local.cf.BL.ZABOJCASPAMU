@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-06-22 16:50 
+# Wygenerowana 2019-06-23 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -28,6 +28,7 @@ blacklist_from 65226e4729270d335b404a42de0ba83d@zerotrckg.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@yelltrack.com
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@yelltrack.com
+blacklist_from 860f94a18956df17e20368a35cc06789@trackingbears.com
 blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
 blacklist_from *@a2data.biz.pl
 blacklist_from *@aaingenierie.com
@@ -1048,6 +1049,7 @@ blacklist_from kontakt@*.olix-polska.com
 blacklist_from kontakt@pfw.com.pl
 blacklist_from kontakt@polgift.com.pl
 blacklist_from kontakt@pomocdlafirm.com.pl
+blacklist_from kontakt@pomoc-dla-marka.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@reklama-facebook1.pl
 blacklist_from kontakt@sendhub.pl
@@ -1225,6 +1227,8 @@ blacklist_from msoffice@outsource.szczecin.pl
 blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@industrial-sme.pl
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1656,6 +1660,7 @@ blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from sqamzw@sqam.org
+blacklist_from *@sriveenetrust.xyz
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from StworzymyPL@mailad.pl
 blacklist_from suite5@mailreply.travelist.pl
@@ -1731,6 +1736,7 @@ blacklist_from travelist@offers4you.pl
 blacklist_from trendy@domfan.pl
 blacklist_from trenujzoske@gmail.com
 blacklist_from *@trioconferences.pl
+blacklist_from ttk@taotaosou.com
 blacklist_from *@ttnet.org
 blacklist_from tvp.robi.tortury@panelstyl.com.pl
 blacklist_from *@???.twoja-kolej.tk
