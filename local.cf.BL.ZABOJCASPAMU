@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-06-27 23:10 
+# Wygenerowana 2019-06-28 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -65,6 +65,7 @@ blacklist_from agata.zelman@khomb.com
 blacklist_from *@agl.net
 blacklist_from agnieszka.fischer@printxl.pl
 blacklist_from agnieszka.kurek@effectgroup.pl
+blacklist_from ahrudts@businnes.eu
 blacklist_from a.jankowska@partnerbiznesu.pl
 blacklist_from ajj01@bl.gov.cn
 blacklist_from ajjuxmj@fulince.eu
@@ -132,7 +133,6 @@ blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@yelltrack.com
 blacklist_from bielsko@rgn.pl
-blacklist_from *@binets.eu
 blacklist_from biuro1@galeriasz.pl
 blacklist_from biuro2@galeriasz.pl
 blacklist_from biuro3@galeriasz.pl
@@ -553,6 +553,7 @@ blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from edyta.klos@khomb.com
 blacklist_from edyta.krawczyk@khomb.com
 blacklist_from edyta.kula@khomb.com
+blacklist_from eeeda132d2e506d2e1274c0f103a9eff@yelltrack.com
 blacklist_from *@e-frot.pl
 blacklist_from *@???????.e-infoczystosc.com.pl
 blacklist_from *@??????.e-infoczystosc.com.pl
@@ -1218,6 +1219,8 @@ blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1335,6 +1338,7 @@ blacklist_from odbicia@szkolenia-ibd.com.pl
 blacklist_from odbicia@szkolenieotwarte.com.pl
 blacklist_from odbicia@uslugidlabiznesu.online
 blacklist_from odbicia@wspolpracabiznesowa.eu
+blacklist_from odrzucone@symen24.pl
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
@@ -1779,10 +1783,15 @@ blacklist_from www-data@ad43.finansowanie-handlu.cloud
 blacklist_from www-data@ad45.finansowanie-handlu.cloud
 blacklist_from www-data@ad73.ad2-finansowanie-handlu.cloud
 blacklist_from www-data@investorkirov.ru
+blacklist_from www-data@it11.trading-company.pl
 blacklist_from www-data@it14.trading-company.pl
+blacklist_from www-data@it16.trading-company.pl
+blacklist_from www-data@it20.trading-company.pl
 blacklist_from www-data@it23.trading-company.pl
+blacklist_from www-data@it34.trading-company.pl
 blacklist_from www-data@it36.trading-company.pl
 blacklist_from www-data@it3.trading-company.pl
+blacklist_from www-data@it4.trading-company.pl
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
 blacklist_from wyjatkoweoferty@emaillo.pl
