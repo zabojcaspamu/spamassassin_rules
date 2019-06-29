@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-06-29 17:10 
+# Wygenerowana 2019-06-29 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -11,10 +11,12 @@ blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@mtrckg.com
+blacklist_from 22b63936d25d0f64261552d93c5a407f@yelltrack.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@mtrckg.com
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
+blacklist_from 3ba60910e526171230155335b32fc746@trackingbears.com
 blacklist_from 3ba60910e526171230155335b32fc746@zerotrckg.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@trackingbears.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@yelltrack.com
@@ -41,6 +43,7 @@ blacklist_from 860f94a18956df17e20368a35cc06789@trackingbears.com
 blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@yelltrack.com
 blacklist_from *@a2data.biz.pl
+blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@trackingbears.com
 blacklist_from abby@custommanu.com
 blacklist_from abuse@leclub.com.ve
 blacklist_from ada.kwiecien@khomb.com
@@ -91,6 +94,7 @@ blacklist_from amelia.kowalczyk@stargames.ovh
 blacklist_from amswital@gmail.com
 blacklist_from analyzer@eims.tradeeasy.com
 blacklist_from andrzej.kowalik@kruka.pl
+blacklist_from aneta.dys@khomb.com
 blacklist_from aneta.pytlik@worldwebsite.pl
 blacklist_from angelika.wawer@youmail.pl
 blacklist_from ania@evbsproduct.pl
@@ -130,6 +134,7 @@ blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from bb8a94195ab1bc5b84426d139f4341a3@trackingbears.com
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
+blacklist_from beata.zelman@khomb.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@trackingbears.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@yelltrack.com
 blacklist_from bielsko@rgn.pl
@@ -546,6 +551,7 @@ blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
 blacklist_from *@electricaincii.com
 blacklist_from eliza.kula@khomb.com
+blacklist_from eliza.wieczorek@khomb.com
 blacklist_from e-magazyn@mail.ncplus.pl
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
@@ -1582,6 +1588,7 @@ blacklist_from sent47909@spread18.com
 blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
 blacklist_from *@serveread.com
+blacklist_from server@krn.pl
 blacklist_from serverpaypal@megatec.com.br
 blacklist_from service??@mx?.hulsing.xyz
 blacklist_from service?@mx?.hulsing.xyz
@@ -1730,6 +1737,7 @@ blacklist_from warsztaty@zwiekszaniesprzedazy.waw.pl
 blacklist_from *@wasowskiispolka.pl
 blacklist_from *@waynestorey.com
 blacklist_from wconsultantancy1@gmail.com
+blacklist_from webmaster@arvanitis.gr
 blacklist_from webproduction@webproduction.pl
 blacklist_from weryfikacja@uczciwyprzedsiebiorca.com.pl
 blacklist_from wezleasing18@companiero.waw.pl
@@ -1762,6 +1770,7 @@ blacklist_from www-data@it11.trading-company.pl
 blacklist_from www-data@it14.trading-company.pl
 blacklist_from www-data@it15.trading-company.pl
 blacklist_from www-data@it16.trading-company.pl
+blacklist_from www-data@it17.trading-company.pl
 blacklist_from www-data@it18.trading-company.pl
 blacklist_from www-data@it19.trading-company.pl
 blacklist_from www-data@it1.trading-company.pl
@@ -1770,13 +1779,22 @@ blacklist_from www-data@it21.trading-company.pl
 blacklist_from www-data@it23.trading-company.pl
 blacklist_from www-data@it2.trading-company.pl
 blacklist_from www-data@it34.trading-company.pl
+blacklist_from www-data@it35.trading-company.pl
 blacklist_from www-data@it36.trading-company.pl
+blacklist_from www-data@it38.trading-company.pl
 blacklist_from www-data@it3.trading-company.pl
 blacklist_from www-data@it40.trading-company.pl
 blacklist_from www-data@it43.trading-company.pl
 blacklist_from www-data@it46.trading-company.pl
+blacklist_from www-data@it47.trading-company.pl
+blacklist_from www-data@it48.trading-company.pl
 blacklist_from www-data@it4.trading-company.pl
+blacklist_from www-data@it61.trading-company.pl
+blacklist_from www-data@it62.trading-company.pl
+blacklist_from www-data@it64.trading-company.pl
+blacklist_from www-data@it66.trading-company.pl
 blacklist_from www-data@it68.trading-company.pl
+blacklist_from www-data@it70.trading-company.pl
 blacklist_from www-data@it7.trading-company.pl
 blacklist_from www-data@it9.trading-company.pl
 blacklist_from *@wycenakawalko.pl
