@@ -1,8 +1,10 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-06-30 18:10 
+# Wygenerowana 2019-06-30 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
+blacklist_from 08b62d239754f74ef9577d39106d479c@trackingbears.com
+blacklist_from 0d49abd12ffa246ddab8ab11662da94e@trackingbears.com
 blacklist_from 12345@pintabeer.ru
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@trackingbears.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@yelltrack.com
@@ -38,6 +40,7 @@ blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@yelltrack.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@yelltrack.com
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@zerotrckg.com
+blacklist_from 84e7deaff611c02db147046c0db2f297@trackingbears.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@yelltrack.com
 blacklist_from 860f94a18956df17e20368a35cc06789@mtrckg.com
 blacklist_from 860f94a18956df17e20368a35cc06789@trackingbears.com
@@ -96,6 +99,7 @@ blacklist_from amswital@gmail.com
 blacklist_from analyzer@eims.tradeeasy.com
 blacklist_from andrzej.kowalik@kruka.pl
 blacklist_from aneta.dys@khomb.com
+blacklist_from aneta.mikula@khomb.com
 blacklist_from aneta.pytlik@worldwebsite.pl
 blacklist_from angelika.wawer@youmail.pl
 blacklist_from ania@evbsproduct.pl
@@ -499,6 +503,7 @@ blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from david@jl-int.co.kr
 blacklist_from dd555835971b597fa0ef2512d985d574@mtrckg.com
+blacklist_from dd555835971b597fa0ef2512d985d574@trackingbears.com
 blacklist_from dd555835971b597fa0ef2512d985d574@yelltrack.com
 blacklist_from dd555835971b597fa0ef2512d985d574@zerotrckg.com
 blacklist_from decathlon@productcompany.pl
@@ -614,6 +619,7 @@ blacklist_from foryou@blitzmail.pl
 blacklist_from *@fotografiamila.com
 blacklist_from franczyzaagencjireklamowej@gmail.com
 blacklist_from franczyzareklama@gmail.com
+blacklist_from frank_budman@aim.com
 blacklist_from freedome@intia.pl
 blacklist_from *@frenzydonor.com
 blacklist_from *@frot.pl
@@ -1013,6 +1019,7 @@ blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@aktywnafirma.net.pl
 blacklist_from kontakt@apteka-kamagra.com
+blacklist_from kontakt@bet-win24a.pl
 blacklist_from kontakt@cernn.konin.pl
 blacklist_from kontakt@company-solutions.pl
 blacklist_from kontakt@domenyzhistoria.pl
@@ -1031,6 +1038,8 @@ blacklist_from kontakt@godealla.pl
 blacklist_from kontakt@industrialautomation1.pl
 blacklist_from kontakt@infomarketing.com.pl
 blacklist_from kontakt@*.instytut-marketingu.com
+blacklist_from kontakt@kancelaria-mail1.pl
+blacklist_from kontakt@logotyp-2019.pl
 blacklist_from kontakt-mamczarz@wp.pl
 blacklist_from kontakt@maseczki-dla-zdrowia.pl
 blacklist_from kontakt@mf-mail1.pl
@@ -1636,6 +1645,7 @@ blacklist_from serwis@parscancer.com
 blacklist_from serwis@pogotowie-komputerowe24h.warszawa.pl
 blacklist_from serwis@serwis-laptopow.warszawa.pl
 blacklist_from *@s.explanator.pl
+blacklist_from shaharyr.a.k@gmail.com
 blacklist_from shindak14@cnool.net
 blacklist_from shirish@analab.co.in
 blacklist_from Shirley.Leungi@hanmail.net
@@ -1709,6 +1719,7 @@ blacklist_from teodorhknspqk@thelowtechworks.icu
 blacklist_from terminal@terminalikasa.pl
 blacklist_from test@bj166z.cn
 blacklist_from test@cryptogodfather.net
+blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from timetable@wcc.vic.edu.au
 blacklist_from t-mobile@mobile.olsztyn.pl
@@ -1800,6 +1811,7 @@ blacklist_from www-data@ad43.finansowanie-handlu.cloud
 blacklist_from www-data@ad45.finansowanie-handlu.cloud
 blacklist_from www-data@ad73.ad2-finansowanie-handlu.cloud
 blacklist_from www-data@investorkirov.ru
+blacklist_from www-data@it104.trading-company.pl
 blacklist_from www-data@it10.trading-company.pl
 blacklist_from www-data@it11.trading-company.pl
 blacklist_from www-data@it14.trading-company.pl
@@ -1819,12 +1831,15 @@ blacklist_from www-data@it36.trading-company.pl
 blacklist_from www-data@it38.trading-company.pl
 blacklist_from www-data@it3.trading-company.pl
 blacklist_from www-data@it40.trading-company.pl
+blacklist_from www-data@it42.trading-company.pl
 blacklist_from www-data@it43.trading-company.pl
 blacklist_from www-data@it46.trading-company.pl
 blacklist_from www-data@it47.trading-company.pl
 blacklist_from www-data@it48.trading-company.pl
 blacklist_from www-data@it4.trading-company.pl
 blacklist_from www-data@it51.trading-company.pl
+blacklist_from www-data@it59.trading-company.pl
+blacklist_from www-data@it60.trading-company.pl
 blacklist_from www-data@it61.trading-company.pl
 blacklist_from www-data@it62.trading-company.pl
 blacklist_from www-data@it64.trading-company.pl
