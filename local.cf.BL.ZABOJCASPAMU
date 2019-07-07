@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-07 08:40 
+# Wygenerowana 2019-07-07 09:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -721,6 +721,7 @@ blacklist_from info@euro-noclegi.com
 blacklist_from *@info.fastymail.pl
 blacklist_from info@faussi.pisz.pl
 blacklist_from *@info.fewmembers.pl
+blacklist_from *@info.firelinks.pl
 blacklist_from info@firmajutra.eu
 blacklist_from info@fleetgolt.jgora.pl
 blacklist_from info@flipmailer.com
@@ -1147,6 +1148,7 @@ blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
 blacklist_from *@muscelmen.icu
 blacklist_from *@musfikurrehman.icu
+blacklist_from *@mybetralife.icu
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
