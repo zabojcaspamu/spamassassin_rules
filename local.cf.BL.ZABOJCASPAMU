@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-08 18:20 
+# Wygenerowana 2019-07-08 18:40 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1215,6 +1215,7 @@ blacklist_from *@muscelmen.icu
 blacklist_from *@musfikurrehman.icu
 blacklist_from *@mybetralife.icu
 blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@naijagizo.icu
 blacklist_from *@nanciesnotary.com
