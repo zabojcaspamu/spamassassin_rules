@@ -1,9 +1,10 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-10 15:00 
+# Wygenerowana 2019-07-10 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
 blacklist_from 08b62d239754f74ef9577d39106d479c@trackingbears.com
+blacklist_from 08b62d239754f74ef9577d39106d479c@yelltrack.com
 blacklist_from 08b62d239754f74ef9577d39106d479c@zerotrckg.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@trackingbears.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@yelltrack.com
@@ -226,6 +227,7 @@ blacklist_from biuro@bulma.waw.pl
 blacklist_from biuro@caborms.pisz.pl
 blacklist_from biuro@cadicom.tgory.pl
 blacklist_from *@biuro.caffeprint.eu
+blacklist_from biuro@capitalmoney.pl
 blacklist_from biuro@color24.pl
 blacklist_from biuro@corwalik.zgora.pl
 blacklist_from biuro@curnadas.jgora.pl
@@ -303,6 +305,7 @@ blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
 blacklist_from biuro@protopuls.zgora.pl
 blacklist_from biuro@rankiwo.zarow.pl
+blacklist_from biuro@rebear.jgora.pl
 blacklist_from biuro@renjurt.sejny.pl
 blacklist_from biuro@rentout-ogloszenia.pl
 blacklist_from biuro@rfunk.zagan.pl
@@ -370,22 +373,29 @@ blacklist_from bok@denom.zarow.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@dropuss.zagan.pl
 blacklist_from bok@experat.sejny.pl
+blacklist_from bok@fatenter.zarow.pl
 blacklist_from bok@fleks.tgory.pl
 blacklist_from bok@fornat.lapy.pl
 blacklist_from bok@gaizes.zarow.pl
 blacklist_from bok@garted.zarow.pl
+blacklist_from bok@geforcen.zgora.pl
 blacklist_from bok@goten.zarow.pl
 blacklist_from bok@hiplia.jgora.pl
 blacklist_from bok@holdglam.tgory.pl
+blacklist_from bok@hurpot.zarow.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok@klotor.zgora.pl
+blacklist_from bok@klottet.lapy.pl
 blacklist_from bok@kolotup.lapy.pl
 blacklist_from bok@kydersis.wlocl.pl
 blacklist_from bok@litdead.lapy.pl
 blacklist_from bok@melas.waw.pl
 blacklist_from bok@minipog.zgora.pl
 blacklist_from bok@moorini.tgory.pl
+blacklist_from bok@muten.waw.pl
+blacklist_from bok@nutner.zarow.pl
 blacklist_from bok@oferty-b2b.pl
+blacklist_from bok@onatchza.sejny.pl
 blacklist_from bok@otecion.zagan.pl
 blacklist_from bok@papoliti.zagan.pl
 blacklist_from bok@paredsol.lapy.pl
@@ -906,6 +916,7 @@ blacklist_from info@tra-plus24.info
 blacklist_from info@traplus24.info
 blacklist_from info@traplus.info
 blacklist_from info@twojeokazje.eu
+blacklist_from info@unlyn.pisz.pl
 blacklist_from info@vabad.jgora.pl
 blacklist_from info@versart.zarow.pl
 blacklist_from info@vibeical.jgora.pl
@@ -1280,6 +1291,7 @@ blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
 blacklist_from noreply@bdo.edu.pl
 blacklist_from noreply@bpc-guide.pl
+blacklist_from noreply@btnews.pl
 blacklist_from noreply@clrpl10u.pl
 blacklist_from noreply@clrpsi8.pl
 blacklist_from noreply@domain-admin.com
@@ -1356,6 +1368,7 @@ blacklist_from office@froat.lapy.pl
 blacklist_from office@generab.tgory.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@glodas.zgora.pl
+blacklist_from office@gohan.zagan.pl
 blacklist_from office@hiptune.zgora.pl
 blacklist_from office@hlipersta.agro.pl
 blacklist_from office@impetik.lapy.pl
@@ -1369,6 +1382,7 @@ blacklist_from office@lunorive.lapy.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@mariaz.sejny.pl
 blacklist_from office@miolkip.lapy.pl
+blacklist_from office@notleted.zgora.pl
 blacklist_from office@oriting.lapy.pl
 blacklist_from office@pemba.elk.pl
 blacklist_from office@pinux.naklo.pl
@@ -1387,6 +1401,7 @@ blacklist_from office@uprate.agro.pl
 blacklist_from office@vbs-24.com
 blacklist_from office@vernad.jgora.pl
 blacklist_from office@wede.jgora.pl
+blacklist_from office@worten.sejny.pl
 blacklist_from office@wozip.agro.pl
 blacklist_from ofix-noreply@ofix.pl
 blacklist_from ogonek.alicja52@wp.pl
@@ -1754,6 +1769,9 @@ blacklist_from www-data@it101.trading-company.pl
 blacklist_from www-data@it103.trading-company.pl
 blacklist_from www-data@it104.trading-company.pl
 blacklist_from www-data@it10.trading-company.pl
+blacklist_from www-data@it116.market-investment-group.cloud
+blacklist_from www-data@it117.market-investment-group.cloud
+blacklist_from www-data@it118.market-investment-group.cloud
 blacklist_from www-data@it11.trading-company.pl
 blacklist_from www-data@it14.trading-company.pl
 blacklist_from www-data@it15.trading-company.pl
