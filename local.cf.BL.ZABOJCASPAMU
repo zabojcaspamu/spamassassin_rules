@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-09 20:20 
+# Wygenerowana 2019-07-10 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -30,6 +30,7 @@ blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3af5bee71ac7451afc33249682b197c0@trackingbears.com
+blacklist_from 3af5bee71ac7451afc33249682b197c0@yelltrack.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@zerotrckg.com
 blacklist_from 3ba60910e526171230155335b32fc746@mtrckg.com
 blacklist_from 3ba60910e526171230155335b32fc746@trackingbears.com
@@ -194,6 +195,7 @@ blacklist_from baza@eniro.com
 blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from bb8a94195ab1bc5b84426d139f4341a3@trackingbears.com
+blacklist_from bb8a94195ab1bc5b84426d139f4341a3@zerotrckg.com
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from beata.dys@khomb.com
@@ -442,6 +444,7 @@ blacklist_from bounces@corporacionesmeralda.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@wpacademy.ch
+blacklist_from *@briduchas.icu
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from b@rozwoj-biznesu.pl
@@ -623,6 +626,7 @@ blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
 blacklist_from fed@sfirmowe.pl
 blacklist_from femibion@fiola.pl
+blacklist_from *@filipioncupid.com
 blacklist_from *@finansowanie-dla-firm.com.pl
 blacklist_from finansowanie@kredyt-sme.pl
 blacklist_from *@firebranderp.info
@@ -695,7 +699,9 @@ blacklist_from *@iamversed.com
 blacklist_from *@ibsmuhendislik.com
 blacklist_from icvufzp@gootern.network
 blacklist_from ideabank@productcompany.pl
+blacklist_from *@ieltslinks.info
 blacklist_from iforex@offers4you.pl
+blacklist_from *@iicfindia.info
 blacklist_from ikreqsk@fooders.eu
 blacklist_from ikwakbd@bestorbit.eu
 blacklist_from ilona.czernow@finansuj.biz.pl
@@ -812,6 +818,7 @@ blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
+blacklist_from *@info.mainclick.pl
 blacklist_from info@maplec.jgora.pl
 blacklist_from info@matik.jgora.pl
 blacklist_from *@info.megansprint.pl
@@ -1049,6 +1056,7 @@ blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from *@laserlights-pl.com
+blacklist_from *@latestgujarat.info
 blacklist_from leason@zamowienie.org.pl
 blacklist_from *@legalmail.it
 blacklist_from legal.music?@poczta.pl
@@ -1189,6 +1197,8 @@ blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@naketotshirts.info
 blacklist_from *@nanciesnotary.com
@@ -1260,6 +1270,7 @@ blacklist_from noreply@angielski-z-dojazdem.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
 blacklist_from noreply@bdo.edu.pl
+blacklist_from noreply@bpc-guide.pl
 blacklist_from noreply@clrpl10u.pl
 blacklist_from noreply@clrpsi8.pl
 blacklist_from noreply@domain-admin.com
@@ -1394,6 +1405,7 @@ blacklist_from owhumyj@seven-den.eu
 blacklist_from owoce@baratoquevale.biz
 blacklist_from owoce@dhoommachao.biz
 blacklist_from owocowe777@inboxtouch.co.in
+blacklist_from oznutdq@rostovsh.eu
 blacklist_from paamshomecenter@hotmail.com
 blacklist_from *@paczkoinfo.tk
 blacklist_from pam.hughes@gmx.com
@@ -1486,6 +1498,7 @@ blacklist_from return@mail.promocjeweb.eu
 blacklist_from return@mailray.com
 blacklist_from return@newsletter.fly.pl
 blacklist_from returns@isplist.pl
+blacklist_from returns@kameragdansk.pl
 blacklist_from returns@magicznykrakow.net.pl
 blacklist_from returns@monopole.pl
 blacklist_from returns@polacywolaaliexpress.pl
@@ -1517,7 +1530,6 @@ blacklist_from root@vps637794.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
-blacklist_from *@rostovsh.eu
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
@@ -1605,6 +1617,7 @@ blacklist_from StworzymyPL@mailad.pl
 blacklist_from suite5@mailreply.travelist.pl
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
+blacklist_from support@mailbox-in.com
 blacklist_from support@sf-express.com
 blacklist_from supports@sf-express.com
 blacklist_from *@syriusgroup.com
