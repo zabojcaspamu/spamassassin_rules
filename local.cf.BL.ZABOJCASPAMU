@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-13 18:10 
+# Wygenerowana 2019-07-13 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -66,6 +66,7 @@ blacklist_from 6adf95870c413b1b1ada4431660da4bb@yelltrack.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@zerotrckg.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@trackingbears.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@yelltrack.com
+blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@trackingbears.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@yelltrack.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@mtrckg.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@trackingbears.com
@@ -537,6 +538,7 @@ blacklist_from e35672e71daa494b72a978993d3a3032@mtrckg.com
 blacklist_from e35672e71daa494b72a978993d3a3032@trackingbears.com
 blacklist_from e35672e71daa494b72a978993d3a3032@yelltrack.com
 blacklist_from e35672e71daa494b72a978993d3a3032@zerotrckg.com
+blacklist_from e91c5ef13227981374bb160e77f4a018@trackingbears.com
 blacklist_from e91c5ef13227981374bb160e77f4a018@zerotrckg.com
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
@@ -1097,6 +1099,7 @@ blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from maja.mikula@khomb.com
+blacklist_from maklh@netvigator.com
 blacklist_from marcelina.mikula@khomb.com
 blacklist_from marcin@grovly.eu
 blacklist_from marcin.krolikowski@dosukcesu.com.pl
