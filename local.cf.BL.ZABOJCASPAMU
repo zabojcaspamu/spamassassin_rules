@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-16 23:50 
+# Wygenerowana 2019-07-17 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -54,6 +54,7 @@ blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@trackingbears.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@zerotrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@mtrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@trackingbears.com
+blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@yelltrack.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@zerotrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@mtrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@trackingbears.com
@@ -94,6 +95,7 @@ blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@trackingbears.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@zerotrckg.com
 blacklist_from 860f94a18956df17e20368a35cc06789@trackingbears.com
 blacklist_from 860f94a18956df17e20368a35cc06789@yelltrack.com
+blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@trackingbears.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@yelltrack.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@zerotrckg.com
@@ -492,6 +494,7 @@ blacklist_from contact@saeclum.pl
 blacklist_from controlling@mediaexpln.pl
 blacklist_from *@cpatrafficword.com
 blacklist_from csk@csk-partner.pl
+blacklist_from *@curiososmedia.xyz
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from czytelnicy@controlling-zarzadzanie.pl
@@ -566,6 +569,7 @@ blacklist_from *@?????.e-infoczystosc.com.pl
 blacklist_from *@????.e-infoczystosc.pl
 blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
+blacklist_from elcuwws@onlinepms.eu
 blacklist_from *@electricaincii.com
 blacklist_from eliza.kula@khomb.com
 blacklist_from eliza.wieczorek@khomb.com
@@ -632,6 +636,7 @@ blacklist_from franczyzareklama@gmail.com
 blacklist_from frank_budman@aim.com
 blacklist_from freedome@intia.pl
 blacklist_from *@frenzydonor.com
+blacklist_from *@freshfashionug.com
 blacklist_from *@frot.pl
 blacklist_from fump@szkoleniapraktyczne.com.pl
 blacklist_from *@fundacjakibica.pl
@@ -644,6 +649,7 @@ blacklist_from *@garyblumbergpc.com
 blacklist_from gastrona@gastrona.pl
 blacklist_from gazetaokrug@gmail.com
 blacklist_from *@gbcleaners.com
+blacklist_from *@geohyper.com
 blacklist_from geolokalizacja@brand-primary.today
 blacklist_from geolokalizacja@entrybrand.agency
 blacklist_from geolokalizacja@entry-general.today
@@ -820,6 +826,7 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@ontion.pisz.pl
 blacklist_from info@owal82.edu.pl
+blacklist_from *@info.paperstat.pl
 blacklist_from info@peentaa.com
 blacklist_from *@info.pixelmail.pl
 blacklist_from info@plotlet.jgora.pl
@@ -1783,6 +1790,7 @@ blacklist_from www-data@it96.trading-company.pl
 blacklist_from www-data@it97.trading-company.pl
 blacklist_from www-data@it98.trading-company.pl
 blacklist_from www-data@it9.trading-company.pl
+blacklist_from www-data@mc4.market-center.cloud
 blacklist_from www-data@mi10.market-investment.cloud
 blacklist_from *@wwwgmk.co
 blacklist_from *@wycenakawalko.pl
