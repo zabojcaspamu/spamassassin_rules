@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-18 19:50 
+# Wygenerowana 2019-07-19 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -67,6 +67,7 @@ blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@yelltrack.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@zerotrckg.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@trackingbears.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@yelltrack.com
+blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@zerotrckg.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@trackingbears.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@yelltrack.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@trackingbears.com
@@ -119,6 +120,7 @@ blacklist_from a448abe446474c935b700884cd1bb00f@zerotrckg.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@zerotrckg.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@trackingbears.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@yelltrack.com
+blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@zerotrckg.com
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@trackingbears.com
 blacklist_from abby@custommanu.com
 blacklist_from abuse@leclub.com.ve
@@ -429,6 +431,7 @@ blacklist_from bounceback@rx.mapic.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@content.pwc.com
 blacklist_from bounced@euve?????.serverprofi24.com
+blacklist_from bounce@ebr-list.com
 blacklist_from bounce@eshipt.com
 blacklist_from bounce@eskk.pl
 blacklist_from *@bounce.freshmail.pl
@@ -950,6 +953,7 @@ blacklist_from *@jupiter.salesmanago.pl
 blacklist_from justyna.mejlun@multiexpo.pl
 blacklist_from jw@ema-dent.pl
 blacklist_from k1@kalendarz-na-2020.pl
+blacklist_from k2@kalendarzdata.pl
 blacklist_from k3@zamow-kalendarz.pl
 blacklist_from *@kabelpol.dla-najlepszych.pl
 blacklist_from kadarisman@rspp.co.id
@@ -1175,6 +1179,8 @@ blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1616,6 +1622,7 @@ blacklist_from terminal@terminalikasa.pl
 blacklist_from teste@awtrans.pt
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
+blacklist_from *@tevarit.co
 blacklist_from thompsonpaterson@office.com
 blacklist_from tiger@wmfac01.com
 blacklist_from t-mobile@mobile.olsztyn.pl
@@ -1803,4 +1810,5 @@ blacklist_from zwroty@twojapoczta24h.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@wakacje.co.pl
 blacklist_from zwroty@world4me.pl
+blacklist_from zwroty@wupe.co.pl
 blacklist_from zwroty@zostaw.co.pl
