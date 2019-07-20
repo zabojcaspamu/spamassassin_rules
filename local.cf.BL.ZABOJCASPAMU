@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-19 18:20 
+# Wygenerowana 2019-07-20 07:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -45,11 +45,11 @@ blacklist_from 459d54a2634977c9d31b475b7d18fa74@mtrckg.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@yelltrack.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@zerotrckg.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@mtrckg.com
+blacklist_from 4a4371536884599f65414c2a9ee0ec7e@trackingbears.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@yelltrack.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@zerotrckg.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@mtrckg.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@trackingbears.com
-blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@zerotrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@mtrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@trackingbears.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@yelltrack.com
@@ -78,6 +78,7 @@ blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@zerotrckg.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@mtrckg.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@trackingbears.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@yelltrack.com
+blacklist_from 762d5c7d0ce04a7b3909972a39871386@zerotrckg.com
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@mtrckg.com
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@trackingbears.com
@@ -96,6 +97,7 @@ blacklist_from 84e7deaff611c02db147046c0db2f297@trackingbears.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@yelltrack.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@trackingbears.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@zerotrckg.com
+blacklist_from 860f94a18956df17e20368a35cc06789@mtrckg.com
 blacklist_from 860f94a18956df17e20368a35cc06789@trackingbears.com
 blacklist_from 860f94a18956df17e20368a35cc06789@yelltrack.com
 blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
@@ -164,8 +166,6 @@ blacklist_from aleksandra.piatek@khomb.com
 blacklist_from algirdas@mdpholding.lt
 blacklist_from *@alherajksa.com
 blacklist_from alina.seoxpert@gmail.com
-blacklist_from *@aljodada.com
-blacklist_from *@almuntahahrc.com
 blacklist_from *@aloonakno.com
 blacklist_from altanibra@lawyer.com
 blacklist_from *@???????.a.luzno.com.pl
@@ -177,7 +177,6 @@ blacklist_from *@??.a.luzno.com.pl
 blacklist_from amelia.kowalczyk@stargames.ovh
 blacklist_from ammassf@businnes.eu
 blacklist_from amswital@gmail.com
-blacklist_from *@amycrinkle.com
 blacklist_from analyzer@eims.tradeeasy.com
 blacklist_from andrzej.kowalik@kruka.pl
 blacklist_from andwater@ip40.ultra-server.jp
@@ -195,9 +194,7 @@ blacklist_from anvix@anvix.pl
 blacklist_from *@aon.at
 blacklist_from aon@qatar.net.qa
 blacklist_from a.poltorak@creator.edu.pl
-blacklist_from *@appslidemedia.com
 blacklist_from *@aprendocroche.com
-blacklist_from *@arabmersalchat.com
 blacklist_from arildo@itgatreinamento.com.br
 blacklist_from *@armaghanbasir.co
 blacklist_from *@artisanka.com
@@ -215,11 +212,9 @@ blacklist_from b2b@blikle.pl
 blacklist_from b3278679f9c487bfdf04020a6a53f4f0@zerotrckg.com
 blacklist_from *@badoo.com
 blacklist_from *@bankowefinansowanie.pl
-blacklist_from *@banksyariahku.com
 blacklist_from barbara@financial-services.pl
 blacklist_from barbara@industrial-sme.pl
 blacklist_from bartczakedward1970@wp.pl
-blacklist_from *@bashook.com
 blacklist_from baza@eniro.com
 blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
@@ -230,10 +225,7 @@ blacklist_from beata.dys@khomb.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@trackingbears.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@yelltrack.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@zerotrckg.com
-blacklist_from *@bidvise.com
 blacklist_from bielsko@rgn.pl
-blacklist_from *@billins.eu
-blacklist_from *@binetrs.art
 blacklist_from biuro2@galeriasz.pl
 blacklist_from biuro@7mail.pl
 blacklist_from biuro@absenergia.pl
@@ -241,22 +233,16 @@ blacklist_from biuro@acertbum.tgory.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@alort.naklo.pl
 blacklist_from biuro@aznert.zarow.pl
-blacklist_from biuro@balocte.pisz.pl
 blacklist_from biuro@belaxo.zarow.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
-blacklist_from biuro@blifig.sejny.pl
-blacklist_from biuro@blyca.jgora.pl
 blacklist_from biuro@bulma.waw.pl
 blacklist_from biuro@caborms.pisz.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@capitalmoney.pl
-blacklist_from biuro@cesina.waw.pl
 blacklist_from biuro@color24.pl
 blacklist_from biuro@corwalik.zgora.pl
-blacklist_from biuro@cratu.sejny.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
-blacklist_from biuro@daymant.pisz.pl
 blacklist_from biuro@debtlawyer.pl
 blacklist_from biuro@deklaut.agro.pl
 blacklist_from biuro@diremon.tgory.pl
@@ -264,8 +250,6 @@ blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doplaw.zgora.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
-blacklist_from biuro@dziolny.zarow.pl
-blacklist_from biuro@emplu.sejny.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
@@ -277,14 +261,11 @@ blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro@forevev.zarow.pl
 blacklist_from biuro@gabency.pisz.pl
 blacklist_from biuro?@galeriasz.pl
-blacklist_from biuro@glablotta.pisz.pl
 blacklist_from biuro@goku.waw.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@gowas.waw.pl
 blacklist_from biuro@grovamp.agro.pl
-blacklist_from biuro@homaps.sejny.pl
 blacklist_from biuro@hotelmagazin.pl
-blacklist_from biuro@huanar.zgora.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@iso-w-firmie.pl
 blacklist_from biuro@jarmac.zgora.pl
@@ -295,13 +276,10 @@ blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@liagen.lapy.pl
-blacklist_from biuro@luksio.agro.pl
-blacklist_from biuro@lulax.pisz.pl
 blacklist_from biuro@marker-poligrafia.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@minitide.agro.pl
-blacklist_from biuro@mishuluak.pisz.pl
 blacklist_from biuro@naleznosci-ai.pl
 blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
@@ -310,7 +288,6 @@ blacklist_from biuro@oback.pisz.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@pencyk.zagan.pl
 blacklist_from biuro@piraniakredyty.pl
-blacklist_from biuro@pliferr.zarow.pl
 blacklist_from biuro@pnetyk.zgora.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
@@ -322,7 +299,6 @@ blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
 blacklist_from biuro@raxillas.zagan.pl
 blacklist_from biuro@renjurt.sejny.pl
-blacklist_from biuro@rentout-ogloszenia.pl
 blacklist_from biuro@rfunk.zagan.pl
 blacklist_from biuro@riokio.zagan.pl
 blacklist_from biuro@sappa.tgory.pl
@@ -369,18 +345,15 @@ blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@aglion.lapy.pl
-blacklist_from bok@ajgora.zagan.pl
 blacklist_from bok@amberno.jgora.pl
 blacklist_from bok@anemat.sejny.pl
 blacklist_from bok@autlizer.jgora.pl
-blacklist_from bok@biznesoweupominki.pl
 blacklist_from bok@blages.lapy.pl
 blacklist_from bok@brilliantec.pisz.pl
 blacklist_from bok@cerber.waw.pl
 blacklist_from bok@chichi.elk.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@curly.sejny.pl
-blacklist_from bok@deciten.pisz.pl
 blacklist_from bok@denom.zarow.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@dropuss.zagan.pl
@@ -398,32 +371,22 @@ blacklist_from bok@hurpot.zarow.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok@kolotup.lapy.pl
 blacklist_from bok@kydersis.wlocl.pl
-blacklist_from bok@litdead.lapy.pl
-blacklist_from bok@lrek.elk.pl
 blacklist_from bok@lumino.jgora.pl
 blacklist_from bok@melas.waw.pl
 blacklist_from bok@minipog.zgora.pl
-blacklist_from bok@moorini.tgory.pl
-blacklist_from bok@oferty-b2b.pl
 blacklist_from bok@onatchza.sejny.pl
 blacklist_from bok@ovelyner.pisz.pl
-blacklist_from bok@papoliti.zagan.pl
 blacklist_from bok@paredsol.lapy.pl
 blacklist_from bok@partent.sejny.pl
 blacklist_from bok@perhyn.pisz.pl
 blacklist_from bok@piachu.pisz.pl
-blacklist_from bok@pology.zagan.pl
 blacklist_from bok@posile.zagan.pl
 blacklist_from bok@powart.pisz.pl
-blacklist_from bok@pronzo.lapy.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@rionad.lapy.pl
 blacklist_from bok@roper.lapy.pl
-blacklist_from bok@saklundo.pisz.pl
-blacklist_from bok@serdag.agro.pl
 blacklist_from bok@sprycellart.agro.pl
 blacklist_from bok@super-auto.eu
-blacklist_from bok@sutrew.waw.pl
 blacklist_from bok@szon.waw.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@trewact.jgora.pl
@@ -453,14 +416,12 @@ blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@reumatrnava.eu
-blacklist_from bounces@corporacionesmeralda.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@wpacademy.ch
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bronzeajans.co
-blacklist_from b@rozwoj-biznesu.pl
 blacklist_from *@bsuportal.com
 blacklist_from BU@finanse-bankowe.pl
 blacklist_from bu@rozwoj-biznesu.pl
@@ -471,7 +432,6 @@ blacklist_from bwzz@kig.pl
 blacklist_from *@californiawires.com
 blacklist_from camaieu@nl.camaieu.com
 blacklist_from *@camilasegal.com
-blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
 blacklist_from carolina.lemos@planejamento.mg.gov.br
@@ -514,12 +474,12 @@ blacklist_from *@cucksessions.co
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from czytelnicy@controlling-zarzadzanie.pl
+blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@mtrckg.com
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@trackingbears.com
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@yelltrack.com
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from darek@finanse-bankowe.pl
 blacklist_from daria.klos@khomb.com
-blacklist_from daria@kompetentnasekretarka.pl
 blacklist_from dart@hokoli.ml
 blacklist_from dart@lopoto.cf
 blacklist_from databases.en@company-catalogs.com
@@ -527,7 +487,6 @@ blacklist_from databases.pl@company-catalogs.com
 blacklist_from dd555835971b597fa0ef2512d985d574@mtrckg.com
 blacklist_from dd555835971b597fa0ef2512d985d574@trackingbears.com
 blacklist_from dd555835971b597fa0ef2512d985d574@yelltrack.com
-blacklist_from dd555835971b597fa0ef2512d985d574@zerotrckg.com
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
 blacklist_from dee7550ce9815b2fcefdb10c3f390608@mtrckg.com
@@ -564,6 +523,7 @@ blacklist_from e91c5ef13227981374bb160e77f4a018@zerotrckg.com
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
 blacklist_from ec3678a5bce1a7276393e7630de728fa@trackingbears.com
+blacklist_from ec3678a5bce1a7276393e7630de728fa@yelltrack.com
 blacklist_from ec3678a5bce1a7276393e7630de728fa@zerotrckg.com
 blacklist_from *@eclecticasrl.com
 blacklist_from ecmuldw@bestorbit.eu
@@ -592,7 +552,6 @@ blacklist_from *@einternetmarketing.net
 blacklist_from elcuwws@onlinepms.eu
 blacklist_from *@electricaincii.com
 blacklist_from eliza.wieczorek@khomb.com
-blacklist_from e-magazyn@mail.ncplus.pl
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
@@ -617,7 +576,6 @@ blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
 blacklist_from ewa.gruszczyk@grupainfomax.com
 blacklist_from ewa.swat@khomb.com
-blacklist_from ewelina.tymoniuk@multiexpo.pl
 blacklist_from export@sanusfood.com
 blacklist_from *@express-contacts.com
 blacklist_from extraportfel@newspoczta.pl
@@ -666,7 +624,6 @@ blacklist_from *@garyblumbergpc.com
 blacklist_from gastrona@gastrona.pl
 blacklist_from gazetaokrug@gmail.com
 blacklist_from *@gbcleaners.com
-blacklist_from *@geohyper.com
 blacklist_from geolokalizacja@brand-primary.today
 blacklist_from geolokalizacja@entrybrand.agency
 blacklist_from geolokalizacja@entry-general.today
@@ -674,10 +631,8 @@ blacklist_from geolokalizacja@focusstartup.today
 blacklist_from geolokalizacja@pro0data.world
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
-blacklist_from *@gimnasiobodylab.com
 blacklist_from ginorossi@brasletik.pl
 blacklist_from *@giopik.co.ua
-blacklist_from *@godanengg.com
 blacklist_from gogastro@gastrona.pl
 blacklist_from goldenbrand@goldenbrand.eu
 blacklist_from *@golenasrin.com
@@ -731,7 +686,6 @@ blacklist_from info@advicemedem.it
 blacklist_from info@agro-michalscy.pl
 blacklist_from info@aktywnyrozwoj.biz.pl
 blacklist_from info.alfahimuae@gmail.com
-blacklist_from *@info.ambermail.pl
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@bestmailing24.pl
@@ -745,7 +699,6 @@ blacklist_from info@centrum.szkoleniowe.org
 blacklist_from info@charytatywnie-dla-maliny.biz.pl
 blacklist_from info@charytatywnie-dla-maliny.com.pl
 blacklist_from info@charytatywniedlamaliny.net.pl
-blacklist_from info@ciodin.zarow.pl
 blacklist_from info@clably.tgory.pl
 blacklist_from info@colowlat.zarow.pl
 blacklist_from info@cpi-szkolenia.waw.pl
@@ -756,10 +709,8 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
-blacklist_from info@dalniger.jgora.pl
 blacklist_from info@danvex.zarow.pl
 blacklist_from info@darcomn.zarow.pl
-blacklist_from info@dectaw.zgora.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -774,7 +725,6 @@ blacklist_from info@emalburt.naklo.pl
 blacklist_from info@energooszczedne-ogrzewanie.pl
 blacklist_from info@ersl.info
 blacklist_from info@euro-noclegi.com
-blacklist_from *@info.fasttrackmail.pl
 blacklist_from *@info.fastymail.pl
 blacklist_from info@faussi.pisz.pl
 blacklist_from *@info.fewmembers.pl
@@ -819,7 +769,6 @@ blacklist_from info@kursbhp24.pl
 blacklist_from info@lammo.zarow.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@leurset.zagan.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lormut.tgory.pl
@@ -842,7 +791,6 @@ blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@multibanki.pl
 blacklist_from info@najlepsze-promocje-dnia.pl
 blacklist_from info@nato.us
-blacklist_from *@info.newofficing.pl
 blacklist_from info@news-1etter.xyz
 blacklist_from info@niemozliwe.com.pl
 blacklist_from info@nividash.jgora.pl
@@ -850,16 +798,12 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@ontion.pisz.pl
 blacklist_from info@owal82.edu.pl
-blacklist_from *@info.paperstat.pl
 blacklist_from info@peentaa.com
 blacklist_from *@info.pixelmail.pl
-blacklist_from info@plus-protranslate24.info
-blacklist_from info@plusprotranslate24.info
 blacklist_from info@plus-tra24.pw
 blacklist_from info@plustra.info
 blacklist_from info@plustranslate-point24.pw
 blacklist_from info@plustranslatepoint.pw
-blacklist_from info@plus-translat.press
 blacklist_from info@plus-tra.pw
 blacklist_from info@plustra.pw
 blacklist_from *@info.popularsending.pl
@@ -868,7 +812,6 @@ blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@prolinkplus.info
 blacklist_from info@proplus-point.info
 blacklist_from info@proplus-tra24.info
-blacklist_from info@protranslplus.info
 blacklist_from info@protra-plus24.info
 blacklist_from info@protraplus24.pw
 blacklist_from info@protra-plus.info
@@ -877,7 +820,7 @@ blacklist_from info@protra-plus.pw
 blacklist_from info@psprr.pl
 blacklist_from info@publikmusik.pl
 blacklist_from info@rafatut.zarow.pl
-blacklist_from info@redzikaweet.jgora.pl
+blacklist_from info@raystter.com
 blacklist_from info@remart.zagan.pl
 blacklist_from info@rigidparts.online
 blacklist_from informacja@wydawnicza.info.pl
@@ -885,7 +828,6 @@ blacklist_from *@informail.infor.pl
 blacklist_from info@sasayama-sec.co.jp
 blacklist_from *@info.scpectrack.pl
 blacklist_from info@seminaria.pl
-blacklist_from *@info.senderit.pl
 blacklist_from infos@govoyages.com
 blacklist_from info@silviaastuzia.com
 blacklist_from info@skapinie.lapy.pl
@@ -894,7 +836,6 @@ blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
 blacklist_from info@statsoft.pl
-blacklist_from info@sywnoh.sejny.pl
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@t-itplus24.info
@@ -917,8 +858,6 @@ blacklist_from info@transl-plus24.pw
 blacklist_from info@translplus24.pw
 blacklist_from info@transl-plus.pw
 blacklist_from info@translplus.pw
-blacklist_from info@tra-plus24.info
-blacklist_from info@traplus24.info
 blacklist_from info@tra-plus24.pw
 blacklist_from info@traplus24.pw
 blacklist_from info@traplus.info
@@ -932,7 +871,6 @@ blacklist_from info@wifisquare.pl
 blacklist_from info@windykacja-24h.pl
 blacklist_from info@wypoczywaj-w-spa.pl
 blacklist_from *@info.xylionmail.pl
-blacklist_from info@yaence.tgory.pl
 blacklist_from info@yerchyn.lapy.pl
 blacklist_from info@zawub.lapy.pl
 blacklist_from info@zipattio.jgora.pl
@@ -946,7 +884,6 @@ blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
-blacklist_from isof@isoferp.pl
 blacklist_from *@isp-modzelewski.pl
 blacklist_from isupova@tshtt.uz
 blacklist_from *@iszkoleniowo.pl
@@ -997,7 +934,6 @@ blacklist_from katarzyna@webazy.pl
 blacklist_from kazio.zurawski@wp.pl
 blacklist_from kchen@home.taipeitimes.com
 blacklist_from k.dudek@visualcom.pl
-blacklist_from kenny@tip.emailvs.com
 blacklist_from kieko19560101@gmail.com
 blacklist_from kj@hkipnet.net
 blacklist_from kobietyiwino@gmail.com
@@ -1031,13 +967,13 @@ blacklist_from kontakt@f-ppk.pl
 blacklist_from kontakt@gadzety-wydruki.pl
 blacklist_from kontakt@gi-wierzytelnosci.pl
 blacklist_from kontakt@godealla.pl
+blacklist_from kontakt@hosteld25.pl
 blacklist_from kontakt@industrialautomation1.pl
 blacklist_from kontakt@*.instytut-marketingu.com
 blacklist_from kontakt@kampanie-emailing.pl
 blacklist_from kontakt@kancelaria-mail1.pl
 blacklist_from kontakt@logotyp-2019.pl
 blacklist_from kontakt-mamczarz@wp.pl
-blacklist_from kontakt@mf-mail1.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
 blacklist_from kontakt@odbieramto.com.pl
@@ -1094,7 +1030,6 @@ blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
 blacklist_from LR@finanse-bankowe.pl
 blacklist_from lukas@instagolf.es
-blacklist_from lukasz@reklamaseo.waw.pl
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
@@ -1104,7 +1039,6 @@ blacklist_from maciejprzymus123@wp.pl
 blacklist_from *@mafrash.com
 blacklist_from magda.b@pro-activ.pl
 blacklist_from magdalena.wozniak@khomb.com
-blacklist_from *@mail227.atl121.mcsv.net
 blacklist_from mail@comp-net.pl
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mail@freshplaza.de
@@ -1135,11 +1069,11 @@ blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from maja.mikula@khomb.com
 blacklist_from maklh@netvigator.com
+blacklist_from marcel.bonrath@hyidro.com
 blacklist_from marcelina.mikula@khomb.com
 blacklist_from marcin@grovly.eu
 blacklist_from marcin.krolikowski@dosukcesu.com.pl
 blacklist_from marcin.sturek@ad-firma.pl
-blacklist_from marek.kaszowski@managementiso.pl
 blacklist_from marek.kowalik@wyjazdfirmowy.eu
 blacklist_from mariana.cergan@anmdm.ro
 blacklist_from marianna.szewczyk@khomb.com
@@ -1181,7 +1115,6 @@ blacklist_from m@eudotacje24.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
 blacklist_from michalina.dys@khomb.com
 blacklist_from milena.dys@khomb.com
-blacklist_from milena.friebe@4edu.org.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
@@ -1208,8 +1141,6 @@ blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
-blacklist_from *@n40.m.okazikmail.pl
-blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1340,12 +1271,10 @@ blacklist_from office@aracion.pisz.pl
 blacklist_from office@chiops.lapy.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@denstok.jgora.pl
-blacklist_from office@dixio.pisz.pl
 blacklist_from office@dlament.lapy.pl
 blacklist_from office@dmiotniort.zgora.pl
 blacklist_from office@dmorlin.waw.pl
 blacklist_from office@dnionart.tgory.pl
-blacklist_from office@docury.tgory.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@euszer.pisz.pl
 blacklist_from office@executive-club.com.pl
@@ -1361,17 +1290,13 @@ blacklist_from office@impetik.lapy.pl
 blacklist_from office@inoigy.lapy.pl
 blacklist_from office@insinis.pisz.pl
 blacklist_from office@kurtisch.jgora.pl
-blacklist_from office@lewintot.agro.pl
 blacklist_from office@lunorive.lapy.pl
 blacklist_from officemail@thylordzdoing.us
-blacklist_from office@miolkip.lapy.pl
 blacklist_from office@notleted.zgora.pl
 blacklist_from office@pemba.elk.pl
 blacklist_from office@pinux.naklo.pl
 blacklist_from office@plotelly.jgora.pl
-blacklist_from office@poiripo.zarow.pl
 blacklist_from office@posami.jgora.pl
-blacklist_from office@prion.jgora.pl
 blacklist_from office@rectic.pisz.pl
 blacklist_from office@retevon.zgora.pl
 blacklist_from office@scc.org.pl
@@ -1380,12 +1305,10 @@ blacklist_from office@snaploot.zgora.pl
 blacklist_from office@soction.waw.pl
 blacklist_from office@songo.jgora.pl
 blacklist_from office@sornul.turek.pl
-blacklist_from office@stexep.tgory.pl
 blacklist_from office@uprate.agro.pl
 blacklist_from office@vbs-24.com
 blacklist_from office@vernad.jgora.pl
 blacklist_from office@voxige.tgory.pl
-blacklist_from office@wartnow.naklo.pl
 blacklist_from office@wede.jgora.pl
 blacklist_from office@worten.sejny.pl
 blacklist_from office@wozip.agro.pl
@@ -1400,7 +1323,6 @@ blacklist_from olga@biurodrukserwis.pl
 blacklist_from oliwiabaranek@multi-kredyty.com.pl
 blacklist_from *@olympiafsc.com
 blacklist_from omobudejohn11@gmail.com
-blacklist_from *@onlinerse.network
 blacklist_from *@oobo.info
 blacklist_from oopppss@zubizu.icu
 blacklist_from ooppsss@zavazingo.space
@@ -1661,10 +1583,8 @@ blacklist_from *@tevarit.co
 blacklist_from thompsonpaterson@office.com
 blacklist_from tiger@wmfac01.com
 blacklist_from t-mobile@mobile.olsztyn.pl
-blacklist_from tmvp@srv2.chattingwebs.site
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
 blacklist_from tomasz.wisniowski@goodwater.pl
-blacklist_from tomek@kompetentnasekretarka.pl
 blacklist_from tom@tech-powers.com.cn
 blacklist_from *@torell.pl
 blacklist_from toyota@affiliate.szczecin.pl
@@ -1833,7 +1753,6 @@ blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
 blacklist_from *@zlqspaby.co
-blacklist_from *@z.mail-source.net
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwroty@e2gecko.pl
