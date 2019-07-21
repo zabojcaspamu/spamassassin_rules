@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-21 18:10 
+# Wygenerowana 2019-07-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -50,6 +50,7 @@ blacklist_from 4a4371536884599f65414c2a9ee0ec7e@yelltrack.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@zerotrckg.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@mtrckg.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@trackingbears.com
+blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@zerotrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@mtrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@trackingbears.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@yelltrack.com
@@ -72,6 +73,7 @@ blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@yelltrack.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@zerotrckg.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@trackingbears.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@yelltrack.com
+blacklist_from 70dd753eac962f464bc8dc3ba252b18d@zerotrckg.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@trackingbears.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@yelltrack.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@zerotrckg.com
@@ -108,6 +110,7 @@ blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@yelltrack.com
 blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@zerotrckg.com
 blacklist_from 9999ef1f2abc960564e305779a403918@yelltrack.com
 blacklist_from 9999ef1f2abc960564e305779a403918@zerotrckg.com
+blacklist_from 9be714024efad999719a880758348d40@mtrckg.com
 blacklist_from 9be714024efad999719a880758348d40@yelltrack.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@trackingbears.com
@@ -409,6 +412,7 @@ blacklist_from bounceback@rx.mapic.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@content.pwc.com
 blacklist_from bounced@euve?????.serverprofi24.com
+blacklist_from bounce@dlportal.eu
 blacklist_from bounce@ebr-list.com
 blacklist_from bounce@eshipt.com
 blacklist_from bounce@eskk.pl
