@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-23 18:20 
+# Wygenerowana 2019-07-24 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -179,6 +179,7 @@ blacklist_from *@?????.a.luzno.com.pl
 blacklist_from *@????.a.luzno.com.pl
 blacklist_from *@???.a.luzno.com.pl
 blacklist_from *@??.a.luzno.com.pl
+blacklist_from *@amateurbabefuck.co
 blacklist_from amelia.kowalczyk@stargames.ovh
 blacklist_from ammassf@businnes.eu
 blacklist_from amswital@gmail.com
@@ -529,6 +530,7 @@ blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from e12be84c8c0b8db9743405996d8008b8@mtrckg.com
 blacklist_from e12be84c8c0b8db9743405996d8008b8@trackingbears.com
 blacklist_from e12be84c8c0b8db9743405996d8008b8@yelltrack.com
+blacklist_from e12be84c8c0b8db9743405996d8008b8@zerotrckg.com
 blacklist_from e35672e71daa494b72a978993d3a3032@mtrckg.com
 blacklist_from e35672e71daa494b72a978993d3a3032@yelltrack.com
 blacklist_from e35672e71daa494b72a978993d3a3032@zerotrckg.com
@@ -1166,6 +1168,8 @@ blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1634,6 +1638,7 @@ blacklist_from *@travelboozer.co
 blacklist_from travelist@motorun.pl
 blacklist_from travelist@offers4you.pl
 blacklist_from trenujzoske@gmail.com
+blacklist_from *@trevasqueenz.co
 blacklist_from *@trioconferences.pl
 blacklist_from *@ttnet.org
 blacklist_from tvp.robi.tortury@panelstyl.com.pl
@@ -1686,6 +1691,7 @@ blacklist_from wodaeden@companybase.pl
 blacklist_from wojtek.piecyk@themajoridea.com.pl
 blacklist_from *@wondersquirt.com
 blacklist_from *@wpkaka.co
+blacklist_from *@wpmarks.co
 blacklist_from wtyszkowski@wiselimber.pl
 blacklist_from wup-badanie@redsearch.pl
 blacklist_from www-data@ad37.finansowanie-handlu.cloud
@@ -1768,6 +1774,7 @@ blacklist_from www-data@mc4.market-center.cloud
 blacklist_from www-data@mc9.market-center.cloud
 blacklist_from www-data@mi10.market-investment.cloud
 blacklist_from www-data@mm16.market-management.cloud
+blacklist_from www-data@mm17.market-management.cloud
 blacklist_from www-data@mm3.market-management.cloud
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
