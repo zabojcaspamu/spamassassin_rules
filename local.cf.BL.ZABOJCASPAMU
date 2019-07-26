@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-26 17:50 
+# Wygenerowana 2019-07-26 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -40,6 +40,7 @@ blacklist_from 3ba60910e526171230155335b32fc746@mtrckg.com
 blacklist_from 3ba60910e526171230155335b32fc746@trackingbears.com
 blacklist_from 3ba60910e526171230155335b32fc746@yelltrack.com
 blacklist_from 3ba60910e526171230155335b32fc746@zerotrckg.com
+blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@trackingbears.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@yelltrack.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@zerotrckg.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@mtrckg.com
@@ -73,6 +74,7 @@ blacklist_from 70dd753eac962f464bc8dc3ba252b18d@yelltrack.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@zerotrckg.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@mtrckg.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@trackingbears.com
+blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@yelltrack.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@zerotrckg.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@mtrckg.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@trackingbears.com
@@ -263,13 +265,16 @@ blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
 blacklist_from biuro@fastmailing24.pl
+blacklist_from biuro@feline.pisz.pl
 blacklist_from biuro@fesart.lapy.pl
+blacklist_from biuro@figblit.lapy.pl
 blacklist_from biuro@finansowaniefaktur.pl
 blacklist_from biuro@finjami.lapy.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro@forevev.zarow.pl
+blacklist_from biuro@gabency.pisz.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@goku.waw.pl
 blacklist_from biuro@google1st.pl
@@ -288,11 +293,13 @@ blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kram.zgora.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
+blacklist_from biuro@latten.lapy.pl
 blacklist_from biuro@liagen.lapy.pl
 blacklist_from biuro@luksio.agro.pl
 blacklist_from biuro@lulax.pisz.pl
 blacklist_from biuro@marker-poligrafia.pl
 blacklist_from biuro@mastersend.pl
+blacklist_from biuro@maticiat.zagan.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@minitide.agro.pl
 blacklist_from biuro@naleznosci-ai.pl
@@ -302,6 +309,7 @@ blacklist_from biuro@nylyn.pisz.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@paworf.pisz.pl
 blacklist_from biuro@pencyk.zagan.pl
+blacklist_from biuro@perdep.pisz.pl
 blacklist_from biuro@piraniakredyty.pl
 blacklist_from biuro@pnetyk.zgora.pl
 blacklist_from biuro@polskie-ksiazki.pl
@@ -744,6 +752,7 @@ blacklist_from info@euro-noclegi.com
 blacklist_from *@info.everlastmail.pl
 blacklist_from *@info.fasttrackmail.pl
 blacklist_from *@info.fastymail.pl
+blacklist_from info@faussi.pisz.pl
 blacklist_from *@info.fewmembers.pl
 blacklist_from *@info.firelinks.pl
 blacklist_from info@firmajutra.eu
@@ -1011,6 +1020,7 @@ blacklist_from kontakt@twoje-finanse48h.pl
 blacklist_from kontakt@twojrozwoj.biz.pl
 blacklist_from kontakt@unitedvalue.pl
 blacklist_from kontakt@websiteon.pl
+blacklist_from kontakt@winnmer.pl
 blacklist_from kontakt@winwi.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
 blacklist_from kontakt@wykupfaktur.com
@@ -1218,6 +1228,7 @@ blacklist_from noreplay@euro-konsulting.pl
 blacklist_from no-replay@nfmail???.pl
 blacklist_from noreply2@mediateam.pl
 blacklist_from noreply@adletter.pl
+blacklist_from no_reply@administrator.com
 blacklist_from noreply@angielski-z-dojazdem.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
@@ -1303,6 +1314,7 @@ blacklist_from office@hlipersta.agro.pl
 blacklist_from office@impetik.lapy.pl
 blacklist_from office@impont.sejny.pl
 blacklist_from office@insinis.pisz.pl
+blacklist_from office@kimini.sejny.pl
 blacklist_from office@kurtisch.jgora.pl
 blacklist_from office@lunorive.lapy.pl
 blacklist_from officemail@thylordzdoing.us
