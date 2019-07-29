@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-28 18:20 
+# Wygenerowana 2019-07-29 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -18,6 +18,7 @@ blacklist_from 1443d3d2183876285ba1cc7129976c5e@zerotrckg.com
 blacklist_from *@163.com
 blacklist_from 1ca587114fbd5bcb20d89d0c30b1e974@mtrckg.com
 blacklist_from 1ca587114fbd5bcb20d89d0c30b1e974@trackingbears.com
+blacklist_from 1ca587114fbd5bcb20d89d0c30b1e974@yelltrack.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
@@ -129,8 +130,10 @@ blacklist_from a448abe446474c935b700884cd1bb00f@yelltrack.com
 blacklist_from a448abe446474c935b700884cd1bb00f@zerotrckg.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@mtrckg.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@trackingbears.com
+blacklist_from a47a5e4d9e35c04f128fe71270e1a762@yelltrack.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@zerotrckg.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@trackingbears.com
+blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@yelltrack.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@zerotrckg.com
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@trackingbears.com
 blacklist_from abby@custommanu.com
@@ -231,6 +234,7 @@ blacklist_from bfacf5665a8e605d290200f2d49e275c@trackingbears.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@yelltrack.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@zerotrckg.com
 blacklist_from bielsko@rgn.pl
+blacklist_from *@bimetalwasher.com
 blacklist_from biuro2@galeriasz.pl
 blacklist_from biuro@7mail.pl
 blacklist_from biuro@absenergia.pl
@@ -407,6 +411,7 @@ blacklist_from bounce@eshipt.com
 blacklist_from bounce@eskk.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
+blacklist_from bounce@giochixl.eu
 blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
@@ -613,6 +618,7 @@ blacklist_from frank_budman@aim.com
 blacklist_from freedome@intia.pl
 blacklist_from *@frenzydonor.com
 blacklist_from *@frot.pl
+blacklist_from *@fulldescargasmg.co
 blacklist_from fump@szkoleniapraktyczne.com.pl
 blacklist_from *@fundacjakibica.pl
 blacklist_from fundacja@zbieramyrazem.eu
@@ -660,7 +666,6 @@ blacklist_from helinaoriana@gmail.com
 blacklist_from *@hellineyes.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from *@heroldgroup.pl
-blacklist_from *@hhsmile.co
 blacklist_from *@hktdc.com
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
@@ -1315,6 +1320,7 @@ blacklist_from omobudejohn11@gmail.com
 blacklist_from *@oncloudguide.co
 blacklist_from onfyhwy@timenfor.eu
 blacklist_from *@onlgoods.co
+blacklist_from *@onlinerse.network
 blacklist_from *@oobo.info
 blacklist_from oopppss@zubizu.icu
 blacklist_from ooppsss@zavazingo.space
