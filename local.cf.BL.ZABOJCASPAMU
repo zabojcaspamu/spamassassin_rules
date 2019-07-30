@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-07-30 17:10 
+# Wygenerowana 2019-07-30 17:40 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -632,6 +632,7 @@ blacklist_from goldenbrand@goldenbrand.eu
 blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
+blacklist_from *@gpslens.co
 blacklist_from *@greatglenbikes.com
 blacklist_from *@greentecbd.co
 blacklist_from Groupon@offerway.pl
