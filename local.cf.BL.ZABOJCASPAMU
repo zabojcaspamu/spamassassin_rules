@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-04 18:40 
+# Wygenerowana 2019-08-05 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -130,6 +130,7 @@ blacklist_from *@a2data.biz.pl
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@yelltrack.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@zerotrckg.com
+blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@mtrckg.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@trackingbears.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
 blacklist_from a448abe446474c935b700884cd1bb00f@mtrckg.com
@@ -506,6 +507,7 @@ blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from eeeda132d2e506d2e1274c0f103a9eff@mtrckg.com
 blacklist_from eeeda132d2e506d2e1274c0f103a9eff@trackingbears.com
+blacklist_from eeeda132d2e506d2e1274c0f103a9eff@yelltrack.com
 blacklist_from eeeda132d2e506d2e1274c0f103a9eff@zerotrckg.com
 blacklist_from efde293ee0f04515beb91a29ca7150da@mtrckg.com
 blacklist_from efde293ee0f04515beb91a29ca7150da@trackingbears.com
@@ -840,7 +842,6 @@ blacklist_from internetowyportfel@zawrotneoferty.pl
 blacklist_from *@inxserver.com
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
-blacklist_from *@iranville.com
 blacklist_from isof@isoferp.pl
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
@@ -1037,7 +1038,6 @@ blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from maja.mikula@khomb.com
 blacklist_from maklh@netvigator.com
-blacklist_from *@mapstz.com
 blacklist_from marcel.bonrath@hyidro.com
 blacklist_from marcelina.mikula@khomb.com
 blacklist_from marcin@grovly.eu
@@ -1265,6 +1265,7 @@ blacklist_from okazje@ravelo.pl
 blacklist_from okimasan@yahoo.co.uk
 blacklist_from okrakiem@gmail.com
 blacklist_from oktaykutsal@yahoo.com
+blacklist_from okwutyn@fooders.eu
 blacklist_from olga@biurodrukserwis.pl
 blacklist_from oliwiabaranek@multi-kredyty.com.pl
 blacklist_from *@olympiafsc.com
