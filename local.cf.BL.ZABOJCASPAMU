@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-05 11:10 
+# Wygenerowana 2019-08-05 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -9,8 +9,10 @@ blacklist_from 08b62d239754f74ef9577d39106d479c@yelltrack.com
 blacklist_from 08b62d239754f74ef9577d39106d479c@zerotrckg.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@mtrckg.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@trackingbears.com
+blacklist_from 0d49abd12ffa246ddab8ab11662da94e@yelltrack.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@zerotrckg.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@mtrckg.com
+blacklist_from 1443d3d2183876285ba1cc7129976c5e@trackingbears.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@yelltrack.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@zerotrckg.com
 blacklist_from *@163.com
@@ -209,6 +211,7 @@ blacklist_from antek@vps17888.ovh.net
 blacklist_from *@anteny.dla-najlepszych.pl
 blacklist_from anvix@anvix.pl
 blacklist_from *@aon.at
+blacklist_from apache@linomasa.cf
 blacklist_from a.poltorak@creator.edu.pl
 blacklist_from *@aprendocroche.com
 blacklist_from a.prus@a-ppk.pl
@@ -369,6 +372,7 @@ blacklist_from bok@kolotup.lapy.pl
 blacklist_from bok@kydersis.wlocl.pl
 blacklist_from bok@lumino.jgora.pl
 blacklist_from bok@olpir.naklo.pl
+blacklist_from bok@orbab.naklo.pl
 blacklist_from bok@partent.sejny.pl
 blacklist_from bok@posile.zagan.pl
 blacklist_from bok@rbdo.biz
@@ -791,6 +795,7 @@ blacklist_from info@sklep.?-czysto01.pl
 blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
+blacklist_from info@steelonline.pl
 blacklist_from infos@tongrand.site
 blacklist_from info@sywnoh.sejny.pl
 blacklist_from info@szkolenia-miekkie.pl
@@ -862,6 +867,7 @@ blacklist_from jgutel@eg-mix.pl
 blacklist_from jk9039133@gmail.com
 blacklist_from j.kuszyba@pl.kruk.eu
 blacklist_from joanna_lewandowski@stylestandsalone.com
+blacklist_from joanna@prestomedia.site
 blacklist_from joanna.rogowska@pixers.pl
 blacklist_from joanna.wal@gmail.com
 blacklist_from jones99frank@gmail.com
@@ -892,6 +898,7 @@ blacklist_from kd2@reklamowe-kalendarze.com.pl
 blacklist_from kd3@reklamowe-kalendarze.com.pl
 blacklist_from k.dudek@visualcom.pl
 blacklist_from kieko19560101@gmail.com
+blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from *@kishtafrih.com
 blacklist_from kj@hkipnet.net
 blacklist_from kobietyiwino@gmail.com
@@ -967,6 +974,7 @@ blacklist_from kontakt@winwi.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
 blacklist_from kontakt@zajazduhermanow.pl
 blacklist_from kontrolapaliwa@active-core.agency
+blacklist_from kontrolapaliwa@central-data.agency
 blacklist_from kontrolapaliwa@data-brand.agency
 blacklist_from kontrolapaliwa@drive-services.world
 blacklist_from kontrolapaliwa@point-track.world
@@ -1280,7 +1288,6 @@ blacklist_from *@opeluzywany.pl
 blacklist_from *@openmailing.pl
 blacklist_from opotapova53@gmail.com
 blacklist_from orange@kaami.pl
-blacklist_from *@ormusglow.com
 blacklist_from osii@eff.effect.edu.pl
 blacklist_from osii@gliwice.effect.edu.pl
 blacklist_from otwarte@winners-szkolenia.biz.pl
@@ -1493,6 +1500,7 @@ blacklist_from *@supermailing.com.pl
 blacklist_from support@globe-medical.com
 blacklist_from support@mailbox-in.com
 blacklist_from support@moldingboysforgood.com
+blacklist_from support@security.com
 blacklist_from support@warp9computers.net
 blacklist_from *@syriusgroup.com
 blacklist_from systemgeolokalizacji@entry-brand.agency
@@ -1501,6 +1509,7 @@ blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
 blacklist_from szkolenia@korporacja-arka.pl
+blacklist_from szkolenia@langas-newsletter.pl
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkolenia@platformawiedzy.eu
