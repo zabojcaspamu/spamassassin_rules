@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-06 18:00 
+# Wygenerowana 2019-08-06 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -34,6 +34,7 @@ blacklist_from 2b0024d6441dbf45f344d208ea238016@yelltrack.com
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@mtrckg.com
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@trackingbears.com
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@yelltrack.com
+blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@zerotrckg.com
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
@@ -62,8 +63,10 @@ blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@yelltrack.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@zerotrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@mtrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@zerotrckg.com
+blacklist_from 5fabe079f2338e7b914b725d767a8100@mtrckg.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@yelltrack.com
 blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@trackingbears.com
+blacklist_from 65226e4729270d335b404a42de0ba83d@zerotrckg.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@mtrckg.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@yelltrack.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@zerotrckg.com
@@ -124,6 +127,7 @@ blacklist_from 9ce9d453e19548ba7ae46818b6208352@trackingbears.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@yelltrack.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@zerotrckg.com
 blacklist_from *@a2data.biz.pl
+blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@mtrckg.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@yelltrack.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@zerotrckg.com
@@ -369,6 +373,7 @@ blacklist_from bok@rbdo.biz
 blacklist_from bok@reilop.tgory.pl
 blacklist_from bok@rionad.lapy.pl
 blacklist_from bok@super-auto.eu
+blacklist_from bok@surre.naklo.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@usbox.eu
 blacklist_from *@bollywoolife.com
@@ -536,6 +541,7 @@ blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
 blacklist_from eventy@thetides-conferencecenter.pl
 blacklist_from ewa.gruszczyk@grupainfomax.com
+blacklist_from exjutss@alamerson.art
 blacklist_from export@sanusfood.com
 blacklist_from *@express-contacts.com
 blacklist_from extraportfel@newspoczta.pl
@@ -621,6 +627,7 @@ blacklist_from *@heroldgroup.pl
 blacklist_from *@hktdc.com
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
+blacklist_from hotelpressde@hotelpress.de
 blacklist_from *@hprofit.pl
 blacklist_from huixinsoft11@foxmail.com
 blacklist_from huixinsoft43@foxmail.com
@@ -712,6 +719,7 @@ blacklist_from info@kosze1.i-czysto01.pl
 blacklist_from info@kosze????.einfoczystosc.pl
 blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
+blacklist_from info@laniti.zagan.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
 blacklist_from info@leurset.zagan.pl
@@ -992,6 +1000,7 @@ blacklist_from Lotto@delotto-nl.eu
 blacklist_from lotus@palynn.com
 blacklist_from lpromocje_firmy@onet.pl
 blacklist_from LR@finanse-bankowe.pl
+blacklist_from lucyna.malec@yourbackground.pl
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
@@ -1002,7 +1011,6 @@ blacklist_from *@mafrash.com
 blacklist_from magda.b@pro-activ.pl
 blacklist_from magnus.forsberg@flaktteknik.se
 blacklist_from mail@comp-net.pl
-blacklist_from *@mail.conferences-united.com.pl
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mail@freshplaza.de
 blacklist_from *@mailgrid.pl
@@ -1036,7 +1044,9 @@ blacklist_from maklh@netvigator.com
 blacklist_from marcel.bonrath@hyidro.com
 blacklist_from marcelina.mikula@khomb.com
 blacklist_from marcin@grovly.eu
+blacklist_from marek.kaczor@moneysquid.pl
 blacklist_from marek.kowalik@wyjazdfirmowy.eu
+blacklist_from mariola.kula@khomb.com
 blacklist_from mariusz.kowalski@cgeszkolenia.pl
 blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing@bekar-europe.eu
@@ -1047,9 +1057,11 @@ blacklist_from marketing@positiv.com.pl
 blacklist_from marketing@simkolo.com
 blacklist_from marketing@team-expert.pl
 blacklist_from marketing@towergraphics.pl
+blacklist_from markwallison@hotmail.com
 blacklist_from marlena.porada@bestforrest.com.pl
 blacklist_from marta@nauka.archiwizacji.pl
 blacklist_from marta@przydatnekwalifikacje.pl
+blacklist_from martyna.kaczmarek@khomb.com
 blacklist_from martyna.mikula@khomb.com
 blacklist_from marydan043@bol.com.br
 blacklist_from mateus.viana@soumaster.com.br
@@ -1098,7 +1110,6 @@ blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
 blacklist_from *@murmart.com
 blacklist_from naczelny@poznaj-swiat.pl
-blacklist_from *@naderidoost.com
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
 blacklist_from nastawnik2@o2.pl
@@ -1178,6 +1189,7 @@ blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from noreply@law2app-news.pl
+blacklist_from noreply@mail.conferences-united.com.pl
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
 blacklist_from no-reply@???nfmail.pl
@@ -1518,6 +1530,7 @@ blacklist_from temidas@temidas.pl
 blacklist_from teneryfa@lvc.pl
 blacklist_from terminal@terminalikasa.pl
 blacklist_from teste@awtrans.pt
+blacklist_from test@mailexpress.pl
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from thompsonpaterson@office.com
@@ -1681,7 +1694,6 @@ blacklist_from *@wyjatkoweoferty.pl
 blacklist_from wysylka@galeriaokazji.eu
 blacklist_from *@xpressus.emsmtp.us
 blacklist_from yang.arharbusiness@gmail.com
-blacklist_from *@ybbapparel.com
 blacklist_from yctuzmp@businnes.eu
 blacklist_from yzcawjp@onlinepms.eu
 blacklist_from zamowienie@express-contacts.com
