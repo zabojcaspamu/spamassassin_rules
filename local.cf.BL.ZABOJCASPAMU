@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-10 23:50 
+# Wygenerowana 2019-08-11 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -122,6 +122,7 @@ blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@yelltrack.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@zerotrckg.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@mtrckg.com
+blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@trackingbears.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@zerotrckg.com
 blacklist_from a448abe446474c935b700884cd1bb00f@trackingbears.com
@@ -235,6 +236,7 @@ blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from beauty@istanbul-beauty.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@mtrckg.com
+blacklist_from bfacf5665a8e605d290200f2d49e275c@zerotrckg.com
 blacklist_from bielsko@rgn.pl
 blacklist_from *@bimetalwasher.com
 blacklist_from biuro2@galeriasz.pl
@@ -1060,18 +1062,21 @@ blacklist_from mateus.viana@soumaster.com.br
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
 blacklist_from mateuszszpinda@gmail.com
-blacklist_from *@mathewblair.info
 blacklist_from matylda@auto-trader.pl
 blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
 blacklist_from *@m.businesscampaign.pl
 blacklist_from m.carone@comune.bari.it
+blacklist_from mdelaguila@tse.org.gt
 blacklist_from mecenas.kruk@gmail.com
 blacklist_from *@?.mediaexpln.pl
 blacklist_from *@mediasofttec.com
+blacklist_from *@meetbillkanter.info
 blacklist_from megakumulacje@dancing24.xyz
+blacklist_from *@megatkin.com
 blacklist_from *@megawaty.pl
 blacklist_from melania.klos@khomb.com
+blacklist_from *@memwrx.com
 blacklist_from merauke@pelni.co.id
 blacklist_from m@eudotacje24.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
@@ -1102,6 +1107,8 @@ blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
 blacklist_from msprvs1=18087-jXHQ0Xr=bounces-21622@spmailtechn.com
 blacklist_from *@murmart.com
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
