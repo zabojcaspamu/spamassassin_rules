@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-11 12:30 
+# Wygenerowana 2019-08-11 13:50 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -889,6 +889,7 @@ blacklist_from kd2@reklamowe-kalendarze.com.pl
 blacklist_from kd3@reklamowe-kalendarze.com.pl
 blacklist_from k.dudek@visualcom.pl
 blacklist_from kinga.szostak@russellbedford.com.pl
+blacklist_from *@kishtafrih.com
 blacklist_from kj@hkipnet.net
 blacklist_from kobietyiwino@gmail.com
 blacklist_from kokomike055@gmail.com
