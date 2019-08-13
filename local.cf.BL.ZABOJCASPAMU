@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-12 20:50 
+# Wygenerowana 2019-08-13 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -19,6 +19,7 @@ blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@trackingbears.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@yelltrack.com
+blacklist_from 22b63936d25d0f64261552d93c5a407f@zerotrckg.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@trackingbears.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@yelltrack.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@zerotrckg.com
@@ -391,6 +392,7 @@ blacklist_from *@bustadomain.com
 blacklist_from *@californiawires.com
 blacklist_from camaieu@nl.camaieu.com
 blacklist_from *@camilasegal.com
+blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
 blacklist_from ccc2@earth.pl
@@ -729,6 +731,7 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.pl
 blacklist_from info@olgaboo.com
 blacklist_from info@onowlat.zarow.pl
+blacklist_from *@info.paperstat.pl
 blacklist_from *@info.pixelmail.pl
 blacklist_from info@plusatranslate.info
 blacklist_from info@plusetranslate.info
@@ -1313,8 +1316,10 @@ blacklist_from poczta@xcompany.pl
 blacklist_from poczta@zoriana-yukhymets.info
 blacklist_from *@pomoc-ipko.com
 blacklist_from *@pomocnatablica.pl
+blacklist_from *@pomoriebulgaria.co
 blacklist_from poradnik@sztefanwons.com
 blacklist_from poradnik@wons123.com
+blacklist_from postmaster@cogame.cn
 blacklist_from postmaster@happybooxy.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@nannys.site
@@ -1323,6 +1328,7 @@ blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from *@premchandsharma.co
 blacklist_from prenumerata@traveligo.net
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
@@ -1334,6 +1340,7 @@ blacklist_from *@pro-activ.pl
 blacklist_from *@productcompany.pl
 blacklist_from ProdukcjaReklamyPOSM@gmail.com
 blacklist_from produkcja@thewhitestore.com.pl
+blacklist_from *@promatchapp.co
 blacklist_from promocje@dietanawiosne.pl
 blacklist_from protektorzy@mailplanet.p
 blacklist_from *@protestosjc.co
@@ -1522,7 +1529,6 @@ blacklist_from techniki@technikitelemarketingu.pl
 blacklist_from techniki@technikitelemarketingu.warszawa.pl
 blacklist_from techniki@technikitelemarketingu.waw.pl
 blacklist_from techniki@techsprzedazy.info.pl
-blacklist_from *@tedxpuebla.co
 blacklist_from *@tekniksnr.co
 blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
@@ -1533,6 +1539,7 @@ blacklist_from teste@awtrans.pt
 blacklist_from test@mailexpress.pl
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
+blacklist_from *@tevarit.co
 blacklist_from thompsonpaterson@office.com
 blacklist_from tiger@wmfac01.com
 blacklist_from t-mobile@mobile.olsztyn.pl
