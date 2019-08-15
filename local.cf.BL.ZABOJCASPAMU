@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-15 18:10 
+# Wygenerowana 2019-08-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -56,9 +56,11 @@ blacklist_from 5fabe079f2338e7b914b725d767a8100@trackingbears.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@yelltrack.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@zerotrckg.com
 blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@trackingbears.com
+blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@yelltrack.com
 blacklist_from 65226e4729270d335b404a42de0ba83d@yelltrack.com
 blacklist_from 65226e4729270d335b404a42de0ba83d@zerotrckg.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@mtrckg.com
+blacklist_from 6adf95870c413b1b1ada4431660da4bb@trackingbears.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@zerotrckg.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@mtrckg.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@trackingbears.com
@@ -100,12 +102,14 @@ blacklist_from 9999ef1f2abc960564e305779a403918@zerotrckg.com
 blacklist_from 9be714024efad999719a880758348d40@mtrckg.com
 blacklist_from 9be714024efad999719a880758348d40@trackingbears.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
+blacklist_from 9ce9d453e19548ba7ae46818b6208352@trackingbears.com
 blacklist_from *@a2data.biz.pl
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@mtrckg.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@yelltrack.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@zerotrckg.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@mtrckg.com
+blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@trackingbears.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@zerotrckg.com
 blacklist_from a448abe446474c935b700884cd1bb00f@trackingbears.com
@@ -116,6 +120,7 @@ blacklist_from a47a5e4d9e35c04f128fe71270e1a762@zerotrckg.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@trackingbears.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@yelltrack.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@zerotrckg.com
+blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@zerotrckg.com
 blacklist_from abby@custommanu.com
 blacklist_from abdibym@bingers.eu
 blacklist_from *@abrdindia.co
@@ -419,6 +424,7 @@ blacklist_from coleacp@info.coleacp.org
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
 blacklist_from conceptronic@conceptronic.pl
+blacklist_from contactmr.danielmminele412@yahoo.com
 blacklist_from contact@new-horizons.pl
 blacklist_from contact@saeclum.pl
 blacklist_from controlling@mediaexpln.pl
@@ -884,6 +890,7 @@ blacklist_from konferencja@cpi-sk.info.pl
 blacklist_from konpol@data.pl
 blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
+blacklist_from kontakt@7master1.pl
 blacklist_from kontakt@8logotyp.pl
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
@@ -1291,6 +1298,7 @@ blacklist_from opotapova53@gmail.com
 blacklist_from orange@kaami.pl
 blacklist_from osii@eff.effect.edu.pl
 blacklist_from osii@gliwice.effect.edu.pl
+blacklist_from os@trademaster.com.ua
 blacklist_from otwarte@winners-szkolenia.biz.pl
 blacklist_from ovlezvz@bambool.eu
 blacklist_from ovpybct@alamerson.art
@@ -1358,7 +1366,6 @@ blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from *@pssncsdv.co
 blacklist_from ptwppoleca@ptwp.pl
-blacklist_from *@puravidafit.co
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from p.wojcik@speedie24.eu
 blacklist_from *@pythoanywhere.co
@@ -1432,6 +1439,7 @@ blacklist_from sales@clevertrading.eu
 blacklist_from sales@honestappliances.com
 blacklist_from *@salesmanago.io
 blacklist_from sales@safemed.com.my
+blacklist_from sales@zjgmorale.com
 blacklist_from samia@instagolf.es
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
@@ -1586,7 +1594,6 @@ blacklist_from ueki@rokkodengyo.co.jp
 blacklist_from ugkolsko@obronacywilna.gorzow.pl
 blacklist_from ukvykqf@bingers.eu
 blacklist_from *@unithemex.com
-blacklist_from *@unlockdigi.com
 blacklist_from unsubscribe@news.agroone.info
 blacklist_from uprzedsiebiorca@gmail.com
 blacklist_from ursa@promuj-polskie.bialystok.pl
