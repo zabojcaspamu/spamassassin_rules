@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-16 16:10 
+# Wygenerowana 2019-08-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -29,6 +29,7 @@ blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@zerotrckg.com
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
+blacklist_from 3af5bee71ac7451afc33249682b197c0@mtrckg.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@trackingbears.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@yelltrack.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@mtrckg.com
@@ -45,6 +46,7 @@ blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@yelltrack.com
 blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@zerotrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@mtrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@yelltrack.com
+blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@mtrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@yelltrack.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@zerotrckg.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@mtrckg.com
@@ -259,14 +261,17 @@ blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@gierlow.pisz.pl
 blacklist_from biuro@google1st.pl
+blacklist_from biuro@gowas.waw.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@instytutonline.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kosmicznymecz.pl
+blacklist_from biuro@kram.zgora.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@latten.lapy.pl
 blacklist_from biuro@liagen.lapy.pl
+blacklist_from biuro@luksio.agro.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@maticiat.zagan.pl
 blacklist_from biuro@max-bonard.pl
@@ -833,6 +838,7 @@ blacklist_from kd1@reklamowe-kalendarze.com.pl
 blacklist_from kd2@reklamowe-kalendarze.com.pl
 blacklist_from kd3@reklamowe-kalendarze.com.pl
 blacklist_from k.dudek@visualcom.pl
+blacklist_from *@khansolangi.co
 blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from *@kishtafrih.com
 blacklist_from kj@hkipnet.net
@@ -1363,6 +1369,7 @@ blacklist_from root@vps604833.ovh.net
 blacklist_from root@vps608158.ovh.net
 blacklist_from root@vps608161.ovh.net
 blacklist_from root@vps608979.ovh.net
+blacklist_from root@vps608983.ovh.net
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps613923.ovh.net
 blacklist_from root@vps623551.ovh.net
