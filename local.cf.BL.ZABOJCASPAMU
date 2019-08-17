@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-16 22:20 
+# Wygenerowana 2019-08-17 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -19,6 +19,7 @@ blacklist_from 22b63936d25d0f64261552d93c5a407f@trackingbears.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@zerotrckg.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@mtrckg.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@trackingbears.com
+blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@yelltrack.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@zerotrckg.com
 blacklist_from 2b0024d6441dbf45f344d208ea238016@mtrckg.com
 blacklist_from 2b0024d6441dbf45f344d208ea238016@trackingbears.com
@@ -78,6 +79,7 @@ blacklist_from 7c251f87056735dbc2bc20b6ac807499@mtrckg.com
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@yelltrack.com
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@zerotrckg.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@mtrckg.com
+blacklist_from 7e12f1b0409e99f19ffb827838020dfb@trackingbears.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@mtrckg.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@trackingbears.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@yelltrack.com
@@ -109,6 +111,7 @@ blacklist_from a448abe446474c935b700884cd1bb00f@trackingbears.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@trackingbears.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@yelltrack.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@zerotrckg.com
+blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@trackingbears.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@yelltrack.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@zerotrckg.com
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@zerotrckg.com
@@ -213,6 +216,7 @@ blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from beauty@istanbul-beauty.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@mtrckg.com
+blacklist_from bfacf5665a8e605d290200f2d49e275c@yelltrack.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@zerotrckg.com
 blacklist_from bielsko@rgn.pl
 blacklist_from *@bimetalwasher.com
@@ -491,6 +495,7 @@ blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
 blacklist_from elcuwws@onlinepms.eu
 blacklist_from *@electricaincii.com
+blacklist_from *@elfatine.com
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
@@ -791,6 +796,7 @@ blacklist_from internetowyportfel@zawrotneoferty.pl
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from ipzakrs@onlinepms.eu
+blacklist_from *@islandresponse.co
 blacklist_from isof@isoferp.pl
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
@@ -805,7 +811,6 @@ blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from *@jbwilsonsbbq.com
 blacklist_from j.dova1@hotmail.com
 blacklist_from jeep@baza-firm.biz.pl
-blacklist_from *@jenniferhollars.co
 blacklist_from *@jetmail.pl
 blacklist_from jgutel@eg-mix.pl
 blacklist_from jk9039133@gmail.com
@@ -1327,6 +1332,7 @@ blacklist_from *@protestosjc.co
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from *@psikobaz.com
+blacklist_from *@pssncsdv.co
 blacklist_from ptwppoleca@ptwp.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from p.wojcik@speedie24.eu
@@ -1358,9 +1364,9 @@ blacklist_from returns@domynadmorzem.info.pl
 blacklist_from returns@isplist.pl
 blacklist_from returns@kameragdansk.pl
 blacklist_from returns@polacywolaaliexpress.pl
-blacklist_from *@rhodetovote.co
 blacklist_from *@rjredcreations.co
 blacklist_from robertomoretti2003@gmail.com
+blacklist_from *@rogeriodegaki.co
 blacklist_from roman@almar-sport.pl
 blacklist_from root@begarring.xyz
 blacklist_from root@localhost.60042.meghost.pl
@@ -1615,6 +1621,7 @@ blacklist_from www-data@mm16.market-management.cloud
 blacklist_from www-data@mm17.market-management.cloud
 blacklist_from www-data@mm19.market-management.cloud
 blacklist_from www-data@mm3.market-management.cloud
+blacklist_from wwwnamec@host3.adigitaldreamer.com
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
 blacklist_from wyjatkoweoferty@emaillo.pl
