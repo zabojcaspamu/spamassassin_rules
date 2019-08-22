@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-22 16:20 
+# Wygenerowana 2019-08-22 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -28,10 +28,12 @@ blacklist_from 2b0024d6441dbf45f344d208ea238016@zerotrckg.com
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@mtrckg.com
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@trackingbears.com
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@yelltrack.com
+blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@zerotrckg.com
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3af5bee71ac7451afc33249682b197c0@mtrckg.com
+blacklist_from 3af5bee71ac7451afc33249682b197c0@trackingbears.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@yelltrack.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@mtrckg.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@trackingbears.com
@@ -61,6 +63,7 @@ blacklist_from 6adf95870c413b1b1ada4431660da4bb@mtrckg.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@trackingbears.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@zerotrckg.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@trackingbears.com
+blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@trackingbears.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@yelltrack.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@zerotrckg.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@mtrckg.com
@@ -79,6 +82,7 @@ blacklist_from 7c251f87056735dbc2bc20b6ac807499@yelltrack.com
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@zerotrckg.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@mtrckg.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@trackingbears.com
+blacklist_from 7e12f1b0409e99f19ffb827838020dfb@yelltrack.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@zerotrckg.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@mtrckg.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@yelltrack.com
@@ -102,6 +106,7 @@ blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
 blacklist_from *@a2data.biz.pl
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@mtrckg.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
+blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@yelltrack.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@mtrckg.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@trackingbears.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
@@ -229,6 +234,7 @@ blacklist_from biuro@capitalmoney.pl
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
 blacklist_from biuro@debtlawyer.pl
+blacklist_from biuro@deklaut.agro.pl
 blacklist_from biuro@diplam.zagan.pl
 blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
@@ -262,6 +268,7 @@ blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@latten.lapy.pl
 blacklist_from biuro@liagen.lapy.pl
+blacklist_from biuro@liginalet.sejny.pl
 blacklist_from biuro@luksio.agro.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@maticiat.zagan.pl
@@ -340,6 +347,7 @@ blacklist_from bonnie@e-corp.vn
 blacklist_from *@bookisem.eu
 blacklist_from borsukiewicz.jacek@progressproject.pl
 blacklist_from *@bouledivoire.com
+blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@content.pwc.com
@@ -410,6 +418,7 @@ blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from czytelnicy@controlling-zarzadzanie.pl
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@mtrckg.com
+blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@trackingbears.com
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@yelltrack.com
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@zerotrckg.com
 blacklist_from damian.kaszuba@lpkruk.eu
@@ -518,6 +527,7 @@ blacklist_from f0301984ff9ef99843b7c4b52145f45a@yelltrack.com
 blacklist_from f0301984ff9ef99843b7c4b52145f45a@zerotrckg.com
 blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@trackingbears.com
 blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@yelltrack.com
+blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@zerotrckg.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@faktura.org
@@ -870,6 +880,7 @@ blacklist_from kontakt@*.instytut-marketingu.com
 blacklist_from kontakt@kancelaria-mail1.pl
 blacklist_from kontakt@logotyp-2019.pl
 blacklist_from kontakt-mamczarz@wp.pl
+blacklist_from kontakt@monitorurzedowy8.pl
 blacklist_from kontakt@monitorurzedowy.online
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
@@ -880,6 +891,7 @@ blacklist_from kontakt@oponum.online
 blacklist_from kontakt@pfw.com.pl
 blacklist_from kontakt@polgift.com.pl
 blacklist_from kontakt@pomocdlafirm.com.pl
+blacklist_from kontakt@portalnieruchomosci7.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@sale-it.pl
 blacklist_from kontakt@sendhub.pl
@@ -896,6 +908,7 @@ blacklist_from kontakt@twoje-finanse48h.pl
 blacklist_from kontakt@twojrozwoj.biz.pl
 blacklist_from kontakt@unitedvalue.pl
 blacklist_from kontakt@websiteon.pl
+blacklist_from kontakt@win-marketing.com.pl
 blacklist_from kontakt@winnmer.pl
 blacklist_from kontakt@winwi.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
@@ -1186,6 +1199,7 @@ blacklist_from office@bufoshert.waw.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@denstok.jgora.pl
 blacklist_from office@dikart.pisz.pl
+blacklist_from office@edertingulate.wlocl.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@eospir.jgora.pl
 blacklist_from office@esapla.pisz.pl
@@ -1435,6 +1449,7 @@ blacklist_from support@globe-medical.com
 blacklist_from support@mailbox-in.com
 blacklist_from support@moldingboysforgood.com
 blacklist_from support@security.com
+blacklist_from support@server.com
 blacklist_from support@warp9computers.net
 blacklist_from *@syriusgroup.com
 blacklist_from systemgeolokalizacji@entry-brand.agency
@@ -1518,7 +1533,6 @@ blacklist_from v1@maxdrukuje.pl
 blacklist_from v2@maxdrukuje.pl
 blacklist_from v3@maxdrukuje.pl
 blacklist_from v3@vdruki.pl
-blacklist_from *@vanlifelibrary.co
 blacklist_from vanroy@vigneronscatalans.com
 blacklist_from *@varzide.co
 blacklist_from vectra@productcompany.pl
