@@ -1,8 +1,9 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-22 21:40 
+# Wygenerowana 2019-08-23 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
+blacklist_from 08b62d239754f74ef9577d39106d479c@mtrckg.com
 blacklist_from 08b62d239754f74ef9577d39106d479c@yelltrack.com
 blacklist_from 08b62d239754f74ef9577d39106d479c@zerotrckg.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@yelltrack.com
@@ -20,6 +21,7 @@ blacklist_from 22b63936d25d0f64261552d93c5a407f@trackingbears.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@yelltrack.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@zerotrckg.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@mtrckg.com
+blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@trackingbears.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@yelltrack.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@zerotrckg.com
 blacklist_from 2b0024d6441dbf45f344d208ea238016@trackingbears.com
@@ -40,6 +42,7 @@ blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@trackingbears.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@zerotrckg.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@mtrckg.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@trackingbears.com
+blacklist_from 459d54a2634977c9d31b475b7d18fa74@zerotrckg.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@mtrckg.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@trackingbears.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@yelltrack.com
@@ -50,6 +53,7 @@ blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@mtrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@mtrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@yelltrack.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@zerotrckg.com
+blacklist_from 5fabe079f2338e7b914b725d767a8100@mtrckg.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@trackingbears.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@yelltrack.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@zerotrckg.com
@@ -63,6 +67,7 @@ blacklist_from 6adf95870c413b1b1ada4431660da4bb@mtrckg.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@trackingbears.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@zerotrckg.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@trackingbears.com
+blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@zerotrckg.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@trackingbears.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@yelltrack.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@zerotrckg.com
@@ -113,6 +118,7 @@ blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@zerotrckg.com
 blacklist_from a448abe446474c935b700884cd1bb00f@zerotrckg.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@mtrckg.com
+blacklist_from a47a5e4d9e35c04f128fe71270e1a762@trackingbears.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@yelltrack.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@zerotrckg.com
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@mtrckg.com
@@ -584,6 +590,7 @@ blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
+blacklist_from *@gristdesigns.com
 blacklist_from Groupon@offerway.pl
 blacklist_from *@grovinpat.com
 blacklist_from *@gr-servizi.com
@@ -615,6 +622,7 @@ blacklist_from ideabank@productcompany.pl
 blacklist_from iforex@offers4you.pl
 blacklist_from ilona.czernow@finansuj.biz.pl
 blacklist_from imdn@wp.pl
+blacklist_from IMF@imf.org
 blacklist_from *@imojbiznes.pl
 blacklist_from impresariat@artmail.pl
 blacklist_from inbox@mailov.site
@@ -711,6 +719,7 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.pl
 blacklist_from info@olgaboo.com
+blacklist_from *@info.paperstat.pl
 blacklist_from info@pendar.zarow.pl
 blacklist_from *@info.pixelmail.pl
 blacklist_from info@plusatranslate.info
@@ -789,6 +798,7 @@ blacklist_from *@*.interactive-partners.me
 blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
 blacklist_from *@inxserver.de
+blacklist_from inyyfqv@businnes.network
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from ipzakrs@onlinepms.eu
 blacklist_from isof@isoferp.pl
@@ -1062,6 +1072,8 @@ blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msp@financial-services.pl
 blacklist_from msp@industrial-sme.pl
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
@@ -1333,6 +1345,7 @@ blacklist_from return@o2newsy.info
 blacklist_from returns@domynadmorzem.info.pl
 blacklist_from returns@isplist.pl
 blacklist_from returns@kameragdansk.pl
+blacklist_from returns@kamerawladek.pl
 blacklist_from returns@polacywolaaliexpress.pl
 blacklist_from return@wiadomsc.info
 blacklist_from robertomoretti2003@gmail.com
@@ -1490,8 +1503,8 @@ blacklist_from test@mailexpress.pl
 blacklist_from test@tiags.vn
 blacklist_from thompsonpaterson@office.com
 blacklist_from *@thuhjkjws.gq
+blacklist_from tlee@prodigy.net
 blacklist_from t-mobile@mobile.olsztyn.pl
-blacklist_from *@toddsearles.com
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
 blacklist_from tomasz.wisniowski@goodwater.pl
 blacklist_from top2@top-2.pl
@@ -1535,7 +1548,6 @@ blacklist_from v2@maxdrukuje.pl
 blacklist_from v3@maxdrukuje.pl
 blacklist_from v3@vdruki.pl
 blacklist_from vanroy@vigneronscatalans.com
-blacklist_from *@varzide.co
 blacklist_from vectra@productcompany.pl
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
@@ -1573,6 +1585,7 @@ blacklist_from www-data@mc4.market-center.cloud
 blacklist_from www-data@mc9.market-center.cloud
 blacklist_from www-data@mg3.market-group.cloud
 blacklist_from www-data@mi10.market-investment.cloud
+blacklist_from www-data@ml.inwest-market.pl
 blacklist_from www-data@mm16.market-management.cloud
 blacklist_from www-data@mm17.market-management.cloud
 blacklist_from www-data@mm19.market-management.cloud
