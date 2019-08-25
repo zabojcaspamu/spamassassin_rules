@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-24 20:40 
+# Wygenerowana 2019-08-25 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -202,6 +202,7 @@ blacklist_from baza@eniro.com
 blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from bb8a94195ab1bc5b84426d139f4341a3@mtrckg.com
+blacklist_from bb8a94195ab1bc5b84426d139f4341a3@trackingbears.com
 blacklist_from bb8a94195ab1bc5b84426d139f4341a3@yelltrack.com
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
@@ -523,6 +524,7 @@ blacklist_from f0301984ff9ef99843b7c4b52145f45a@trackingbears.com
 blacklist_from f0301984ff9ef99843b7c4b52145f45a@yelltrack.com
 blacklist_from f0301984ff9ef99843b7c4b52145f45a@zerotrckg.com
 blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@trackingbears.com
+blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@yelltrack.com
 blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@zerotrckg.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
@@ -707,6 +709,7 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.pl
 blacklist_from info@olgaboo.com
+blacklist_from *@info.paperstat.pl
 blacklist_from info@pendar.zarow.pl
 blacklist_from *@info.pixelmail.pl
 blacklist_from info@plusatranslate.info
@@ -958,6 +961,7 @@ blacklist_from maciejprzymus123@wp.pl
 blacklist_from *@mafrash.com
 blacklist_from magda.b@pro-activ.pl
 blacklist_from magnus.forsberg@flaktteknik.se
+blacklist_from maguero@undec.edu.ar
 blacklist_from mail@comp-net.pl
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mail@freshplaza.de
