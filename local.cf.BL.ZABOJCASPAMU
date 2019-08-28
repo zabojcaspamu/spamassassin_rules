@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-28 14:00 
+# Wygenerowana 2019-08-28 14:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -348,6 +348,7 @@ blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@content.pwc.com
+blacklist_from *@bounce.crsend.com
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@dlportal.eu
 blacklist_from bounce@ebr-list.com
