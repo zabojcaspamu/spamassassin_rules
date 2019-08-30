@@ -1,10 +1,11 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-30 16:30 
+# Wygenerowana 2019-08-30 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
 blacklist_from 08b62d239754f74ef9577d39106d479c@zerotrckg.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@mtrckg.com
+blacklist_from 0d49abd12ffa246ddab8ab11662da94e@trackingbears.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@yelltrack.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@mtrckg.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@trackingbears.com
@@ -38,6 +39,7 @@ blacklist_from 3ba60910e526171230155335b32fc746@trackingbears.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@mtrckg.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@trackingbears.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@zerotrckg.com
+blacklist_from 459d54a2634977c9d31b475b7d18fa74@mtrckg.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@trackingbears.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@zerotrckg.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@mtrckg.com
@@ -50,6 +52,7 @@ blacklist_from 4ab4a5d406d520a1a07ddee6b26b5273@zerotrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@mtrckg.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@trackingbears.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@zerotrckg.com
+blacklist_from 50803873@qq.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@mtrckg.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@yelltrack.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@zerotrckg.com
@@ -108,6 +111,7 @@ blacklist_from *@a2data.biz.pl
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@mtrckg.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@trackingbears.com
+blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@zerotrckg.com
 blacklist_from a448abe446474c935b700884cd1bb00f@mtrckg.com
 blacklist_from a448abe446474c935b700884cd1bb00f@yelltrack.com
@@ -138,6 +142,7 @@ blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
 blacklist_from admin@robygojis.co
 blacklist_from admin@server.chinadesels.com
+blacklist_from admin@server.newsletter.ict.org.pl
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from admin@uts.ac.id
@@ -180,7 +185,6 @@ blacklist_from anna@e-bazy.com
 blacklist_from annaporada@multi-kredyty.com.pl
 blacklist_from anna.sykut@graysearch.pl
 blacklist_from antek@vps17888.ovh.net
-blacklist_from *@antelagency.com
 blacklist_from *@anteny.dla-najlepszych.pl
 blacklist_from anvix@anvix.pl
 blacklist_from *@aon.at
@@ -241,6 +245,7 @@ blacklist_from biuro@biznesikasa.pl
 blacklist_from biuro@bosofer.lapy.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@calsop.tgory.pl
+blacklist_from biuro@cidiana.pisz.pl
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
 blacklist_from biuro@danyrew.pisz.pl
@@ -367,6 +372,7 @@ blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce2@edm30.hktdc.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
+blacklist_from bouncebacks@emeia-vx.ey.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@content.pwc.com
 blacklist_from bounced@euve?????.serverprofi24.com
@@ -612,6 +618,7 @@ blacklist_from huixinsoft11@foxmail.com
 blacklist_from huixinsoft43@foxmail.com
 blacklist_from huixinsoft5@foxmail.com
 blacklist_from *@hutloacresnb.com
+blacklist_from hw.chtr@navata.com
 blacklist_from *@hyppno.com
 blacklist_from *@iamversed.com
 blacklist_from ibervini@ibervini.com
@@ -664,6 +671,7 @@ blacklist_from *@info.fasttrackmail.pl
 blacklist_from *@info.fastymail.pl
 blacklist_from *@info.fewmembers.pl
 blacklist_from info@firmajutra.eu
+blacklist_from *@info.flashmail.net.pl
 blacklist_from info@flipmailer.com
 blacklist_from *@info??.flyemail.pl
 blacklist_from info@gatewaygovuk??.com
@@ -712,6 +720,7 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.pl
 blacklist_from info@olgaboo.com
+blacklist_from info@pakan.zarow.pl
 blacklist_from *@info.paperstat.pl
 blacklist_from info@pendar.zarow.pl
 blacklist_from *@info.pixelmail.pl
@@ -1473,6 +1482,7 @@ blacklist_from terminal@terminalikasa.pl
 blacklist_from test@mailexpress.pl
 blacklist_from test@tiags.vn
 blacklist_from *@thaoduochq.com
+blacklist_from tikic@tatshing.hk
 blacklist_from tlee@prodigy.net
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
