@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-08-31 17:30 
+# Wygenerowana 2019-08-31 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -73,6 +73,7 @@ blacklist_from 6adf95870c413b1b1ada4431660da4bb@mtrckg.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@trackingbears.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@zerotrckg.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@mtrckg.com
+blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@trackingbears.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@yelltrack.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@zerotrckg.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@mtrckg.com
@@ -112,6 +113,7 @@ blacklist_from 9be714024efad999719a880758348d40@zerotrckg.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@trackingbears.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@yelltrack.com
 blacklist_from *@a2data.biz.pl
+blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@mtrckg.com
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@trackingbears.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@mtrckg.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@trackingbears.com
@@ -166,7 +168,6 @@ blacklist_from aleksandra.kot@khomb.com
 blacklist_from aleksandra.kwiecien@khomb.com
 blacklist_from algirdas@mdpholding.lt
 blacklist_from *@alherajksa.com
-blacklist_from *@alialketbi.com
 blacklist_from alina.seoxpert@gmail.com
 blacklist_from alireza.labbafi@gmail.com
 blacklist_from *@allbizem.eu
@@ -1122,6 +1123,7 @@ blacklist_from newsletters.pl@express-contacts.com
 blacklist_from newsletter@szkolenia-forum.pl
 blacklist_from newsletter@sztukapodstepu.pl
 blacklist_from newsletter@tylkonajlepszeszkolenia.pl
+blacklist_from newsletter@uptownuk.com
 blacklist_from newsletter@wiadomoscikosmetyczne.pl
 blacklist_from *@news??.mailjoker.pl
 blacklist_from news@mypiggybank.biz
@@ -1179,7 +1181,6 @@ blacklist_from noreply@streaming.qqpp.pl
 blacklist_from noreply@toughbook4you.eu
 blacklist_from noreply@vbnews.pl
 blacklist_from notification@google.com
-blacklist_from *@nowbookroom.co
 blacklist_from obadanmike1945@gmail.com
 blacklist_from obowiazek_informacyjny@easyba.se
 blacklist_from obsluga@apteka-kamagra.com
@@ -1362,6 +1363,7 @@ blacklist_from root@stamegna.eu
 blacklist_from root@vps604833.ovh.net
 blacklist_from root@vps608158.ovh.net
 blacklist_from root@vps608161.ovh.net
+blacklist_from root@vps608426.ovh.net
 blacklist_from root@vps608979.ovh.net
 blacklist_from root@vps608983.ovh.net
 blacklist_from root@vps609000.ovh.net
