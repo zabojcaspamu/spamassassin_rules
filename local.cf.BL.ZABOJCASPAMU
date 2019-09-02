@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-02 15:40 
+# Wygenerowana 2019-09-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -96,6 +96,7 @@ blacklist_from 81f5285440e2e381f3a4f4984ff213be@mtrckg.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@trackingbears.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@yelltrack.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@zerotrckg.com
+blacklist_from 84e7deaff611c02db147046c0db2f297@yelltrack.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@zerotrckg.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@mtrckg.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@yelltrack.com
@@ -395,7 +396,6 @@ blacklist_from *@bsuportal.com
 blacklist_from bu@rozwoj-biznesu.pl
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
-blacklist_from *@businnes.eu
 blacklist_from *@bustadomain.com
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
@@ -488,6 +488,7 @@ blacklist_from e12be84c8c0b8db9743405996d8008b8@trackingbears.com
 blacklist_from e12be84c8c0b8db9743405996d8008b8@yelltrack.com
 blacklist_from e12be84c8c0b8db9743405996d8008b8@zerotrckg.com
 blacklist_from e35672e71daa494b72a978993d3a3032@trackingbears.com
+blacklist_from e35672e71daa494b72a978993d3a3032@zerotrckg.com
 blacklist_from e91c5ef13227981374bb160e77f4a018@mtrckg.com
 blacklist_from e91c5ef13227981374bb160e77f4a018@yelltrack.com
 blacklist_from e91c5ef13227981374bb160e77f4a018@zerotrckg.com
@@ -497,6 +498,7 @@ blacklist_from ec3678a5bce1a7276393e7630de728fa@mtrckg.com
 blacklist_from ec3678a5bce1a7276393e7630de728fa@zerotrckg.com
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
+blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from edvondd@onlinepms.eu
@@ -558,6 +560,7 @@ blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
 blacklist_from fed@sfirmowe.pl
 blacklist_from femibion@fiola.pl
+blacklist_from finance@den.go.id
 blacklist_from *@finansowanie-dla-firm.com.pl
 blacklist_from finansowanie@kredyt-sme.pl
 blacklist_from firmabezzusu@o2.pl
@@ -800,6 +803,7 @@ blacklist_from i.zurawska@ark-skills.com
 blacklist_from jakub@korzystnapropozycja4.com.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from jameskimberly022@gmail.com
+blacklist_from jameskimberly02@gmail.com
 blacklist_from jameskimberly222@gmail.com
 blacklist_from *@jbwilsonsbbq.com
 blacklist_from j.dova1@hotmail.com
@@ -1219,7 +1223,9 @@ blacklist_from office@monoct.tgory.pl
 blacklist_from office@naforah.zarow.pl
 blacklist_from office@navaxo.pisz.pl
 blacklist_from office@niartaz.naklo.pl
+blacklist_from office@pinux.naklo.pl
 blacklist_from office@premer.jgora.pl
+blacklist_from office@prion.jgora.pl
 blacklist_from office@ractianit.zgora.pl
 blacklist_from office@salteses.tgory.pl
 blacklist_from office@samted.zarow.pl
@@ -1519,6 +1525,7 @@ blacklist_from uczciwyprzedsiebiorca@vp.pl
 blacklist_from ugkolsko@obronacywilna.gorzow.pl
 blacklist_from ukvykqf@bingers.eu
 blacklist_from *@unithemex.com
+blacklist_from unsubscribe@news.agroone.info
 blacklist_from uprzedsiebiorca@gmail.com
 blacklist_from ursa@promuj-polskie.bialystok.pl
 blacklist_from ursa@promuj-polskie.bydgoszcz.pl
@@ -1526,6 +1533,7 @@ blacklist_from ursa@promuj-polskie.katowice.pl
 blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
+blacklist_from uwfecwr@businnes.eu
 blacklist_from uxhiycn@timenfor.eu
 blacklist_from v1@maxdrukuje.pl
 blacklist_from v2@maxdrukuje.pl
@@ -1584,6 +1592,7 @@ blacklist_from yvfypbl@onlinepms.eu
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
+blacklist_from zapytanie@filmdlafirmy.pl
 blacklist_from zapytanie@swiatlowodorange.pl
 blacklist_from zapytanie.wycena@gmail.com
 blacklist_from *@zatokaprawna.pl
