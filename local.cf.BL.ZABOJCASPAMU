@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-04 17:40 
+# Wygenerowana 2019-09-04 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -94,6 +94,7 @@ blacklist_from 81f5285440e2e381f3a4f4984ff213be@trackingbears.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@zerotrckg.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@yelltrack.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@zerotrckg.com
+blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@trackingbears.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@yelltrack.com
 blacklist_from 860f94a18956df17e20368a35cc06789@trackingbears.com
 blacklist_from 860f94a18956df17e20368a35cc06789@yelltrack.com
@@ -127,7 +128,6 @@ blacklist_from abuse@leclub.com.ve
 blacklist_from abuse@onlineapiserv.live
 blacklist_from accounts@wellcareoiltools.com
 blacklist_from acct@gdhdhue.ml
-blacklist_from *@active-central.agency
 blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
 blacklist_from admin@aerotechs.xyz
@@ -301,6 +301,7 @@ blacklist_from biuro@semprojekt.com
 blacklist_from biurosf@szkolenief.net.pl
 blacklist_from biuro@signumodszkodowania.pl
 blacklist_from biuro@sprawdzgotowke.pl
+blacklist_from biuro@stupord.lapy.pl
 blacklist_from biuro@superszkolenia.pl
 blacklist_from biuro@szef-sprzedazy.pl
 blacklist_from biuro@szkolenia-online.info
@@ -336,6 +337,7 @@ blacklist_from bok@ib2c.pl
 blacklist_from bok@incert.tgory.pl
 blacklist_from bok@kliop.naklo.pl
 blacklist_from bok@klottet.lapy.pl
+blacklist_from bok.kosciuszki@ms1624.m.lrmailr.pl
 blacklist_from boklod@ms1018.m.lrmailr.pl
 blacklist_from boklod@ms1444.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1622.m.lrmailr.pl
@@ -521,6 +523,7 @@ blacklist_from *@energykasyno.pl
 blacklist_from *@enfoquecomunicaciones.com
 blacklist_from enoteka@enotekapolska.pl
 blacklist_from *@eonandalyssa.com
+blacklist_from epqywyj@alamerson.art
 blacklist_from Eric.Fischer@efico.com
 blacklist_from erp4systemy@gmail.com
 blacklist_from *@escoecm.com
@@ -903,10 +906,13 @@ blacklist_from kontakt@winnmer.pl
 blacklist_from kontakt@winwi.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
 blacklist_from kontakt@zajazduhermanow.pl
+blacklist_from kontrolapaliwa@active-central.agency
 blacklist_from kontrolapaliwa@active-core.agency
 blacklist_from kontrolapaliwa@central-data.agency
 blacklist_from kontrolapaliwa@data-brand.agency
+blacklist_from kontrolapaliwa@datapro.rocks
 blacklist_from kontrolapaliwa@drive-services.world
+blacklist_from kontrolapaliwa@point-startup.rocks
 blacklist_from kontrolapaliwa@point-track.world
 blacklist_from kontrolapaliwa@techgen4line.top
 blacklist_from kopacz.pawel@salesmanago.pl
@@ -1168,6 +1174,7 @@ blacklist_from odbicia@goodgadzet.pl
 blacklist_from odbicia@ibiznespolska.pl
 blacklist_from odbicia@i-fast.pl
 blacklist_from odbicia@infomarketing.com.pl
+blacklist_from odbicia@lorbeer-info.eu
 blacklist_from odbicia@miraclead.pl
 blacklist_from odbicia@newmessage.eu
 blacklist_from odbicia@novamo.pl
@@ -1195,6 +1202,7 @@ blacklist_from office@einstitute.com.pl
 blacklist_from office@eospir.jgora.pl
 blacklist_from office@esapla.pisz.pl
 blacklist_from office@executive-club.com.pl
+blacklist_from office@fapo.zgora.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@kimini.sejny.pl
 blacklist_from office@levask.sejny.pl
@@ -1222,6 +1230,7 @@ blacklist_from okimasan@yahoo.co.uk
 blacklist_from okrakiem@gmail.com
 blacklist_from okwutyn@fooders.eu
 blacklist_from olga@biurodrukserwis.pl
+blacklist_from oliwiabaranek@multi-kredyty.com.pl
 blacklist_from *@olympiafsc.com
 blacklist_from omobudejohn11@gmail.com
 blacklist_from *@oobo.info
@@ -1265,7 +1274,6 @@ blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
 blacklist_from poczta@xcompany.pl
 blacklist_from poczta@zoriana-yukhymets.info
-blacklist_from *@point-startup.rocks
 blacklist_from *@pomoc-ipko.com
 blacklist_from *@pomocnatablica.pl
 blacklist_from poradnik@sztefanwons.com
@@ -1356,6 +1364,7 @@ blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
 blacklist_from sabina.gosik@gmail.com
 blacklist_from SagePolska@supmail.pl
+blacklist_from Sales.13@vacuumsweeper.com
 blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
@@ -1375,6 +1384,7 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from sara.zamani086@gmail.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
+blacklist_from sekretariatpro@ms0471.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
 blacklist_from seminarium@cpi-sk.waw.pl
 blacklist_from seminarium@executiveprogram.pl
