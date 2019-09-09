@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-09 16:30 
+# Wygenerowana 2019-09-09 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -299,6 +299,7 @@ blacklist_from bokgdy@ms1620.m.lrmailr.pl
 blacklist_from bokgdy@ms1622.m.lrmailr.pl
 blacklist_from bokgdy@ms1627.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok.katowice@ms0481.m.lrmailr.pl
 blacklist_from bok.katowice@ms1019.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms1027.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1624.m.lrmailr.pl
@@ -339,13 +340,17 @@ blacklist_from bokryb@ms1444.m.lrmailr.pl
 blacklist_from bokryb@ms1622.m.lrmailr.pl
 blacklist_from bokryb@ms1623.m.lrmailr.pl
 blacklist_from boksbr@ms0481.m.lrmailr.pl
+blacklist_from boksbr@ms1621.m.lrmailr.pl
 blacklist_from boksbr@ms1624.m.lrmailr.pl
+blacklist_from boksbr@ms1627.m.lrmailr.pl
 blacklist_from boksop@ms0479.m.lrmailr.pl
+blacklist_from boksop@ms1018.m.lrmailr.pl
 blacklist_from boksop@ms1019.m.lrmailr.pl
 blacklist_from boksop@ms1020.m.lrmailr.pl
 blacklist_from boksop@ms1520.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok.szczecin@ms0471.m.lrmailr.pl
+blacklist_from bok.szczecin@ms0472.m.lrmailr.pl
 blacklist_from bok.szczecin@ms1623.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@usbox.eu
@@ -358,7 +363,9 @@ blacklist_from bokwbi@ms1625.m.lrmailr.pl
 blacklist_from bokwre@ms0471.m.lrmailr.pl
 blacklist_from bokwre@ms0481.m.lrmailr.pl
 blacklist_from bokwre@ms1019.m.lrmailr.pl
+blacklist_from bokwre@ms1020.m.lrmailr.pl
 blacklist_from bokwre@ms1444.m.lrmailr.pl
+blacklist_from bokwre@ms1624.m.lrmailr.pl
 blacklist_from bokzgo@ms0472.m.lrmailr.pl
 blacklist_from bokzgo@ms0479.m.lrmailr.pl
 blacklist_from bokzgo@ms0481.m.lrmailr.pl
@@ -510,11 +517,13 @@ blacklist_from *@????.e-infoczystosc.pl
 blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
 blacklist_from *@electricaincii.com
+blacklist_from elisowska@ms1016.m.lrmailr.pl
 blacklist_from elisowska@ms1624.m.lrmailr.pl
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
 blacklist_from EmailSecurity@nannys.site
+blacklist_from emilia.zelman@khomb.com
 blacklist_from *@emlgrid.com
 blacklist_from *@emsgrid.com
 blacklist_from *@em-sj-77.mktomail.com
@@ -706,6 +715,7 @@ blacklist_from info@mano.group
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@ms0472.m.lrmailr.pl
+blacklist_from info@ms0481.m.lrmailr.pl
 blacklist_from info@ms1020.m.lrmailr.pl
 blacklist_from info@ms1621.m.lrmailr.pl
 blacklist_from info@ms1627.m.lrmailr.pl
@@ -1023,6 +1033,7 @@ blacklist_from monitoringgps@entry-brand.agency
 blacklist_from monitoringgps@primary-manage.world
 blacklist_from mp@biurozarzadu.pl
 blacklist_from mp@ntrainings.pl
+blacklist_from mpq15763@gmail.com
 blacklist_from mrjackson916@gmail.com
 blacklist_from *@mrkabadiwala.co
 blacklist_from mrsangepaul@gmail.com
