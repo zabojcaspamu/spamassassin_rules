@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-15 18:00 
+# Wygenerowana 2019-09-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -119,7 +119,6 @@ blacklist_from *@??.a.luzno.com.pl
 blacklist_from amelia.kowalczyk@stargames.ovh
 blacklist_from amswital@gmail.com
 blacklist_from analyzer@eims.tradeeasy.com
-blacklist_from *@andrefcarvalho.com
 blacklist_from andrzej.kowalik@kruka.pl
 blacklist_from angelika.wawer@youmail.pl
 blacklist_from ania@evbsproduct.pl
@@ -370,6 +369,7 @@ blacklist_from bokpia@ms1625.m.lrmailr.pl
 blacklist_from bok@prewentyl.jgora.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bokryb@ms0472.m.lrmailr.pl
+blacklist_from bokryb@ms1019.m.lrmailr.pl
 blacklist_from bokryb@ms1027.m.lrmailr.pl
 blacklist_from bokryb@ms1444.m.lrmailr.pl
 blacklist_from bokryb@ms1520.m.lrmailr.pl
@@ -553,6 +553,7 @@ blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from dieta@doktorbio.net
 blacklist_from digimarolution@gmail.com
+blacklist_from digimarution@gmail.com
 blacklist_from digimolution@gmail.com
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from dominiskasobczyk@gmail.com
@@ -790,6 +791,7 @@ blacklist_from info@ms0479.m.lrmailr.pl
 blacklist_from info@ms0481.m.lrmailr.pl
 blacklist_from info@ms1020.m.lrmailr.pl
 blacklist_from info@ms1027.m.lrmailr.pl
+blacklist_from info@ms1444.m.lrmailr.pl
 blacklist_from info@ms1523.m.lrmailr.pl
 blacklist_from info@ms1621.m.lrmailr.pl
 blacklist_from info@ms1622.m.lrmailr.pl
@@ -1433,6 +1435,7 @@ blacklist_from sekretariatbyd@ms0479.m.lrmailr.pl
 blacklist_from sekretariatbyd@ms0481.m.lrmailr.pl
 blacklist_from sekretariatbyd@ms1016.m.lrmailr.pl
 blacklist_from sekretariatbyd@ms1018.m.lrmailr.pl
+blacklist_from sekretariatbyd@ms1620.m.lrmailr.pl
 blacklist_from sekretariatbyd@ms1625.m.lrmailr.pl
 blacklist_from sekretariatpro@ms0471.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1019.m.lrmailr.pl
