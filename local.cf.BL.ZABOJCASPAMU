@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-20 17:40 
+# Wygenerowana 2019-09-20 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -23,6 +23,7 @@ blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3af5bee71ac7451afc33249682b197c0@yelltrack.com
+blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks1.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks2.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@zerotrckg.com
 blacklist_from 3ba60910e526171230155335b32fc746@mtrckg.com
@@ -69,6 +70,7 @@ blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@yelltrack.com
 blacklist_from *@a2data.biz.pl
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@yelltrack.com
+blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks2.com
 blacklist_from a448abe446474c935b700884cd1bb00f@mtrckg.com
 blacklist_from a448abe446474c935b700884cd1bb00f@yelltrack.com
 blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks2.com
@@ -87,6 +89,7 @@ blacklist_from admin1@poczta-pol.info
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
+blacklist_from administrator@kqmc.com.qa
 blacklist_from admin@labsols.xyz
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@mail.jilei-china.com
@@ -167,6 +170,7 @@ blacklist_from *@bbsthene.com
 blacklist_from beata.kot@khomb.com
 blacklist_from beatamkyrxed@varzide.co
 blacklist_from beauty@istanbul-beauty.com
+blacklist_from bfacf5665a8e605d290200f2d49e275c@ypclinks2.com
 blacklist_from bielsko@rgn.pl
 blacklist_from billing.uriversal@gmail.com
 blacklist_from biuro1@galeriasz.pl
@@ -193,6 +197,7 @@ blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradcyppk.com.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
+blacklist_from biuro@ertnar.lapy.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
@@ -205,6 +210,7 @@ blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
+blacklist_from biuro@grovamp.agro.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kosmicznymecz.pl
@@ -212,6 +218,8 @@ blacklist_from biuro@kredytnamiare.com.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@liderwiedzy.eu
+blacklist_from biuro@lulax.pisz.pl
+blacklist_from biuro@luttwer.zagan.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@network-masters.pl
@@ -232,6 +240,7 @@ blacklist_from biuro@semprojekt.com
 blacklist_from biurosf@szkolenief.net.pl
 blacklist_from biuro@signumodszkodowania.pl
 blacklist_from biuro@sprawdzgotowke.pl
+blacklist_from biuro@stupord.lapy.pl
 blacklist_from biuro@superszkolenia.pl
 blacklist_from biuro@szef-sprzedazy.pl
 blacklist_from biuro@szkolenia-online.info
@@ -1111,6 +1120,7 @@ blacklist_from marianansdkzkm@varzide.co
 blacklist_from marianna.zelman@khomb.com
 blacklist_from mariaxrgpgrn@salondungsaigon.com
 blacklist_from mariusz.kowalski@cgeszkolenia.pl
+blacklist_from mariusz.kowalski@szkoleniacge.pl
 blacklist_from marketing1@euroasiaschem.com
 blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing@bekar-europe.eu
@@ -1123,6 +1133,7 @@ blacklist_from marketing@simkolo.com
 blacklist_from marketing@team-expert.pl
 blacklist_from marketing@towergraphics.pl
 blacklist_from marlena.porada@bestforrest.com.pl
+blacklist_from marta@mtrmedia.pl
 blacklist_from marta.swat@khomb.com
 blacklist_from marydan043@bol.com.br
 blacklist_from marzanna.klos@khomb.com
@@ -1189,6 +1200,7 @@ blacklist_from msoffice@outsource.katowice.pl
 blacklist_from msoffice@outsource.szczecin.pl
 blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
+blacklist_from msturek@lwdata.pl
 blacklist_from *@myhavenrota.co
 blacklist_from *@myhealthllc.co
 blacklist_from naczelny@poznaj-swiat.pl
@@ -1325,6 +1337,7 @@ blacklist_from office@gibinternational.de
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@monoct.tgory.pl
 blacklist_from office@ospenere.zagan.pl
+blacklist_from office@perta.pisz.pl
 blacklist_from office@retevon.zgora.pl
 blacklist_from office@salteses.tgory.pl
 blacklist_from office@samted.zarow.pl
@@ -1395,6 +1408,7 @@ blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@netmarketer.com.pl
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
+blacklist_from pozycjonowanie@maildelivery.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
 blacklist_from preparat.as@wp.pl
@@ -1588,6 +1602,7 @@ blacklist_from support@dhl.hongkong.icda.com
 blacklist_from support@server.com
 blacklist_from swkim@somansa.com
 blacklist_from *@syriusgroup.com
+blacklist_from systememgeolokalizacji@pro0data.world
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
