@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-20 19:20 
+# Wygenerowana 2019-09-21 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -15,6 +15,7 @@ blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
 blacklist_from 22b63936d25d0f64261552d93c5a407f@ypclinks1.com
+blacklist_from 22b63936d25d0f64261552d93c5a407f@ypclinks2.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@ypclinks1.com
 blacklist_from 2644864705@qq.com
 blacklist_from 2b0024d6441dbf45f344d208ea238016@yelltrack.com
@@ -59,12 +60,14 @@ blacklist_from 7e12f1b0409e99f19ffb827838020dfb@yelltrack.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@mtrckg.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks2.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks1.com
+blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks2.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@trackingbears.com
 blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@mtrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@trackingbears.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@yelltrack.com
 blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@trackingbears.com
+blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@ypclinks2.com
 blacklist_from 9999ef1f2abc960564e305779a403918@ypclinks2.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@yelltrack.com
@@ -691,6 +694,7 @@ blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@zerotrckg.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@faktura.org
+blacklist_from fec7327236e165cbbe60448307d0d1e9@ypclinks2.com
 blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
 blacklist_from fed@sfirmowe.pl
@@ -751,7 +755,6 @@ blacklist_from hapi@productcompany.pl
 blacklist_from *@hellineyes.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from *@heroldgroup.pl
-blacklist_from *@herwayherwords.com
 blacklist_from *@hktdc.com
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
@@ -975,6 +978,7 @@ blacklist_from kate@jumboyin.cn
 blacklist_from kazio.zurawski@wp.pl
 blacklist_from kd2020@drukidruk.pl
 blacklist_from k.dudek@visualcom.pl
+blacklist_from *@kgsgfa.com
 blacklist_from *@kidyla.com
 blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from kishi@techcave.pl
@@ -1044,6 +1048,7 @@ blacklist_from kontakt@winner-mar.pl
 blacklist_from kontakt@winn-mar.pl
 blacklist_from kontakt@winwi.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
+blacklist_from kontakt@wxi.pl
 blacklist_from kontakt@wykupfaktur.com
 blacklist_from kontakt@zajazduhermanow.pl
 blacklist_from kontrolapaliwa@active-central.agency
@@ -1591,6 +1596,7 @@ blacklist_from smt@ms1623.m.lrmailr.pl
 blacklist_from smt@ms1625.m.lrmailr.pl
 blacklist_from smt@ms1627.m.lrmailr.pl
 blacklist_from smyk@oooli.eu
+blacklist_from socialmedia@caa.org.cn
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
 blacklist_from spolkikapitalowe@bfag.pl
@@ -1605,6 +1611,7 @@ blacklist_from support@dhl.hongkong.icda.com
 blacklist_from support@server.com
 blacklist_from swkim@somansa.com
 blacklist_from *@syriusgroup.com
+blacklist_from systememgeolokalizacji@active-brand.agency
 blacklist_from systememgeolokalizacji@pro0data.world
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
@@ -1637,6 +1644,7 @@ blacklist_from teneryfa@lvc.pl
 blacklist_from terminal@terminalikasa.pl
 blacklist_from test@tiags.vn
 blacklist_from thompsonpaterson@officce.com
+blacklist_from *@threadzuk.co
 blacklist_from tikic@tatshing.hk
 blacklist_from tlee@prodigy.net
 blacklist_from t-mobile@mobile.olsztyn.pl
