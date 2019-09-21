@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-21 15:10 
+# Wygenerowana 2019-09-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -48,6 +48,7 @@ blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@ypclinks1.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@zerotrckg.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@mtrckg.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@trackingbears.com
+blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@ypclinks1.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@ypclinks2.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@ypclinks1.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@zerotrckg.com
@@ -57,6 +58,7 @@ blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@mtrckg.com
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@trackingbears.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@yelltrack.com
+blacklist_from 7e12f1b0409e99f19ffb827838020dfb@ypclinks2.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@mtrckg.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks2.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks1.com
@@ -66,8 +68,10 @@ blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@mtrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@trackingbears.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@yelltrack.com
+blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@ypclinks1.com
 blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@trackingbears.com
 blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@ypclinks2.com
+blacklist_from 9999ef1f2abc960564e305779a403918@ypclinks1.com
 blacklist_from 9999ef1f2abc960564e305779a403918@ypclinks2.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@yelltrack.com
@@ -82,6 +86,7 @@ blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks2.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@zerotrckg.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@mtrckg.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@zerotrckg.com
+blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@ypclinks1.com
 blacklist_from abby@custommanu.com
 blacklist_from abjojrv@bambool.eu
 blacklist_from abuse@leclub.com.ve
@@ -610,6 +615,7 @@ blacklist_from *@deathbyfear.co
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
 blacklist_from dee7550ce9815b2fcefdb10c3f390608@mtrckg.com
+blacklist_from dee7550ce9815b2fcefdb10c3f390608@ypclinks2.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from denis@ftgraficos.com
@@ -630,6 +636,7 @@ blacklist_from drukarnia1@serwer1566249.home.pl
 blacklist_from *@drukarnialegra.pl
 blacklist_from ds@lumex.pl
 blacklist_from *@duckncrab.com
+blacklist_from DumaniMandela@yahoo.com
 blacklist_from dzialka.zlotoryja@wp.pl
 blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from e12be84c8c0b8db9743405996d8008b8@mtrckg.com
@@ -1464,7 +1471,6 @@ blacklist_from return@wiadomsc.info
 blacklist_from return@zostw.info
 blacklist_from *@rjredcreations.co
 blacklist_from robertomoretti2003@gmail.com
-blacklist_from *@rogeriodegaki.co
 blacklist_from roman@almar-sport.pl
 blacklist_from root@begarring.xyz
 blacklist_from root@localhost.60042.meghost.pl
@@ -1607,6 +1613,7 @@ blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from ssales@bestmaildelivery.life
+blacklist_from stormydaniels@bottlerank.pro
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
