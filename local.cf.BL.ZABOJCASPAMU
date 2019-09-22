@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-22 16:20 
+# Wygenerowana 2019-09-22 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -27,6 +27,7 @@ blacklist_from 3ba60910e526171230155335b32fc746@mtrckg.com
 blacklist_from 3ba60910e526171230155335b32fc746@trackingbears.com
 blacklist_from 3ba60910e526171230155335b32fc746@yelltrack.com
 blacklist_from 3ba60910e526171230155335b32fc746@ypclinks2.com
+blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@ypclinks1.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclinks2.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@zerotrckg.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@ypclinks1.com
@@ -46,6 +47,7 @@ blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@ypclinks1.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@ypclinks2.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@ypclinks1.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@zerotrckg.com
+blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@ypclinks2.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@yelltrack.com
 blacklist_from 775971942@qq.com
 blacklist_from 77@siedemdziesiatsiedem.pl
@@ -58,6 +60,7 @@ blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks2.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks1.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks2.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@trackingbears.com
+blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks2.com
 blacklist_from 860f94a18956df17e20368a35cc06789@zerotrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@mtrckg.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@trackingbears.com
@@ -147,6 +150,7 @@ blacklist_from *@avrape.com
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from b3278679f9c487bfdf04020a6a53f4f0@trackingbears.com
+blacklist_from b3278679f9c487bfdf04020a6a53f4f0@ypclinks1.com
 blacklist_from *@badoo.com
 blacklist_from *@bahsharje.com
 blacklist_from *@bankowefinansowanie.pl
@@ -623,6 +627,7 @@ blacklist_from e12be84c8c0b8db9743405996d8008b8@yelltrack.com
 blacklist_from e12be84c8c0b8db9743405996d8008b8@ypclinks1.com
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
+blacklist_from ec3678a5bce1a7276393e7630de728fa@ypclinks2.com
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
 blacklist_from edukacja@f-edukacja.org.pl
@@ -1677,6 +1682,7 @@ blacklist_from *@winners-szkolenia.net.pl
 blacklist_from wjedendzien@o2.pl
 blacklist_from wlc@supmail.pl
 blacklist_from wnioski@sukcesshop.pl
+blacklist_from woda@cudownawoda.pl
 blacklist_from wodaeden@companybase.pl
 blacklist_from *@wondersquirt.com
 blacklist_from wtyszkowski@wiselimber.pl
