@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-26 16:10 
+# Wygenerowana 2019-09-26 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -39,6 +39,7 @@ blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@ypclinks2.com
 blacklist_from 50803873@qq.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@ypclinks1.com
 blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@ypclinks2.com
+blacklist_from 65226e4729270d335b404a42de0ba83d@ypclinks1.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@ypclinks1.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@mtrckg.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@trackingbears.com
@@ -208,11 +209,13 @@ blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
+blacklist_from biuro@irniatio.lapy.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytnamiare.com.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@liderwiedzy.eu
+blacklist_from biuro@lipic.zagan.pl
 blacklist_from biuro@luttwer.zagan.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
@@ -233,6 +236,7 @@ blacklist_from biuro@ppsszkolenia.pl
 blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
 blacklist_from biuro@riokio.zagan.pl
+blacklist_from biuro@scolm.lapy.pl
 blacklist_from biuro@semprojekt.com
 blacklist_from biurosf@szkolenief.net.pl
 blacklist_from biuro@signumodszkodowania.pl
@@ -244,6 +248,7 @@ blacklist_from biuro@szkolenia-online.info
 blacklist_from biuro@szkolenia-online.info.pl
 blacklist_from biuro@tamawor.zarow.pl
 blacklist_from biuro@tanidruk.biz
+blacklist_from biuro@tipopal.zagan.pl
 blacklist_from biuro@topbhp.com.pl
 blacklist_from biuro@topksiegowy.com.pl
 blacklist_from biurotow@towedukacja24.pl
@@ -378,6 +383,7 @@ blacklist_from bok.modlniczka@ms1018.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1520.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1622.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1627.m.lrmailr.pl
+blacklist_from bok@olpir.naklo.pl
 blacklist_from bokopo@ms0471.m.lrmailr.pl
 blacklist_from bokopo@ms0479.m.lrmailr.pl
 blacklist_from bokopo@ms0480.m.lrmailr.pl
@@ -460,6 +466,7 @@ blacklist_from bok.szczecin@ms1020.m.lrmailr.pl
 blacklist_from bok.szczecin@ms1621.m.lrmailr.pl
 blacklist_from bok.szczecin@ms1622.m.lrmailr.pl
 blacklist_from bok.szczecin@ms1623.m.lrmailr.pl
+blacklist_from bok@tagafa.naklo.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@triastal.pisz.pl
 blacklist_from bok@usbox.eu
@@ -505,6 +512,7 @@ blacklist_from bokzgo@ms1621.m.lrmailr.pl
 blacklist_from bokzgo@ms1622.m.lrmailr.pl
 blacklist_from bokzgo@ms1625.m.lrmailr.pl
 blacklist_from bokzgo@ms1627.m.lrmailr.pl
+blacklist_from *@bollywoodinfoo.com
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from borsukiewicz.jacek@progressproject.pl
@@ -584,6 +592,7 @@ blacklist_from ckl@ckl.pl
 blacklist_from *@closeneighbor.com
 blacklist_from *@codefibre.co
 blacklist_from coleacp@info.coleacp.org
+blacklist_from commerciale@prodottidisano.it
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
 blacklist_from conceptronic@conceptronic.pl
@@ -600,6 +609,7 @@ blacklist_from d1@drukd1.pl
 blacklist_from dagmara.kowalczyk@bluesearch.pl
 blacklist_from dalidadjejwypbarszcz@exfundex.co
 blacklist_from damian.kaszuba@lpkruk.eu
+blacklist_from daria.kwiecien@khomb.com
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from *@daydaa.co
@@ -849,6 +859,7 @@ blacklist_from *@info.mainclick.pl
 blacklist_from info@malinawasowska.net.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
+blacklist_from info@mordayt.zagan.pl
 blacklist_from info@ms0472.m.lrmailr.pl
 blacklist_from info@ms0479.m.lrmailr.pl
 blacklist_from info@ms0481.m.lrmailr.pl
@@ -924,6 +935,7 @@ blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from *@ipsabt.com
 blacklist_from isbyqwv@alamerson.art
+blacklist_from isof@isoferp.pl
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
 blacklist_from *@italyinadinner.com
@@ -1051,6 +1063,7 @@ blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from la176@gmail.com
+blacklist_from laura@ty13r.com
 blacklist_from laura@wzytL.com
 blacklist_from laura@yLzqc.com
 blacklist_from leason@zamowienie.org.pl
@@ -1064,6 +1077,7 @@ blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
 blacklist_from lucy@jinrimiye.com
+blacklist_from lucy@xxdsrq.com
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
@@ -1101,12 +1115,14 @@ blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from maja.szewczyk@khomb.com
+blacklist_from marcelina.mikula@khomb.com
 blacklist_from marcin@grovly.eu
 blacklist_from marcin.krolikowski@myvelocity.pl
 blacklist_from marcin.sturek@ad-firma.pl
 blacklist_from marek.kowalik@wyjazdfirmowy.eu
 blacklist_from marek@nauka.archiwizacji.pl
 blacklist_from marianansdkzkm@varzide.co
+blacklist_from marianna.swat@khomb.com
 blacklist_from mariusz.kowalski@cgeszkolenia.pl
 blacklist_from mariusz.kowalski@szkoleniacge.pl
 blacklist_from marketing2@polidruk.com.pl
@@ -1119,6 +1135,7 @@ blacklist_from marketing@positiv.com.pl
 blacklist_from marketing@simkolo.com
 blacklist_from marketing@team-expert.pl
 blacklist_from marketing@towergraphics.pl
+blacklist_from marlena.klos@khomb.com
 blacklist_from marlena.porada@bestforrest.com.pl
 blacklist_from marta@mtrmedia.pl
 blacklist_from marta.swat@khomb.com
@@ -1157,6 +1174,7 @@ blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
+blacklist_from milena.swat@khomb.com
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from *@minitala.co
@@ -1169,6 +1187,7 @@ blacklist_from mnapierzynska@ms1624.m.lrmailr.pl
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from m.olesiak@interia.pl
 blacklist_from monika.dyba@russellbedford.com.pl
+blacklist_from monika.ludwig@evention.com.pl
 blacklist_from monika.piatek@khomb.com
 blacklist_from monika.pieslak@yahoo.com
 blacklist_from monitoringgps@entry-brand.agency
@@ -1324,6 +1343,7 @@ blacklist_from office@einstitute.com.pl
 blacklist_from office@executive-club.com.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@hipopetu.sejny.pl
+blacklist_from office@impont.sejny.pl
 blacklist_from office@levask.sejny.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@mevesa.jgora.pl
@@ -1331,6 +1351,7 @@ blacklist_from office@miolkip.lapy.pl
 blacklist_from office@monoct.tgory.pl
 blacklist_from office@ospenere.zagan.pl
 blacklist_from office@perta.pisz.pl
+blacklist_from office@premer.jgora.pl
 blacklist_from office@retevon.zgora.pl
 blacklist_from office@salteses.tgory.pl
 blacklist_from office@samted.zarow.pl
@@ -1399,6 +1420,7 @@ blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@netmarketer.com.pl
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
+blacklist_from postservice@wtinsuletion.cf
 blacklist_from pozycjonowanie@maildelivery.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
@@ -1418,6 +1440,8 @@ blacklist_from protektorzy@mailplanet.p
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from pwmaeaqk@gmail.com
+blacklist_from p.wojcik@businessmanage.pl
+blacklist_from p.wojcik@mylocaltrade.pl
 blacklist_from p.wojcik@myourbusiness.pl
 blacklist_from pzu@tpmcf.com
 blacklist_from rbacademy@rbakademia.pl
