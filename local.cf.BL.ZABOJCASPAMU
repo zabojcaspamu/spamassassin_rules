@@ -1,8 +1,9 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-28 16:30 
+# Wygenerowana 2019-09-28 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
+blacklist_from 08b62d239754f74ef9577d39106d479c@ypclinks1.com
 blacklist_from 08b62d239754f74ef9577d39106d479c@ypclinks2.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@ypclinks1.com
 blacklist_from 0d49abd12ffa246ddab8ab11662da94e@ypclinks2.com
@@ -36,8 +37,10 @@ blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@yelltrack.com
 blacklist_from 4fb162cd5b78371ab7bd1278cc1621d6@ypclinks2.com
 blacklist_from 50803873@qq.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@ypclinks1.com
+blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@ypclinks1.com
 blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@ypclinks2.com
 blacklist_from 65226e4729270d335b404a42de0ba83d@ypclinks1.com
+blacklist_from 65226e4729270d335b404a42de0ba83d@ypclinks2.com
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@ypclinks1.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@ypclinks1.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@ypclinks1.com
@@ -73,6 +76,7 @@ blacklist_from 9ce9d453e19548ba7ae46818b6208352@mtrckg.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@ypclinks1.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@ypclinks2.com
 blacklist_from *@a2data.biz.pl
+blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@ypclinks1.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks1.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks2.com
 blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks2.com
@@ -590,6 +594,7 @@ blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from daria.kwiecien@khomb.com
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
+blacklist_from dawidrafa@multi-kredyty.com.pl
 blacklist_from *@daydaa.co
 blacklist_from *@deathbyfear.co
 blacklist_from decathlon@productcompany.pl
@@ -1575,6 +1580,7 @@ blacklist_from *@syriusgroup.com
 blacklist_from systememgeolokalizacji@active-brand.agency
 blacklist_from systememgeolokalizacji@corecentral.today
 blacklist_from systememgeolokalizacji@pro0data.world
+blacklist_from systememgeolokalizacji@startupfocus.world
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
