@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-30 13:50 
+# Wygenerowana 2019-09-30 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -77,6 +77,7 @@ blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@ypclinks1.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks1.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks2.com
 blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks2.com
+blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks1.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks2.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@ypclinks2.com
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@ypclinks1.com
@@ -171,6 +172,7 @@ blacklist_from biuro@acertbum.tgory.pl
 blacklist_from biuro@adwords2019.pl
 blacklist_from biuro@ajrond.lapy.pl
 blacklist_from biuro@alfianco.pl
+blacklist_from biuro@arabac.pisz.pl
 blacklist_from biuro@aznert.zarow.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
@@ -966,9 +968,11 @@ blacklist_from konferencja@cpi-sk.com.pl
 blacklist_from konpol@data.pl
 blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
+blacklist_from kontakt@8logotyp.pl
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@apteka-kamagra.com
+blacklist_from kontakt@biznes-finanse2013.pl
 blacklist_from kontakt@cernn.konin.pl
 blacklist_from kontakt@company-solutions.pl
 blacklist_from kontakt@doplacamy-do-odszkodowan.katowice.pl
@@ -1031,6 +1035,8 @@ blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from la176@gmail.com
+blacklist_from laura@2ibsa.com
+blacklist_from laura@p1mtL.com
 blacklist_from laura@ty13r.com
 blacklist_from laura@wzytL.com
 blacklist_from laura@xxdsrq.com
@@ -1043,12 +1049,14 @@ blacklist_from lexus@lexus-polska.pl
 blacklist_from lider.cosmetic@gmail.com
 blacklist_from light@dilutedrug.icu
 blacklist_from lilbd@gmail.com
+blacklist_from lily@2ibsa.com
 blacklist_from lily@websitefife.com
 blacklist_from lily@xxdsrq.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
 blacklist_from lucy@jinrimiye.com
+blacklist_from lucy@p1mtL.com
 blacklist_from lucy@websitefife.com
 blacklist_from lucy@xxdsrq.com
 blacklist_from luke.skywalker1967@wp.pl
@@ -1111,7 +1119,6 @@ blacklist_from marlena.porada@bestforrest.com.pl
 blacklist_from marta@mtrmedia.pl
 blacklist_from marta.swat@khomb.com
 blacklist_from marydan043@bol.com.br
-blacklist_from *@masjhu.com
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
 blacklist_from mateuszszpinda@gmail.com
@@ -1314,6 +1321,7 @@ blacklist_from office@nutgac.pisz.pl
 blacklist_from office@ospenere.zagan.pl
 blacklist_from office@perta.pisz.pl
 blacklist_from office@premer.jgora.pl
+blacklist_from office@redat.zarow.pl
 blacklist_from office@scc.org.pl
 blacklist_from ofix-noreply@ofix.pl
 blacklist_from ogonek.alicja52@wp.pl
@@ -1464,7 +1472,6 @@ blacklist_from *@samochod.szczecin.pl
 blacklist_from *@samochod.warszawa.pl
 blacklist_from *@samochod.wroclaw.pl
 blacklist_from sanusfood5@yahoo.com
-blacklist_from *@saossi.com
 blacklist_from *@sastaz.com
 blacklist_from secuirity@mailbox.com
 blacklist_from secureserver@servers.com
@@ -1608,7 +1615,6 @@ blacklist_from teneryfa@lvc.pl
 blacklist_from terminal@terminalikasa.pl
 blacklist_from test@tiags.vn
 blacklist_from thompsonpaterson@officce.com
-blacklist_from *@threadzuk.co
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
 blacklist_from *@torell.pl
