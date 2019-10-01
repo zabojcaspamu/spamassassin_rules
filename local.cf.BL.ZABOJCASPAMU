@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-09-30 18:20 
+# Wygenerowana 2019-10-01 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -174,6 +174,7 @@ blacklist_from biuro@ajrond.lapy.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@arabac.pisz.pl
 blacklist_from biuro@aznert.zarow.pl
+blacklist_from biuro@benefitmed.biz.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
 blacklist_from biuro@brokerszkolen.pl
@@ -1182,6 +1183,8 @@ blacklist_from msoffice@outsource.szczecin.pl
 blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msturek@lwdata.pl
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from najtrwalej@karodrukuje.pl
 blacklist_from *@nanciesnotary.com
@@ -1322,6 +1325,7 @@ blacklist_from office@ospenere.zagan.pl
 blacklist_from office@perta.pisz.pl
 blacklist_from office@premer.jgora.pl
 blacklist_from office@redat.zarow.pl
+blacklist_from office@rrwq.website
 blacklist_from office@scc.org.pl
 blacklist_from ofix-noreply@ofix.pl
 blacklist_from ogonek.alicja52@wp.pl
@@ -1518,7 +1522,6 @@ blacklist_from service?@mx?.sztrade.xyz
 blacklist_from serwis@gigantfine.com
 blacklist_from serwis@parscancer.com
 blacklist_from serwis@serwis-laptopow.warszawa.pl
-blacklist_from *@setrae.com
 blacklist_from *@s.explanator.pl
 blacklist_from sh0316@eastarjet.com
 blacklist_from shark@childmix.icu
@@ -1681,6 +1684,8 @@ blacklist_from woda@cudownawoda.pl
 blacklist_from wodaeden@companybase.pl
 blacklist_from *@wondersquirt.com
 blacklist_from wtyszkowski@wiselimber.pl
+blacklist_from www-data@fk11.firmy-kredyt.pl
+blacklist_from www-data@fr4.finansowanie-rynku.pl
 blacklist_from www-data@investorkirov.ru
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
