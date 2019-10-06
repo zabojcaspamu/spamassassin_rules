@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-10-06 18:10 
+# Wygenerowana 2019-10-06 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -81,6 +81,7 @@ blacklist_from *@a2data.biz.pl
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@ypclinks1.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks1.com
 blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks2.com
+blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks1.com
 blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks2.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks1.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks2.com
@@ -461,6 +462,7 @@ blacklist_from bounce@pwm0.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@bourgstreet.com
+blacklist_from braindevlin@msn.com
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -547,6 +549,7 @@ blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from denis@ftgraficos.com
 blacklist_from *@detalus.dla-najlepszych.pl
+blacklist_from diarsolution@gmail.com
 blacklist_from dieta@doktorbio.net
 blacklist_from difficult@seekjam.icu
 blacklist_from digimalution@gmail.com
@@ -1529,7 +1532,6 @@ blacklist_from smyk@oooli.eu
 blacklist_from socialmedia@caa.org.cn
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
-blacklist_from *@souqso.com
 blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
@@ -1653,6 +1655,7 @@ blacklist_from wtyszkowski@wiselimber.pl
 blacklist_from www-data@fk11.firmy-kredyt.pl
 blacklist_from www-data@fr4.finansowanie-rynku.pl
 blacklist_from www-data@investorkirov.ru
+blacklist_from www-data@mf3.msp-finansowanie.pl
 blacklist_from www-data@mf8.msp-finansowanie.pl
 blacklist_from www-data@reklamadlafirm2019.pl
 blacklist_from *@wycenakawalko.pl
