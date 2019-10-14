@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-10-14 17:10 
+# Wygenerowana 2019-10-14 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -27,6 +27,7 @@ blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks1.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks2.com
+blacklist_from 3ba60910e526171230155335b32fc746@ypclinks1.com
 blacklist_from 3ba60910e526171230155335b32fc746@ypclinks2.com
 blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@ypclinks1.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclinks1.com
@@ -252,6 +253,8 @@ blacklist_from biuro@prevent.zgora.pl
 blacklist_from biuro@profit4cash.pl
 blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
+blacklist_from biuro@rartart.zagan.pl
+blacklist_from biuro@rawerta.zgora.pl
 blacklist_from biuro@rondo-daszynskiego.pl
 blacklist_from biuro@ruratav.lapy.pl
 blacklist_from biuro@scolm.lapy.pl
@@ -286,6 +289,7 @@ blacklist_from bok@clarun.sejny.pl
 blacklist_from bok@clevozi.zgora.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@esonce.zagan.pl
+blacklist_from bok@ewpol.naklo.pl
 blacklist_from bok@gadzetylodz.pl
 blacklist_from bok@hiplia.jgora.pl
 blacklist_from bok@ib2c.pl
@@ -384,6 +388,7 @@ blacklist_from coupons@wpe520.com
 blacklist_from coupons@xxdsrq.com
 blacklist_from coupons@yLzqc.com
 blacklist_from *@cpatrafficword.com
+blacklist_from credit@rjfm.fm
 blacklist_from crowd@awardstory.icu
 blacklist_from cshengyoung555@outlook.com
 blacklist_from csk@csk-partner.pl
@@ -552,6 +557,7 @@ blacklist_from handlowy@energooszczedne-ogrzewanie.pl
 blacklist_from *@hanvietco.com
 blacklist_from hapi@productcompany.pl
 blacklist_from hassancbn71@gmail.com
+blacklist_from *@hatemsalah.com
 blacklist_from *@hellineyes.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from *@heroldgroup.pl
@@ -750,6 +756,7 @@ blacklist_from *@kabelpol.dla-najlepszych.pl
 blacklist_from kadarisman@rspp.co.id
 blacklist_from *@kalkuluje.com
 blacklist_from kamila.krakowska@whiteone.tk
+blacklist_from kamil.m@dofinansowaneszkolenie.pl
 blacklist_from kampania@najlepszeokazje.co.pl
 blacklist_from kapela@goralska-hora.pl
 blacklist_from karolina.wilczynska@waznawiadomosc.pl
@@ -932,6 +939,7 @@ blacklist_from max@2020max.pl
 blacklist_from max@druknacalyrok.pl
 blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
+blacklist_from mbednarczyk@ms1016.m.lrmailr.pl
 blacklist_from *@m.businesscampaign.pl
 blacklist_from m.carone@comune.bari.it
 blacklist_from mecenas.kruk@gmail.com
@@ -1083,6 +1091,7 @@ blacklist_from odbicia@newmessage.eu
 blacklist_from odbicia@novamo.pl
 blacklist_from odbicia@okazje-info.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
+blacklist_from odbicia@wspolpracabiznesowa.eu
 blacklist_from odrzucone@symen24.pl
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
@@ -1123,6 +1132,7 @@ blacklist_from office@refvsa.lapy.pl
 blacklist_from office@retevon.zgora.pl
 blacklist_from office@rrwq.website
 blacklist_from office@scc.org.pl
+blacklist_from office@sihia.tgory.pl
 blacklist_from office@urginegen.zarow.pl
 blacklist_from office@verant.jgora.pl
 blacklist_from office@viginiert.naklo.pl
@@ -1260,7 +1270,6 @@ blacklist_from rose.torres@talktalk.net
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
-blacklist_from *@saarkashyap.co
 blacklist_from sabina.gosik@gmail.com
 blacklist_from *@safariro.co
 blacklist_from SagePolska@supmail.pl
