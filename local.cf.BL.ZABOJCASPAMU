@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-10-18 18:20 
+# Wygenerowana 2019-10-19 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -45,11 +45,14 @@ blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@ypclinks1.com
 blacklist_from 7c251f87056735dbc2bc20b6ac807499@ypclinks2.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@ypclinks2.com
+blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks1.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks2.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks1.com
+blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks1.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks2.com
 blacklist_from 860f94a18956df17e20368a35cc06789@ypclinks1.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@ypclinks1.com
+blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@ypclinks1.com
 blacklist_from 9999ef1f2abc960564e305779a403918@ypclinks1.com
 blacklist_from 9be714024efad999719a880758348d40@ypclinks1.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@ypclinks1.com
@@ -460,6 +463,7 @@ blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@ypclinks2.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@faktura.org
+blacklist_from *@fardinpouya.com
 blacklist_from fec7327236e165cbbe60448307d0d1e9@ypclinks2.com
 blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
@@ -474,6 +478,7 @@ blacklist_from flyspot@aaamia.pl
 blacklist_from *@fmcanliradyo.com
 blacklist_from *@fmscreditrepair.com
 blacklist_from *@fmsyayincilik.com
+blacklist_from f.nowak@tlumaczenia-polski-niemiecki.pl
 blacklist_from food1@ricmail.com
 blacklist_from *@forb2bpromotion.pl
 blacklist_from foryou@blitzmail.pl
@@ -1154,6 +1159,7 @@ blacklist_from piotr.malarski@gmail.com
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
+blacklist_from poczta2@orlenmail.pl
 blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@orlenmail.pl
 blacklist_from poczta@programming.co.pl
@@ -1197,6 +1203,7 @@ blacklist_from queen@websitefife.com
 blacklist_from queen@whLxbz.com
 blacklist_from queen@yLzqc.com
 blacklist_from queen@zyjf365.com
+blacklist_from *@radiozamane.com
 blacklist_from rdp@butterfly-lg.com
 blacklist_from *@realbuzzads.com
 blacklist_from recepcja@meta-hotel.pl
