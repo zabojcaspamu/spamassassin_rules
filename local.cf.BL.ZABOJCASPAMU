@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-10-20 20:50 
+# Wygenerowana 2019-10-21 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -8,6 +8,7 @@ blacklist_from 0d49abd12ffa246ddab8ab11662da94e@ypclinks1.com
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@ypclinks2.com
 blacklist_from *@163.com
 blacklist_from 1ca587114fbd5bcb20d89d0c30b1e974@ypclinks1.com
+blacklist_from 1ca587114fbd5bcb20d89d0c30b1e974@ypclinks2.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 1sushmitac@gmail.com
@@ -18,6 +19,7 @@ blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@ypclinks2.com
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
+blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks1.com
 blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks2.com
 blacklist_from 3ba60910e526171230155335b32fc746@ypclinks1.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclinks1.com
@@ -30,20 +32,26 @@ blacklist_from 5fabe079f2338e7b914b725d767a8100@ypclinks1.com
 blacklist_from 5fabe079f2338e7b914b725d767a8100@ypclinks2.com
 blacklist_from 64465c2b80f7d7e7830e44a3cfb93341@ypclinks1.com
 blacklist_from 65226e4729270d335b404a42de0ba83d@ypclinks2.com
+blacklist_from 6adf95870c413b1b1ada4431660da4bb@ypclinks2.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@ypclinks1.com
 blacklist_from 6c50580d177af3b21f8b74a4ad5b0e74@ypclinks2.com
 blacklist_from 6fa19a053be72ae928b147a57ed7f9c8@ypclinks2.com
 blacklist_from 70dd753eac962f464bc8dc3ba252b18d@ypclinks1.com
+blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@ypclinks1.com
 blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@ypclinks2.com
+blacklist_from 762d5c7d0ce04a7b3909972a39871386@ypclinks1.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@ypclinks2.com
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@ypclinks2.com
+blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks1.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks2.com
+blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks1.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks2.com
 blacklist_from 860f94a18956df17e20368a35cc06789@ypclinks1.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@ypclinks1.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@ypclinks2.com
 blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@ypclinks1.com
+blacklist_from 91c4338d5943bd0dc3873f6b484f2ab5@ypclinks2.com
 blacklist_from 9999ef1f2abc960564e305779a403918@ypclinks1.com
 blacklist_from 9be714024efad999719a880758348d40@ypclinks1.com
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@ypclinks1.com
@@ -59,6 +67,7 @@ blacklist_from a.baranowska@senekaszkolenia.com.pl
 blacklist_from abby@custommanu.com
 blacklist_from aburgos@agriproduct.com.ec
 blacklist_from abuse@leclub.com.ve
+blacklist_from abxarzx@bambool.eu
 blacklist_from adam@old-timers.pl
 blacklist_from adampluciennik@umitozkan.com.tr
 blacklist_from admin1@poczta-pol.info
@@ -336,6 +345,7 @@ blacklist_from contact@saeclum.pl
 blacklist_from controlling@mediaexpln.pl
 blacklist_from corporatesecretary@transcoalpacific.com
 blacklist_from coupons@3b2j.com
+blacklist_from coupons@hzfdks.com
 blacklist_from coupons@websitefife.com
 blacklist_from coupons@whLxbz.com
 blacklist_from coupons@wpe520.com
@@ -354,6 +364,7 @@ blacklist_from d12020@d12020.pl
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from Danny@calciotuniso.ml
 blacklist_from daria.zak@khomb.com
+blacklist_from dariusz@orlenmail.pl
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from dawidrafa@multi-kredyty.com.pl
@@ -439,6 +450,7 @@ blacklist_from extraportfel@newspoczta.pl
 blacklist_from *@ey-vx.com
 blacklist_from f0301984ff9ef99843b7c4b52145f45a@ypclinks1.com
 blacklist_from f0301984ff9ef99843b7c4b52145f45a@ypclinks2.com
+blacklist_from f47b8287052cafc1e3e5d333f4d8d3e3@ypclinks1.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@faktura.org
@@ -806,6 +818,7 @@ blacklist_from light@dilutedrug.icu
 blacklist_from lilbd@gmail.com
 blacklist_from lily@2ibsa.com
 blacklist_from lily@3b2j.com
+blacklist_from lily@hzfdks.com
 blacklist_from lily@shanhe365.com
 blacklist_from lily@shhqhy.com
 blacklist_from lily@wc3dr.com
@@ -823,6 +836,7 @@ blacklist_from lucy@3b2j.com
 blacklist_from lucy@9dahL.com
 blacklist_from lucy@kuygs.com
 blacklist_from lucy@p1mtL.com
+blacklist_from lucy@pxLfck.com
 blacklist_from lucy@ty13r.com
 blacklist_from lucy@websitefife.com
 blacklist_from lucy@whLxbz.com
@@ -925,6 +939,8 @@ blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
 blacklist_from msturek@lwdata.pl
 blacklist_from myon88@gmail.com
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from najtrwalej@karodrukuje.pl
 blacklist_from *@nanciesnotary.com
@@ -1021,6 +1037,7 @@ blacklist_from obama@2ibsa.com
 blacklist_from obama@3b2j.com
 blacklist_from obama@kuygs.com
 blacklist_from obama@p1mtL.com
+blacklist_from obama@szzhengchu.com
 blacklist_from obama@ty13r.com
 blacklist_from obama@websitefife.com
 blacklist_from obama@whLxbz.com
@@ -1160,6 +1177,7 @@ blacklist_from *@protestosjc.co
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from prvs=175983d68=conferences@ifo.de
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
+blacklist_from *@pssncsdv.co
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from *@pythoanywhere.co
 blacklist_from pzu@tpmcf.com
@@ -1266,6 +1284,7 @@ blacklist_from sklep@opfol.pl
 blacklist_from skoda@notice4you.pl
 blacklist_from sk@systemszkolenia.pl
 blacklist_from *@slicplans.com
+blacklist_from *@smartstorellc.com
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
 blacklist_from smtp2@eromail.pl
