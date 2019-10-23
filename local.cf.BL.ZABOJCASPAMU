@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-10-23 18:10 
+# Wygenerowana 2019-10-23 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -70,6 +70,7 @@ blacklist_from a3ea266bb92e0066071e5b4c3b4320f3@ypclinks1.com
 blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks1.com
 blacklist_from a448abe446474c935b700884cd1bb00f@ypclinks2.com
 blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks1.com
+blacklist_from a47a5e4d9e35c04f128fe71270e1a762@ypclinks2.com
 blacklist_from a4fad1f6d0a2eb490513fc70aec1500a@ypclinks2.com
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@ypclinks1.com
 blacklist_from a.baranowska@senekaszkolenia.com.pl
@@ -177,9 +178,11 @@ blacklist_from biuro@color24.pl
 blacklist_from biuro@corwalik.zgora.pl
 blacklist_from biuro@curnadas.jgora.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
+blacklist_from biuro@debt-ai.pl
 blacklist_from biuro@debtlawyer.pl
 blacklist_from biuro@dentaj.zagan.pl
 blacklist_from biuro@diwrimce.pisz.pl
+blacklist_from biuro@dlabis.zagan.pl
 blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
@@ -190,6 +193,7 @@ blacklist_from biuro@fastmail24.pl
 blacklist_from biuro@fastmailing24.pl
 blacklist_from biuro@finansowaniefaktur.pl
 blacklist_from biuro@finers.lapy.pl
+blacklist_from biuro@finjami.lapy.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
@@ -422,6 +426,7 @@ blacklist_from e91c5ef13227981374bb160e77f4a018@ypclinks1.com
 blacklist_from e91c5ef13227981374bb160e77f4a018@ypclinks2.com
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
+blacklist_from ec3678a5bce1a7276393e7630de728fa@ypclinks1.com
 blacklist_from ec3678a5bce1a7276393e7630de728fa@ypclinks2.com
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
@@ -429,6 +434,7 @@ blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from eeeda132d2e506d2e1274c0f103a9eff@ypclinks1.com
+blacklist_from eeeda132d2e506d2e1274c0f103a9eff@ypclinks2.com
 blacklist_from efde293ee0f04515beb91a29ca7150da@ypclinks2.com
 blacklist_from *@e-frot.pl
 blacklist_from *@???????.e-infoczystosc.com.pl
@@ -787,6 +793,7 @@ blacklist_from kontakt@*.olix-polska.com
 blacklist_from kontakt@pfw.com.pl
 blacklist_from kontakt@polgift.com.pl
 blacklist_from kontakt@pomocdlafirm.com.pl
+blacklist_from kontakt@prad-gaz-taniej.pl
 blacklist_from kontakt@pro-finansowanie.pl
 blacklist_from kontakt@pro-finans.pl
 blacklist_from kontakt@projektujemy-strony.online
@@ -1055,7 +1062,6 @@ blacklist_from obadanmike1945@gmail.com
 blacklist_from obama@0375jLb.com
 blacklist_from obama@110hhh.com
 blacklist_from obama@2ibsa.com
-blacklist_from obama@3b2j.com
 blacklist_from obama@kuygs.com
 blacklist_from obama@p1mtL.com
 blacklist_from obama@szzhengchu.com
@@ -1096,12 +1102,14 @@ blacklist_from office@76management.com
 blacklist_from office@autir.pisz.pl
 blacklist_from office@capga.zarow.pl
 blacklist_from office@cortijodelmar.eu
+blacklist_from office@discon.pisz.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@ewarle.lapy.pl
 blacklist_from office@executive-club.com.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@greved.zagan.pl
 blacklist_from office@hlipersta.agro.pl
+blacklist_from office@hlussa.pisz.pl
 blacklist_from office@hrewkal.jgora.pl
 blacklist_from office@hryjaz.pisz.pl
 blacklist_from office@impont.sejny.pl
@@ -1121,6 +1129,7 @@ blacklist_from office@sihia.tgory.pl
 blacklist_from office@tujhad.jgora.pl
 blacklist_from office@verant.jgora.pl
 blacklist_from office@vikals.jgora.pl
+blacklist_from office@weropla.naklo.pl
 blacklist_from office@xadog.pisz.pl
 blacklist_from ofix-noreply@ofix.pl
 blacklist_from ogonek.alicja52@wp.pl
@@ -1184,7 +1193,6 @@ blacklist_from postservice@wtinsuletion.cf
 blacklist_from pozycjonowanie@mailsender.com.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
-blacklist_from *@prad-gaz-taniej.pl
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
 blacklist_from prezent@sztefanwons.com
@@ -1336,6 +1344,7 @@ blacklist_from support@security.com
 blacklist_from *@syjlrt.com
 blacklist_from *@syriusgroup.com
 blacklist_from systememgeolokalizacji@corecentral.today
+blacklist_from systememgeolokalizacji@entrydrive.world
 blacklist_from systememgeolokalizacji@startupfocus.world
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@akademiakrakowska.pl
