@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-10-26 07:00 
+# Wygenerowana 2019-10-26 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -24,8 +24,10 @@ blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks1.com
+blacklist_from 3af5bee71ac7451afc33249682b197c0@ypclinks2.com
 blacklist_from 3ba60910e526171230155335b32fc746@ypclinks1.com
 blacklist_from 3ba60910e526171230155335b32fc746@ypclinks2.com
+blacklist_from 4311ccd5a44eefaa10fa55c296fff3ae@ypclinks2.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclinks1.com
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclinks2.com
 blacklist_from 4a4371536884599f65414c2a9ee0ec7e@ypclinks1.com
@@ -50,11 +52,14 @@ blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@ypclinks2.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@ypclinks1.com
 blacklist_from 762d5c7d0ce04a7b3909972a39871386@ypclinks2.com
 blacklist_from 77@siedemdziesiatsiedem.pl
+blacklist_from 7c251f87056735dbc2bc20b6ac807499@ypclinks1.com
+blacklist_from 7e12f1b0409e99f19ffb827838020dfb@ypclinks1.com
 blacklist_from 7e12f1b0409e99f19ffb827838020dfb@ypclinks2.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks1.com
 blacklist_from 81f5285440e2e381f3a4f4984ff213be@ypclinks2.com
 blacklist_from 84e7deaff611c02db147046c0db2f297@ypclinks1.com
 blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks1.com
+blacklist_from 85713bb9dae69e04b77a7ce7fde335f3@ypclinks2.com
 blacklist_from 860f94a18956df17e20368a35cc06789@ypclinks1.com
 blacklist_from 860f94a18956df17e20368a35cc06789@ypclinks2.com
 blacklist_from 8cd8c7976aa50364663b99d0e3ce8d40@ypclinks1.com
@@ -402,6 +407,7 @@ blacklist_from digimlution@gmail.com
 blacklist_from digimolution@gmail.com
 blacklist_from digrsolution@gmail.com
 blacklist_from digsolution@gmail.com
+blacklist_from dmsqwdxeer@kasiula.site
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from dominiskasobczyk@gmail.com
 blacklist_from domodi@flyemail.pl
@@ -910,6 +916,7 @@ blacklist_from marketing@towergraphics.pl
 blacklist_from marlena.porada@bestforrest.com.pl
 blacklist_from marta.kot@khomb.com
 blacklist_from marta@mtrmedia.pl
+blacklist_from martin@teelingwhiskey.com
 blacklist_from marydan043@bol.com.br
 blacklist_from mateusz.jarosz@majorbizzie.pl
 blacklist_from mateusz@okazje-pozyczek.pl
@@ -942,7 +949,6 @@ blacklist_from monika.pieslak@yahoo.com
 blacklist_from *@mosaferatro.co
 blacklist_from mp@biurozarzadu.pl
 blacklist_from mp@ntrainings.pl
-blacklist_from *@mrkabadiwala.co
 blacklist_from mrmohadbashir@gmail.com
 blacklist_from mrsangepaul@gmail.com
 blacklist_from mrselizabeth@hotmail.com
