@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-03 18:00 
+# Wygenerowana 2019-11-03 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -166,6 +166,7 @@ blacklist_from bb8a94195ab1bc5b84426d139f4341a3@ypclinks1.com
 blacklist_from bb8a94195ab1bc5b84426d139f4341a3@ypclinks2.com
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
+blacklist_from benjamin.dell@onet.pl
 blacklist_from bfacf5665a8e605d290200f2d49e275c@ypclinks1.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@ypclinks2.com
 blacklist_from bhl@butterfly-lg.com
@@ -668,12 +669,14 @@ blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
+blacklist_from info@translateplus99.space
 blacklist_from info@translateplusda.info
 blacklist_from info@translateplusdb.info
 blacklist_from info@translateplusmr.info
 blacklist_from info@translateplusna.info
 blacklist_from info@translateplusnu.info
 blacklist_from info@translateplusow.info
+blacklist_from info@translateplusv.space
 blacklist_from info@untoton.zarow.pl
 blacklist_from info@vadert.zgora.pl
 blacklist_from info@visainc.com
@@ -1172,6 +1175,7 @@ blacklist_from *@productcompany.pl
 blacklist_from ProdukcjaReklamyPOSM@gmail.com
 blacklist_from produkcja@thewhitestore.com.pl
 blacklist_from promocje@dietanawiosne.pl
+blacklist_from promopolonia@emailmarketingisa.com
 blacklist_from protektorzy@mailplanet.p
 blacklist_from *@protestosjc.co
 blacklist_from Provident@tylkodlaciebie.eu
@@ -1224,6 +1228,7 @@ blacklist_from root@vps637794.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
+blacklist_from rttkk963@gmail.com
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
@@ -1346,8 +1351,6 @@ blacklist_from traced@mail.speedy-mail.pl
 blacklist_from trading@maksym.com.pl
 blacklist_from transakcje@wewnspolnotowe.net.pl
 blacklist_from *@translateit.pl
-blacklist_from *@translateplus99.space
-blacklist_from *@translateplusv.space
 blacklist_from travelist@motorun.pl
 blacklist_from travelist@offers4you.pl
 blacklist_from trenujzoske@gmail.com
