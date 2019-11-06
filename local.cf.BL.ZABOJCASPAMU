@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-06 13:00 
+# Wygenerowana 2019-11-06 13:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -592,6 +592,7 @@ blacklist_from *@info.fastymail.pl
 blacklist_from info@fecable.tgory.pl
 blacklist_from info@fedex.com
 blacklist_from *@info.fewmembers.pl
+blacklist_from *@info.firelinks.pl
 blacklist_from info@firmajutra.eu
 blacklist_from *@info.flashmail.net.pl
 blacklist_from info@flipmailer.com
@@ -865,6 +866,7 @@ blacklist_from maciejprzymus123@wp.pl
 blacklist_from *@mafrash.com
 blacklist_from magda.b@pro-activ.pl
 blacklist_from magdalena.szreter@effectgroup.pl
+blacklist_from *@mail220.sea101.rsgsv.net
 blacklist_from mail@comp-net.pl
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mail@freshplaza.de
@@ -943,10 +945,12 @@ blacklist_from mrmohadbashir@gmail.com
 blacklist_from mrsangepaul@gmail.com
 blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
+blacklist_from *@ms0472.m.lrmailr.pl
 blacklist_from *@ms0480.m.lrmailr.pl
 blacklist_from *@ms1016.m.lrmailr.pl
 blacklist_from *@ms1019.m.lrmailr.pl
 blacklist_from *@ms1020.m.lrmailr.pl
+blacklist_from *@ms1027.m.lrmailr.pl
 blacklist_from *@ms1520.m.lrmailr.pl
 blacklist_from *@ms1523.m.lrmailr.pl
 blacklist_from *@ms1622.m.lrmailr.pl
