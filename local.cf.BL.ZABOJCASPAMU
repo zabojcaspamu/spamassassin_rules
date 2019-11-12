@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-11 22:20 
+# Wygenerowana 2019-11-12 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -282,8 +282,10 @@ blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
+blacklist_from bounces@creativamailmarketing.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from braindevlin@msn.com
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -361,11 +363,13 @@ blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from dieta@doktorbio.net
 blacklist_from digarsolution@gmail.com
+blacklist_from digimarlution@gmail.com
 blacklist_from digimarution@gmail.com
 blacklist_from digimaution@gmail.com
 blacklist_from digiolution@gmail.com
 blacklist_from digisolution@gmail.com
 blacklist_from digsolution@gmail.com
+blacklist_from dlh@dlh.com
 blacklist_from dmsqwdxeer@kasiula.site
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from dolszanski@ms0481.m.lrmailr.pl
@@ -901,6 +905,8 @@ blacklist_from mp@ntrainings.pl
 blacklist_from mrsangepaul@gmail.com
 blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
+blacklist_from *@ms0471.m.lrmailr.pl
+blacklist_from *@ms0472.m.lrmailr.pl
 blacklist_from *@ms0480.m.lrmailr.pl
 blacklist_from *@ms1016.m.lrmailr.pl
 blacklist_from *@ms1027.m.lrmailr.pl
@@ -915,6 +921,8 @@ blacklist_from msoffice@outsource.katowice.pl
 blacklist_from msoffice@outsource.szczecin.pl
 blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
+blacklist_from *@n40.m.okazikmail.pl
+blacklist_from *@n94.m.okazikmail.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@namares.eu
 blacklist_from *@nanciesnotary.com
@@ -1164,6 +1172,7 @@ blacklist_from roman@almar-sport.pl
 blacklist_from root@begarring.xyz
 blacklist_from root@localhost.60042.meghost.pl
 blacklist_from root@runonhot.xyz
+blacklist_from root@stamegna.eu
 blacklist_from root@vps569360.ovh.net
 blacklist_from root@vps604833.ovh.net
 blacklist_from root@vps608158.ovh.net
