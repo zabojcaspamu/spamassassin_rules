@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-15 23:30 
+# Wygenerowana 2019-11-16 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -225,6 +225,7 @@ blacklist_from bok@dmsender.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.kazimierz@ms1624.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms0479.m.lrmailr.pl
+blacklist_from bokkos@ms1027.m.lrmailr.pl
 blacklist_from bok.lubin@ms1627.m.lrmailr.pl
 blacklist_from bok@manihu.tgory.pl
 blacklist_from bok@minit.naklo.pl
@@ -238,6 +239,7 @@ blacklist_from bok@rbdo.biz
 blacklist_from bok@repotu.jgora.pl
 blacklist_from bokrze@ms0479.m.lrmailr.pl
 blacklist_from bok@sevas.lapy.pl
+blacklist_from boksop@ms0479.m.lrmailr.pl
 blacklist_from boksop@ms1523.m.lrmailr.pl
 blacklist_from boksop@ms1625.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
@@ -724,6 +726,7 @@ blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@a-ppk.pl
 blacklist_from kontakt@apteka-kamagra.com
+blacklist_from kontakt@autodszkodowania24.pl
 blacklist_from kontakt@biznes-finanse2013.pl
 blacklist_from kontakt@cernn.konin.pl
 blacklist_from kontakt@conart.com.pl
@@ -907,7 +910,6 @@ blacklist_from *@ms0480.m.lrmailr.pl
 blacklist_from *@ms1018.m.lrmailr.pl
 blacklist_from *@ms1019.m.lrmailr.pl
 blacklist_from *@ms1020.m.lrmailr.pl
-blacklist_from *@ms1027.m.lrmailr.pl
 blacklist_from *@ms1520.m.lrmailr.pl
 blacklist_from *@ms1620.m.lrmailr.pl
 blacklist_from *@ms1621.m.lrmailr.pl
@@ -1209,7 +1211,6 @@ blacklist_from *@samochod.rzeszow.pl
 blacklist_from *@samochod.szczecin.pl
 blacklist_from *@samochod.warszawa.pl
 blacklist_from *@samochod.wroclaw.pl
-blacklist_from *@samrokr.com
 blacklist_from sanusfood5@yahoo.com
 blacklist_from secuirity@mailbox.com
 blacklist_from Security_Update@Verification.com
