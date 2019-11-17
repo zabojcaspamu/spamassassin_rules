@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-17 18:00 
+# Wygenerowana 2019-11-17 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -70,7 +70,6 @@ blacklist_from admin@sankohuan.site
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from admin_www@brokerszkolen.pl
-blacklist_from *@ads-google.pl
 blacklist_from advypqn@alamerson.art
 blacklist_from *@afiliadosafpperu.com
 blacklist_from *@agamusicgroup.com
@@ -219,8 +218,10 @@ blacklist_from bok@demente.naklo.pl
 blacklist_from bok@derty.pisz.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok.kazimierz@ms0480.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms1624.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms0479.m.lrmailr.pl
+blacklist_from bok.kosciuszki@ms1020.m.lrmailr.pl
 blacklist_from bok.lubin@ms1627.m.lrmailr.pl
 blacklist_from bok@manihu.tgory.pl
 blacklist_from bok@minit.naklo.pl
@@ -322,6 +323,7 @@ blacklist_from coupons@kuygs.com
 blacklist_from coupons@ty13r.com
 blacklist_from coupons@zyjf365.com
 blacklist_from *@cpatrafficword.com
+blacklist_from cqukesq@posta.ro
 blacklist_from csk@csk-partner.pl
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
@@ -341,6 +343,7 @@ blacklist_from dee7550ce9815b2fcefdb10c3f390608@ypclinks1.com
 blacklist_from dee7550ce9815b2fcefdb10c3f390608@ypclinks2.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
+blacklist_from demo2@hitechpiping.com
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from dieta@doktorbio.net
 blacklist_from digarsolution@gmail.com
@@ -705,6 +708,7 @@ blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
 blacklist_from kontakt@adjme.com
 blacklist_from kontakt@adlike.com.pl
+blacklist_from kontakt@ads-google.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@a-ppk.pl
 blacklist_from kontakt@apteka-kamagra.com
@@ -887,7 +891,6 @@ blacklist_from mrsangepaul@gmail.com
 blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
 blacklist_from *@ms0471.m.lrmailr.pl
-blacklist_from *@ms1020.m.lrmailr.pl
 blacklist_from *@ms1444.m.lrmailr.pl
 blacklist_from *@ms1620.m.lrmailr.pl
 blacklist_from msg@caixa.net
@@ -1188,6 +1191,7 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from secuirity@mailbox.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
+blacklist_from sekretariatwro@ms1520.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
 blacklist_from seminarium@executiveprogram.pl
 blacklist_from seminarium@fignews.pl
