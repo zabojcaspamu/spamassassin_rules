@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-18 14:30 
+# Wygenerowana 2019-11-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -122,6 +122,7 @@ blacklist_from *@badoo.com
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from barbara.porzycka@effectgroup.pl
 blacklist_from bartczakedward1970@wp.pl
+blacklist_from bartek.gilun@twojebony.net
 blacklist_from baza@eniro.com
 blacklist_from bazafirm@mailsend.pl
 blacklist_from *@bazarpoosh.com
@@ -218,10 +219,12 @@ blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@demente.naklo.pl
 blacklist_from bok@derty.pisz.pl
 blacklist_from bok@dmsender.pl
+blacklist_from bok.grojecka@ms1020.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.kazimierz@ms0480.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms1624.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms0479.m.lrmailr.pl
+blacklist_from bok.kosciuszki@ms1016.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1020.m.lrmailr.pl
 blacklist_from bok.lubin@ms1627.m.lrmailr.pl
 blacklist_from bok@manihu.tgory.pl
@@ -233,6 +236,7 @@ blacklist_from bok@repotu.jgora.pl
 blacklist_from bokrze@ms0479.m.lrmailr.pl
 blacklist_from bok@sevas.lapy.pl
 blacklist_from boksop@ms0479.m.lrmailr.pl
+blacklist_from boksop@ms1018.m.lrmailr.pl
 blacklist_from boksop@ms1520.m.lrmailr.pl
 blacklist_from boksop@ms1523.m.lrmailr.pl
 blacklist_from boksop@ms1625.m.lrmailr.pl
@@ -253,6 +257,7 @@ blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-65608305@bounce.getresponse-mail.com
+blacklist_from bounce-8804602@bounce.getresponse-mail.com
 blacklist_from bounce@betterbank.eu
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@content.pwc.com
@@ -331,7 +336,6 @@ blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from customerservice@e-datahive.com
 blacklist_from d1d1@d12020.pl
-blacklist_from *@dahtpv.com
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from dariusz@orlenmail.pl
 blacklist_from databases.en@company-catalogs.com
@@ -894,7 +898,6 @@ blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
 blacklist_from *@ms0471.m.lrmailr.pl
 blacklist_from *@ms0472.m.lrmailr.pl
-blacklist_from *@ms1018.m.lrmailr.pl
 blacklist_from *@ms1019.m.lrmailr.pl
 blacklist_from *@ms1027.m.lrmailr.pl
 blacklist_from *@ms1444.m.lrmailr.pl
@@ -1015,6 +1018,7 @@ blacklist_from odbicia@e-marketingweb.pl
 blacklist_from odbicia@goodgadzet.pl
 blacklist_from odbicia@ibiznespolska.pl
 blacklist_from odbicia@i-fast.pl
+blacklist_from odbicia@infomarketing.com.pl
 blacklist_from odbicia@instalacje-pv.eu
 blacklist_from odbicia@lorbeer-info.eu
 blacklist_from odbicia@megafan.pl
@@ -1235,6 +1239,7 @@ blacklist_from *@shotmate.pl
 blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
 blacklist_from *@sjsschool.com
+blacklist_from sj@systemszkolenia.pl
 blacklist_from sklep@a.golfhelp.pl
 blacklist_from sklep@opfol.pl
 blacklist_from skoda@notice4you.pl
