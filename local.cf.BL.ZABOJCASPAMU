@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-24 12:50 
+# Wygenerowana 2019-11-24 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -214,6 +214,7 @@ blacklist_from bokrze@ms1620.m.lrmailr.pl
 blacklist_from bokrze@ms1622.m.lrmailr.pl
 blacklist_from bokrze@ms1625.m.lrmailr.pl
 blacklist_from boksop@ms0479.m.lrmailr.pl
+blacklist_from boksop@ms1016.m.lrmailr.pl
 blacklist_from boksop@ms1018.m.lrmailr.pl
 blacklist_from boksop@ms1520.m.lrmailr.pl
 blacklist_from boksop@ms1523.m.lrmailr.pl
@@ -268,7 +269,6 @@ blacklist_from *@bvscctv.com
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
-blacklist_from *@canoabs.com
 blacklist_from capitalistlithuania@gmail.com
 blacklist_from ccc2@earth.pl
 blacklist_from cecilia.goh@metalor.co.uk
@@ -306,6 +306,7 @@ blacklist_from controlling@mediaexpln.pl
 blacklist_from coupons@2ibsa.com
 blacklist_from coupons@bcgrj.com
 blacklist_from coupons@gz922.com
+blacklist_from coupons@roses18.com
 blacklist_from coupons@ty13r.com
 blacklist_from *@cpatrafficword.com
 blacklist_from cqukesq@posta.ro
@@ -565,6 +566,8 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.pl
 blacklist_from info@pagand.pisz.pl
 blacklist_from info@pertwsa.zgora.pl
+blacklist_from info@plustra.pw
+blacklist_from info@plus-tsl.press
 blacklist_from info@polecane.best
 blacklist_from info@porgaz.zarow.pl
 blacklist_from info@profesjonalnydruk.biz
@@ -587,6 +590,7 @@ blacklist_from info@tm-event.in.ua
 blacklist_from info@translateplus99.space
 blacklist_from info@translateplusbea.info
 blacklist_from info@translateplusboi.info
+blacklist_from info@translateplusex.host
 blacklist_from info@translateplushd.host
 blacklist_from info@translateplusma.host
 blacklist_from info@translateplusv.space
@@ -642,6 +646,7 @@ blacklist_from *@jupiter.salesmanago.pl
 blacklist_from jw@ema-dent.pl
 blacklist_from *@kabelpol.dla-najlepszych.pl
 blacklist_from kadarisman@rspp.co.id
+blacklist_from kaka20@kaka20.pl
 blacklist_from *@kalkuluje.com
 blacklist_from kamila.krakowska@whiteone.tk
 blacklist_from kamil.m@dofinansowaneszkolenie.pl
@@ -748,6 +753,7 @@ blacklist_from lider.cosmetic@gmail.com
 blacklist_from lilbd@gmail.com
 blacklist_from lily@gz922.com
 blacklist_from lily@kuygs.com
+blacklist_from lily@roses18.com
 blacklist_from ljinvestment2020@gmail.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
@@ -810,6 +816,7 @@ blacklist_from marketing@positiv.com.pl
 blacklist_from marketing@simkolo.com
 blacklist_from marketing@team-expert.pl
 blacklist_from marketing@towergraphics.pl
+blacklist_from marketing@vit34.vn
 blacklist_from martin@teelingwhiskey.com
 blacklist_from marydan043@bol.com.br
 blacklist_from mateusz.jarosz@majorbizzie.pl
@@ -947,6 +954,7 @@ blacklist_from noreply@toughbook4you.eu
 blacklist_from obama@bcgjd.com
 blacklist_from obama@bcgrj.com
 blacklist_from obama@LLcmys.com
+blacklist_from obama@roses18.com
 blacklist_from obama@wc3dr.com
 blacklist_from obowiazek_informacyjny@easyba.se
 blacklist_from obsluga@apteka-kamagra.com
@@ -1034,8 +1042,6 @@ blacklist_from plantoincreaseprofit@stratencepartners.com
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
-blacklist_from *@plustra.pw
-blacklist_from *@plus-tsl.press
 blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
@@ -1145,6 +1151,7 @@ blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms1620.m.lrmailr.pl
 blacklist_from sekretariatpro@ms0472.m.lrmailr.pl
+blacklist_from sekretariatpro@ms1621.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1624.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1625.m.lrmailr.pl
 blacklist_from sekretariatwro@ms1018.m.lrmailr.pl
@@ -1321,6 +1328,7 @@ blacklist_from wyjatkoweoferty@mailintitute.pl
 blacklist_from *@wyjatkoweoferty.pl
 blacklist_from wysylka@galeriaokazji.eu
 blacklist_from *@xpressus.emsmtp.us
+blacklist_from yahoo.promotion@asia.com
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
