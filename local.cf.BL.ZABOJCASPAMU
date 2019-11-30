@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-11-30 16:30 
+# Wygenerowana 2019-11-30 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -25,6 +25,7 @@ blacklist_from admin@genoxy.ga
 blacklist_from admin@grippershut.com
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
+blacklist_from admin@khummalo.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
 blacklist_from admin@tytyryty.pl
@@ -184,6 +185,7 @@ blacklist_from bok.katowice@ms1622.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms0480.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms0479.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1016.m.lrmailr.pl
+blacklist_from bok.kosciuszki@ms1019.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1020.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1027.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1444.m.lrmailr.pl
@@ -194,6 +196,7 @@ blacklist_from bokkos@ms1016.m.lrmailr.pl
 blacklist_from bokkos@ms1018.m.lrmailr.pl
 blacklist_from bokkos@ms1444.m.lrmailr.pl
 blacklist_from bokkos@ms1621.m.lrmailr.pl
+blacklist_from bokkos@ms1625.m.lrmailr.pl
 blacklist_from bok.lubin@ms0471.m.lrmailr.pl
 blacklist_from bok.lubin@ms0472.m.lrmailr.pl
 blacklist_from bok.lubin@ms1020.m.lrmailr.pl
@@ -313,6 +316,7 @@ blacklist_from coupons@dgpcm.com
 blacklist_from coupons@gz922.com
 blacklist_from coupons@hzfdks.com
 blacklist_from coupons@roses18.com
+blacklist_from coupons@shqmcg.com
 blacklist_from *@cpatrafficword.com
 blacklist_from cqukesq@posta.ro
 blacklist_from csk@csk-partner.pl
@@ -749,12 +753,14 @@ blacklist_from lilbd@gmail.com
 blacklist_from lily@dgpcm.com
 blacklist_from lily@gz922.com
 blacklist_from lily@roses18.com
+blacklist_from lily@shqmcg.com
 blacklist_from ljinvestment2020@gmail.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
 blacklist_from lucy@dgpcm.com
 blacklist_from lucy@gz922.com
+blacklist_from lucy@shqmcg.com
 blacklist_from lukasek87@orlenmail.pl
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from *@lyrkj.com
@@ -1065,6 +1071,7 @@ blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
 blacklist_from queen@bdhks.com
 blacklist_from queen@dgpcm.com
+blacklist_from queen@roses18.com
 blacklist_from queen@sckth.com
 blacklist_from rafaldpzntbckraszewski@bamakar.com
 blacklist_from *@realbuzzads.com
