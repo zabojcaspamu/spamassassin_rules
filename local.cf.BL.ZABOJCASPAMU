@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-12-01 15:30 
+# Wygenerowana 2019-12-01 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -176,6 +176,7 @@ blacklist_from bok@awakart.jgora.pl
 blacklist_from bok@brilliantec.pisz.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
+blacklist_from bokgdy@ms1016.m.lrmailr.pl
 blacklist_from bokgdy@ms1019.m.lrmailr.pl
 blacklist_from bokgdy@ms1444.m.lrmailr.pl
 blacklist_from bokgdy@ms1621.m.lrmailr.pl
@@ -197,6 +198,7 @@ blacklist_from bok.kosciuszki@ms1624.m.lrmailr.pl
 blacklist_from bokkos@ms0472.m.lrmailr.pl
 blacklist_from bokkos@ms1016.m.lrmailr.pl
 blacklist_from bokkos@ms1018.m.lrmailr.pl
+blacklist_from bokkos@ms1027.m.lrmailr.pl
 blacklist_from bokkos@ms1444.m.lrmailr.pl
 blacklist_from bokkos@ms1621.m.lrmailr.pl
 blacklist_from bokkos@ms1625.m.lrmailr.pl
@@ -1149,10 +1151,12 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatpro@ms0479.m.lrmailr.pl
+blacklist_from sekretariatpro@ms1018.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1523.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1620.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1621.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1624.m.lrmailr.pl
+blacklist_from sekretariatpru@ms1016.m.lrmailr.pl
 blacklist_from sekretariatwro@ms1018.m.lrmailr.pl
 blacklist_from sekretariatwro@ms1520.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
@@ -1305,6 +1309,7 @@ blacklist_from wodaeden@companybase.pl
 blacklist_from *@wondersquirt.com
 blacklist_from wtyszkowski@wiselimber.pl
 blacklist_from www-data@fi8.finansowanie-inwestycyjne.pl
+blacklist_from www-data@fm6.fin-master.pl
 blacklist_from www-data@investorkirov.ru
 blacklist_from www-data@kb1.kredyt-biznesowy.pl
 blacklist_from www-data@kb6.kredyt-biznesowy.pl
