@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-12-02 16:10 
+# Wygenerowana 2019-12-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -18,9 +18,9 @@ blacklist_from abuse@leclub.com.ve
 blacklist_from account_sk@naver.com
 blacklist_from adam@old-timers.pl
 blacklist_from adam.p@med-c.pl
-blacklist_from *@adimalathura.com
 blacklist_from admin1@poczta-pol.info
 blacklist_from admin@a.pcpogotowie.pl
+blacklist_from admin@dealer.com
 blacklist_from admin@genoxy.ga
 blacklist_from admin@grippershut.com
 blacklist_from admin@infinito.edu.pl
@@ -124,6 +124,7 @@ blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
+blacklist_from biuro@kacmilwon.tgory.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
@@ -179,6 +180,7 @@ blacklist_from bokgdy@ms1523.m.lrmailr.pl
 blacklist_from bokgdy@ms1621.m.lrmailr.pl
 blacklist_from bokgdy@ms1624.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok.katowice@ms0472.m.lrmailr.pl
 blacklist_from bok.katowice@ms1523.m.lrmailr.pl
 blacklist_from bok.katowice@ms1620.m.lrmailr.pl
 blacklist_from bok.katowice@ms1622.m.lrmailr.pl
@@ -201,6 +203,8 @@ blacklist_from bok.lubin@ms0471.m.lrmailr.pl
 blacklist_from bok.lubin@ms0472.m.lrmailr.pl
 blacklist_from bok.lubin@ms1020.m.lrmailr.pl
 blacklist_from bok.lubin@ms1520.m.lrmailr.pl
+blacklist_from bok.lubin@ms1621.m.lrmailr.pl
+blacklist_from bok.lubin@ms1623.m.lrmailr.pl
 blacklist_from bok@platnot.sejny.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@reilop.tgory.pl
@@ -316,6 +320,7 @@ blacklist_from customerservice@alltimepcs.com
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
+blacklist_from dawidrafa@analitycymulti.pl
 blacklist_from dd20@dd20.pl
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
@@ -353,6 +358,7 @@ blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
+blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from *@e-frot.pl
 blacklist_from eguchi.tomohiro@garde-intl.com
@@ -859,6 +865,7 @@ blacklist_from *@news.expandmail.pl
 blacklist_from news@fructidor.com
 blacklist_from newsletter@beliani.pl
 blacklist_from newsletter@comunicaffe.com
+blacklist_from newsletter@designalive.pl
 blacklist_from newsletter@euro-con.pl
 blacklist_from newsletter@fashion-sales.pl
 blacklist_from newsletter@fotoksiazka-promocja.pl
@@ -1101,6 +1108,7 @@ blacklist_from sales05@aolisipcb.com
 blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
+blacklist_from sales@ebiugmail.live
 blacklist_from sales@gosumailnow.info
 blacklist_from *@salesmanago.io
 blacklist_from sales@zjgmorale.com
@@ -1153,6 +1161,7 @@ blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
 blacklist_from sj@systemszkolenia.pl
 blacklist_from sklep@a.golfhelp.pl
+blacklist_from sklep@opfol.pl
 blacklist_from skoda@notice4you.pl
 blacklist_from sk@systemszkolenia.pl
 blacklist_from *@slicplans.com
@@ -1203,6 +1212,7 @@ blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from teneryfa@lvc.pl
 blacklist_from terminal@terminalikasa.pl
+blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from theory@pumpkinsin.icu
 blacklist_from t-mobile@mobile.olsztyn.pl
