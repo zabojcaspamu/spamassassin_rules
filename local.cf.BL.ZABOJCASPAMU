@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-12-08 15:30 
+# Wygenerowana 2019-12-08 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -121,6 +121,7 @@ blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
+blacklist_from biuro@kancelaria-zip-partnerzy.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytnamiare.com.pl
 blacklist_from biuro@kredytowewsparcie.pl
@@ -304,6 +305,7 @@ blacklist_from controlling@mediaexpln.pl
 blacklist_from coupons@bdhks.com
 blacklist_from coupons@dgpcm.com
 blacklist_from coupons@hzfdks.com
+blacklist_from coupons@kazbaba.com
 blacklist_from coupons@roses18.com
 blacklist_from coupons@shqmcg.com
 blacklist_from coupons@zjrams.com
@@ -536,6 +538,7 @@ blacklist_from info@lepszapromocja.pl
 blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@loven.lapy.pl
+blacklist_from info@lyricsmania.com
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
@@ -549,6 +552,7 @@ blacklist_from info@ms1016.m.lrmailr.pl
 blacklist_from info@ms1018.m.lrmailr.pl
 blacklist_from info@ms1020.m.lrmailr.pl
 blacklist_from info@ms1027.m.lrmailr.pl
+blacklist_from info@ms1444.m.lrmailr.pl
 blacklist_from info@multibanki.pl
 blacklist_from info@multigroupeg.com
 blacklist_from info@news-1etter.xyz
@@ -642,7 +646,6 @@ blacklist_from kamila.krakowska@whiteone.tk
 blacklist_from kamil.m@dofinansowaneszkolenie.pl
 blacklist_from kamil.m@dotowaneszkolenia.pl
 blacklist_from kampania@najlepszeokazje.co.pl
-blacklist_from *@kancelaria-zip-partnerzy.pl
 blacklist_from kapela@goralska-hora.pl
 blacklist_from kar20@kar20.pl
 blacklist_from karolina.wilczynska@waznawiadomosc.pl
@@ -910,6 +913,7 @@ blacklist_from noreplay@promo-mix.pl
 blacklist_from noreply2@mediateam.pl
 blacklist_from no-reply@accounts.google.com
 blacklist_from noreply@adletter.pl
+blacklist_from no-reply@amazon.com
 blacklist_from noreply@angielskizdojazdem.waw.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
@@ -924,6 +928,7 @@ blacklist_from no-reply@horecanet.pl
 blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from noreply@kamery.srvv.pl
+blacklist_from no-reply@kazbaba.com
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
 blacklist_from no-reply@???nfmail.pl
@@ -1111,6 +1116,7 @@ blacklist_from sales05@aolisipcb.com
 blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
+blacklist_from sales@amazon.com
 blacklist_from sales@ebiugmail.live
 blacklist_from sales@gosumailnow.info
 blacklist_from *@salesmanago.io
@@ -1175,6 +1181,7 @@ blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
+blacklist_from staska@activacsr.es
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
