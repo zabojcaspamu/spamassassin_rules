@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-12-18 18:10 
+# Wygenerowana 2019-12-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -98,7 +98,6 @@ blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
-blacklist_from *@bgrhf.com
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro1@galeriasz.pl
 blacklist_from biuro3@galeriasz.pl
@@ -215,6 +214,7 @@ blacklist_from bounce@eubusinessregister.info
 blacklist_from *@bounce.freshmail.pl
 blacklist_from bounce@ganlt-klipso-event.net
 blacklist_from *@bounce.getresponse.com
+blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from *@bounce.senderus.pl
@@ -555,6 +555,7 @@ blacklist_from *@info.whitersend.pl
 blacklist_from info@wifisquare.pl
 blacklist_from info@windykacja-24h.pl
 blacklist_from info@wypoczywaj-w-spa.pl
+blacklist_from info@xagan.zarow.pl
 blacklist_from *@info.xylionmail.pl
 blacklist_from info@zapach-sukcesu.pl
 blacklist_from info@zestawy-upominkowe.pl
@@ -590,6 +591,7 @@ blacklist_from *@jetmail.pl
 blacklist_from jgutel@eg-mix.pl
 blacklist_from jk9039133@gmail.com
 blacklist_from j.kuszyba@pl.kruk.eu
+blacklist_from joanna.korta@witravel.pl
 blacklist_from joanna_lewandowski@stylestandsalone.com
 blacklist_from joanna.rogowska@pixers.pl
 blacklist_from joanna.wal@gmail.com
