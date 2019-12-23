@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2019-12-23 18:10 
+# Wygenerowana 2019-12-23 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -198,6 +198,7 @@ blacklist_from bounce1@twojzbiorokazji.info
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from *@bounce.bluestatedigital.com
+blacklist_from bounce@c4839.cf
 blacklist_from bounce@centraltrade.eu
 blacklist_from bounce@content.pwc.com
 blacklist_from bounced@euve?????.serverprofi24.com
@@ -317,6 +318,7 @@ blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
 blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@f-edukacja.org.pl
+blacklist_from efaktury@emalia.com.pl
 blacklist_from *@e-frot.pl
 blacklist_from ehduwvs@allbizem.eu
 blacklist_from *@???????.e-infoczystosc.com.pl
@@ -695,7 +697,6 @@ blacklist_from kopacz.pawel@salesmanago.pl
 blacklist_from korwin-energy-drink@gastrona.pl
 blacklist_from koska.martyna.wiara5@wp.pl
 blacklist_from k.ostrowska@wsparcie-finansowe.pl
-blacklist_from *@koszulkowo.com
 blacklist_from *@kredytprzyjazny24.pl
 blacklist_from kro@kro2.pl
 blacklist_from krzysztof.brozek@express-tlumacz.pl
@@ -805,6 +806,7 @@ blacklist_from mbank@companiero.waw.pl
 blacklist_from *@m.businesscampaign.pl
 blacklist_from m.carone@comune.bari.it
 blacklist_from m.chmielewska@kredytekspert24.pl
+blacklist_from mck@koszulkowo.com
 blacklist_from mecenas.kruk@gmail.com
 blacklist_from *@?.mediaexpln.pl
 blacklist_from *@mediasofttec.com
@@ -1054,6 +1056,7 @@ blacklist_from queen@zydctj.com
 blacklist_from queen@zywyhb.com
 blacklist_from rafaldpzntbckraszewski@bamakar.com
 blacklist_from rahul@inayatinfosystem.com
+blacklist_from raj.kumar@smollan.co.in
 blacklist_from *@realbuzzads.com
 blacklist_from recepcja@meta-hotel.pl
 blacklist_from recepcja@zamek-tuczno.pl
@@ -1204,6 +1207,7 @@ blacklist_from tesco.bony@twojebony.site
 blacklist_from test@rossi.pl
 blacklist_from test@suchen.net
 blacklist_from test@tiags.vn
+blacklist_from t.george@limar96.ro
 blacklist_from tg.foot@tsf47.net
 blacklist_from theory@pumpkinsin.icu
 blacklist_from tigerdragon@deaf-tv.com
