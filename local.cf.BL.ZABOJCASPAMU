@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-02 23:30 
+# Wygenerowana 2020-01-03 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -264,7 +264,6 @@ blacklist_from cx213@nc213.cl0.pl
 blacklist_from cx297@nc297.cl0.pl
 blacklist_from cx307@nc307.cl0.pl
 blacklist_from cx338@nc338.cl0.pl
-blacklist_from *@daibaominhcorp.com
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
@@ -522,6 +521,7 @@ blacklist_from info@sklep.?-czysto01.pl
 blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
+blacklist_from infos@reduktibile.space
 blacklist_from info@statsoft.pl
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
@@ -708,6 +708,7 @@ blacklist_from lucy@sangbayu.com
 blacklist_from lucy@sckth.com
 blacklist_from lucy@zjrams.com
 blacklist_from luke.skywalker1967@wp.pl
+blacklist_from *@luxecharlotte.com
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
 blacklist_from maciej@ezoterius.biz.pl
@@ -802,7 +803,6 @@ blacklist_from msoffice@outsource.katowice.pl
 blacklist_from msoffice@outsource.szczecin.pl
 blacklist_from msoffice@outsource.waw.pl
 blacklist_from msoffice@outsource.wroclaw.pl
-blacklist_from *@mudps.com
 blacklist_from myslenice@caritas.pl
 blacklist_from naczelny@poznaj-swiat.pl
 blacklist_from *@nanciesnotary.com
@@ -1238,6 +1238,7 @@ blacklist_from wjedendzien@o2.pl
 blacklist_from wlc@supmail.pl
 blacklist_from wnioski@sukcesshop.pl
 blacklist_from wodaeden@companybase.pl
+blacklist_from *@woinsta.com
 blacklist_from *@wondersquirt.com
 blacklist_from wordpress@wino-gronowe.pl
 blacklist_from wtyszkowski@wiselimber.pl
