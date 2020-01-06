@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-06 17:00 
+# Wygenerowana 2020-01-06 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -183,6 +183,7 @@ blacklist_from bounce@1e344.gq
 blacklist_from bounce1@twojzbiorokazji.info
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
+blacklist_from bounce@b4923.ga
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@c4839.cf
 blacklist_from bounce@centraltrade.eu
@@ -701,7 +702,6 @@ blacklist_from lucy@sangbayu.com
 blacklist_from lucy@sckth.com
 blacklist_from lucy@zjrams.com
 blacklist_from luke.skywalker1967@wp.pl
-blacklist_from *@luxecharlotte.com
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
 blacklist_from maciej@ezoterius.biz.pl
@@ -1025,6 +1025,7 @@ blacklist_from root@vps608161.ovh.net
 blacklist_from root@vps608979.ovh.net
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps613923.ovh.net
+blacklist_from root@vps623551.ovh.net
 blacklist_from root@vps628439.ovh.net
 blacklist_from root@vps628570.ovh.net
 blacklist_from root@vps628572.ovh.net
@@ -1036,6 +1037,7 @@ blacklist_from root@vps637794.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
+blacklist_from rossmann112@gomail.waw.pl
 blacklist_from rossmann15@polityker.com
 blacklist_from Roundcube@ebiugmail.live
 blacklist_from rtv@joobi.eu
