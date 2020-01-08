@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-08 16:10 
+# Wygenerowana 2020-01-08 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -21,6 +21,7 @@ blacklist_from adam.krajewski@bdatasmart.pl
 blacklist_from adam.krajewski@ddatasmart.pl
 blacklist_from adam.krajewski@edatasmart.pl
 blacklist_from adam.krajewski@mdatasmart.pl
+blacklist_from adam.krajewski@sdatasmart.pl
 blacklist_from adam.krajewski@zdatasmart.pl
 blacklist_from adam@old-timers.pl
 blacklist_from adboksk@alamerson.art
@@ -196,10 +197,12 @@ blacklist_from bounce@eubusinessregister.info
 blacklist_from *@bounce.freshmail.pl
 blacklist_from bounce@ganlt-klipso-event.net
 blacklist_from *@bounce.getresponse.com
+blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from braindevlin@msn.com
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -495,6 +498,7 @@ blacklist_from *@info.megansprint.pl
 blacklist_from info@miloszmikolajmalina.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@ms0479.m.lrmailr.pl
+blacklist_from info@ms1019.m.lrmailr.pl
 blacklist_from info@ms1027.m.lrmailr.pl
 blacklist_from info@ms1444.m.lrmailr.pl
 blacklist_from info@ms1520.m.lrmailr.pl
@@ -652,6 +656,7 @@ blacklist_from kontakt@prad-gaz-taniej.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@rozwinfirme.pl
 blacklist_from kontakt@sendhub.pl
+blacklist_from kontakt@simple-kredyt.pl
 blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@smesolutions.pl
 blacklist_from kontakt@splac-us-zus.pl
@@ -717,6 +722,7 @@ blacklist_from maciejprzymus123@wp.pl
 blacklist_from *@mafrash.com
 blacklist_from magda.b@pro-activ.pl
 blacklist_from mail@comp-net.pl
+blacklist_from mailembassy1@gmail.com
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mail@freshplaza.de
 blacklist_from *@mailgrid.pl
@@ -915,6 +921,7 @@ blacklist_from ofertaspecjalna@domdevelopment.com.pl
 blacklist_from *@ofertownia.com.pl
 blacklist_from oferty@multi-banki.pl
 blacklist_from office@76management.com
+blacklist_from office@antur.at
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@einstitute.com.pl
 blacklist_from office@executive-club.com.pl
@@ -1001,6 +1008,7 @@ blacklist_from promocje@dietanawiosne.pl
 blacklist_from protektorzy@mailplanet.p
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
+blacklist_from psmul@ms1027.m.lrmailr.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
 blacklist_from queen@amazonaws.com
@@ -1058,6 +1066,7 @@ blacklist_from sales04@cncmachinging.xyz
 blacklist_from sales09@aolisipcb.com
 blacklist_from sales11@mouldbuilding.xyz
 blacklist_from sales16@mouldbuilding.xyz
+blacklist_from sales20@cncmachinging.xyz
 blacklist_from sales20@mouldbuilding.xyz
 blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
@@ -1104,7 +1113,6 @@ blacklist_from serwis@serwis-laptopow.warszawa.pl
 blacklist_from *@s.explanator.pl
 blacklist_from shindak14@cnool.net
 blacklist_from *@shotmate.pl
-blacklist_from *@simple-kredyt.pl
 blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
 blacklist_from sklep@a.golfhelp.pl
@@ -1133,6 +1141,7 @@ blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@akademiakrakowska.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
+blacklist_from szkolenia@langas-newsletter.pl
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
