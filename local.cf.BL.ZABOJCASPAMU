@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-11 16:10 
+# Wygenerowana 2020-01-11 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -281,7 +281,9 @@ blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from diarsolution@gmail.com
 blacklist_from dieta@doktorbio.net
+blacklist_from digimalution@gmail.com
 blacklist_from digimarsoion@gmail.com
+blacklist_from digimarsolon@gmail.com
 blacklist_from digimarstion@gmail.com
 blacklist_from digimartion@gmail.com
 blacklist_from digimolution@gmail.com
@@ -795,7 +797,6 @@ blacklist_from *@mediasofttec.com
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
-blacklist_from *@miklvod.com
 blacklist_from milena.friebe@4edu.org.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
@@ -1245,6 +1246,7 @@ blacklist_from wezleasing18@companiero.waw.pl
 blacklist_from wfryt@ms1016.m.lrmailr.pl
 blacklist_from wfryt@ms1027.m.lrmailr.pl
 blacklist_from wfryt@ms1520.m.lrmailr.pl
+blacklist_from wfryt@ms1621.m.lrmailr.pl
 blacklist_from *@wickfordboatguy.com
 blacklist_from williamsimon1950@yandex.com
 blacklist_from william@tbs-ic.cn
@@ -1284,6 +1286,7 @@ blacklist_from *@zibojinda.com
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx8.at-fin.com.pl
+blacklist_from zwroty@darmowe.co.pl
 blacklist_from zwroty@konferencjeksi.com.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@powerasking.pl
