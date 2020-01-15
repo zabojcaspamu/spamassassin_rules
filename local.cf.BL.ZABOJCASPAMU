@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-14 23:30 
+# Wygenerowana 2020-01-15 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -13,6 +13,7 @@ blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from *@a2data.biz.pl
 blacklist_from abby@custommanu.com
+blacklist_from abuse@labschecks.live
 blacklist_from abuse@leclub.com.ve
 blacklist_from acastro@ipm.org.gt
 blacklist_from adam.krajewski@adatasmart.pl
@@ -78,6 +79,7 @@ blacklist_from *@associationnour.com
 blacklist_from attempt@jascorpsg.net
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
+blacklist_from a.wysocki@tlumaczenia-polski-angielski.pl
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
@@ -343,6 +345,7 @@ blacklist_from fed@sfirmowe.pl
 blacklist_from femibion@fiola.pl
 blacklist_from fherman@joneshermanllp.com
 blacklist_from fik87@gmail.com
+blacklist_from *@filezapp.com
 blacklist_from *@finansowanie-dla-firm.com.pl
 blacklist_from firmabezzusu@o2.pl
 blacklist_from firma@goodmail24.pl
@@ -376,11 +379,13 @@ blacklist_from gazetaokrug@gmail.com
 blacklist_from *@gbcleaners.com
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
+blacklist_from *@gicdns.com
 blacklist_from ginorossi@brasletik.pl
 blacklist_from *@giopik.co.ua
 blacklist_from gogastro@gastrona.pl
 blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
+blacklist_from *@gopbill.com
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
 blacklist_from Groupon@offerway.pl
@@ -597,6 +602,7 @@ blacklist_from kihn@bonnienkim.us
 blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from kj@hkipnet.net
 blacklist_from kobietyiwino@gmail.com
+blacklist_from *@koekbox.com
 blacklist_from kokomike055@gmail.com
 blacklist_from kolor@kolorowy-biurowy.com.pl
 blacklist_from kompania@goodmailing24.pl
@@ -633,6 +639,7 @@ blacklist_from kontakt-mamczarz@wp.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
 blacklist_from kontakt@nowyweb.pl
+blacklist_from kontakt@ochronasrodowiska.co.pl
 blacklist_from kontakt@odbieramto.com.pl
 blacklist_from kontakt@*.olix-polska.com
 blacklist_from kontakt@pfw.com.pl
@@ -689,6 +696,7 @@ blacklist_from lily@lufaliang.com
 blacklist_from lily@sckth.com
 blacklist_from linyk@jhcomn.com
 blacklist_from l.mikolajczak@ogicom.pl
+blacklist_from lottery@un.org
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
 blacklist_from lucy@amazonaws.com
@@ -1228,6 +1236,7 @@ blacklist_from wysylka@galeriaokazji.eu
 blacklist_from *@xpressus.emsmtp.us
 blacklist_from ychavezb@cdmx.gob.mx
 blacklist_from ykryyqj@hopkinse.city
+blacklist_from ymsyncm@onlinepms.eu
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
