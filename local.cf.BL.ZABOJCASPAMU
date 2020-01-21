@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-20 18:20 
+# Wygenerowana 2020-01-21 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -90,6 +90,7 @@ blacklist_from baza@eniro.com
 blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
+blacklist_from *@bbq-grill-bg.com
 blacklist_from *@bbsthene.com
 blacklist_from biedronka110@fastmail.net.pl
 blacklist_from bielsko@rgn.pl
@@ -535,6 +536,8 @@ blacklist_from info@translateplusarc.host
 blacklist_from info@translateplusash.host
 blacklist_from info@translatepluslus.info
 blacklist_from info@translateplusmal.info
+blacklist_from info@translateplusmix.info
+blacklist_from info@translateplusmou.info
 blacklist_from info@visainc.com
 blacklist_from info@wgromek.pl
 blacklist_from *@info.whitersend.pl
@@ -767,6 +770,7 @@ blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
 blacklist_from *@m.businesscampaign.pl
 blacklist_from m.carone@comune.bari.it
+blacklist_from m.chmielewska@kredytekspert24.pl
 blacklist_from mck@koszulkowo.com
 blacklist_from mecenas.kruk@gmail.com
 blacklist_from *@?.mediaexpln.pl
@@ -962,6 +966,7 @@ blacklist_from piotrbnc@e-bazy.com
 blacklist_from piotr.gawrysiak@kusloncu.com.pl
 blacklist_from piotr.gefert@bdo.net.pl
 blacklist_from piotr.malarski@gmail.com
+blacklist_from piotr@rencistanawozku.pl
 blacklist_from *@pkmine.com
 blacklist_from planificacion@istria.cl
 blacklist_from *@play4.pl
@@ -1067,6 +1072,7 @@ blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
 blacklist_from sales@aolisipcb.com
+blacklist_from sales@mailgoesbulkworld.live
 blacklist_from *@salesmanago.io
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
@@ -1229,6 +1235,7 @@ blacklist_from *@wondersquirt.com
 blacklist_from wordpress@wino-gronowe.pl
 blacklist_from wtyszkowski@wiselimber.pl
 blacklist_from www-data@investorkirov.ru
+blacklist_from www-data@mail8.subskrybuj.com
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
 blacklist_from wyjatkoweoferty@emaillo.pl
