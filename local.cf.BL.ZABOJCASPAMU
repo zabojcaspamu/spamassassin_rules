@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-21 18:20 
+# Wygenerowana 2020-01-21 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -184,8 +184,6 @@ blacklist_from bounce@1c423.gq
 blacklist_from bounce@1d828.ga
 blacklist_from bounce@1e344.gq
 blacklist_from bounce+22252@bounce.crsend.com
-blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
-blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce@b4923.ga
 blacklist_from *@bounce.bluestatedigital.com
@@ -199,7 +197,6 @@ blacklist_from bounce@jagatreview.com
 blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
-blacklist_from bounces+84502-bf77-mkapuscinska=almamarket.pl@mail.marcusevans-event.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from braindevlin@msn.com
@@ -819,21 +816,7 @@ blacklist_from natalia.nawrot@anb.pl
 blacklist_from natalia@webazy.pl
 blacklist_from *@newmessage.eu
 blacklist_from *@news0?.send360.pl
-blacklist_from news101@n101.m.okazikmail.pl
-blacklist_from news1057@n1057.m.okazikmail.pl
-blacklist_from news1106@n1106.z.okazikmail.pl
 blacklist_from news1@brr.nazwa.pl
-blacklist_from news40@n40.m.okazikmail.pl
-blacklist_from news454@n454.z.okazikmail.pl
-blacklist_from news505@n505.z.okazikmail.pl
-blacklist_from news561@n561.z.okazikmail.pl
-blacklist_from news625@n625.o.okazikmail.pl
-blacklist_from news636@n636.o.okazikmail.pl
-blacklist_from news639@n639.o.okazikmail.pl
-blacklist_from news661@n661.o.okazikmail.pl
-blacklist_from news763@n763.o.okazikmail.pl
-blacklist_from news808@n808.o.okazikmail.pl
-blacklist_from news94@n94.m.okazikmail.pl
 blacklist_from news@bell-news.de
 blacklist_from *@news??.campaignmail.pl
 blacklist_from *@news??.comfortmail.pl
@@ -1009,6 +992,7 @@ blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozycjonowanie@maildelivery.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from *@premchandsharma.co
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
 blacklist_from prezent@sztefanwons.com
