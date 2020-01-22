@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-22 18:10 
+# Wygenerowana 2020-01-22 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -81,6 +81,7 @@ blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
+blacklist_from backup@sanjaybd.com
 blacklist_from *@badoo.com
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
@@ -433,6 +434,7 @@ blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
 blacklist_from info@bluebusinesmedia.com
 blacklist_from info@chistaya-voda.info
+blacklist_from info@compassexpo.info
 blacklist_from info@cpi-szkolenia.waw.pl
 blacklist_from *@???????.infoczystosc.com.pl
 blacklist_from *@??????.infoczystosc.com.pl
@@ -504,6 +506,7 @@ blacklist_from info@pomocdlaadana.org.pl
 blacklist_from info@predictedanalytics.com
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@publikmusik.pl
+blacklist_from info@raxornt.zagan.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@sasayama-sec.co.jp
@@ -524,7 +527,9 @@ blacklist_from info@translateplusant.host
 blacklist_from info@translateplusapp.host
 blacklist_from info@translateplusarc.host
 blacklist_from info@translateplusash.host
+blacklist_from info@translatepluslog.info
 blacklist_from info@translatepluslus.info
+blacklist_from info@translateplusmad.info
 blacklist_from info@translateplusmal.info
 blacklist_from info@translateplusman.info
 blacklist_from info@translateplusmas.info
@@ -538,6 +543,7 @@ blacklist_from info@wypoczywaj-w-spa.pl
 blacklist_from *@info.xylionmail.pl
 blacklist_from infu@piomi.pl
 blacklist_from *@inkersallstars.com
+blacklist_from inq@spafgh.tk
 blacklist_from *@inquisio.pl
 blacklist_from *@???.instytutmarketingu.com
 blacklist_from *@???.interactivepartne-rs.com
@@ -831,6 +837,7 @@ blacklist_from *@newsletters-1.retaildesignworld.com
 blacklist_from newsletter@sanatorium-panorama.com.pl
 blacklist_from newsletters.pl@company-catalogs.com
 blacklist_from newsletters.pl@express-contacts.com
+blacklist_from newsletter@szkolenia-forum.pl
 blacklist_from newsletter@sztukapodstepu.pl
 blacklist_from newsletter@tylkonajlepszeszkolenia.pl
 blacklist_from newsletter@wiadomoscikosmetyczne.pl
@@ -950,6 +957,7 @@ blacklist_from panele@paneledaske.pl
 blacklist_from *@parkervessels.com
 blacklist_from pasiulymai@ttteise.lt
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
+blacklist_from pbrook@occ.co.uk
 blacklist_from peterlam@keishun.com.hk
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
@@ -1120,6 +1128,7 @@ blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from stronywwwdorota@gmail.com
+blacklist_from suite5@mailreply.travelist.pl
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@partner-bankowy.info
@@ -1213,6 +1222,7 @@ blacklist_from wfryt@ms0471.m.lrmailr.pl
 blacklist_from wfryt@ms0472.m.lrmailr.pl
 blacklist_from wfryt@ms0479.m.lrmailr.pl
 blacklist_from wfryt@ms0480.m.lrmailr.pl
+blacklist_from wfryt@ms0481.m.lrmailr.pl
 blacklist_from wfryt@ms1016.m.lrmailr.pl
 blacklist_from wfryt@ms1520.m.lrmailr.pl
 blacklist_from *@wickfordboatguy.com
