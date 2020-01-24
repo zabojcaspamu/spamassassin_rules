@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-24 16:10 
+# Wygenerowana 2020-01-24 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -132,6 +132,7 @@ blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@magan.info.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
+blacklist_from biuro@multi-finansowanie.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@openmoney.pl
@@ -316,6 +317,7 @@ blacklist_from *@?????.e-infoczystosc.com.pl
 blacklist_from *@????.e-infoczystosc.pl
 blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
+blacklist_from e.kaminska@kapitaldlafirm.eu
 blacklist_from *@electricaincii.com
 blacklist_from elisowska@ms1623.m.lrmailr.pl
 blacklist_from elisowska@ms1625.m.lrmailr.pl
@@ -493,6 +495,7 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
+blacklist_from info@liadar.lapy.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lyricsmania.com
 blacklist_from *@info??.maildream.pl
@@ -788,7 +791,6 @@ blacklist_from m@eudotacje24.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
-blacklist_from *@miraclead.pl
 blacklist_from mirko.kulina@pof.ues.rs.ba
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
@@ -908,9 +910,11 @@ blacklist_from obsluga@taskginets.com
 blacklist_from odbicia@0kazje.pl
 blacklist_from odbicia@e-marketingweb.pl
 blacklist_from odbicia@goodgadzet.pl
+blacklist_from odbicia@ibiznespolska.pl
 blacklist_from odbicia@i-fast.pl
 blacklist_from odbicia@infomarketing.com.pl
 blacklist_from odbicia@instalacje-pv.eu
+blacklist_from odbicia@miraclead.pl
 blacklist_from odbicia@newmessage.eu
 blacklist_from odbicia@novamo.pl
 blacklist_from odbicia@okazje-info.pl
@@ -989,6 +993,7 @@ blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
 blacklist_from poczta@vps717387.ovh.net
 blacklist_from poczta@zoriana-yukhymets.info
+blacklist_from pomoc@fundacjadzieciom.org
 blacklist_from *@pomoc-ipko.com
 blacklist_from *@pomocnatablica.pl
 blacklist_from poradnik@sztefanwons.com
@@ -1086,6 +1091,7 @@ blacklist_from sales@aolisipcb.com
 blacklist_from sales@chabb.co
 blacklist_from sales@mailgoesbulkworld.live
 blacklist_from *@salesmanago.io
+blacklist_from sales@max-mail.top
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
 blacklist_from *@samochod.radom.pl
