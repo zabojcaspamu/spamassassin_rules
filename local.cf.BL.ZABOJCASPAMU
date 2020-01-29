@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-29 16:50 
+# Wygenerowana 2020-01-29 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -39,6 +39,7 @@ blacklist_from admin@textilequiplab.ml
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from admin_www@brokerszkolen.pl
+blacklist_from admin@zielonaenergia.biz.pl
 blacklist_from *@afiliadosafpperu.com
 blacklist_from afvyqyq@namares.art
 blacklist_from *@agamusicgroup.com
@@ -122,6 +123,7 @@ blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro?@galeriasz.pl
+blacklist_from biuro@gaz-prad-taniej.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
@@ -187,6 +189,8 @@ blacklist_from bounce@1d828.ga
 blacklist_from bounce@1e344.gq
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce2@emd01.net
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
+blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce@b4923.ga
@@ -197,9 +201,11 @@ blacklist_from *@bounce.freshmail.pl
 blacklist_from bounce@ganlt-klipso-event.net
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@jagatreview.com
+blacklist_from bounce@mx.latam.top
 blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
+blacklist_from bounces+84502-bf77-mkapuscinska=almamarket.pl@mail.marcusevans-event.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from braindevlin@msn.com
@@ -223,6 +229,7 @@ blacklist_from chang-he@vip.126.com
 blacklist_from *@chanmyayit.com
 blacklist_from *@charaktery.com.pl
 blacklist_from *@chatbucaramanga.com
+blacklist_from cherry@winepleasures.com
 blacklist_from *@chillmail.pl
 blacklist_from chinafoodfaircm@yeah.net
 blacklist_from *@chloevaldary.com
@@ -280,6 +287,7 @@ blacklist_from digimarsoion@gmail.com
 blacklist_from digimarsolon@gmail.com
 blacklist_from digimarstion@gmail.com
 blacklist_from digimartion@gmail.com
+blacklist_from digimarution@gmail.com
 blacklist_from digimolution@gmail.com
 blacklist_from digimsolution@gmail.com
 blacklist_from digiolution@gmail.com
@@ -390,7 +398,6 @@ blacklist_from fx554@nf554.fd0.pl
 blacklist_from *@garrachachraf.com
 blacklist_from *@garyblumbergpc.com
 blacklist_from gazetaokrug@gmail.com
-blacklist_from *@gaz-prad-taniej.pl
 blacklist_from *@gbcleaners.com
 blacklist_from *@gersonmarcch.co
 blacklist_from *@getxinlu.com
@@ -459,7 +466,6 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
-blacklist_from *@info.declarick.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -553,6 +559,7 @@ blacklist_from info@visainc.com
 blacklist_from *@info.whitersend.pl
 blacklist_from info@wifisquare.pl
 blacklist_from info@windykacja-24h.pl
+blacklist_from info@win-mar.pl
 blacklist_from info@wypoczywaj-w-spa.pl
 blacklist_from *@info.xylionmail.pl
 blacklist_from infu@piomi.pl
@@ -791,6 +798,7 @@ blacklist_from mirko.kulina@pof.ues.rs.ba
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
 blacklist_from mmreturn@magnetdev.com
+blacklist_from mm@systemszkolenia.pl
 blacklist_from modestawxtbtbt@bpdaswss.com
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from m.olesiak@interia.pl
@@ -1156,6 +1164,7 @@ blacklist_from szkolenia@exandi.pl
 blacklist_from szkolenia@langas-newsletter.pl
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
+blacklist_from szkolenia@progressproject.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
 blacklist_from szkolenia@skillgroup.pl
 blacklist_from szkolenia@szkoleniakrajowe.biz.pl
