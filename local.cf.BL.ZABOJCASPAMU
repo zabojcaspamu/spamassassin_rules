@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-01-28 18:20 
+# Wygenerowana 2020-01-29 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -399,6 +399,7 @@ blacklist_from *@golenasrin.com
 blacklist_from *@golfoam.co
 blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
+blacklist_from *@gpslens.co
 blacklist_from *@greatglenbikes.com
 blacklist_from Groupon@offerway.pl
 blacklist_from *@grovinpat.com
@@ -447,6 +448,7 @@ blacklist_from info@bignote.pl
 blacklist_from info@bluebusinesmedia.com
 blacklist_from *@info.brightmail.pl
 blacklist_from info@chistaya-voda.info
+blacklist_from info@compassexpo.info
 blacklist_from info@cpi-szkolenia.waw.pl
 blacklist_from *@???????.infoczystosc.com.pl
 blacklist_from *@??????.infoczystosc.com.pl
@@ -748,7 +750,9 @@ blacklist_from mail@tania-energia.biz
 blacklist_from malgorzatachudzik@analitycymulti.pl
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from marcin222@fundacja-mail.pl
+blacklist_from marcin224@fundacja-mail.pl
 blacklist_from marcin@grovly.eu
+blacklist_from marek@festyny.info.pl
 blacklist_from mariusz.kowalski@cgeszkolenia.pl
 blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing@bekar-europe.eu
