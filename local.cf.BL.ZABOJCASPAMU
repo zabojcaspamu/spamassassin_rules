@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-02-04 11:00 
+# Wygenerowana 2020-02-04 11:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -300,6 +300,7 @@ blacklist_from dominiskasobczyk@gmail.com
 blacklist_from domodi@flyemail.pl
 blacklist_from donate@regibase.cz
 blacklist_from dotacje@dotacja-unijna.com.pl
+blacklist_from *@drapfile.com
 blacklist_from drdavidashton8@gmail.com
 blacklist_from dreamlifemastery@dreamlifemastery.site
 blacklist_from drrobmaddox@gmail.com
