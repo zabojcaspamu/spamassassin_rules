@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-02-05 17:50 
+# Wygenerowana 2020-02-05 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -96,6 +96,7 @@ blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
+blacklist_from bebert@proveo.com
 blacklist_from biedronka110@fastmail.net.pl
 blacklist_from biedronka24@paczkinaswieta.eu
 blacklist_from biedronka26@paczkinaswieta.eu
@@ -143,6 +144,7 @@ blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@multi-finansowanie.pl
+blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@obrotowedlafirm.com.pl
 blacklist_from biuro@ofertowy.host
@@ -552,6 +554,7 @@ blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
 blacklist_from infos@reduktibile.space
+blacklist_from infos@visionapart.space
 blacklist_from infos@visionapart.website
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
@@ -789,6 +792,7 @@ blacklist_from marketing@infrapol.pl
 blacklist_from marketing@open-team.pl
 blacklist_from marketing@pl.edensprings.com
 blacklist_from marketing@positiv.com.pl
+blacklist_from marketing@simkolo.com
 blacklist_from marketing@team-expert.pl
 blacklist_from marketing@towergraphics.pl
 blacklist_from marta.andrus@russellbedford.com.pl
@@ -797,6 +801,7 @@ blacklist_from marydan043@bol.com.br
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
 blacklist_from mateuszszpinda@gmail.com
+blacklist_from mathetm@web-x3u6.hostresolver.net
 blacklist_from matylda@auto-trader.pl
 blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
@@ -1212,6 +1217,7 @@ blacklist_from terminal@terminalikasa.pl
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from t.george@limar96.ro
+blacklist_from tg.foot@tsf47.net
 blacklist_from tigerdragon@deaf-tv.com
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
