@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-02-06 18:20 
+# Wygenerowana 2020-02-06 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -14,6 +14,7 @@ blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from *@a2data.biz.pl
 blacklist_from abby@custommanu.com
 blacklist_from abcib@bank-abc.com
+blacklist_from *@abdhanan.com
 blacklist_from abpidbm@hopkinse.city
 blacklist_from abuse@labschecks.live
 blacklist_from abuse@leclub.com.ve
@@ -196,8 +197,6 @@ blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce2@emd01.net
-blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
-blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from *@bounce.bluestatedigital.com
@@ -475,6 +474,7 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
+blacklist_from *@info.declarick.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -1105,6 +1105,7 @@ blacklist_from rzoologiczny-www@mediaexperts.vps.ogicom.net
 blacklist_from s40498446@gmail.com
 blacklist_from sabina.gosik@gmail.com
 blacklist_from SagePolska@supmail.pl
+blacklist_from *@sahuarts.com
 blacklist_from sales04@cncmachinging.xyz
 blacklist_from sales09@aolisipcb.com
 blacklist_from sales20@cncmachinging.xyz
