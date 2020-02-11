@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-02-11 18:00 
+# Wygenerowana 2020-02-11 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -12,6 +12,7 @@ blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from *@a2data.biz.pl
+blacklist_from a.abramczyk@crzseneka.com.pl
 blacklist_from abby@custommanu.com
 blacklist_from abcib@bank-abc.com
 blacklist_from abpidbm@hopkinse.city
@@ -189,15 +190,20 @@ blacklist_from biuro@zwrot-prowizjibankowej.pl
 blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
+blacklist_from bok@aurta.zagan.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok@nicius.sejny.pl
 blacklist_from bok@nimitra.lapy.pl
+blacklist_from bok@pikmsa.zarow.pl
 blacklist_from bok@rbdo.biz
+blacklist_from bok@reklaw.zgora.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@usbox.pl
 blacklist_from bokwro@ms1020.m.lrmailr.pl
+blacklist_from bok@xedla.jgora.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
@@ -348,6 +354,7 @@ blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
 blacklist_from EmailSecurityTeam@storage.com
 blacklist_from *@emlgrid.com
+blacklist_from *@emnew.pl
 blacklist_from *@emsgrid.com
 blacklist_from *@em-sj-77.mktomail.com
 blacklist_from *@energykasyno.pl
@@ -642,6 +649,7 @@ blacklist_from kadarisman@rspp.co.id
 blacklist_from *@kalkuluje.com
 blacklist_from kamila.krakowska@whiteone.tk
 blacklist_from kamil.m@dofinansowaneszkolenie.pl
+blacklist_from kamil.m@dotowaneszkolenia.pl
 blacklist_from kampania@najlepszeokazje.co.pl
 blacklist_from kapela@goralska-hora.pl
 blacklist_from karan@euroasiaschem.com
@@ -702,6 +710,7 @@ blacklist_from kontakt@pomocdlafirm.com.pl
 blacklist_from kontakt@prad-gaz-taniej.pl
 blacklist_from kontakt@prad-tanszy.pl
 blacklist_from kontakt@prostawindykacja.com.pl
+blacklist_from kontakt@schody-bez-vat.pl
 blacklist_from kontakt@sendhub.pl
 blacklist_from kontakt@serverstyle.com.pl
 blacklist_from kontakt@simple-kredyt.pl
@@ -934,6 +943,7 @@ blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from noreply@maersk-line.com
+blacklist_from noreply@mailing-kpmg.com
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
 blacklist_from no-reply@???nfmail.pl
@@ -1047,6 +1057,7 @@ blacklist_from poradnik@sztefanwons.com
 blacklist_from poradnik@wons123.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@netmarketer.com.pl
+blacklist_from postmaster@sendpulse.me
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozycjonowanie@maildelivery.pl
@@ -1071,6 +1082,7 @@ blacklist_from psmul@ms1016.m.lrmailr.pl
 blacklist_from psmul@ms1018.m.lrmailr.pl
 blacklist_from psmul@ms1520.m.lrmailr.pl
 blacklist_from psmul@ms1620.m.lrmailr.pl
+blacklist_from psmul@ms1624.m.lrmailr.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
 blacklist_from *@realbuzzads.com
@@ -1146,7 +1158,6 @@ blacklist_from *@samochod.warszawa.pl
 blacklist_from *@samochod.wroclaw.pl
 blacklist_from *@samuelsonsgc.co
 blacklist_from sanusfood5@yahoo.com
-blacklist_from *@schody-bez-vat.pl
 blacklist_from secuirity@mailbox.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
