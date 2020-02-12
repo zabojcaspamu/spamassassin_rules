@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-02-12 17:20 
+# Wygenerowana 2020-02-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -131,6 +131,7 @@ blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
 blacklist_from biuro@fastmailing24.pl
 blacklist_from biuro@finansowaniefaktur.pl
+blacklist_from biuro@finansowaniefirm.net.pl
 blacklist_from biuro@fin-guru.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
@@ -292,6 +293,7 @@ blacklist_from cx297@nc297.cl0.pl
 blacklist_from cx307@nc307.cl0.pl
 blacklist_from cx338@nc338.cl0.pl
 blacklist_from damian.kaszuba@lpkruk.eu
+blacklist_from danservices@nada.ltd
 blacklist_from darek_abc007@o2.pl
 blacklist_from darek_abc016@prokonto.pl
 blacklist_from databases.en@company-catalogs.com
