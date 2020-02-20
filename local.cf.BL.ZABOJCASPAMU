@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-02-20 16:00 
+# Wygenerowana 2020-02-20 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -27,6 +27,7 @@ blacklist_from adam.krajewski@mdatasmart.pl
 blacklist_from adam.krajewski@sdatasmart.pl
 blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
+blacklist_from admin@agencja-diabel.pl
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@brunchexporters.xyz
 blacklist_from admin@infinito.edu.pl
@@ -356,6 +357,7 @@ blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
 blacklist_from edgar@goodreads.com
 blacklist_from edu-irip@irip.edu.pl
+blacklist_from edukacja@bomis.eu
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from *@e-frot.pl
 blacklist_from *@???????.e-infoczystosc.com.pl
@@ -842,7 +844,6 @@ blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from marcin12@letsdate.waw.pl
-blacklist_from marcin13@homemix.online
 blacklist_from marcin222@fundacja-mail.pl
 blacklist_from marcin224@fundacja-mail.pl
 blacklist_from marcin@grovly.eu
@@ -1057,6 +1058,7 @@ blacklist_from osii@eff.effect.edu.pl
 blacklist_from osii@gliwice.effect.edu.pl
 blacklist_from osmevqb@rostovsh.eu
 blacklist_from otwarte@winners-szkolenia.biz.pl
+blacklist_from *@oujevais.com
 blacklist_from owoce@baratoquevale.biz
 blacklist_from owoce@dhoommachao.biz
 blacklist_from owocowe777@inboxtouch.co.in
