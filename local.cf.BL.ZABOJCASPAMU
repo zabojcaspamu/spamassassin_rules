@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-06 22:40 
+# Wygenerowana 2020-03-07 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -358,7 +358,6 @@ blacklist_from drukarnia1@serwer1566249.home.pl
 blacklist_from *@drukarnialegra.pl
 blacklist_from ds@lumex.pl
 blacklist_from *@duckncrab.com
-blacklist_from *@dumbanex.com
 blacklist_from dzialka.zlotoryja@wp.pl
 blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from e35672e71daa494b72a978993d3a3032@venitas.lt
@@ -582,6 +581,7 @@ blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
+blacklist_from info@malinawasowska.info.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@memi.jp
 blacklist_from info@mopzestaw.e-czysto01.pl
@@ -633,11 +633,13 @@ blacklist_from info@translateplushol.info
 blacklist_from info@translateplushq.pw
 blacklist_from info@translateplusid.pw
 blacklist_from info@translateplusjew.info
+blacklist_from info@translatepluslo.pw
 blacklist_from info@translateplusly.pw
 blacklist_from info@translateplusmur.info
 blacklist_from info@translateplusmus.info
 blacklist_from info@translateplusoak.info
 blacklist_from info@translateplusur.pw
+blacklist_from info@translatepluswa.pw
 blacklist_from info@translatepluswe.pw
 blacklist_from info@translateplusxe.pw
 blacklist_from info@treda.sejny.pl
@@ -1112,7 +1114,6 @@ blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
-blacklist_from *@ppobbris.com
 blacklist_from preparat.as@wp.pl
 blacklist_from press@absitdaily.it
 blacklist_from prezent@cieplystolec.com
@@ -1358,6 +1359,7 @@ blacklist_from wesley@spark2flame.com
 blacklist_from wezleasing18@companiero.waw.pl
 blacklist_from wfryt@ms0472.m.lrmailr.pl
 blacklist_from wfryt@ms0479.m.lrmailr.pl
+blacklist_from wfryt@ms0481.m.lrmailr.pl
 blacklist_from wfryt@ms1018.m.lrmailr.pl
 blacklist_from *@wickfordboatguy.com
 blacklist_from william@tbs-ic.cn
