@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-13 17:40 
+# Wygenerowana 2020-03-13 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -45,6 +45,7 @@ blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from admin_www@brokerszkolen.pl
 blacklist_from admin@zielonaenergia.biz.pl
 blacklist_from *@afiliadosafpperu.com
+blacklist_from aforyciarz--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from afxoscz@onlinepms.eu
 blacklist_from *@agamusicgroup.com
 blacklist_from *@agl.net
@@ -166,6 +167,7 @@ blacklist_from biuro@kredytnamiare.com.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@liderwiedzy.eu
+blacklist_from biuro@magan.info.pl
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mankaz.jgora.pl
 blacklist_from biuro@mastersend.pl
@@ -241,10 +243,14 @@ blacklist_from bok@zutjas.naklo.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
+blacklist_from bounce+116493.64dd2-mmol=almamarket.pl@m11.rbsend.net
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce2@emd01.net
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
+blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
+blacklist_from bounce+45db77.64dd2-info=almamarket.pl@m11.rbsend.net
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@biznes-finansowanie.pl
@@ -262,6 +268,10 @@ blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounce@response.wolterskluwer.pl
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-7a68-info=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brellasm.com
@@ -271,6 +281,7 @@ blacklist_from *@bsuportal.com
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
+blacklist_from bwilk--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
 blacklist_from *@campaign.freshmail.mx
@@ -339,9 +350,11 @@ blacklist_from *@decraftfwclt.com
 blacklist_from deetox@deetox.online
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
+blacklist_from derek@corisbank.com
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from d.furtak@polexpert.com.pl
 blacklist_from d.guminska@bt.bielsko.pl
+blacklist_from Diana@tractorexport.com
 blacklist_from dieta@doktorbio.net
 blacklist_from digimarlution@gmail.com
 blacklist_from digimarution@gmail.com
@@ -452,6 +465,7 @@ blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
 blacklist_from goralskahora@folkkapela.nazwa.pl
 blacklist_from *@*.gosmall-biz.com
+blacklist_from gpilch--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from gracebinumar@gmail.com
 blacklist_from *@greatglenbikes.com
 blacklist_from Groupon@offerway.pl
@@ -571,7 +585,6 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lyricsmania.com
 blacklist_from info@mail2.henrystewartpublications.com
@@ -682,6 +695,7 @@ blacklist_from jgutel@eg-mix.pl
 blacklist_from jk9039133@gmail.com
 blacklist_from j.kuszyba@pl.kruk.eu
 blacklist_from jll@engageemea.jll.com
+blacklist_from jmazgaj--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from joanna_lewandowski@stylestandsalone.com
 blacklist_from joanna.rogowska@pixers.pl
 blacklist_from joanna.wal@gmail.com
@@ -713,6 +727,7 @@ blacklist_from k.dudek@visualcom.pl
 blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from kj@hkipnet.net
 blacklist_from klaudia.kupiec@espr.nazwa.pl
+blacklist_from kmazan--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from kobietyiwino@gmail.com
 blacklist_from kokomike055@gmail.com
 blacklist_from kolor@kolorowy-biurowy.com.pl
@@ -883,6 +898,7 @@ blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
+blacklist_from mmoska--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from mmreturn@magnetdev.com
 blacklist_from mm@systemszkolenia.pl
 blacklist_from mohd.abdullah60001@gmail.com
@@ -1073,6 +1089,7 @@ blacklist_from patriciahamilton@gmail.com
 blacklist_from paulus.gunawan@sgu.ac.id
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
 blacklist_from paypalpoliska@oubotx.hostedoffice.ag
+blacklist_from pczarnik--AT--almamarket.pl@fm-bounce.messe-duesseldorf.com
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
 blacklist_from *@pimptania.com
@@ -1102,6 +1119,7 @@ blacklist_from postmaster@netmarketer.com.pl
 blacklist_from postmaster@sendpulse.me
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
+blacklist_from pozycjonowanie@mailsender.com
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
 blacklist_from preparat.as@wp.pl
@@ -1121,6 +1139,7 @@ blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from psmul@ms1020.m.lrmailr.pl
 blacklist_from psmul@ms1523.m.lrmailr.pl
+blacklist_from psmul@ms1620.m.lrmailr.pl
 blacklist_from psmul@ms1624.m.lrmailr.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
@@ -1180,7 +1199,6 @@ blacklist_from rzetelne202@hosting-pro.eu
 blacklist_from rzoologiczny-www@mediaexperts.vps.ogicom.net
 blacklist_from sabina.gosik@gmail.com
 blacklist_from SagePolska@supmail.pl
-blacklist_from *@salemteb.com
 blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
@@ -1244,6 +1262,7 @@ blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from SRS0+445324affa54ceef=3X=gmail.com=williammorgan28881@maral.email
+blacklist_from stella@sarian.com.au
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from sue.rohde@richware.net
 blacklist_from suite5@mailreply.travelist.pl
@@ -1353,6 +1372,7 @@ blacklist_from weryfikacja@uczciwyprzedsiebiorca.com.pl
 blacklist_from wesley@spark2flame.com
 blacklist_from wezleasing18@companiero.waw.pl
 blacklist_from wfryt@ms0479.m.lrmailr.pl
+blacklist_from wfryt@ms0481.m.lrmailr.pl
 blacklist_from wfryt@ms1018.m.lrmailr.pl
 blacklist_from wfryt@ms1620.m.lrmailr.pl
 blacklist_from *@wickfordboatguy.com
