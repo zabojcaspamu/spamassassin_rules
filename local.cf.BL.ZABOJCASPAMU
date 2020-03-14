@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-13 20:30 
+# Wygenerowana 2020-03-14 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -247,6 +247,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce2@emd01.net
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
+blacklist_from bounce@aufschnitte.com
 blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@biznes-finansowanie.pl
 blacklist_from *@bounce.bluestatedigital.com
@@ -313,10 +314,12 @@ blacklist_from cindy.anson@goeventattendedm.info
 blacklist_from cirulli.luca101@gmail.com
 blacklist_from ckbiznes@certyfikowaneszkolenia.pl
 blacklist_from ckl@ckl.pl
+blacklist_from clewis@usd247.com
 blacklist_from *@closeneighbor.com
 blacklist_from coleacp@info.coleacp.org
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
+blacklist_from compras@itabrasa.com.br
 blacklist_from conceptronic@conceptronic.pl
 blacklist_from contact.labo@cmmmaroc.com
 blacklist_from contact@new-horizons.pl
@@ -348,6 +351,7 @@ blacklist_from d.guminska@bt.bielsko.pl
 blacklist_from Diana@tractorexport.com
 blacklist_from dieta@doktorbio.net
 blacklist_from digimarlution@gmail.com
+blacklist_from digimarstion@gmail.com
 blacklist_from digimarution@gmail.com
 blacklist_from *@dimaflix.com
 blacklist_from dobraimpreza@jedrowskishow.pl
@@ -363,6 +367,7 @@ blacklist_from drukarnia1@serwer1566249.home.pl
 blacklist_from *@drukarnialegra.pl
 blacklist_from ds@lumex.pl
 blacklist_from *@duckncrab.com
+blacklist_from dutt@calcuttaneon.com
 blacklist_from dzialka.zlotoryja@wp.pl
 blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from e35672e71daa494b72a978993d3a3032@venitas.lt
@@ -448,6 +453,7 @@ blacklist_from *@gersonmarcch.co
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
 blacklist_from ginorossi@brasletik.pl
+blacklist_from ginza-1@idea-co.jp
 blacklist_from *@giopik.co.ua
 blacklist_from gliwice@intexpc.pl
 blacklist_from gogastro@gastrona.pl
@@ -669,6 +675,7 @@ blacklist_from isof@isoferp.pl
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
 blacklist_from *@italyinadinner.com
+blacklist_from ivonne@quickmediator.nl
 blacklist_from iwoca@offers4me.pl
 blacklist_from iwoca@productcompany.pl
 blacklist_from iysenwr@onlinepms.eu
@@ -714,6 +721,7 @@ blacklist_from katarzyna@webazy.pl
 blacklist_from kaveh@hyperoffice.com
 blacklist_from kazio.zurawski@wp.pl
 blacklist_from k.dudek@visualcom.pl
+blacklist_from kersha.younger@aldenleeds.com
 blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from kj@hkipnet.net
 blacklist_from klaudia.kupiec@espr.nazwa.pl
@@ -862,6 +870,7 @@ blacklist_from marta@kursy.archiwizacji.pl
 blacklist_from marta@mtrmedia.pl
 blacklist_from martyna@biurotlumaczen.slask.pl
 blacklist_from marydan043@bol.com.br
+blacklist_from marylark@onatel.bi
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
 blacklist_from mateuszszpinda@gmail.com
@@ -1088,6 +1097,7 @@ blacklist_from piotr@rencistanawozku.pl
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
+blacklist_from poczta5233@paczki-online.eu
 blacklist_from poczta7219@rzetelne.site
 blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
