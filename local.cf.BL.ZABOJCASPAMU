@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-18 16:30 
+# Wygenerowana 2020-03-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -176,6 +176,7 @@ blacklist_from biuro@ofertowy.host
 blacklist_from biuro@openmoney.pl
 blacklist_from biuro@pimo.edu.pl
 blacklist_from biuro@piraniakredyty.pl
+blacklist_from biuro@poligo.sejny.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
 blacklist_from biuro@posterx.com.pl
@@ -187,9 +188,11 @@ blacklist_from biuro@roper.zagan.pl
 blacklist_from biuro@saixa.jgora.pl
 blacklist_from biuro@semprojekt.com
 blacklist_from biuro@seo-chain24.pl
+blacklist_from biuro@serfda.zgora.pl
 blacklist_from biurosf@szkolenief.net.pl
 blacklist_from biuro@signumodszkodowania.pl
 blacklist_from biuro@sinifa.jgora.pl
+blacklist_from biuro@solanto.pl
 blacklist_from biuro@sprawdzgotowke.pl
 blacklist_from biuro@stict.lapy.pl
 blacklist_from biuro@superszkolenia.pl
@@ -221,12 +224,14 @@ blacklist_from bok@ib2c.pl
 blacklist_from bok@morfca.naklo.pl
 blacklist_from bok@pourre.naklo.pl
 blacklist_from bok@rbdo.biz
+blacklist_from bok@reaudict.jgora.pl
 blacklist_from boksop@ms1627.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@zutjas.naklo.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
+blacklist_from bonito@panel.bonito.pl
 blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
@@ -335,6 +340,7 @@ blacklist_from d.guminska@bt.bielsko.pl
 blacklist_from Diana@tractorexport.com
 blacklist_from dieta@doktorbio.net
 blacklist_from digimaolution@gmail.com
+blacklist_from digimarsoltion@gmail.com
 blacklist_from digimarstion@gmail.com
 blacklist_from digimarution@gmail.com
 blacklist_from digimolution@gmail.com
@@ -437,6 +443,7 @@ blacklist_from gastrona@gastrona.pl
 blacklist_from gazetaokrug@gmail.com
 blacklist_from *@gbcleaners.com
 blacklist_from general@linguee.com
+blacklist_from gerencia@seradmi.com
 blacklist_from gerente66@lojasolar.com.br
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
@@ -1031,12 +1038,16 @@ blacklist_from *@ofertownia.com.pl
 blacklist_from oferty@multi-banki.pl
 blacklist_from office1@vbs-24.com
 blacklist_from office@76management.com
+blacklist_from office@admining.sejny.pl
+blacklist_from office@camed.lapy.pl
 blacklist_from office@cortijodelmar.eu
+blacklist_from office@dosue.zgora.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@euro-hold.com
 blacklist_from office@executive-club.com.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@italdream.pl
+blacklist_from office@javeda.naklo.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@rotfik.lapy.pl
 blacklist_from office@scc.org.pl
