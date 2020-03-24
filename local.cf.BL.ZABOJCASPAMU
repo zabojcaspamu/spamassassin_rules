@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-24 10:20 
+# Wygenerowana 2020-03-24 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -135,6 +135,7 @@ blacklist_from biuro@absenergia.pl
 blacklist_from biuro@ai-windykacja.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@allyna.jgora.pl
+blacklist_from biuro@ancore.lapy.pl
 blacklist_from biuro@aplider.pl
 blacklist_from biuro@bazafirmpolskich.email
 blacklist_from biuro@bestmail24.pl
@@ -142,6 +143,7 @@ blacklist_from biuro@biznesikasa.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@capitalmoney.pl
 blacklist_from biuro@chistowski.pl
+blacklist_from biuro@clicle.zagan.pl
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
 blacklist_from biuro@debt-ai.pl
@@ -221,9 +223,11 @@ blacklist_from bok.bemowo@ms1018.m.lrmailr.pl
 blacklist_from bok.bielany@ms1019.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
+blacklist_from bok@hatorte.zarow.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bokkat@ms1018.m.lrmailr.pl
 blacklist_from boklod@ms0481.m.lrmailr.pl
+blacklist_from bok@nadio.naklo.pl
 blacklist_from bok@pourre.naklo.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@reaudict.jgora.pl
@@ -892,6 +896,7 @@ blacklist_from meilleuroffre@meilleuroffre.store
 blacklist_from m@eudotacje24.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
 blacklist_from michal.skiba@ed-data.pl
+blacklist_from michal.skiba@ef-data.pl
 blacklist_from mila@perrini.it
 blacklist_from milena.friebe@4edu.org.pl
 blacklist_from milomlynspa@onintarget.pl
@@ -1049,10 +1054,12 @@ blacklist_from office@admining.sejny.pl
 blacklist_from office@bijen.lapy.pl
 blacklist_from office@camed.lapy.pl
 blacklist_from office@cortijodelmar.eu
+blacklist_from office@deins.sejny.pl
 blacklist_from office@dosue.zgora.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@euro-hold.com
 blacklist_from office@executive-club.com.pl
+blacklist_from office@getion.zarow.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@italdream.pl
 blacklist_from office@javeda.naklo.pl
@@ -1128,6 +1135,7 @@ blacklist_from poradnik@wons123.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@mlink.cc
 blacklist_from postmaster@netmarketer.com.pl
+blacklist_from postmaster@sendpulse.me
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozycjonowanie@mailsender.com
@@ -1217,6 +1225,7 @@ blacklist_from sales@kamertn.com
 blacklist_from *@salesmanago.io
 blacklist_from sales@shimge.com
 blacklist_from sales@zjgmorale.com
+blacklist_from sale@terryhaygood.com
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
 blacklist_from *@samochod.radom.pl
@@ -1288,6 +1297,7 @@ blacklist_from *@supermailing.com.pl
 blacklist_from support@rilzcarlton.com
 blacklist_from support@rivalo.com
 blacklist_from support@smtp3.club
+blacklist_from support@smtp3.online
 blacklist_from sushmita.euroasia@gmail.com
 blacklist_from swift@allcounty.com
 blacklist_from *@syriusgroup.com
@@ -1443,6 +1453,7 @@ blacklist_from zwroty@b2bszkolenie.co.pl
 blacklist_from zwroty@dmsend.co.pl
 blacklist_from zwroty@euroflotamail.pl
 blacklist_from zwroty@konferencjeksi.com.pl
+blacklist_from zwroty@niebieski.co.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@szkolenieb2b.co.pl
 blacklist_from zwroty@twojapoczta24h.pl
