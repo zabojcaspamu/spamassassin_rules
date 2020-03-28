@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-27 20:50 
+# Wygenerowana 2020-03-28 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -257,6 +257,7 @@ blacklist_from bounce@aufschnitte.com
 blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@biznes-finansowanie.pl
 blacklist_from *@bounce.bluestatedigital.com
+blacklist_from bounce@credit-trading.pl
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@dobre-finansowanie.pl
 blacklist_from bounce@eubusinessregister.info
@@ -284,6 +285,7 @@ blacklist_from *@camilasegal.com
 blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
+blacklist_from carlos.maya@metro.cdmx.gob.mx
 blacklist_from caroarrell@gmail.com
 blacklist_from carol2farrell@gmail.com
 blacklist_from carolfarrell@gmail.com
@@ -431,7 +433,6 @@ blacklist_from factory@aristopharma.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from *@faktura.org
 blacklist_from fassoulasnikola0s@gmail.com
-blacklist_from *@fbdowner.com
 blacklist_from fedex@noreply.com
 blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
@@ -932,8 +933,11 @@ blacklist_from mrsangepaul@gmail.com
 blacklist_from mrsblancalucas174@gmail.com
 blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
+blacklist_from *@ms0471.m.lrmailr.pl
+blacklist_from *@ms0480.m.lrmailr.pl
 blacklist_from *@ms1020.m.lrmailr.pl
 blacklist_from *@ms1027.m.lrmailr.pl
+blacklist_from *@ms1625.m.lrmailr.pl
 blacklist_from msg@caixa.net
 blacklist_from msoffice@outsource.com.pl
 blacklist_from msoffice@outsource.info.pl
@@ -1400,7 +1404,6 @@ blacklist_from vanroy@vigneronscatalans.com
 blacklist_from vectra@productcompany.pl
 blacklist_from viip@viip.website
 blacklist_from vinod@jupitersystems.in
-blacklist_from *@visitmit.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
