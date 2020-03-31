@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-03-31 20:10 
+# Wygenerowana 2020-03-31 20:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1380,6 +1380,7 @@ blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from uxkehqd@bizarteion.de
 blacklist_from vanroy@vigneronscatalans.com
+blacklist_from *@veboluz.com
 blacklist_from vectra@productcompany.pl
 blacklist_from viip@viip.website
 blacklist_from vinod@jupitersystems.in
