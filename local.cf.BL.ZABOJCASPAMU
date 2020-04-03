@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-03 08:50 
+# Wygenerowana 2020-04-03 09:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -539,6 +539,7 @@ blacklist_from *@info.fasttrackmail.pl
 blacklist_from *@info.fastymail.pl
 blacklist_from *@info.fewmembers.pl
 blacklist_from info@firmajutra.eu
+blacklist_from *@info.flashmail.net.pl
 blacklist_from info@flipmailer.com
 blacklist_from *@info??.flyemail.pl
 blacklist_from info@formana.pisz.pl
@@ -599,6 +600,7 @@ blacklist_from *@informail.infor.pl
 blacklist_from info@r-smart.pl
 blacklist_from info@sasayama-sec.co.jp
 blacklist_from *@info.scpectrack.pl
+blacklist_from *@info.seaclick.pl
 blacklist_from *@info.senderit.pl
 blacklist_from infos@envoicienvoila.fun
 blacklist_from infos@gestioncamps.online
