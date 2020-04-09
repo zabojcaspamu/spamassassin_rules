@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-09 12:40 
+# Wygenerowana 2020-04-09 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -34,6 +34,8 @@ blacklist_from admin@e-dentify.nl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from admin@ksc-th.com
+blacklist_from admin@mailbox.com
+blacklist_from Admin@mailbox.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
 blacklist_from admin@tytyryty.pl
@@ -376,6 +378,7 @@ blacklist_from *@?????.e-infoczystosc.com.pl
 blacklist_from *@????.e-infoczystosc.pl
 blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
+blacklist_from ejnibbh@balanates.network
 blacklist_from *@electricaincii.com
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
@@ -439,6 +442,7 @@ blacklist_from *@garyblumbergpc.com
 blacklist_from gastrona@gastrona.pl
 blacklist_from gazetaokrug@gmail.com
 blacklist_from *@gbcleaners.com
+blacklist_from gemzala_michal@o2.pl
 blacklist_from gerencia@seradmi.com
 blacklist_from gerente66@lojasolar.com.br
 blacklist_from *@getxinlu.com
@@ -585,6 +589,7 @@ blacklist_from info@polecane.best
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
+blacklist_from info@ratak.tgory.pl
 blacklist_from info@remiod.zagan.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
@@ -655,6 +660,7 @@ blacklist_from *@jbwilsonsbbq.com
 blacklist_from j.dova1@hotmail.com
 blacklist_from jeep@baza-firm.biz.pl
 blacklist_from *@jetmail.pl
+blacklist_from j.goodman@davidclarkanpartners.co.uk
 blacklist_from jgrzyb@pomocnydoradca.com.pl
 blacklist_from jgutel@eg-mix.pl
 blacklist_from jianlun.feng@yingzhibao.bmw.com.cn
@@ -1025,7 +1031,6 @@ blacklist_from orders@zoi.es
 blacklist_from osii@eff.effect.edu.pl
 blacklist_from osii@gliwice.effect.edu.pl
 blacklist_from otwarte@winners-szkolenia.biz.pl
-blacklist_from *@oujevais.com
 blacklist_from owhiwxh@balanates.network
 blacklist_from *@owjdesign.com
 blacklist_from owoce@baratoquevale.biz
@@ -1096,6 +1101,7 @@ blacklist_from promocje@dietanawiosne.pl
 blacklist_from protektorzy@mailplanet.p
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
+blacklist_from psmul@ms1016.m.lrmailr.pl
 blacklist_from psmul@ms1620.m.lrmailr.pl
 blacklist_from psmul@ms1624.m.lrmailr.pl
 blacklist_from pwmaeaqk@gmail.com
@@ -1323,6 +1329,7 @@ blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usulej-cholewa@ms1016.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
 blacklist_from uwagi@ms0481.m.lrmailr.pl
 blacklist_from uxkehqd@bizarteion.de
 blacklist_from vaio@temairazu.com
