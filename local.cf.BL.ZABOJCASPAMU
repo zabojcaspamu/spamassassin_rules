@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-10 14:30 
+# Wygenerowana 2020-04-10 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -135,6 +135,7 @@ blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
 blacklist_from biuro@fastmailing24.pl
+blacklist_from biuro@ferga.naklo.pl
 blacklist_from biuro@finansowaniefaktur.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
@@ -142,6 +143,7 @@ blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@gierlow.pisz.pl
 blacklist_from biuro@google1st.pl
+blacklist_from biuro@habvsa.zagan.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@imirab.zgora.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
@@ -231,8 +233,10 @@ blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from bonito@panel.bonito.pl
 blacklist_from *@bouledivoire.com
+blacklist_from bounce+116493.64dd2-mmol=almamarket.pl@m11.rbsend.net
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
+blacklist_from bounce+45db77.64dd2-info=almamarket.pl@m11.rbsend.net
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce5@inboxposta.com
 blacklist_from bounce@aufschnitte.com
@@ -592,6 +596,7 @@ blacklist_from *@info.seaclick.pl
 blacklist_from *@info.senderit.pl
 blacklist_from infos@envoicienvoila.fun
 blacklist_from infos@gestioncamps.online
+blacklist_from infos@gestioncamps.site
 blacklist_from info@silviaastuzia.com
 blacklist_from info@sklep.?-czysto01.pl
 blacklist_from info@socodam.cd
@@ -911,6 +916,7 @@ blacklist_from *@newsletters-1.retaildesignworld.com
 blacklist_from newsletter@sanatorium-panorama.com.pl
 blacklist_from newsletters.pl@company-catalogs.com
 blacklist_from newsletters.pl@express-contacts.com
+blacklist_from newsletter@suzyw.com.pl
 blacklist_from newsletter@sztukapodstepu.pl
 blacklist_from newsletter@twojczasdlarodziny.com.pl
 blacklist_from newsletter@tylkonajlepszeszkolenia.pl
@@ -1233,6 +1239,7 @@ blacklist_from suite5@mailreply.travelist.pl
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@citycinemaoman.net
+blacklist_from support@panel-fix.gq
 blacklist_from support@smtp3.club
 blacklist_from support@smtp3.online
 blacklist_from *@surveyjn.com
@@ -1314,6 +1321,7 @@ blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usulej-cholewa@ms1016.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from uwagi@ms0481.m.lrmailr.pl
 blacklist_from uxkehqd@bizarteion.de
 blacklist_from vaio@temairazu.com
