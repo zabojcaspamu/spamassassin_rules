@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-14 17:30 
+# Wygenerowana 2020-04-14 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -30,6 +30,7 @@ blacklist_from aditya@campus100.in
 blacklist_from admin1@poczta-pol.info
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@e-dentify.nl
+blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from admin@ksc-th.com
 blacklist_from admin@mailbox.com
@@ -85,6 +86,7 @@ blacklist_from *@atlantfin.com
 blacklist_from attempt@jascorpsg.net
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
+blacklist_from awbivwh@iornades.de
 blacklist_from a.wysocki@tlumaczenia-polski-angielski.pl
 blacklist_from a.xamidov@uzavtoyul.uz
 blacklist_from a.zaborowski@generalfinance.pl
@@ -185,6 +187,7 @@ blacklist_from biurozarzadu@szkoleniazarzadu.waw.pl
 blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
+blacklist_from bok@aplata.zagan.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@hatorte.zarow.pl
@@ -210,6 +213,7 @@ blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from bonito@panel.bonito.pl
 blacklist_from *@bouledivoire.com
+blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
@@ -218,12 +222,14 @@ blacklist_from bounce@aufschnitte.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@dobre-finansowanie.pl
+blacklist_from bounce@ebr-today.info
 blacklist_from bounce@eubusinessregister.info
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@todomail.org
@@ -477,7 +483,6 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
-blacklist_from *@info.declarick.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -675,6 +680,7 @@ blacklist_from kontakt@godealla.pl
 blacklist_from kontakt@*.instytut-marketingu.com
 blacklist_from kontakt@it4firm.com
 blacklist_from kontakt-mamczarz@wp.pl
+blacklist_from kontakt@maseczki-sprzedaz.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naklejki-zachowaj-odstep.pl
 blacklist_from kontakt@naprawdach.pl
@@ -950,6 +956,7 @@ blacklist_from office@einstitute.com.pl
 blacklist_from office@executive-club.com.pl
 blacklist_from office@gibinternational.de
 blacklist_from officemail@thylordzdoing.us
+blacklist_from office@redat.zarow.pl
 blacklist_from office@scc.org.pl
 blacklist_from ofix-noreply@ofix.pl
 blacklist_from ogonek.alicja52@wp.pl
@@ -1165,9 +1172,11 @@ blacklist_from st3@sklad-teh57.ru
 blacklist_from stella@sarian.com.au
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from subscribe@terryhaygood.com
+blacklist_from suite23@xpressus.emsmtp.us
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@citycinemaoman.net
+blacklist_from support@cpanel-wav.cf
 blacklist_from support@panel-fix.gq
 blacklist_from support@smtp3.club
 blacklist_from support@smtp3.online
@@ -1178,6 +1187,7 @@ blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
+blacklist_from szkolenia@r-s.com.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
 blacklist_from szkolenia@skillgroup.pl
 blacklist_from szkolenia@szkoleniakrajowe.biz.pl
@@ -1248,6 +1258,7 @@ blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from uwagi@ms0481.m.lrmailr.pl
 blacklist_from uxkehqd@bizarteion.de
+blacklist_from uxmurlf@iornades.de
 blacklist_from vaio@temairazu.com
 blacklist_from vectra@productcompany.pl
 blacklist_from vinod@jupitersystems.in
