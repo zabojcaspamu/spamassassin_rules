@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-15 11:50 
+# Wygenerowana 2020-04-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -128,6 +128,7 @@ blacklist_from biuro@finansowaniefaktur.pl
 blacklist_from biuro@firma-kredyty.pl
 blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
+blacklist_from biuro@foes.naklo.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@gierlow.pisz.pl
 blacklist_from biuro@google1st.pl
@@ -186,14 +187,17 @@ blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@aplata.zagan.pl
+blacklist_from bok.bemowo@ms1018.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@hatorte.zarow.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.kilinskiego@ms1627.m.lrmailr.pl
+blacklist_from bokkos@ms1627.m.lrmailr.pl
 blacklist_from boklma@ms1627.m.lrmailr.pl
 blacklist_from bokmpo@ms0479.m.lrmailr.pl
 blacklist_from bok@nadio.naklo.pl
+blacklist_from bokpia@ms1627.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok.stanczyka@ms1020.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
@@ -662,6 +666,7 @@ blacklist_from kontakt@*.instytut-marketingu.com
 blacklist_from kontakt@it4firm.com
 blacklist_from kontakt-mamczarz@wp.pl
 blacklist_from kontakt@maseczki-sprzedaz.pl
+blacklist_from kontakt@ministerstworeklamy.com.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naklejki-zachowaj-odstep.pl
 blacklist_from kontakt@naprawdach.pl
@@ -771,10 +776,12 @@ blacklist_from marydan043@bol.com.br
 blacklist_from marylark@onatel.bi
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
+blacklist_from mateusz@speakers.pl
 blacklist_from mateuszszpinda@gmail.com
 blacklist_from matylda@auto-trader.pl
 blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
+blacklist_from mbednarczyk@ms1523.m.lrmailr.pl
 blacklist_from *@m.businesscampaign.pl
 blacklist_from m.carone@comune.bari.it
 blacklist_from mdziewierska@pomocnydoradca.com.pl
@@ -1032,6 +1039,7 @@ blacklist_from *@retailshow.pl
 blacklist_from return@mail.promocjeweb.eu
 blacklist_from returns@opiniewidget.pl
 blacklist_from returns@twop.info.pl
+blacklist_from rfrankowski@ms1620.m.lrmailr.pl
 blacklist_from roberthawks299@gmail.com
 blacklist_from robertomoretti2003@gmail.com
 blacklist_from roksana.pietrzak7@pomoc365.site
@@ -1088,6 +1096,7 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatgdy@ms1624.m.lrmailr.pl
+blacklist_from sekretariat.grojecka@ms0480.m.lrmailr.pl
 blacklist_from sekretariatnta@ms1018.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1620.m.lrmailr.pl
 blacklist_from sekretariatpru@ms1627.m.lrmailr.pl
@@ -1121,6 +1130,7 @@ blacklist_from shabeert@lamco.ae
 blacklist_from sharen@yutai.net.cn
 blacklist_from sheila.conley@hhs.gov
 blacklist_from shindak14@cnool.net
+blacklist_from SHIPMENT@FEDEX.COM
 blacklist_from *@shotmate.pl
 blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
