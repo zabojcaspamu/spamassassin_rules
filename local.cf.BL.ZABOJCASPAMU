@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-16 12:50 
+# Wygenerowana 2020-04-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -149,6 +149,7 @@ blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@ogtax.jgora.pl
+blacklist_from biuro@okatha.naklo.pl
 blacklist_from biuro@openmoney.pl
 blacklist_from biuro@osonna.tgory.pl
 blacklist_from biuro@pertwsa.zarow.pl
@@ -223,6 +224,7 @@ blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from bonito@panel.bonito.pl
 blacklist_from *@bouledivoire.com
+blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
@@ -237,6 +239,7 @@ blacklist_from *@bounce.getresponse.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@todomail.org
@@ -341,6 +344,7 @@ blacklist_from *@ebberhealth.com
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
 blacklist_from edgar@james.gq
+blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from *@e-frot.pl
 blacklist_from eHlSjIfN@lsd.golf
@@ -484,7 +488,6 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
-blacklist_from *@info.declarick.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -531,7 +534,6 @@ blacklist_from info@kosze????.einfoczystosc.pl
 blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@mail2.henrystewartpublications.com
 blacklist_from *@info??.maildream.pl
@@ -1009,6 +1011,7 @@ blacklist_from poczta@tvp.center
 blacklist_from poczta@zoriana-yukhymets.info
 blacklist_from pomoc-bvlbm@wiktoria-pomoc.site
 blacklist_from pomoc@fundacjadzieciom.org
+blacklist_from pomoc-i9d5s@wiktoria-pomoc.waw.pl
 blacklist_from *@pomoc-ipko.com
 blacklist_from *@pomocnatablica.pl
 blacklist_from poradnik@sztefanwons.com
