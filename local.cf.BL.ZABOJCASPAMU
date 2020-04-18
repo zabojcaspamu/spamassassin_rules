@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-18 15:00 
+# Wygenerowana 2020-04-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -102,6 +102,7 @@ blacklist_from b.baranowska@senekaszkolenia.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from bdalmata@analitycymulti.pl
+blacklist_from bholden.pcwmuk@gmail.com
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro@absenergia.pl
 blacklist_from biuro@alfianco.pl
@@ -239,6 +240,7 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@todomail.org
@@ -315,7 +317,6 @@ blacklist_from digimarsoltion@gmail.com
 blacklist_from digimarsution@gmail.com
 blacklist_from digsolution@gmail.com
 blacklist_from discount@ew-news.com
-blacklist_from *@dlafirm.co.pl
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from dominiskasobczyk@gmail.com
 blacklist_from domodi@flyemail.pl
@@ -529,8 +530,8 @@ blacklist_from info@kosze????.einfoczystosc.pl
 blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
+blacklist_from info@magnoliaa.pl
 blacklist_from info@mail2.henrystewartpublications.com
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
@@ -1003,6 +1004,7 @@ blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
 blacklist_from poczta@zoriana-yukhymets.info
+blacklist_from pomoc-3jayd@wiktoria-pomoc.waw.pl
 blacklist_from pomoc-bvlbm@wiktoria-pomoc.site
 blacklist_from pomoc@fundacjadzieciom.org
 blacklist_from pomoc-i9d5s@wiktoria-pomoc.waw.pl
@@ -1249,6 +1251,7 @@ blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usulej-cholewa@ms1016.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
 blacklist_from uwagi@ms0481.m.lrmailr.pl
 blacklist_from uwagi@ms1624.m.lrmailr.pl
 blacklist_from uxkehqd@bizarteion.de
@@ -1319,6 +1322,7 @@ blacklist_from zhuyi@jsjinteng.com
 blacklist_from *@zibojinda.com
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
+blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@konferencjeksi.com.pl
 blacklist_from zwroty@kooperacja.co.pl
 blacklist_from zwroty@niebieski.co.pl
