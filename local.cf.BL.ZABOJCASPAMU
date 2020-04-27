@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-27 15:50 
+# Wygenerowana 2020-04-27 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -194,6 +194,7 @@ blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
+blacklist_from bounce@biznesfinansowanie.pl
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@credit-trading.com.pl
 blacklist_from bounced@euve?????.serverprofi24.com
@@ -275,6 +276,7 @@ blacklist_from *@decraftfwclt.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
+blacklist_from d.guminska@bt.bielsko.pl
 blacklist_from didik@dipendajatim.go.id
 blacklist_from dieta@doktorbio.net
 blacklist_from digilution@gmail.com
@@ -299,6 +301,7 @@ blacklist_from dzidzia@serwer1427454.home.pl
 blacklist_from e91c5ef13227981374bb160e77f4a018@venitas.lt
 blacklist_from *@easevision.com
 blacklist_from *@ebberhealth.com
+blacklist_from echolmm@iornades.de
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
 blacklist_from edu-irip@irip.edu.pl
@@ -417,6 +420,7 @@ blacklist_from *@iamversed.com
 blacklist_from ibpaydn@iornades.de
 blacklist_from *@ibsmuhendislik.com
 blacklist_from ideabank@productcompany.pl
+blacklist_from idqohsb@iornades.de
 blacklist_from iforex@offers4you.pl
 blacklist_from iljovyt@balanates.network
 blacklist_from ilona.czernow@finansuj.biz.pl
@@ -1275,4 +1279,5 @@ blacklist_from zwroty@twojapoczta24h.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
 blacklist_from zwroty@wspolpraca.co.pl
+blacklist_from zwroty@zdalna.co.pl
 blacklist_from *@zzynkeji.com
