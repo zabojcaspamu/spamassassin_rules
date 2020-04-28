@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-04-28 14:30 
+# Wygenerowana 2020-04-28 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -138,9 +138,11 @@ blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
+blacklist_from biuro@metodav.naklo.pl
 blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
+blacklist_from biuro@ohujre.zgora.pl
 blacklist_from biuro@piraniakredyty.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
@@ -206,6 +208,7 @@ blacklist_from bounce@ekspresowe-finansowanie.com.pl
 blacklist_from bounce@eroskilde.com
 blacklist_from bounce@eubusinessregister.info
 blacklist_from bounce@fin-advice.pl
+blacklist_from bounce@fin-services.com.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@glenungag.com
@@ -213,6 +216,8 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -594,6 +599,7 @@ blacklist_from joanna.rogowska@pixers.pl
 blacklist_from joanna.wal@gmail.com
 blacklist_from jones99frank@gmail.com
 blacklist_from *@jpelaezdesigns.com
+blacklist_from jsebastian@pomocnydoradca.com.pl
 blacklist_from j-tech@dwku.com
 blacklist_from judyta.kleszko@odszkodowania-pomoc24.pl
 blacklist_from juliana@hypixel.com
@@ -604,6 +610,7 @@ blacklist_from *@kabelpol.dla-najlepszych.pl
 blacklist_from kadarisman@rspp.co.id
 blacklist_from *@kalkuluje.com
 blacklist_from kamila.krakowska@whiteone.tk
+blacklist_from kamil.muszynski@szkolenia22.pl
 blacklist_from kampania@najlepszeokazje.co.pl
 blacklist_from kapela@goralska-hora.pl
 blacklist_from karolina.wilczynska@waznawiadomosc.pl
@@ -740,6 +747,7 @@ blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing@bekar-europe.eu
 blacklist_from marketing@brestbakaleya.com
 blacklist_from marketing@euroma.edu.pl
+blacklist_from marketing@gron-balance1.pl
 blacklist_from marketing@open-team.pl
 blacklist_from marketing@pl.edensprings.com
 blacklist_from marketing@positiv.com.pl
@@ -765,7 +773,9 @@ blacklist_from *@mediasofttec.com
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
+blacklist_from michal.skiba@ed-data.pl
 blacklist_from michal.skiba@ef-data.pl
+blacklist_from michal.skiba@em-data.pl
 blacklist_from milo@milosegregatory.com.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
@@ -921,6 +931,7 @@ blacklist_from office@redat.zarow.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@utrfa.pisz.pl
 blacklist_from office@whimette.jgora.pl
+blacklist_from office@wixiec.pisz.pl
 blacklist_from ofix-noreply@ofix.pl
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from okazik@okazik.pl
@@ -956,6 +967,7 @@ blacklist_from peugeotpolska@niroline.pl
 blacklist_from *@pimptania.com
 blacklist_from piotrbnc@e-bazy.com
 blacklist_from piotr.gawrysiak@kusloncu.com.pl
+blacklist_from piotr.gefert@bdo.net.pl
 blacklist_from piotr.malarski@gmail.com
 blacklist_from p.komosa@ozonowaniewnetrz24.pl
 blacklist_from *@play4.pl
@@ -1019,6 +1031,7 @@ blacklist_from renault@samochod.olsztyn.pl
 blacklist_from *@retailshow.pl
 blacklist_from return@mailer-service.de
 blacklist_from return@mail.promocjeweb.eu
+blacklist_from returns@polskiebociany.pl
 blacklist_from returns@twop.info.pl
 blacklist_from riccos@demetriadesgroup.com
 blacklist_from robertomoretti2003@gmail.com
@@ -1045,7 +1058,6 @@ blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
 blacklist_from rtv@joobi.eu
-blacklist_from *@rublgood.com
 blacklist_from rud-division@alkuhaimi.com
 blacklist_from ruthavor13@outlook.com
 blacklist_from rwe@supmail.pl
@@ -1287,4 +1299,3 @@ blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
 blacklist_from zwroty@wspolpraca.co.pl
 blacklist_from zwroty@zdalna.co.pl
-blacklist_from *@zzynkeji.com
