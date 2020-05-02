@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-02 07:00 
+# Wygenerowana 2020-05-02 07:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -78,6 +78,7 @@ blacklist_from *@artisanka.com
 blacklist_from *@arubahosteria.com
 blacklist_from asiafoundations@citromail.hu
 blacklist_from *@associationnour.com
+blacklist_from *@ataergida.com
 blacklist_from attempt@jascorpsg.net
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
@@ -215,8 +216,6 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
-blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -520,6 +519,7 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@ofisillas.es
 blacklist_from info@okazje-info.pl
 blacklist_from info@polecane.best
+blacklist_from *@info.popularsending.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
@@ -1297,3 +1297,4 @@ blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
 blacklist_from zwroty@wspolpraca.co.pl
 blacklist_from zwroty@zdalna.co.pl
+blacklist_from *@zzynkeji.com
