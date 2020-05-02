@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-02 12:40 
+# Wygenerowana 2020-05-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -79,7 +79,6 @@ blacklist_from *@artisanka.com
 blacklist_from *@arubahosteria.com
 blacklist_from asiafoundations@citromail.hu
 blacklist_from *@associationnour.com
-blacklist_from *@ataergida.com
 blacklist_from attempt@jascorpsg.net
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
@@ -217,6 +216,8 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -520,7 +521,6 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@ofisillas.es
 blacklist_from info@okazje-info.pl
 blacklist_from info@polecane.best
-blacklist_from *@info.popularsending.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
@@ -540,6 +540,7 @@ blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from infos@performance-entreprises.website
 blacklist_from *@info.spotmail.pl
+blacklist_from info@stelchem.ml
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@translatepluscow.host
@@ -658,6 +659,7 @@ blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
 blacklist_from kontakt@neo.krakow.pl
 blacklist_from kontakt@odbieramto.com.pl
+blacklist_from kontakt@oferta-na-fotowoltaike.pl
 blacklist_from kontakt@*.olix-polska.com
 blacklist_from kontakt@pfw.com.pl
 blacklist_from kontakt@polgift.com.pl
@@ -912,7 +914,6 @@ blacklist_from odrzucone@symen24.pl
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
-blacklist_from *@oferta-na-fotowoltaike.pl
 blacklist_from ofertaspecjalna@domdevelopment.com.pl
 blacklist_from *@ofertownia.com.pl
 blacklist_from oferty@multi-banki.pl
@@ -1145,6 +1146,7 @@ blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from st3@sklad-teh57.ru
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from subscribe@amazon.com
+blacklist_from suite23@xpressus.emsmtp.us
 blacklist_from sunny_mys@southglass.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
@@ -1300,4 +1302,3 @@ blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
 blacklist_from zwroty@wspolpraca.co.pl
 blacklist_from zwroty@zdalna.co.pl
-blacklist_from *@zzynkeji.com
