@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-03 14:10 
+# Wygenerowana 2020-05-03 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -77,7 +77,6 @@ blacklist_from *@artisanka.com
 blacklist_from *@arubahosteria.com
 blacklist_from asiafoundations@citromail.hu
 blacklist_from *@associationnour.com
-blacklist_from *@ataergida.com
 blacklist_from attempt@jascorpsg.net
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
@@ -268,6 +267,7 @@ blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from darek_abc113@tlen.pl
+blacklist_from darek_abc117@o2.pl
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from davidj.acc@globelinkww.com
@@ -1053,6 +1053,7 @@ blacklist_from sales7@crowninternational.ml
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
 blacklist_from sales@blesyaiia.ga
+blacklist_from sales@doingmail.life
 blacklist_from sales@gomailtoolsbulk.top
 blacklist_from sales@jec.qa
 blacklist_from *@salesmanago.io
@@ -1199,6 +1200,7 @@ blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usulej-cholewa@ms0480.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
 blacklist_from uxmurlf@iornades.de
 blacklist_from vaio@temairazu.com
@@ -1222,6 +1224,7 @@ blacklist_from wfryt@ms1016.m.lrmailr.pl
 blacklist_from wfryt@ms1020.m.lrmailr.pl
 blacklist_from wfryt@ms1620.m.lrmailr.pl
 blacklist_from wfryt@ms1623.m.lrmailr.pl
+blacklist_from wfryt@ms1625.m.lrmailr.pl
 blacklist_from *@wickfordboatguy.com
 blacklist_from william@tbs-ic.cn
 blacklist_from windykacja@kancelariawec.pl
