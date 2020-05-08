@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-08 07:00 
+# Wygenerowana 2020-05-08 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -217,6 +217,8 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -511,7 +513,6 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@magnoliaa.pl
 blacklist_from *@info??.maildream.pl
@@ -529,6 +530,7 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@ofisillas.es
 blacklist_from info@okazje-info.pl
+blacklist_from infopay@lloydsbank.co.uk
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
@@ -585,6 +587,7 @@ blacklist_from isof@isoferp.pl
 blacklist_from *@isp-modzelewski.pl
 blacklist_from *@iszkoleniowo.pl
 blacklist_from *@italyinadinner.com
+blacklist_from iwaniak@uwm.edu.pl
 blacklist_from iwoca@offers4me.pl
 blacklist_from iwoca@productcompany.pl
 blacklist_from iza@ekredytowaniefirm.pl
@@ -785,6 +788,7 @@ blacklist_from *@mediasofttec.com
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
+blacklist_from michal.skiba@ed-data.pl
 blacklist_from michal.skiba@em-data.pl
 blacklist_from milo@milosegregatory.com.pl
 blacklist_from milomlynspa@onintarget.pl
@@ -1031,6 +1035,7 @@ blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from prueba@cootel.com.ni
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from przylbice_co@vv2.pl
+blacklist_from przylbice_ochronne@vv2.pl
 blacklist_from psmul@ms1520.m.lrmailr.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
