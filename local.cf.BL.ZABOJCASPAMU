@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-10 21:40 
+# Wygenerowana 2020-05-11 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -183,13 +183,18 @@ blacklist_from bok.bemowo@ms1520.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bokgdy@ms1627.m.lrmailr.pl
+blacklist_from bok.grojecka@ms0480.m.lrmailr.pl
 blacklist_from bok.grojecka@ms1027.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok.katowice@ms0481.m.lrmailr.pl
+blacklist_from bok.kazimierz@ms1520.m.lrmailr.pl
+blacklist_from bok.kosciuszki@ms1620.m.lrmailr.pl
 blacklist_from bokkos@ms1627.m.lrmailr.pl
 blacklist_from bokmpo@ms1627.m.lrmailr.pl
 blacklist_from boknta@ms1624.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bokryb@ms1627.m.lrmailr.pl
+blacklist_from bokrze@ms1625.m.lrmailr.pl
 blacklist_from bok.staniszewskiego@ms1620.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
 blacklist_from boktar@ms0472.m.lrmailr.pl
@@ -223,8 +228,6 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
-blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -296,6 +299,7 @@ blacklist_from *@decraftfwclt.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
+blacklist_from *@dezinoke.de
 blacklist_from d.guminska@bt.bielsko.pl
 blacklist_from didik@dipendajatim.go.id
 blacklist_from dieta@doktorbio.net
@@ -559,6 +563,7 @@ blacklist_from info@sowexm.com.pl
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from infos@performance-entreprises.website
 blacklist_from *@info.spotmail.pl
+blacklist_from info@srku.edu.in
 blacklist_from info@stelchem.ml
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
@@ -695,6 +700,7 @@ blacklist_from kontakt@smesolutions.pl
 blacklist_from kontakt@szkolenia-handlowcow.pl
 blacklist_from kontakt@szkoleniaonline.co.pl
 blacklist_from kontakt@tnij-koszty-energii.pl
+blacklist_from kontakt@toubezpieczenie.pl
 blacklist_from kontakt@twojrozwoj.biz.pl
 blacklist_from kontakt@unitedvalue.pl
 blacklist_from kontakt@web-agencja.pl
@@ -1123,6 +1129,7 @@ blacklist_from Seif.Eddine.Guesmi@starcontainer.eu
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms0480.m.lrmailr.pl
 blacklist_from sekretariat.grojecka@ms0480.m.lrmailr.pl
+blacklist_from sekretariatpro@ms0472.m.lrmailr.pl
 blacklist_from sekretariatsbr@ms1018.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
 blacklist_from send@blatnisend.pl
@@ -1208,11 +1215,11 @@ blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from terminal@terminalikasa.pl
 blacklist_from test@tiags.vn
+blacklist_from *@tiosale.de
 blacklist_from *@tisolan.network
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
 blacklist_from *@torell.pl
-blacklist_from *@toubezpieczenie.pl
 blacklist_from toyota@affiliate.szczecin.pl
 blacklist_from toyota@offerscompany.pl
 blacklist_from traced@mail.click365.pl
