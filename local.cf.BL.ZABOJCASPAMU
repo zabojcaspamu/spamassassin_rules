@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-12 16:30 
+# Wygenerowana 2020-05-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -139,6 +139,7 @@ blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@metodav.naklo.pl
+blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@ohujre.zgora.pl
@@ -224,6 +225,8 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -468,6 +471,7 @@ blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
 blacklist_from info@bluebusinesmedia.com
 blacklist_from info@b-send.pl
+blacklist_from info@compassexpo.info
 blacklist_from info@cpi-szkolenia.waw.pl
 blacklist_from *@???????.infoczystosc.com.pl
 blacklist_from *@??????.infoczystosc.com.pl
@@ -793,8 +797,10 @@ blacklist_from *@mediasofttec.com
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
+blacklist_from michal.skiba@data-pl.pl
 blacklist_from michal.skiba@ed-data.pl
 blacklist_from michal.skiba@em-data.pl
+blacklist_from milena.friebe@4edu.org.pl
 blacklist_from milo@milosegregatory.com.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
@@ -860,6 +866,7 @@ blacklist_from newsletter@sanatorium-panorama.com.pl
 blacklist_from newsletters.pl@company-catalogs.com
 blacklist_from newsletters.pl@express-contacts.com
 blacklist_from newsletter@suzyw.com.pl
+blacklist_from newsletter@szkolenia-forum.pl
 blacklist_from newsletter@sztukapodstepu.pl
 blacklist_from newsletter@tylkonajlepszeszkolenia.pl
 blacklist_from newsletter@wiadomoscikosmetyczne.pl
@@ -1169,12 +1176,14 @@ blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from st3@sklad-teh57.ru
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from subscribe@amazon.com
+blacklist_from suite23@xpressus.emsmtp.us
 blacklist_from sunny_mys@southglass.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@citycinemaoman.net
 blacklist_from support@cpanel-wav.cf
 blacklist_from support@mail-autofix.ga
+blacklist_from support@mailbox.com
 blacklist_from support@panel-fix.gq
 blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
