@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-13 16:10 
+# Wygenerowana 2020-05-13 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -7,7 +7,6 @@ blacklist_from *@163.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
-blacklist_from *@25-db-szajmaszk.com
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
@@ -200,8 +199,10 @@ blacklist_from bok@usbox.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from bony-8lm5x@rzetelne.site
+blacklist_from borsukiewicz.jacek@progressproject.pl
 blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
+blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
@@ -362,6 +363,7 @@ blacklist_from ES_Edicom@news.edicomgroup.com
 blacklist_from e.sokalska@bt.bielsko.pl
 blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
+blacklist_from euroasiapharma456@gmail.com
 blacklist_from ewa.gruszczyk@grupainfomax.com
 blacklist_from export@geapl.co.in
 blacklist_from export@sanusfood.com
@@ -565,6 +567,7 @@ blacklist_from *@info.spotmail.pl
 blacklist_from info@srku.edu.in
 blacklist_from info@stelchem.ml
 blacklist_from info@szkolenia-miekkie.pl
+blacklist_from info@szybkie-tlumaczenia.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@translatepluscow.host
 blacklist_from info@translatepluscul.host
@@ -684,6 +687,7 @@ blacklist_from kontakt@ministerstworeklamy.com.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
 blacklist_from kontakt@neo.krakow.pl
+blacklist_from kontakt@obslugawierzytelnosci.pl
 blacklist_from kontakt@odbieramto.com.pl
 blacklist_from kontakt@oferta-na-fotowoltaike.pl
 blacklist_from kontakt@*.olix-polska.com
@@ -705,6 +709,7 @@ blacklist_from kontakt@web-agencja.pl
 blacklist_from kontakt@websiteon.pl
 blacklist_from kontakt@wirusy-ochrona.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
+blacklist_from kontakt@wxi.pl
 blacklist_from kontakt@wyfrankowani.pl
 blacklist_from kontakt@zajazduhermanow.pl
 blacklist_from kopacz.pawel@salesmanago.pl
@@ -960,12 +965,15 @@ blacklist_from office@cortijodelmar.eu
 blacklist_from office@einstitute.com.pl
 blacklist_from office@executive-club.com.pl
 blacklist_from office@gibinternational.de
+blacklist_from office@kacol.tgory.pl
 blacklist_from officemail@thylordzdoing.us
+blacklist_from office@metrol.zagan.pl
 blacklist_from office@redat.zarow.pl
 blacklist_from office@rielend.naklo.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@tioney.zagan.pl
 blacklist_from office@utrfa.pisz.pl
+blacklist_from office@whavare.zgora.pl
 blacklist_from office@whimette.jgora.pl
 blacklist_from office@whorth.tgory.pl
 blacklist_from office@wixiec.pisz.pl
@@ -1120,6 +1128,7 @@ blacklist_from sales@gomailtoolsbulk.top
 blacklist_from sales@jec.qa
 blacklist_from *@salesmanago.io
 blacklist_from sales@niftylabs.com
+blacklist_from sales@zjgmorale.com
 blacklist_from Sal@ihc.com
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
