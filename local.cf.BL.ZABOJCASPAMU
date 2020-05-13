@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-12 20:40 
+# Wygenerowana 2020-05-13 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -206,6 +206,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce@bankowe-finansowanie.pl
+blacklist_from bounce@biznes-finansowanie.com.pl
 blacklist_from bounce@biznesfinansowanie.pl
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@credit-trading.com.pl
@@ -214,6 +215,7 @@ blacklist_from bounce@ebr-today.info
 blacklist_from bounce@ekspresowe-finansowanie.com.pl
 blacklist_from bounce@eroskilde.com
 blacklist_from bounce@fin-advisors.com.pl
+blacklist_from bounce@finadvisors.pl
 blacklist_from bounce@finans-dg.pl
 blacklist_from bounce@finansowanienabank.com.pl
 blacklist_from bounce@finprom.pl
@@ -226,8 +228,6 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
-blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -787,6 +787,7 @@ blacklist_from mateusz@pozyczkiprzez.net
 blacklist_from mateusz@speakers.pl
 blacklist_from mateuszszpinda@gmail.com
 blacklist_from matylda@auto-trader.pl
+blacklist_from *@maxolonse.de
 blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
 blacklist_from *@m.businesscampaign.pl
@@ -940,6 +941,7 @@ blacklist_from odbicia@pv-instalacje.com.pl
 blacklist_from odbicia@sth4u.com.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
 blacklist_from odrzucone@symen24.pl
+blacklist_from odvunfn@iornades.de
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
@@ -1047,6 +1049,7 @@ blacklist_from prueba@cootel.com.ni
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from przylbice_co@vv2.pl
 blacklist_from przylbice_ochronne@vv2.pl
+blacklist_from przylbice@przeciwcovid.pl
 blacklist_from psmul@ms1520.m.lrmailr.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
@@ -1062,6 +1065,7 @@ blacklist_from reklamafranczyza@gmail.com
 blacklist_from reklama@sukcesshop.pl
 blacklist_from renault@samochod.olsztyn.pl
 blacklist_from *@retailshow.pl
+blacklist_from return@dealwecker.com
 blacklist_from return@hks43.de
 blacklist_from return@mailer-service.de
 blacklist_from return@mail.promocjeweb.eu
@@ -1303,6 +1307,7 @@ blacklist_from *@xpressus.emsmtp.us
 blacklist_from yanaseh5585@pmc.or.jp
 blacklist_from yhsyxzr@golinska.de
 blacklist_from yyhyqjm@balanates.network
+blacklist_from *@yyyaii.xyz
 blacklist_from zablocki.l@maski24.pl
 blacklist_from zablockilukasz@maski24.pl
 blacklist_from zamowienie@express-contacts.com
