@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-14 22:40 
+# Wygenerowana 2020-05-15 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -204,6 +204,7 @@ blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
+blacklist_from bounce2@emd01.net
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce@bankowe-finansowanie.pl
@@ -230,8 +231,6 @@ blacklist_from bounce@leabrooka.com
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
-blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -241,6 +240,7 @@ blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
 blacklist_from *@californiawires.com
+blacklist_from cameron@mail.com
 blacklist_from *@camilasegal.com
 blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
@@ -285,6 +285,7 @@ blacklist_from controlling@mediaexpln.pl
 blacklist_from coupon@amazonaws.com
 blacklist_from coupon@amazon.com
 blacklist_from covid@kd20.pl
+blacklist_from covprzylbica@atestowaneprzylbice.pl
 blacklist_from *@cpatrafficword.com
 blacklist_from csk@csk-partner.pl
 blacklist_from csk@warszawa.csk-partner.pl
@@ -526,6 +527,7 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
+blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@magnoliaa.pl
 blacklist_from *@info??.maildream.pl
@@ -571,6 +573,8 @@ blacklist_from info@szybkie-tlumaczenia.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@translatepluscow.host
 blacklist_from info@translatepluscul.host
+blacklist_from info@translateplusday.host
+blacklist_from info@translateplusdia.host
 blacklist_from info@translateplusism.info
 blacklist_from info@translateplusjaa.info
 blacklist_from info@ubagroup.com
@@ -735,6 +739,7 @@ blacklist_from lilbd@gmail.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
+blacklist_from lukasz@facemask.pl
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
@@ -1239,8 +1244,6 @@ blacklist_from traced@mail.speedy-mail.pl
 blacklist_from trading@maksym.com.pl
 blacklist_from transakcje@wewnspolnotowe.net.pl
 blacklist_from *@translateit.pl
-blacklist_from *@translateplusday.host
-blacklist_from *@translateplusdia.host
 blacklist_from travelist@motorun.pl
 blacklist_from travelist@offers4you.pl
 blacklist_from trenujzoske@gmail.com
