@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-17 14:20 
+# Wygenerowana 2020-05-17 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -200,6 +200,7 @@ blacklist_from bok@usbox.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from bony-8lm5x@rzetelne.site
+blacklist_from bony-mj3y3@rzetelne.site
 blacklist_from borsukiewicz.jacek@progressproject.pl
 blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
@@ -699,6 +700,7 @@ blacklist_from kontakt@*.olix-polska.com
 blacklist_from kontakt@pfw.com.pl
 blacklist_from kontakt@polgift.com.pl
 blacklist_from kontakt@pomocdlafirm.com.pl
+blacklist_from kontakt@pozyczkaplynnosciowa24.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@schody-bez-vat.pl
 blacklist_from kontakt@sendhub.pl
@@ -1040,7 +1042,6 @@ blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@netmarketer.com.pl
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
-blacklist_from *@pozyczkaplynnosciowa24.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
 blacklist_from preparat.as@wp.pl
