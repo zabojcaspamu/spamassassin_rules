@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-18 17:40 
+# Wygenerowana 2020-05-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -114,6 +114,8 @@ blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
 blacklist_from biuro@debtlawyer.pl
+blacklist_from biuro@dersab.jgora.pl
+blacklist_from biuro@dlugi-ai.pl
 blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
@@ -140,6 +142,7 @@ blacklist_from biuro@kampaniadlaciebie.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
+blacklist_from biuro@liderwiedzy.eu
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
@@ -235,6 +238,8 @@ blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@open-maket.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+3394643-966f-pr=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
@@ -350,6 +355,7 @@ blacklist_from *@?????.e-infoczystosc.com.pl
 blacklist_from *@????.e-infoczystosc.pl
 blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
+blacklist_from EKSTRE@halkbank.com.tr
 blacklist_from *@electricaincii.com
 blacklist_from Email@al.alltradeworld.tech
 blacklist_from *@emailapp.pl
@@ -533,7 +539,6 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@magnoliaa.pl
 blacklist_from *@info??.maildream.pl
@@ -550,6 +555,7 @@ blacklist_from info@niemozliwe.com.pl
 blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@ofisillas.es
+blacklist_from info@okazje-info.com.pl
 blacklist_from info@okazje-info.pl
 blacklist_from infopay@lloydsbank.co.uk
 blacklist_from info@profesjonalnydruk.biz
@@ -820,6 +826,7 @@ blacklist_from michal.skiba@data-pl.pl
 blacklist_from michal.skiba@ed-data.pl
 blacklist_from michal.skiba@el-data.pl
 blacklist_from michal.skiba@em-data.pl
+blacklist_from milena.friebe@4edu.org.pl
 blacklist_from milo@milosegregatory.com.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
@@ -1030,7 +1037,6 @@ blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
 blacklist_from poczta@vps717387.ovh.net
 blacklist_from poczta@zoriana-yukhymets.info
-blacklist_from *@podroznik.co.pl
 blacklist_from pomoc-00v9e@e-pomagam.online
 blacklist_from pomoc-3jayd@wiktoria-pomoc.waw.pl
 blacklist_from pomoc-4ziyk@wiktoria-pomoc.site
@@ -1207,6 +1213,7 @@ blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from st3@sklad-teh57.ru
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from subscribe@amazon.com
+blacklist_from suite23@xpressus.emsmtp.us
 blacklist_from sunny_mys@southglass.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
@@ -1332,6 +1339,7 @@ blacklist_from *@xpressus.emsmtp.us
 blacklist_from yanaseh5585@pmc.or.jp
 blacklist_from zablocki.l@maski24.pl
 blacklist_from zablockilukasz@maski24.pl
+blacklist_from zaera@wanadoo.es
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
@@ -1355,6 +1363,7 @@ blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@dlafirmy.co.pl
 blacklist_from zwroty@konferencjeksi.com.pl
 blacklist_from zwroty@oobo.info
+blacklist_from zwroty@podroznik.co.pl
 blacklist_from zwroty@twojapoczta24h.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
