@@ -170,9 +170,9 @@ header      ZABOJCASPAMU_SPAMWARE_XMAILER_eMailink    X-Mailer =~ /^\s*eMailink 
 describe    ZABOJCASPAMU_SPAMWARE_XMAILER_eMailink    SPAMWARE X-Mailer (DSPAM_autolearn)  
 score       ZABOJCASPAMU_SPAMWARE_XMAILER_eMailink    3.0    
 
-header      ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mailer    X-Mailer =~ /^\s*GOOD Mailer v\d+\.\d+$/
-describe    ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mailer    SPAMWARE X-Mailer GOOD Mailer 
-score       ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mailer    3.0    
+header      ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mail    X-Mailer =~ /^\s*GOOD Mailer v\d+\.\d+$/
+describe    ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mail    SPAMWARE X-Mailer GOOD Mailer 
+score       ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mail    3.0    
 
 header      ZABOJCASPAMU_XMAILER_mLogic    X-Mailer =~ /^\s*mLogic$/  
 describe    ZABOJCASPAMU_XMAILER_mLogic    Strange X-Mailer mLogic (DSPAM_autolearn) 
