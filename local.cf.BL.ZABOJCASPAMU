@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-23 17:10 
+# Wygenerowana 2020-05-23 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -243,6 +243,7 @@ blacklist_from bounce@fin-advisors.com.pl
 blacklist_from bounce@finadvisors.pl
 blacklist_from bounce@finans-dg.pl
 blacklist_from bounce@finansowanienabank.com.pl
+blacklist_from bounce@finansowanienabank.pl
 blacklist_from bounce@finprom.pl
 blacklist_from bounce@fin-services.com.pl
 blacklist_from *@bounce.freshmail.pl
@@ -261,6 +262,7 @@ blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
+blacklist_from bounce@tradeprom.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -432,6 +434,7 @@ blacklist_from frasovi@eresmas.com
 blacklist_from freedome@intia.pl
 blacklist_from *@frenzydonor.com
 blacklist_from *@frot.pl
+blacklist_from ftp@eventcenter.hu
 blacklist_from fump@szkoleniapraktyczne.com.pl
 blacklist_from *@fundacjakibica.pl
 blacklist_from *@fuoridiciao.com
@@ -856,6 +859,7 @@ blacklist_from milo@milosegregatory.com.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
+blacklist_from miranda@nittida.com.ar
 blacklist_from mitchell@gmtel.net
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
