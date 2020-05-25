@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-24 19:10 
+# Wygenerowana 2020-05-25 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -156,6 +156,7 @@ blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@ohujre.zgora.pl
 blacklist_from biuro@piraniakredyty.pl
+blacklist_from biuro@platforma-wiedzy.pl
 blacklist_from biuro@poligrafia-marker.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
@@ -200,6 +201,7 @@ blacklist_from bok.grojecka@ms0471.m.lrmailr.pl
 blacklist_from bok.grojecka@ms0480.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.katowice@ms0481.m.lrmailr.pl
+blacklist_from bok.kazimierz@ms0481.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms1620.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1016.m.lrmailr.pl
 blacklist_from boknta@ms0480.m.lrmailr.pl
@@ -216,6 +218,7 @@ blacklist_from *@bollywoolife.com
 blacklist_from *@bolonsiama.de
 blacklist_from *@bonanzasatna.com
 blacklist_from bony-8lm5x@rzetelne.site
+blacklist_from bony-f9ft2@rzetelne.site
 blacklist_from bony-mj3y3@rzetelne.site
 blacklist_from bony-zpy8r@rzetelne.site
 blacklist_from borsukiewicz.jacek@progressproject.pl
@@ -820,6 +823,7 @@ blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from malgorzata.kleszcz@effectgroup.pl
+blacklist_from marcela@firstclassic.com.ar
 blacklist_from marcin@grovly.eu
 blacklist_from *@mardejaz.com
 blacklist_from marketing2@polidruk.com.pl
@@ -1162,6 +1166,7 @@ blacklist_from root@vps569360.ovh.net
 blacklist_from root@vps604833.ovh.net
 blacklist_from root@vps608158.ovh.net
 blacklist_from root@vps608161.ovh.net
+blacklist_from root@vps608426.ovh.net
 blacklist_from root@vps608979.ovh.net
 blacklist_from root@vps608983.ovh.net
 blacklist_from root@vps609000.ovh.net
@@ -1215,6 +1220,8 @@ blacklist_from Seif.Eddine.Guesmi@starcontainer.eu
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms0480.m.lrmailr.pl
 blacklist_from sekretariatkos@ms1523.m.lrmailr.pl
+blacklist_from sekretariatmpo@ms1520.m.lrmailr.pl
+blacklist_from sekretariatpia@ms1620.m.lrmailr.pl
 blacklist_from sekretariatpro@ms0472.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1620.m.lrmailr.pl
 blacklist_from sekretariatsbr@ms1018.m.lrmailr.pl
