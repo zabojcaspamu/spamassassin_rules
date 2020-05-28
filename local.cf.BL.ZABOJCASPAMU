@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-28 18:00 
+# Wygenerowana 2020-05-28 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -44,6 +44,7 @@ blacklist_from akcifnh@iornades.de
 blacklist_from *@aktywna-firma.pl
 blacklist_from albek@online.kharkov.ua
 blacklist_from *@aleelilydesigns.com
+blacklist_from alerts@mail-notification.com
 blacklist_from *@alherajksa.com
 blacklist_from alina.seoxpert@gmail.com
 blacklist_from *@allairbd.com
@@ -209,6 +210,7 @@ blacklist_from bok.kazimierz@ms0481.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms1620.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1016.m.lrmailr.pl
 blacklist_from bok@lylyna.naklo.pl
+blacklist_from bok@nopalsa.sejny.pl
 blacklist_from boknta@ms0480.m.lrmailr.pl
 blacklist_from bok@ojutga.jgora.pl
 blacklist_from bokpru@ms1520.m.lrmailr.pl
@@ -220,6 +222,7 @@ blacklist_from bok@srolik.pisz.pl
 blacklist_from bok@super-auto.eu
 blacklist_from boktar@ms0472.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
+blacklist_from bok@turwed.jgora.pl
 blacklist_from bok@usbox.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
@@ -266,6 +269,9 @@ blacklist_from bounce@open-maket.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
@@ -472,7 +478,6 @@ blacklist_from grss@presidency.com
 blacklist_from *@grupojarisa.com
 blacklist_from grzegorz@abcpartner24.pl
 blacklist_from grzegorz@seo-agent.waw.pl
-blacklist_from *@g-smart.pl
 blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@hacksfarm.com
 blacklist_from handlowy@energooszczedne-ogrzewanie.pl
@@ -530,7 +535,6 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
-blacklist_from *@info.declarick.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -561,6 +565,7 @@ blacklist_from info@gatewaygovuk??.us
 blacklist_from info@gatewaygovuk?.us
 blacklist_from info@gobid.shop
 blacklist_from info@gpawardprom.com
+blacklist_from info@g-smart.pl
 blacklist_from info@iitsale.pl
 blacklist_from info@incermane.biz.ua
 blacklist_from info@info.arreglo.pw
@@ -577,7 +582,6 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lorbeer-info.eu
 blacklist_from info@magnoliaa.pl
@@ -710,6 +714,7 @@ blacklist_from kessler@maynjones.us
 blacklist_from Kevin@CentrinoA.com
 blacklist_from kinga.szostak@russellbedford.com.pl
 blacklist_from kj@hkipnet.net
+blacklist_from k.milner@pracapolska.com.pl
 blacklist_from kobietyiwino@gmail.com
 blacklist_from koch@myrtice.com
 blacklist_from kokomike055@gmail.com
@@ -837,6 +842,7 @@ blacklist_from mail@tania-energia.biz
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from marcela@firstclassic.com.ar
 blacklist_from marcin@grovly.eu
+blacklist_from mariusz.kowalski@szkoleniacge.pl
 blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing2@simkolo.com
 blacklist_from marketing@bekar-europe.eu
@@ -974,6 +980,7 @@ blacklist_from noreply@clrpsi8.pl
 blacklist_from noreply@ebazafirm.com
 blacklist_from no-reply@e-pasaz.eu
 blacklist_from noreply@etisalat.com
+blacklist_from noreply@go05.informamarkets.com
 blacklist_from noreply@hedefebulten.com
 blacklist_from no-reply@horecanet.pl
 blacklist_from noreply@into-on.com
