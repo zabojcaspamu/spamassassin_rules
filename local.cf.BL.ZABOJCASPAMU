@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-05-29 16:20 
+# Wygenerowana 2020-05-29 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -106,6 +106,7 @@ blacklist_from biuro1@galeriasz.pl
 blacklist_from biuro2@galeriasz.pl
 blacklist_from biuro3@galeriasz.pl
 blacklist_from biuro@absenergia.pl
+blacklist_from biuro@actifint.zagan.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@alutime.tgory.pl
 blacklist_from biuro@andfian.jgora.pl
@@ -152,11 +153,15 @@ blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@metodav.naklo.pl
+blacklist_from biuro@naleznosci-ai.pl
 blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
 blacklist_from biuro@ohujre.zgora.pl
+blacklist_from biuro@phanna.zgora.pl
+blacklist_from biuro@pikila.tgory.pl
 blacklist_from biuro@piraniakredyty.pl
+blacklist_from biuro@platforma-wiedzy.pl
 blacklist_from biuro@poligrafia-marker.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
@@ -197,6 +202,7 @@ blacklist_from *@bluemail.com.pl
 blacklist_from bm_amreli@gurabini.com
 blacklist_from *@bnc3.mailjet.com
 blacklist_from *@bnc.mailjet.com
+blacklist_from bok@aplata.zagan.pl
 blacklist_from bok.bemowo@ms0479.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
@@ -230,6 +236,7 @@ blacklist_from bony-8lm5x@rzetelne.site
 blacklist_from bony-8ol3y@rzetelne.site
 blacklist_from bony-f9ft2@rzetelne.site
 blacklist_from bony-mj3y3@rzetelne.site
+blacklist_from bony-uz46a@nowe-bony.site
 blacklist_from bony-zpy8r@rzetelne.site
 blacklist_from borsukiewicz.jacek@progressproject.pl
 blacklist_from *@bouledivoire.com
@@ -411,6 +418,7 @@ blacklist_from e.sokalska@bt.bielsko.pl
 blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
 blacklist_from euroasiapharma456@gmail.com
+blacklist_from europrix@jazzfree.com
 blacklist_from ewa.gruszczyk@grupainfomax.com
 blacklist_from export@geapl.co.in
 blacklist_from export@sanusfood.com
@@ -792,6 +800,7 @@ blacklist_from kuba.grel@newmediagp.pl
 blacklist_from kuba@newmediagp.pl
 blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kulczynski@cert-przyl.pl
+blacklist_from kurgat@kasstv.co.ke
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from kw2@vimaxd.pl
@@ -1286,6 +1295,7 @@ blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
 blacklist_from s.mularczyk@polexpert.net.pl
 blacklist_from smyk@oooli.eu
+blacklist_from s.natsumi@koki-corp.com
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
 blacklist_from spo@iasl.com
@@ -1293,6 +1303,7 @@ blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
+blacklist_from SRS0+0619055d612298cd=7L=mosaik-gmbh.org=hippo@mosaik-gmbh.org
 blacklist_from st3@sklad-teh57.ru
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from *@stunggal.com
@@ -1356,6 +1367,7 @@ blacklist_from tvp.robi.tortury@panelstyl.com.pl
 blacklist_from *@???.twoja-kolej.tk
 blacklist_from twojdoradca@biznes2biznes.com
 blacklist_from *@twoomail.com
+blacklist_from uba@ubagroup.com
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
 blacklist_from u.komuniecka@bt.bielsko.pl
