@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-02 14:00 
+# Wygenerowana 2020-06-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -57,6 +57,7 @@ blacklist_from *@?????.a.luzno.com.pl
 blacklist_from *@????.a.luzno.com.pl
 blacklist_from *@???.a.luzno.com.pl
 blacklist_from *@??.a.luzno.com.pl
+blacklist_from amajewska@pomocnydoradca.com.pl
 blacklist_from amelia.kowalczyk@stargames.ovh
 blacklist_from am@gmail.com
 blacklist_from amswital@gmail.com
@@ -145,6 +146,7 @@ blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@liderwiedzy.eu
+blacklist_from biuro@luckre.zarow.pl
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
@@ -179,6 +181,7 @@ blacklist_from biuro@terwera.naklo.pl
 blacklist_from biuro@tikerwa.zagan.pl
 blacklist_from biuro@topbhp.com.pl
 blacklist_from biuro@topksiegowy.com.pl
+blacklist_from biuro@torotiona.pisz.pl
 blacklist_from biuro@to-sie-oplaca.pl
 blacklist_from biurotow@towedukacja24.pl
 blacklist_from biuro@traficgroup.pl
@@ -235,6 +238,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce@bankowe-finansowanie.pl
+blacklist_from bounce@bankowe-firmy.com.pl
 blacklist_from bounce@biznesfinansowanie.pl
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@corporatebanking.com.pl
@@ -710,6 +714,7 @@ blacklist_from kobietyiwino@gmail.com
 blacklist_from koch@myrtice.com
 blacklist_from kokomike055@gmail.com
 blacklist_from kolor@kolorowy-biurowy.com.pl
+blacklist_from komosa@promieniowanieuvc.pl
 blacklist_from kompania@goodmailing24.pl
 blacklist_from komunikacja@informacje.kig.pl
 blacklist_from konferencja@cpi.info.pl
@@ -725,6 +730,7 @@ blacklist_from kontakt@adjme.com
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@apteka-kamagra.com
+blacklist_from kontakt@bezpieczenstwodanych.co.pl
 blacklist_from kontakt@bezpiecznstwodanych.co.pl
 blacklist_from kontakt@cernn.konin.pl
 blacklist_from kontakt@e-content.net.pl
@@ -1029,6 +1035,7 @@ blacklist_from office@rielend.naklo.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@sihia.tgory.pl
 blacklist_from office@suithe.zgora.pl
+blacklist_from office@teassid.sejny.pl
 blacklist_from office@utrfa.pisz.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from office@whorth.tgory.pl
