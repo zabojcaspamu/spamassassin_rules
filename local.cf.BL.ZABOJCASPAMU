@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-04 17:30 
+# Wygenerowana 2020-06-04 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -111,6 +111,7 @@ blacklist_from biuro@actifint.zagan.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@alutime.tgory.pl
 blacklist_from biuro@aplider.pl
+blacklist_from biuro@beliers.sejny.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biuro-domowastrona.pl
 blacklist_from biuro@biznesikasa.pl
@@ -124,6 +125,7 @@ blacklist_from biuro@dersab.jgora.pl
 blacklist_from biuro@devel.zarow.pl
 blacklist_from biuro@dlugi-ai.pl
 blacklist_from biuro@dobry-wizerunek.pl
+blacklist_from biuro@docurs.zarow.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
@@ -140,6 +142,7 @@ blacklist_from biuro@fitaha.zgora.pl
 blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro@foes.naklo.pl
 blacklist_from biuro?@galeriasz.pl
+blacklist_from biuro@gaz-prad-taniej.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
@@ -176,6 +179,7 @@ blacklist_from biurosf@szkolenief.net.pl
 blacklist_from biuro@signumodszkodowania.pl
 blacklist_from biuro@sprawdzgotowke.pl
 blacklist_from biuro@superszkolenia.pl
+blacklist_from biuro@sweek.pisz.pl
 blacklist_from biuro@szef-sprzedazy.pl
 blacklist_from biuro@szkolenia-online.info
 blacklist_from biuro@szkolenia-online.info.pl
@@ -204,12 +208,14 @@ blacklist_from *@bnc3.mailjet.com
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@aplata.zagan.pl
 blacklist_from bok.bemowo@ms0479.m.lrmailr.pl
+blacklist_from bok@bitinita.tgory.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0480.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
 blacklist_from bok.grojecka@ms0471.m.lrmailr.pl
+blacklist_from bok@hanma.sejny.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.katowice@ms0481.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms0481.m.lrmailr.pl
@@ -240,6 +246,7 @@ blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
+blacklist_from bounce2@emd01.net
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce@bankowe-finansowanie.pl
@@ -461,7 +468,6 @@ blacklist_from *@garrachachraf.com
 blacklist_from *@garyblumbergpc.com
 blacklist_from gastrona@gastrona.pl
 blacklist_from gazetaokrug@gmail.com
-blacklist_from *@gaz-prad-taniej.pl
 blacklist_from *@gbcleaners.com
 blacklist_from *@getxinlu.com
 blacklist_from *@gfoal.com
@@ -1059,6 +1065,8 @@ blacklist_from office@shole.zagan.pl
 blacklist_from office@sihia.tgory.pl
 blacklist_from office@suithe.zgora.pl
 blacklist_from office@teassid.sejny.pl
+blacklist_from office@towerfa.tgory.pl
+blacklist_from office@ujharta.jgora.pl
 blacklist_from office@utrfa.pisz.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from office@whorth.tgory.pl
@@ -1281,6 +1289,7 @@ blacklist_from skoda@notice4you.pl
 blacklist_from *@slicplans.com
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
+blacklist_from smnt@gmail.com
 blacklist_from s.mularczyk@polexpert.net.pl
 blacklist_from smyk@oooli.eu
 blacklist_from s.natsumi@koki-corp.com
