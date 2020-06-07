@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-07 17:40 
+# Wygenerowana 2020-06-07 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -30,6 +30,7 @@ blacklist_from admin@genobose.gq
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from adminmailingu@pckp.pl
+blacklist_from admin@neurorestorative.com
 blacklist_from admin@omertahack.su
 blacklist_from admin@richermoren.cf
 blacklist_from admin@tytyryty.pl
@@ -205,6 +206,7 @@ blacklist_from *@bnc3.mailjet.com
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@aplata.zagan.pl
 blacklist_from bok.bemowo@ms0479.m.lrmailr.pl
+blacklist_from bok.bemowo@ms1520.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
@@ -223,7 +225,9 @@ blacklist_from boknta@ms0480.m.lrmailr.pl
 blacklist_from bok@ojutga.jgora.pl
 blacklist_from bokpru@ms1520.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
+blacklist_from bok.renoma@ms0480.m.lrmailr.pl
 blacklist_from bokryb@ms1520.m.lrmailr.pl
+blacklist_from boksbr@ms0472.m.lrmailr.pl
 blacklist_from bok@srolik.pisz.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
@@ -277,6 +281,9 @@ blacklist_from bounce@open-maket.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
@@ -910,7 +917,6 @@ blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
 blacklist_from *@ms1019.m.lrmailr.pl
 blacklist_from *@ms1623.m.lrmailr.pl
-blacklist_from *@ms1624.m.lrmailr.pl
 blacklist_from *@ms1625.m.lrmailr.pl
 blacklist_from *@ms1627.m.lrmailr.pl
 blacklist_from msg@caixa.net
@@ -1139,6 +1145,7 @@ blacklist_from prezent@sztefanwons.com
 blacklist_from prezent@wons123.com
 blacklist_from primar@onesti.ro
 blacklist_from *@primeestatz.com
+blacklist_from pr@ms1624.m.lrmailr.pl
 blacklist_from *@pro-activ.pl
 blacklist_from *@productcompany.pl
 blacklist_from ProdukcjaReklamyPOSM@gmail.com
@@ -1244,11 +1251,14 @@ blacklist_from secuirity@mailbox.com
 blacklist_from secureserver@servers.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
+blacklist_from sekretariatkos@ms0479.m.lrmailr.pl
 blacklist_from sekretariatkos@ms1523.m.lrmailr.pl
 blacklist_from sekretariatmpo@ms1520.m.lrmailr.pl
 blacklist_from sekretariatpia@ms1620.m.lrmailr.pl
 blacklist_from sekretariatpro@ms0472.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1620.m.lrmailr.pl
+blacklist_from sekretariatpru@ms1620.m.lrmailr.pl
+blacklist_from sekretariatwro@ms1620.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
 blacklist_from send@blatnisend.pl
 blacklist_from sender04@e-dist.pl
