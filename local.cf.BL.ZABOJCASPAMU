@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-08 18:00 
+# Wygenerowana 2020-06-08 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -87,7 +87,6 @@ blacklist_from b2b@blikle.pl
 blacklist_from b.adamczewska@senekaszkolenia.pl
 blacklist_from *@badoo.com
 blacklist_from *@balajinet.com
-blacklist_from *@balanates.network
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
 blacklist_from bartosz.toplawski@techleader.com.pl
@@ -141,6 +140,7 @@ blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jsmoney.pl
+blacklist_from biuro@jutag.lapy.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
@@ -202,6 +202,8 @@ blacklist_from *@bnc.mailjet.com
 blacklist_from bok@aplata.zagan.pl
 blacklist_from bok.bemowo@ms0479.m.lrmailr.pl
 blacklist_from bok.bemowo@ms1520.m.lrmailr.pl
+blacklist_from bok@bitinita.tgory.pl
+blacklist_from bok@butyna.zagan.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
@@ -224,6 +226,7 @@ blacklist_from bok.renoma@ms0480.m.lrmailr.pl
 blacklist_from bokryb@ms1520.m.lrmailr.pl
 blacklist_from boksbr@ms0472.m.lrmailr.pl
 blacklist_from bok@srolik.pisz.pl
+blacklist_from bok@sserga.jgora.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@turwed.jgora.pl
@@ -275,6 +278,7 @@ blacklist_from bounce@open-maket.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+4314339-4da0-info=foodandjoy.eu@email.mailserver-agile.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
@@ -1043,6 +1047,7 @@ blacklist_from office@wixiec.pisz.pl
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from okazik@okazik.pl
 blacklist_from okazje@ravelo.pl
+blacklist_from okciftk@balanates.network
 blacklist_from okrakiem@gmail.com
 blacklist_from olga@biurodrukserwis.pl
 blacklist_from *@olympiafsc.com
@@ -1346,6 +1351,7 @@ blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usjutqr@tisolan.network
+blacklist_from usulej-cholewa@ms0472.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0480.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0481.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1018.m.lrmailr.pl
@@ -1390,6 +1396,7 @@ blacklist_from wyjatkoweoferty@flyemail.pl
 blacklist_from wyjatkoweoferty@mailintitute.pl
 blacklist_from *@wyjatkoweoferty.pl
 blacklist_from wysylka@galeriaokazji.eu
+blacklist_from wza@gmail.com
 blacklist_from xabiba@orange.es
 blacklist_from *@xpressus.emsmtp.us
 blacklist_from zaera@wanadoo.es
