@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-10 15:50 
+# Wygenerowana 2020-06-10 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -59,6 +59,7 @@ blacklist_from *@??.a.luzno.com.pl
 blacklist_from amajewska@pomocnydoradca.com.pl
 blacklist_from amelia.kowalczyk@stargames.ovh
 blacklist_from am@gmail.com
+blacklist_from Amit.Hazra@imerys.com
 blacklist_from amjadtyler212@gmail.com
 blacklist_from amswital@gmail.com
 blacklist_from analyzer@eims.tradeeasy.com
@@ -109,6 +110,7 @@ blacklist_from biuro@actifint.zagan.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@alutime.tgory.pl
 blacklist_from biuro@aplider.pl
+blacklist_from biuro@aruj.lapy.pl
 blacklist_from biuro@beliers.sejny.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
@@ -163,12 +165,14 @@ blacklist_from biuro@platforma-wiedzy.pl
 blacklist_from biuro@poligrafia-marker.pl
 blacklist_from biuro@polskie-ksiazki.pl
 blacklist_from biuro@pomocbiznesowa.com.pl
+blacklist_from biuro@ponfer.zgora.pl
 blacklist_from biuro@posterx.com.pl
 blacklist_from biuro@poznajkredyt.pl
 blacklist_from biuro@ppsszkolenia.pl
 blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
 blacklist_from biuro@redakcja-pkpzin.pl
+blacklist_from biuro@rekini.lapy.pl
 blacklist_from biuro@semprojekt.com
 blacklist_from biuro@seo-chain24.pl
 blacklist_from biurosf@szkolenief.net.pl
@@ -205,13 +209,16 @@ blacklist_from bok@aplata.zagan.pl
 blacklist_from bok.bemowo@ms0479.m.lrmailr.pl
 blacklist_from bok.bemowo@ms1520.m.lrmailr.pl
 blacklist_from bok@bitinita.tgory.pl
+blacklist_from bok@bonion.zagan.pl
 blacklist_from bok@butyna.zagan.pl
 blacklist_from bok@ciekaweupominki.com.pl
+blacklist_from bok@cinacie.jgora.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0480.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1016.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1620.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1624.m.lrmailr.pl
 blacklist_from bok.grojecka@ms0471.m.lrmailr.pl
 blacklist_from bok@hanma.sejny.pl
@@ -1007,6 +1014,7 @@ blacklist_from odvunfn@iornades.de
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
+blacklist_from oferta@holidaytour.tourism.pl
 blacklist_from ofertaspecjalna@domdevelopment.com.pl
 blacklist_from *@ofertownia.com.pl
 blacklist_from oferty@multi-banki.pl
@@ -1031,6 +1039,7 @@ blacklist_from office@scc.org.pl
 blacklist_from office@shole.zagan.pl
 blacklist_from office@sihia.tgory.pl
 blacklist_from office@suithe.zgora.pl
+blacklist_from office@teassid.sejny.pl
 blacklist_from office@towerfa.tgory.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from office@wixiec.pisz.pl
@@ -1346,6 +1355,7 @@ blacklist_from usulej-cholewa@ms1018.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
 blacklist_from uydemrh@tisolan.de
 blacklist_from uzqopbv@iornades.de
 blacklist_from *@vdeomela.com
@@ -1414,6 +1424,7 @@ blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@podroznik.co.pl
 blacklist_from zwroty@przekonaj.co.pl
+blacklist_from zwroty@szkoleniaonline.co.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
 blacklist_from zwroty@zdalna.co.pl
