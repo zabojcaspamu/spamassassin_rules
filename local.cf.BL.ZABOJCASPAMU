@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-11 17:10 
+# Wygenerowana 2020-06-11 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -285,6 +285,9 @@ blacklist_from bounce@open-maket.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
@@ -427,7 +430,6 @@ blacklist_from extraportfel@newspoczta.pl
 blacklist_from *@ey-vx.com
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
-blacklist_from *@faktor43.pl
 blacklist_from *@faktura.org
 blacklist_from FedEx@offers4you.pl
 blacklist_from fedex@supmail.pl
@@ -447,7 +449,6 @@ blacklist_from food1@ricmail.com
 blacklist_from *@forb2bpromotion.pl
 blacklist_from foryou@blitzmail.pl
 blacklist_from *@fotografiamila.com
-blacklist_from *@fotowoltaika-24.pl
 blacklist_from franczyzaagencjireklamowej@gmail.com
 blacklist_from franczyzareklama@gmail.com
 blacklist_from frasovi@eresmas.com
@@ -476,6 +477,7 @@ blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
 blacklist_from graf@itenn.com.pl
 blacklist_from *@greatglenbikes.com
+blacklist_from greg121@mail.com
 blacklist_from groupon@amazon.com
 blacklist_from Groupon@offerway.pl
 blacklist_from *@grovinpat.com
@@ -499,6 +501,7 @@ blacklist_from holden10@mail.com
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
 blacklist_from *@hprofit.pl
+blacklist_from hr.sc@hojohefei.com
 blacklist_from huixinsoft11@foxmail.com
 blacklist_from huixinsoft43@foxmail.com
 blacklist_from huixinsoft5@foxmail.com
@@ -612,7 +615,6 @@ blacklist_from infopay@lloydsbank.co.uk
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
-blacklist_from *@info.restarcop.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@r-smart.pl
@@ -743,7 +745,9 @@ blacklist_from kontakt@cernn.konin.pl
 blacklist_from kontakt@e-content.net.pl
 blacklist_from kontakt@e-marketingweb.pl
 blacklist_from kontakt@ewiss.pl
+blacklist_from kontakt@faktor43.pl
 blacklist_from kontakt@finansowanie-biznesu.pl
+blacklist_from kontakt@fotowoltaika-24.pl
 blacklist_from kontakt@f-ppk.pl
 blacklist_from kontakt@gi-wierzytelnosci.pl
 blacklist_from kontakt@godealla.pl
@@ -841,6 +845,7 @@ blacklist_from *@mail.semestr.pl
 blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
+blacklist_from majdi@damanlimited.com
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from manuel.hoyo@eresmas.net
 blacklist_from mapc@franchexpress.com
@@ -1055,6 +1060,7 @@ blacklist_from okazik@okazik.pl
 blacklist_from okazje@ravelo.pl
 blacklist_from okciftk@balanates.network
 blacklist_from okrakiem@gmail.com
+blacklist_from oktaykutsal@yahoo.com
 blacklist_from olga@biurodrukserwis.pl
 blacklist_from *@olympiafsc.com
 blacklist_from omobudejohn11@gmail.com
@@ -1113,6 +1119,7 @@ blacklist_from poradnik@sztefanwons.com
 blacklist_from poradnik@wons123.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@netmarketer.com.pl
+blacklist_from postmaster@sendpulse.me
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozyczki@tylkofakty.info
@@ -1356,6 +1363,7 @@ blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usjutqr@tisolan.network
+blacklist_from usulej-cholewa@ms0471.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0472.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0480.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0481.m.lrmailr.pl
@@ -1366,7 +1374,6 @@ blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
 blacklist_from uydemrh@tisolan.de
 blacklist_from uzqopbv@iornades.de
-blacklist_from *@vdeomela.com
 blacklist_from vectra@productcompany.pl
 blacklist_from vincent.ngampele@arcep.ga
 blacklist_from vmax@mail2Broker.com
@@ -1380,6 +1387,7 @@ blacklist_from warsztaty@zwiekszaniesprzedazy.waw.pl
 blacklist_from *@wasowskiispolka.pl
 blacklist_from *@waynestorey.com
 blacklist_from wconsultantancy1@gmail.com
+blacklist_from web@itenc.com.pl
 blacklist_from weryfikacja@uczciwyprzedsiebiorca.com.pl
 blacklist_from wezleasing18@companiero.waw.pl
 blacklist_from *@wickfordboatguy.com
