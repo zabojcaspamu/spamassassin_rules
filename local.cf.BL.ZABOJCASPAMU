@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-12 17:00 
+# Wygenerowana 2020-06-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -372,6 +372,7 @@ blacklist_from dir.marketing@nemoint.com
 blacklist_from discount@amazon.com
 blacklist_from *@dktstores.com
 blacklist_from dobraimpreza@jedrowskishow.pl
+blacklist_from domainserver@mimsal.com
 blacklist_from dominikalukawska@analitycymulti.pl
 blacklist_from dominiskasobczyk@gmail.com
 blacklist_from domodi@flyemail.pl
@@ -415,12 +416,14 @@ blacklist_from *@email-hrotoday.com
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
 blacklist_from *@emlgrid.com
+blacklist_from emsepsb@iornades.de
 blacklist_from *@emsgrid.com
 blacklist_from *@em-sj-77.mktomail.com
 blacklist_from *@energykasyno.pl
 blacklist_from *@enfoquecomunicaciones.com
 blacklist_from enoteka@enotekapolska.pl
 blacklist_from *@eonandalyssa.com
+blacklist_from epoltorak@pomocnydoradca.com.pl
 blacklist_from eqsivzw@allbizem.eu
 blacklist_from erp4systemy@gmail.com
 blacklist_from *@escoecm.com
@@ -768,6 +771,7 @@ blacklist_from kontakt-mamczarz@wp.pl
 blacklist_from kontakt@maseczki-sprzedaz.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
+blacklist_from kontakt@netget.pl
 blacklist_from kontakt@obslugawierzytelnosci.pl
 blacklist_from kontakt@odbieramto.com.pl
 blacklist_from kontakt@oferta-na-fotowoltaike.pl
@@ -934,7 +938,6 @@ blacklist_from *@naszeprzesylki.tk
 blacklist_from natalia.nawrot@anb.pl
 blacklist_from natalia@webazy.pl
 blacklist_from ndrozdz@pomocnydoradca.com.pl
-blacklist_from *@netget.pl
 blacklist_from netvet@itenn.com.pl
 blacklist_from *@newmessage.eu
 blacklist_from *@news0?.send360.pl
@@ -1096,6 +1099,7 @@ blacklist_from owocowe777@inboxtouch.co.in
 blacklist_from paamshomecenter@hotmail.com
 blacklist_from pablo.baster@baster.org
 blacklist_from *@paczkoinfo.tk
+blacklist_from palau.furnitures@jet.es
 blacklist_from pam.hughes@gmx.com
 blacklist_from pamrhes@hotmail.com
 blacklist_from panele@paneledaske.pl
