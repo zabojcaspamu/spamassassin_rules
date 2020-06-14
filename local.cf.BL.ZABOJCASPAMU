@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-14 10:50 
+# Wygenerowana 2020-06-14 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -220,10 +220,12 @@ blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0480.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1016.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1520.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1620.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1624.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1627.m.lrmailr.pl
 blacklist_from bok.grojecka@ms0471.m.lrmailr.pl
 blacklist_from bok@hanma.sejny.pl
 blacklist_from bok@ib2c.pl
@@ -866,6 +868,7 @@ blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing2@simkolo.com
 blacklist_from marketing@bekar-europe.eu
 blacklist_from marketing@euroma.edu.pl
+blacklist_from marketing@infrapol.pl
 blacklist_from marketing@open-team.pl
 blacklist_from marketing@pl.edensprings.com
 blacklist_from marketing@positiv.com.pl
@@ -1376,6 +1379,7 @@ blacklist_from usulej-cholewa@ms1018.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1620.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1625.m.lrmailr.pl
 blacklist_from uydemrh@tisolan.de
