@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-15 17:30 
+# Wygenerowana 2020-06-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -47,6 +47,7 @@ blacklist_from *@aktywna-firma.pl
 blacklist_from albek@online.kharkov.ua
 blacklist_from *@aleelilydesigns.com
 blacklist_from alerts@mail-notification.com
+blacklist_from alextang.sh@amassfreight.com
 blacklist_from *@alherajksa.com
 blacklist_from alicia.guevara@smartbakingco.com
 blacklist_from alina.seoxpert@gmail.com
@@ -118,6 +119,7 @@ blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@color24.pl
+blacklist_from biuro@corted.zgora.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
 blacklist_from biuro@debtlawyer.pl
 blacklist_from biuro@dersab.jgora.pl
@@ -145,6 +147,7 @@ blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jsmoney.pl
+blacklist_from biuro@julsa.pl
 blacklist_from biuro@jutag.lapy.pl
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
@@ -225,6 +228,7 @@ blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1520.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1620.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1624.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1625.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1627.m.lrmailr.pl
 blacklist_from bok.grojecka@ms0471.m.lrmailr.pl
 blacklist_from bok@hanma.sejny.pl
@@ -237,11 +241,13 @@ blacklist_from bok@lylyna.naklo.pl
 blacklist_from bok@nopalsa.sejny.pl
 blacklist_from boknta@ms0480.m.lrmailr.pl
 blacklist_from bok@ojutga.jgora.pl
+blacklist_from bok@pitete.pisz.pl
 blacklist_from bokpru@ms1520.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok.renoma@ms0480.m.lrmailr.pl
 blacklist_from bokryb@ms1520.m.lrmailr.pl
 blacklist_from boksbr@ms0472.m.lrmailr.pl
+blacklist_from bok@scrocet.zagan.pl
 blacklist_from bok@srolik.pisz.pl
 blacklist_from bok@sserga.jgora.pl
 blacklist_from bok@super-auto.eu
@@ -290,6 +296,10 @@ blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.s10.mc.pd25.com
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+4314339-4da0-info=foodandjoy.eu@email.mailserver-agile.net
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
@@ -628,7 +638,6 @@ blacklist_from infopay@lloydsbank.co.uk
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
-blacklist_from *@info.restarcop.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@r-smart.pl
@@ -989,6 +998,7 @@ blacklist_from *@nonoobs.pl
 blacklist_from noreplay@euro-konsulting.pl
 blacklist_from no-replay@nfmail???.pl
 blacklist_from noreply2@mediateam.pl
+blacklist_from noreply@311.gimaonetiniori.store
 blacklist_from noreply@adletter.pl
 blacklist_from noreply@angielskizdojazdem.waw.pl
 blacklist_from noreply@anteny.qqpp.pl
@@ -1049,12 +1059,14 @@ blacklist_from office1@vbs-24.com
 blacklist_from office@76management.com
 blacklist_from office@cekla.zarow.pl
 blacklist_from office@cortijodelmar.eu
+blacklist_from office@czwder.sejny.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@executive-club.com.pl
 blacklist_from office@exportgaza.com
 blacklist_from office@gibinternational.de
 blacklist_from office@iniosa.sejny.pl
 blacklist_from office@kacol.tgory.pl
+blacklist_from office@litnia.zgora.pl
 blacklist_from office@lower.zarow.pl
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@metrol.zagan.pl
@@ -1067,6 +1079,7 @@ blacklist_from office@shole.zagan.pl
 blacklist_from office@sihia.tgory.pl
 blacklist_from office@suithe.zgora.pl
 blacklist_from office@teassid.sejny.pl
+blacklist_from office@tiolos.pl
 blacklist_from office@towerfa.tgory.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from office@wixiec.pisz.pl
@@ -1076,6 +1089,7 @@ blacklist_from okazje@ravelo.pl
 blacklist_from okciftk@balanates.network
 blacklist_from okrakiem@gmail.com
 blacklist_from oktaykutsal@yahoo.com
+blacklist_from okxaqzv@balanates.network
 blacklist_from olga@biurodrukserwis.pl
 blacklist_from *@olympiafsc.com
 blacklist_from omobudejohn11@gmail.com
@@ -1168,6 +1182,7 @@ blacklist_from *@qtfensi.com
 blacklist_from rabih@emirates.net.ae
 blacklist_from rahul@inayatinfosystem.com
 blacklist_from rajesh.mishra@raahi.com
+blacklist_from Rajesh.Singh@chrobinson.com
 blacklist_from rana123bilal@quality-flavors.com
 blacklist_from *@rayancong.com
 blacklist_from *@readlinex.com
@@ -1382,6 +1397,7 @@ blacklist_from usulej-cholewa@ms0471.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0472.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0480.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0481.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1016.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1018.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1520.m.lrmailr.pl
