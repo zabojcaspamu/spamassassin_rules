@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-17 18:20 
+# Wygenerowana 2020-06-17 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -300,11 +300,7 @@ blacklist_from bounce@open-maket.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+15743539-848d-pr=almamarket.pl@sendgrid.net
-blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
 blacklist_from bounces+4314339-4da0-info=foodandjoy.eu@email.mailserver-agile.net
-blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
-blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
