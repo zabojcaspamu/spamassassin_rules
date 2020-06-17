@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-17 17:10 
+# Wygenerowana 2020-06-17 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -90,6 +90,7 @@ blacklist_from attempt@jascorpsg.net
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
 blacklist_from a.wysocki@tlumaczenia-polski-angielski.pl
+blacklist_from axlasxp@balanates.network
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from b.adamczewska@senekaszkolenia.pl
@@ -205,6 +206,7 @@ blacklist_from biuro@v-24.eu
 blacklist_from biuro@w5homedecor.com
 blacklist_from biurozarzadu@szkoleniazarzadu.waw.pl
 blacklist_from *@bizones.de
+blacklist_from bjorn@bbnc.co.uk
 blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from bm_amreli@gurabini.com
@@ -298,7 +300,11 @@ blacklist_from bounce@open-maket.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+15743539-848d-pr=almamarket.pl@sendgrid.net
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
 blacklist_from bounces+4314339-4da0-info=foodandjoy.eu@email.mailserver-agile.net
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@theinvestment.pl
@@ -316,6 +322,7 @@ blacklist_from *@camilasegal.com
 blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
+blacklist_from catalkoyio@mebnet.net
 blacklist_from ccc2@earth.pl
 blacklist_from cecilia.goh@metalor.co.uk
 blacklist_from *@centroganesh.com
@@ -369,7 +376,6 @@ blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
-blacklist_from *@desginevo.com
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from dezynfekcja@freshnews.com.pl
 blacklist_from d.guminska@bt.bielsko.pl
@@ -811,6 +817,7 @@ blacklist_from *@kredytprzyjazny24.pl
 blacklist_from krzysztof.brozek@express-tlumacz.pl
 blacklist_from krzysztof.minona@life.pl
 blacklist_from krzysztof.r@kruksas.pl
+blacklist_from kuba.grel@newmediagp.pl
 blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kulczynski@cert-przyl.pl
 blacklist_from kurgat@kasstv.co.ke
@@ -1323,6 +1330,7 @@ blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
+blacklist_from szkolenia@info.oddk.net
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
@@ -1444,6 +1452,7 @@ blacklist_from wza@ms1016.m.lrmailr.pl
 blacklist_from xabiba@orange.es
 blacklist_from *@xpressus.emsmtp.us
 blacklist_from ykvazkb@tisolan.de
+blacklist_from yptahxz@iornades.de
 blacklist_from zaera@wanadoo.es
 blacklist_from zakup@ms1016.m.lrmailr.pl
 blacklist_from zamowienie@express-contacts.com
