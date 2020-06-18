@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-18 14:10 
+# Wygenerowana 2020-06-18 14:50 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -20,6 +20,7 @@ blacklist_from a.bednarek@crzseneka.com.pl
 blacklist_from a.bednarek@senekaszkolenia.com.pl
 blacklist_from abjebkb@iornades.de
 blacklist_from abuse@leclub.com.ve
+blacklist_from *@accessoriesmill.com
 blacklist_from ac.general@yandex.ru
 blacklist_from acvijxn@tisolan.de
 blacklist_from adam@old-timers.pl
