@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-18 17:40 
+# Wygenerowana 2020-06-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -15,6 +15,7 @@ blacklist_from 75f6aadeff1f72630ab09f24f419b0f1@venitas.lt
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from *@a2data.biz.pl
 blacklist_from a8h6a@bounce.emailsp.net
+blacklist_from a.alecka@crzseneka.com.pl
 blacklist_from abby@custommanu.com
 blacklist_from a.bednarek@crzseneka.com.pl
 blacklist_from a.bednarek@senekaszkolenia.com.pl
@@ -861,6 +862,7 @@ blacklist_from manuel.hoyo@eresmas.net
 blacklist_from mapc@franchexpress.com
 blacklist_from marcela@firstclassic.com.ar
 blacklist_from marcin@grovly.eu
+blacklist_from marcin.wrzosek@effectgroup.pl
 blacklist_from mariusz.kowalski@szkoleniacge.pl
 blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing@bekar-europe.eu
@@ -947,6 +949,7 @@ blacklist_from newsletter@fotoksiazka-promocja.pl
 blacklist_from newsletter@fruitnet.com
 blacklist_from *@newsletter-hub.com
 blacklist_from newsletter@hurtidetal.pl
+blacklist_from newsletter@johmson.com
 blacklist_from newsletter@kursangielskiego-promocja.pl
 blacklist_from newsletter@offers4you.pl
 blacklist_from newsletter@petraenergia.pl
@@ -1060,7 +1063,9 @@ blacklist_from office@scc.org.pl
 blacklist_from office@shole.zagan.pl
 blacklist_from office@sihia.tgory.pl
 blacklist_from office@suithe.zgora.pl
+blacklist_from office@teassid.sejny.pl
 blacklist_from office@tiolos.pl
+blacklist_from office@towerfa.tgory.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from okazik@okazik.pl
@@ -1109,6 +1114,7 @@ blacklist_from piotr.gawrysiak@kusloncu.com.pl
 blacklist_from piotr.gefert@bdo.net.pl
 blacklist_from piotr.malarski@gmail.com
 blacklist_from pipon01@jazzfree.com
+blacklist_from pkbpw@dotarlo.pl
 blacklist_from p.komosa@promieniowanieuvc.pl
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
@@ -1455,3 +1461,4 @@ blacklist_from zwroty@przekonaj.co.pl
 blacklist_from zwroty@szkoleniaonline.co.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
+blacklist_from zxcxwe@accessories-mill.com
