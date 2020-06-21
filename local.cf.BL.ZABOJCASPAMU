@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-21 10:30 
+# Wygenerowana 2020-06-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -36,6 +36,7 @@ blacklist_from admin@omertahack.su
 blacklist_from admin@richermoren.cf
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
+blacklist_from Admin@Windstrading.com
 blacklist_from *@afiliadosafpperu.com
 blacklist_from *@agamusicgroup.com
 blacklist_from *@agl.net
@@ -221,6 +222,7 @@ blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1520.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1620.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1623.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1624.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1625.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1627.m.lrmailr.pl
@@ -267,6 +269,8 @@ blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce2@emd01.net
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
+blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounceback@connect.hpe.com
@@ -292,6 +296,10 @@ blacklist_from bounce@open-factoring.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+15743539-848d-pr=almamarket.pl@sendgrid.net
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@tradeprom.pl
@@ -353,6 +361,7 @@ blacklist_from csk@warszawa.csk-partner.pl
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from cyrus@incopat.com
+blacklist_from daeheung@dh21crusher.co.kr
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
@@ -598,7 +607,6 @@ blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
-blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lorbeer-info.eu
 blacklist_from info@magnoliaa.pl
@@ -1100,6 +1108,7 @@ blacklist_from pasiulymai@ttteise.lt
 blacklist_from Patryk@Biznesowerozwiazania.pl
 blacklist_from paula.valentin@eresmas.net
 blacklist_from paulina.komosa@promieniowanieuvc.pl
+blacklist_from pauljorgenhocker@gmail.com
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
@@ -1314,6 +1323,7 @@ blacklist_from szkolenie@systemszkolenia.pl
 blacklist_from szukaj@wyszukiwalnia.pl
 blacklist_from tadeusz.krostka@eu.kruk.pl
 blacklist_from taman@onlinesearchvisibility.com
+blacklist_from tamy@heveapac.com.my
 blacklist_from *@tanisklad.dla-najlepszych.pl
 blacklist_from tapashd@seo-organic-listings.com
 blacklist_from targetmarketing@emailing2.info.pl
