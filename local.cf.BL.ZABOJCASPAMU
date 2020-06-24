@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-24 14:00 
+# Wygenerowana 2020-06-24 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -165,11 +165,13 @@ blacklist_from biuro@luckre.zarow.pl
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
+blacklist_from biuro@metodav.naklo.pl
 blacklist_from biuro@mitin.pisz.pl
 blacklist_from biuro@naleznosci-ai.pl
 blacklist_from biuro@network-masters.pl
 blacklist_from biuro@new-soft.com.pl
 blacklist_from biuro@ofertowy.host
+blacklist_from biuro@okatha.naklo.pl
 blacklist_from biuro@phanna.zgora.pl
 blacklist_from biuro@pikila.tgory.pl
 blacklist_from biuro@piraniakredyty.pl
@@ -227,7 +229,9 @@ blacklist_from bok@butyna.zagan.pl
 blacklist_from bok@caust.sejny.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@cinacie.jgora.pl
+blacklist_from bok@conferms.pisz.pl
 blacklist_from bok@dmsender.pl
+blacklist_from bok@garnot.zarow.pl
 blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1016.m.lrmailr.pl
@@ -250,14 +254,18 @@ blacklist_from bok.kazimierz@ms1620.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1016.m.lrmailr.pl
 blacklist_from bok.lubin@ms1027.m.lrmailr.pl
 blacklist_from bok@lylyna.naklo.pl
+blacklist_from bok@nadio.naklo.pl
 blacklist_from bok@nopalsa.sejny.pl
 blacklist_from boknta@ms0480.m.lrmailr.pl
 blacklist_from bok@ojutga.jgora.pl
+blacklist_from bok@okutrfa.jgora.pl
+blacklist_from bok@olijsa.zagan.pl
 blacklist_from bok@pitete.pisz.pl
 blacklist_from bok@pitirga.naklo.pl
 blacklist_from bokpru@ms1520.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok.renoma@ms0480.m.lrmailr.pl
+blacklist_from bok@romere.pisz.pl
 blacklist_from bokryb@ms1520.m.lrmailr.pl
 blacklist_from boksbr@ms0472.m.lrmailr.pl
 blacklist_from bok@scrocet.zagan.pl
@@ -653,6 +661,7 @@ blacklist_from info@n-smart.pl
 blacklist_from info@nugraha.pw
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.com.pl
+blacklist_from info@palwe.jgora.pl
 blacklist_from infopay@lloydsbank.co.uk
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
@@ -680,6 +689,7 @@ blacklist_from info@translateplusdea.host
 blacklist_from info@translateplusdev.host
 blacklist_from info@translateplusdia.host
 blacklist_from info@treda.sejny.pl
+blacklist_from info@tuhgfa.zgora.pl
 blacklist_from info@visainc.com
 blacklist_from *@info.whitersend.pl
 blacklist_from info@wifisquare.pl
@@ -1078,14 +1088,17 @@ blacklist_from office@76management.com
 blacklist_from office@cekla.zarow.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@czwder.sejny.pl
+blacklist_from office@edca.zarow.pl
 blacklist_from office@edurand.tgory.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@executive-club.com.pl
 blacklist_from office@exportgaza.com
+blacklist_from office@fijaka.tgory.pl
 blacklist_from office@getion.zarow.pl
 blacklist_from office@gibinternational.de
 blacklist_from office@gwarteg.zarow.pl
 blacklist_from office@iniosa.sejny.pl
+blacklist_from office@inspark.sejny.pl
 blacklist_from office@kacol.tgory.pl
 blacklist_from office@litnia.zgora.pl
 blacklist_from office@lower.zarow.pl
@@ -1347,8 +1360,10 @@ blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
+blacklist_from szkolenia@info.oddk.net
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
+blacklist_from szkolenia@platforma-wiedzy.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
 blacklist_from szkolenia@skillgroup.pl
 blacklist_from szkolenia@szkoleniakrajowe.biz.pl
