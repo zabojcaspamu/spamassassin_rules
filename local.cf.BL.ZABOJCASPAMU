@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-06-25 20:10 
+# Wygenerowana 2020-06-26 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -136,6 +136,7 @@ blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@docurs.zarow.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
+blacklist_from biuro@enklawakrynicamorska.com.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
@@ -312,7 +313,6 @@ blacklist_from bounce@ebr-register.org
 blacklist_from bounce@ebr-registry.com
 blacklist_from bounce@ebr-today.info
 blacklist_from bounce@energy-company.pl
-blacklist_from bounce@evejle.com
 blacklist_from bounce@finadvisors.pl
 blacklist_from bounce@finansowanienabank.pl
 blacklist_from *@bounce.freshmail.pl
