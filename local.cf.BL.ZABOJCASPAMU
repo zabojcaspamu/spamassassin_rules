@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-01 15:50 
+# Wygenerowana 2020-07-01 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -78,7 +78,6 @@ blacklist_from *@anteny.dla-najlepszych.pl
 blacklist_from anvix@anvix.pl
 blacklist_from *@aon.at
 blacklist_from *@aprendocroche.com
-blacklist_from *@arbyshoes.com
 blacklist_from arildo@itgatreinamento.com.br
 blacklist_from *@artisanka.com
 blacklist_from *@arubahosteria.com
@@ -304,6 +303,8 @@ blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
+blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounceback@connect.hpe.com
@@ -329,7 +330,11 @@ blacklist_from bounce@open-factoring.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+15743539-848d-pr=almamarket.pl@sendgrid.net
+blacklist_from bounces+1637812-ed41-info=almamarket.pl@email.robly.com
 blacklist_from bounces+4314339-4da0-info=foodandjoy.eu@email.mailserver-agile.net
+blacklist_from bounces+9943629-027b-relacjeinwestorskie=almamarket.pl@em7466.chamundayinternational.com
+blacklist_from bounces+9943629-3913-pr=almamarket.pl@em7466.chamundayinternational.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@tradeprom.pl
@@ -444,6 +449,7 @@ blacklist_from *@electricaincii.com
 blacklist_from elewek@ms0480.m.lrmailr.pl
 blacklist_from emailadministrator@domain.com
 blacklist_from *@emailapp.pl
+blacklist_from Emailinfo.almamarket.pl@growatt.com
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
 blacklist_from *@emlgrid.com
@@ -668,7 +674,6 @@ blacklist_from info@palwe.jgora.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
-blacklist_from *@info.restarcop.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@sasayama-sec.co.jp
@@ -900,7 +905,6 @@ blacklist_from *@mail.semestr.pl
 blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
-blacklist_from *@mail-test.xyz
 blacklist_from majdi@damanlimited.com
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from mantenimiento@vitatrac.com.gt
@@ -1070,6 +1074,7 @@ blacklist_from obsluga@apteka-kamagra.com
 blacklist_from obsluga@corpscast.com
 blacklist_from obsluga@gigantfine.com
 blacklist_from obsluga@taskginets.com
+blacklist_from odbicia@darmowaenergia.online
 blacklist_from odbicia@email24.info.pl
 blacklist_from odbicia@e-marketingweb.pl
 blacklist_from odbicia@lorbeer-info.eu
@@ -1080,6 +1085,7 @@ blacklist_from odbicia@novamo.pl
 blacklist_from odbicia@okazje-info.com.pl
 blacklist_from odbicia@pv-instalacje.com.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
+blacklist_from odbicia@terremail.eu
 blacklist_from odrzucone@symen24.pl
 blacklist_from odvunfn@iornades.de
 blacklist_from oferta1@wsmb.eu
@@ -1369,6 +1375,7 @@ blacklist_from szarpie@alleobozy.pl
 blacklist_from szkolenia@apm.wroclaw.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@exandi.pl
+blacklist_from szkolenia@info.oddk.net
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkolenia@platforma-wiedzy.pl
@@ -1397,7 +1404,6 @@ blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from *@tempbigh.com
 blacklist_from terminal@terminalikasa.pl
-blacklist_from *@terremail.eu
 blacklist_from test@tiags.vn
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
@@ -1522,6 +1528,7 @@ blacklist_from zwroty@dezynfekujace-lampy.co.pl
 blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@dlafirmy.co.pl
 blacklist_from zwroty@konferencjeksi.com.pl
+blacklist_from zwroty@mail-test.xyz
 blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@nosmaseczke.co.pl
 blacklist_from zwroty@oobo.info
