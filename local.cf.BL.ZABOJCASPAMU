@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-06 18:00 
+# Wygenerowana 2020-07-06 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -278,6 +278,7 @@ blacklist_from bok@romere.pisz.pl
 blacklist_from bok@rujrewa.sejny.pl
 blacklist_from bokryb@ms0481.m.lrmailr.pl
 blacklist_from bokryb@ms1520.m.lrmailr.pl
+blacklist_from boksbr@ms1620.m.lrmailr.pl
 blacklist_from boksbr@ms1623.m.lrmailr.pl
 blacklist_from bok@seba.lapy.pl
 blacklist_from boksop@ms1620.m.lrmailr.pl
@@ -339,6 +340,7 @@ blacklist_from bounce@open-factoring.pl
 blacklist_from bounce@promolead.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+4314339-4da0-info=foodandjoy.eu@email.mailserver-agile.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@tradeprom.pl
@@ -672,6 +674,8 @@ blacklist_from info@nugraha.pw
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@o-smart.pl
 blacklist_from info@palwe.jgora.pl
+blacklist_from info@piplla.tgory.pl
+blacklist_from info@pokitga.pisz.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
@@ -865,7 +869,6 @@ blacklist_from lendon@productcompany.pl
 blacklist_from lexus@lexus-polska.pl
 blacklist_from lider.cosmetic@gmail.com
 blacklist_from lilbd@gmail.com
-blacklist_from *@lizstyles.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
@@ -935,6 +938,7 @@ blacklist_from ma@systemszkolenia.pl
 blacklist_from mateusz.gabrowski@bestcraft.com.pl
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
+blacklist_from mateusz@speakers.pl
 blacklist_from mateuszszpinda@gmail.com
 blacklist_from matylda@auto-trader.pl
 blacklist_from mbank?@companiero.waw.pl
@@ -1126,6 +1130,7 @@ blacklist_from office@pogba.pisz.pl
 blacklist_from office@preven.jgora.pl
 blacklist_from office@puthi.tgory.pl
 blacklist_from office@ripola.zagan.pl
+blacklist_from office@rupal.zarow.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@septinus.zagan.pl
 blacklist_from office@shole.zagan.pl
@@ -1303,6 +1308,7 @@ blacklist_from secureserver@servers.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@gmail.com
+blacklist_from sekretariatbyd@ms1018.m.lrmailr.pl
 blacklist_from sekretariatgdy@ms1523.m.lrmailr.pl
 blacklist_from sekretariatkos@ms0479.m.lrmailr.pl
 blacklist_from sekretariatmpo@ms1520.m.lrmailr.pl
