@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-09 15:50 
+# Wygenerowana 2020-07-09 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -123,6 +123,7 @@ blacklist_from biuro@bedsa.pisz.pl
 blacklist_from biuro@beliers.sejny.pl
 blacklist_from biuro@bestmail24.pl
 blacklist_from biuro@biznesikasa.pl
+blacklist_from biuro@brufuar.pisz.pl
 blacklist_from biuro@brussing.zagan.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@circel.sejny.pl
@@ -165,6 +166,7 @@ blacklist_from biuro@luckre.zarow.pl
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
+blacklist_from biuro@measy.lapy.pl
 blacklist_from biuro@mitin.pisz.pl
 blacklist_from biuro@naleznosci-ai.pl
 blacklist_from biuro@network-masters.pl
@@ -238,6 +240,7 @@ blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1027.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1520.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1620.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1623.m.lrmailr.pl
@@ -263,9 +266,12 @@ blacklist_from bok@ojutga.jgora.pl
 blacklist_from bok@olijsa.zagan.pl
 blacklist_from bok@ophynera.zgora.pl
 blacklist_from bokopo@ms1624.m.lrmailr.pl
+blacklist_from bok@ouveaut.sejny.pl
 blacklist_from bok@pitete.pisz.pl
 blacklist_from bok@pitirga.naklo.pl
+blacklist_from bok@pupell.lapy.pl
 blacklist_from bok@rbdo.biz
+blacklist_from bok@reaudict.jgora.pl
 blacklist_from bok@romere.pisz.pl
 blacklist_from bok@rujrewa.sejny.pl
 blacklist_from bokryb@ms0481.m.lrmailr.pl
@@ -323,6 +329,7 @@ blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.s10.mc.pd25.com
 blacklist_from *@bounce.senderus.pl
+blacklist_from bounces@prod1.b.targito.com
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
@@ -582,6 +589,7 @@ blacklist_from *@??.infoczystosc.com.pl
 blacklist_from info@dapiurwa.lapy.pl
 blacklist_from info@datgerw.sejny.pl
 blacklist_from info@datidas.naklo.pl
+blacklist_from info@decons.pisz.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from *@info.diamondtrack.pl
 blacklist_from info@dietanawiosne.com.pl
@@ -609,6 +617,7 @@ blacklist_from info@gatewaygovuk??.us
 blacklist_from info@gatewaygovuk?.us
 blacklist_from info@gpawardprom.com
 blacklist_from info@g-smart.pl
+blacklist_from info@heltros.zarow.pl
 blacklist_from info@h-smart.pl
 blacklist_from info@idiesino.com
 blacklist_from info@iitsale.pl
@@ -884,6 +893,7 @@ blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from mantenimiento@vitatrac.com.gt
 blacklist_from manuel.hoyo@eresmas.net
 blacklist_from mapc@franchexpress.com
+blacklist_from Maqin.ma@wallawalla.edu
 blacklist_from marcela@firstclassic.com.ar
 blacklist_from marcin@grovly.eu
 blacklist_from marcin.wrzosek@effectgroup.pl
@@ -1078,6 +1088,7 @@ blacklist_from office@camed.lapy.pl
 blacklist_from office@cekla.zarow.pl
 blacklist_from office@cortijodelmar.eu
 blacklist_from office@czwder.sejny.pl
+blacklist_from office@ecortn.tgory.pl
 blacklist_from office@edca.zarow.pl
 blacklist_from office@einstitute.com.pl
 blacklist_from office@elfart.tgory.pl
@@ -1101,6 +1112,7 @@ blacklist_from office@septinus.zagan.pl
 blacklist_from office@sihia.tgory.pl
 blacklist_from office@teassid.sejny.pl
 blacklist_from office@thantry.pisz.pl
+blacklist_from office@viting.pisz.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from okazik@okazik.pl
@@ -1197,7 +1209,6 @@ blacklist_from purchase@gromevent.ml
 blacklist_from purchasing03@ecomate.com.my
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
-blacklist_from *@rabbitkix.com
 blacklist_from rabih@emirates.net.ae
 blacklist_from Rajesh.Singh@chrobinson.com
 blacklist_from rawgold@hotmail.com
