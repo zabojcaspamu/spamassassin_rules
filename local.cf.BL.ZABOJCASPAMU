@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-13 17:50 
+# Wygenerowana 2020-07-13 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -186,9 +186,11 @@ blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
 blacklist_from biuro@semprojekt.com
 blacklist_from biuro@seo-chain24.pl
+blacklist_from biuro@serfda.zgora.pl
 blacklist_from biurosf@szkolenief.net.pl
 blacklist_from biuro@signumodszkodowania.pl
 blacklist_from biuro@sprawdzgotowke.pl
+blacklist_from biuro@stict.lapy.pl
 blacklist_from biuro@superszkolenia.pl
 blacklist_from biuro@sweek.pisz.pl
 blacklist_from biuro@szef-sprzedazy.pl
@@ -217,6 +219,7 @@ blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@adoiver.zgora.pl
+blacklist_from bok@anditche.sejny.pl
 blacklist_from bok.arkady@ms1625.m.lrmailr.pl
 blacklist_from bok@bitinita.tgory.pl
 blacklist_from bok@bonion.zagan.pl
@@ -225,6 +228,7 @@ blacklist_from bok@butyna.zagan.pl
 blacklist_from bok@cerfda.tgory.pl
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@conferms.pisz.pl
+blacklist_from bok@dmsender.pl
 blacklist_from bok@gadzetylodz.pl
 blacklist_from bok@garnot.zarow.pl
 blacklist_from bokgdy@ms1027.m.lrmailr.pl
@@ -257,6 +261,7 @@ blacklist_from boklod@ms1624.m.lrmailr.pl
 blacklist_from bokmpo@ms1523.m.lrmailr.pl
 blacklist_from bok@nattint.jgora.pl
 blacklist_from bok@niertga.zgora.pl
+blacklist_from bok@nihub.zarow.pl
 blacklist_from bok@nopalsa.sejny.pl
 blacklist_from boknta@ms0472.m.lrmailr.pl
 blacklist_from boknta@ms1016.m.lrmailr.pl
@@ -279,6 +284,7 @@ blacklist_from bok.sopot@ms1523.m.lrmailr.pl
 blacklist_from bok@sserga.jgora.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok@tonerypolska.pl
+blacklist_from bok@usbox.pl
 blacklist_from bokwbi@ms1624.m.lrmailr.pl
 blacklist_from bok@werfasa.pisz.pl
 blacklist_from bokwre@ms0480.m.lrmailr.pl
@@ -305,6 +311,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounceback@connect.hpe.com
+blacklist_from bounceback@rx.mapic.com
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@dobre-finansowanie.pl
@@ -313,6 +320,7 @@ blacklist_from bounce@ebr-registry.com
 blacklist_from bounce@ebr-today.info
 blacklist_from bounce@finansowanie-faktoring.com.pl
 blacklist_from bounce@finansujemyfirmy.com.pl
+blacklist_from bounce@fin-company.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from bounce@ganlt-klipso-event.net
 blacklist_from *@bounce.getresponse.com
@@ -619,6 +627,7 @@ blacklist_from info@galxvanice.cf
 blacklist_from info@gatewaygovuk??.com
 blacklist_from info@gatewaygovuk??.us
 blacklist_from info@gatewaygovuk?.us
+blacklist_from info@gobid.shop
 blacklist_from info@gpawardprom.com
 blacklist_from info@g-smart.pl
 blacklist_from info@heltros.zarow.pl
@@ -685,7 +694,9 @@ blacklist_from info@translateplusday.host
 blacklist_from info@translateplusdea.host
 blacklist_from info@translateplusdev.host
 blacklist_from info@translateplusdia.host
+blacklist_from info@tribute-lenny-kravitz.com
 blacklist_from info@t-smart.pl
+blacklist_from info@tuhgfa.zgora.pl
 blacklist_from info@visainc.com
 blacklist_from info@werhaw.zgora.pl
 blacklist_from *@info.whitersend.pl
@@ -902,6 +913,7 @@ blacklist_from Maqin.ma@wallawalla.edu
 blacklist_from marcela@firstclassic.com.ar
 blacklist_from marcin@grovly.eu
 blacklist_from marcin.wrzosek@effectgroup.pl
+blacklist_from marek.oset@szkolenie-dot.pl
 blacklist_from marianka123@e-junggu.or.kr
 blacklist_from mariusz.kowalski@szkoleniacge.pl
 blacklist_from marketing2@polidruk.com.pl
@@ -1104,11 +1116,13 @@ blacklist_from office@intorif.sejny.pl
 blacklist_from office@kajat.naklo.pl
 blacklist_from office@litnia.zgora.pl
 blacklist_from officemail@thylordzdoing.us
+blacklist_from office@mijaref.pisz.pl
 blacklist_from office@nehan.sejny.pl
 blacklist_from office@ripola.zagan.pl
 blacklist_from office@rupal.zarow.pl
 blacklist_from office@scc.org.pl
 blacklist_from office@sihia.tgory.pl
+blacklist_from office@sobnat.zagan.pl
 blacklist_from office@teassid.sejny.pl
 blacklist_from office@thantry.pisz.pl
 blacklist_from office@viting.pisz.pl
@@ -1247,6 +1261,7 @@ blacklist_from root@vps637793.ovh.net
 blacklist_from root@vps637794.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
+blacklist_from rosa.gomess0044@gmail.com
 blacklist_from rose.torres@talktalk.net
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
@@ -1454,6 +1469,7 @@ blacklist_from vinod.jindal@precise.co.in
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
+blacklist_from w2000@czechports.cz
 blacklist_from waller@waller.com.pl
 blacklist_from wandasdxbjznrak@hreverest.com
 blacklist_from warszawa@szkolenia-warszawa24.pl
