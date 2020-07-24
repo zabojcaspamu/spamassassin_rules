@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-23 21:00 
+# Wygenerowana 2020-07-24 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -41,6 +41,7 @@ blacklist_from Admin@Windstrading.com
 blacklist_from admin@zwrotadmin.pl
 blacklist_from affypkq@willins.institute
 blacklist_from *@afiliadosafpperu.com
+blacklist_from *@agalesty.nl
 blacklist_from *@agamusicgroup.com
 blacklist_from *@agl.net
 blacklist_from agnieszka.fischer@printxl.pl
@@ -230,6 +231,7 @@ blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1016.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1027.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1520.m.lrmailr.pl
