@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-26 18:20 
+# Wygenerowana 2020-07-27 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -8,6 +8,7 @@ blacklist_from *@163.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
+blacklist_from 22list@20dd.pl
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
@@ -917,6 +918,7 @@ blacklist_from mailing@serwer1428640.home.pl
 blacklist_from mailing@tarsago.pl
 blacklist_from *@mailinstitute.pl
 blacklist_from mail@itena.com.pl
+blacklist_from mail@itenc.com.pl
 blacklist_from mail@itend.com.pl
 blacklist_from mail@itene.com.pl
 blacklist_from mail@iteng.com.pl
@@ -1347,6 +1349,7 @@ blacklist_from *@serve-links.com
 blacklist_from *@serveread.com
 blacklist_from serverpaypal@megatec.com.br
 blacklist_from service.douane@colis.ch
+blacklist_from service@mail.com
 blacklist_from service??@mx?.hulsing.xyz
 blacklist_from service?@mx?.hulsing.xyz
 blacklist_from service?@mx?.manechine.xyz
@@ -1487,6 +1490,7 @@ blacklist_from usulej-cholewa@ms0481.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1016.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1018.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1020.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1620.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
