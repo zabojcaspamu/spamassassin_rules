@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-07-27 07:00 
+# Wygenerowana 2020-07-27 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -8,6 +8,7 @@ blacklist_from *@163.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
+blacklist_from 22kal@k2r2020.pl
 blacklist_from 22list@20dd.pl
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
@@ -32,6 +33,7 @@ blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@easyloc-andorra.com
+blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
@@ -229,6 +231,7 @@ blacklist_from bok@dmsender.pl
 blacklist_from bok@gadzetylodz.pl
 blacklist_from bokgdy@ms1027.m.lrmailr.pl
 blacklist_from bokgdy@ms1520.m.lrmailr.pl
+blacklist_from bokgdy@ms1523.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0472.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
@@ -253,7 +256,9 @@ blacklist_from bok.kilinskiego@ms1020.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1520.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1523.m.lrmailr.pl
 blacklist_from bokkos@ms0480.m.lrmailr.pl
+blacklist_from bokkos@ms0481.m.lrmailr.pl
 blacklist_from bokkos@ms1520.m.lrmailr.pl
+blacklist_from boklgo@ms1625.m.lrmailr.pl
 blacklist_from boklma@ms1520.m.lrmailr.pl
 blacklist_from boklma@ms1623.m.lrmailr.pl
 blacklist_from boklma@ms1627.m.lrmailr.pl
@@ -267,8 +272,10 @@ blacklist_from boknta@ms1627.m.lrmailr.pl
 blacklist_from bok.opole@ms1020.m.lrmailr.pl
 blacklist_from bokopo@ms1520.m.lrmailr.pl
 blacklist_from bokopo@ms1624.m.lrmailr.pl
+blacklist_from bokpia@ms0472.m.lrmailr.pl
 blacklist_from bok@pirgaz.zgora.pl
 blacklist_from bok.promenada@ms1627.m.lrmailr.pl
+blacklist_from bokpro@ms0481.m.lrmailr.pl
 blacklist_from bokpru@ms1623.m.lrmailr.pl
 blacklist_from bok.pruszkow@ms1624.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
@@ -885,6 +892,7 @@ blacklist_from lilbd@gmail.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
+blacklist_from lr@tzeng-shying.com
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from *@lyrkj.com
 blacklist_from *@m1.mailing.buytogether.pl
@@ -1376,6 +1384,7 @@ blacklist_from skoda@notice4you.pl
 blacklist_from *@slicplans.com
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
+blacklist_from smp@ms1520.m.lrmailr.pl
 blacklist_from smp@ms1620.m.lrmailr.pl
 blacklist_from smp@ms1623.m.lrmailr.pl
 blacklist_from smt@ms1027.m.lrmailr.pl
