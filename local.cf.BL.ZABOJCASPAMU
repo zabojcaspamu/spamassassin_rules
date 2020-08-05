@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-04 20:50 
+# Wygenerowana 2020-08-05 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -46,6 +46,7 @@ blacklist_from Admin@Windstrading.com
 blacklist_from admin@zwrotadmin.pl
 blacklist_from affypkq@willins.institute
 blacklist_from *@afiliadosafpperu.com
+blacklist_from *@agalesty.nl
 blacklist_from *@agamusicgroup.com
 blacklist_from *@agl.net
 blacklist_from agnieszka.fischer@printxl.pl
@@ -572,6 +573,7 @@ blacklist_from ilona.czernow@finansuj.biz.pl
 blacklist_from Ilse@stijlbeton.be
 blacklist_from imdn@wp.pl
 blacklist_from *@imojbiznes.pl
+blacklist_from *@imoniukatalogai.com
 blacklist_from impresariat@artmail.pl
 blacklist_from inceryb@nelsions.nl
 blacklist_from indywidualnykurier@companybase.pl
@@ -686,6 +688,7 @@ blacklist_from info@news-1etter.xyz
 blacklist_from info@niemozliwe.com.pl
 blacklist_from info@niverat.lapy.pl
 blacklist_from info@nn.pl
+blacklist_from info@nz-bd.co
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@o-smart.pl
 blacklist_from info@pokitga.pisz.pl
@@ -925,8 +928,10 @@ blacklist_from mail@itenf.com.pl
 blacklist_from mail@iteng.com.pl
 blacklist_from mail@itenh.com.pl
 blacklist_from mail@itenj.com.pl
+blacklist_from mail@itenk.com.pl
 blacklist_from mail@itenl.com.pl
 blacklist_from mail@iteno.com.pl
+blacklist_from mail@itenq.com.pl
 blacklist_from mail@npo.org.za
 blacklist_from mail-paypal.inc@congress.gov.ph
 blacklist_from *@mail.semestr.pl
@@ -1223,6 +1228,7 @@ blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from prana.parab2020@gmail.com
 blacklist_from preferiti@060608.it
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
@@ -1398,10 +1404,12 @@ blacklist_from *@supermailing.com.pl
 blacklist_from support@rivalo.com
 blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
+blacklist_from szkolenia@apm.wroclaw.pl
 blacklist_from szkolenia@edutag24.pl
 blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkolenia@pcdk.pl
+blacklist_from szkolenia@platforma-wiedzy.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
 blacklist_from szkolenia@skillgroup.pl
 blacklist_from szkolenia@szkoleniakrajowe.biz.pl
@@ -1468,6 +1476,7 @@ blacklist_from update@ymail.com
 blacklist_from upgrade@domain.com
 blacklist_from uprzedsiebiorca@gmail.com
 blacklist_from ur@albazazgroup.com
+blacklist_from urkujkc@nasterms.de
 blacklist_from ursa@promuj-polskie.bialystok.pl
 blacklist_from ursa@promuj-polskie.bydgoszcz.pl
 blacklist_from ursa@promuj-polskie.katowice.pl
