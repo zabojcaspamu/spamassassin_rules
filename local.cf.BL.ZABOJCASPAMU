@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-09 13:40 
+# Wygenerowana 2020-08-09 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -22,6 +22,7 @@ blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 9ce9d453e19548ba7ae46818b6208352@ypclistmanager.com
 blacklist_from *@a2data.biz.pl
 blacklist_from a35b03e68dcd3183ec8c591ebeeb243d@ypclistmanager.com
+blacklist_from a448abe446474c935b700884cd1bb00f@ypclistmanager.com
 blacklist_from a8h6a@bounce.emailsp.net
 blacklist_from a9145a01b70f3da7ecf1274cae5ee0a3@ypclistmanager.com
 blacklist_from abby@custommanu.com
@@ -37,6 +38,7 @@ blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administrator@ale.onetenti.pl
+blacklist_from admin@jetkey168.myasustor.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
 blacklist_from admin@redwanpublisher.com
@@ -865,7 +867,6 @@ blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
 blacklist_from kzaman.yasak@rhbgroup.com
-blacklist_from *@langsach.com
 blacklist_from leanna@misuosis.xyz
 blacklist_from leason@zamowienie.org.pl
 blacklist_from *@legalmail.it
@@ -1393,6 +1394,7 @@ blacklist_from Sumit@rankingseos.com
 blacklist_from sunita@oryxlogistic.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
+blacklist_from support@infotex-afrique.com
 blacklist_from support@rivalo.com
 blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
