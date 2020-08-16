@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-15 18:20 
+# Wygenerowana 2020-08-16 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -225,6 +225,7 @@ blacklist_from bok@dmsender.pl
 blacklist_from bok@gadzetylodz.pl
 blacklist_from bokgdy@ms1520.m.lrmailr.pl
 blacklist_from bokgdy@ms1523.m.lrmailr.pl
+blacklist_from bok.gdynia@ms0471.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
@@ -321,7 +322,6 @@ blacklist_from *@bsuportal.com
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
-blacklist_from *@buzzhopla.com
 blacklist_from bzawillo@ms0481.m.lrmailr.pl
 blacklist_from bzawillo@ms1620.m.lrmailr.pl
 blacklist_from bzawillo@ms1625.m.lrmailr.pl
@@ -1253,6 +1253,7 @@ blacklist_from sales06@cn-qiaokang.com
 blacklist_from sales10_ct@chungting.com.cn
 blacklist_from sales2@wofulin.com
 blacklist_from sales50@shtorm.com
+blacklist_from sales6@hc-printery.eicp.net
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
 blacklist_from sales@chitron.com
@@ -1362,7 +1363,6 @@ blacklist_from szymon-bbx4562@zbiorka-szymon.eu
 blacklist_from szymon-gdd320w@zbiorka-szymon.eu
 blacklist_from szymon-pil84d3@zbiorka-szymon.eu
 blacklist_from szymon-zxc34w2@zbiorka-szymon.eu
-blacklist_from *@tactatek.com
 blacklist_from tadeusz.krostka@eu.kruk.pl
 blacklist_from *@tanisklad.dla-najlepszych.pl
 blacklist_from targetmarketing@emailing2.info.pl
@@ -1432,6 +1432,7 @@ blacklist_from usulej-cholewa@ms1019.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1020.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1625.m.lrmailr.pl
 blacklist_from utnubdh@namagesy.de
 blacklist_from uzma@euroasiasgroup.com
