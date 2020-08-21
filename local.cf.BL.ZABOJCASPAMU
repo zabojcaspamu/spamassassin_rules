@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-21 10:10 
+# Wygenerowana 2020-08-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -34,6 +34,7 @@ blacklist_from acoppock@talktalkplc.com
 blacklist_from actiwtv@nelsions.nl
 blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
+blacklist_from admin1@wellprinted.vicp.cc
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
@@ -233,6 +234,7 @@ blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1520.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1523.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1620.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1623.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1625.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1627.m.lrmailr.pl
@@ -297,6 +299,7 @@ blacklist_from bounce@factoringfinansowanie.com.pl
 blacklist_from bounce@faktoringbankowy.com.pl
 blacklist_from bounce@faktoring-eksperts.com.pl
 blacklist_from bounce@finanse-firmowe.pl
+blacklist_from bounce@finansujemy-msp.pl
 blacklist_from bounce@fin-company.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
@@ -1163,10 +1166,12 @@ blacklist_from p.kubik@szybkie-tlumaczenia.pl
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
+blacklist_from poczta-288tsx611@nowe-bony.online
 blacklist_from poczta-308tqa227@nowe-bony.online
 blacklist_from poczta-556gxn812@zrzutka24.eu
 blacklist_from poczta-655yhy811@paczki-mail.eu
 blacklist_from poczta-745ops829@zrzutka24.eu
+blacklist_from poczta-830ujm90m@zrzutka24.eu
 blacklist_from poczta-bgw344d@paczki-mail.eu
 blacklist_from poczta-fss3924@paczki-mail.eu
 blacklist_from poczta-gdd780k@zbiorka-szymon.eu
@@ -1204,6 +1209,7 @@ blacklist_from promocje@dietanawiosne.pl
 blacklist_from protektorzy@mailplanet.p
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
+blacklist_from przylbica@po19cov.pl
 blacklist_from purchase@gromevent.ml
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
@@ -1441,6 +1447,7 @@ blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1625.m.lrmailr.pl
+blacklist_from usxedlq@iornades.de
 blacklist_from uvlujtc@iornades.de
 blacklist_from uzma@euroasiasgroup.com
 blacklist_from vectra@productcompany.pl
