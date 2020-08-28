@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-27 19:30 
+# Wygenerowana 2020-08-28 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -278,6 +278,7 @@ blacklist_from bounce@ebr-register.org
 blacklist_from bounce@ebr-registry.com
 blacklist_from bounce@elastycznyfaktoring.com.pl
 blacklist_from bounce@factoringfinansowanie.com.pl
+blacklist_from bounce@faktoringbankowy.com.pl
 blacklist_from bounce@faktoring-eksperts.com.pl
 blacklist_from bounce@finanse-firmowe.pl
 blacklist_from bounce@finansujemy-msp.pl
@@ -337,6 +338,7 @@ blacklist_from cirulli.luca101@gmail.com
 blacklist_from ckbiznes@certyfikowaneszkolenia.pl
 blacklist_from ckl@ckl.pl
 blacklist_from *@closeneighbor.com
+blacklist_from cognac-voyer@b2b4wine.eu
 blacklist_from coleacp@info.coleacp.org
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
@@ -348,6 +350,7 @@ blacklist_from controlling@mediaexpln.pl
 blacklist_from covid@pocovid.pl
 blacklist_from *@cpatrafficword.com
 blacklist_from creed@captivateact.co
+blacklist_from crm@tourhouse.com.br
 blacklist_from csk@csk-partner.pl
 blacklist_from csk@warszawa.csk-partner.pl
 blacklist_from *@customericare.com
@@ -516,7 +519,6 @@ blacklist_from hapi@productcompany.pl
 blacklist_from *@hellineyes.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from helpsss@un.net
-blacklist_from *@hendobros.com
 blacklist_from *@heroldgroup.pl
 blacklist_from *@hktdc.com
 blacklist_from *@hostclimb.com
@@ -880,7 +882,6 @@ blacklist_from *@mail.semestr.pl
 blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
-blacklist_from *@majellapd.com
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from mandyli@chungting.com.hk
 blacklist_from marcin@grovly.eu
@@ -1088,7 +1089,6 @@ blacklist_from office@vaportas.sejny.pl
 blacklist_from office@whavare.zgora.pl
 blacklist_from office@whimette.jgora.pl
 blacklist_from office@whorth.tgory.pl
-blacklist_from *@oggitowns.com
 blacklist_from ogonek.alicja52@wp.pl
 blacklist_from ojhyzcm@nelsions.nl
 blacklist_from ojtetjx@namagesy.de
@@ -1143,6 +1143,7 @@ blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
 blacklist_from poczta-288tsx611@nowe-bony.online
 blacklist_from poczta-308tqa227@nowe-bony.online
+blacklist_from poczta-491ddg288@paczki-mail.eu
 blacklist_from poczta-549ogg711@zrzutka24.eu
 blacklist_from poczta-556gxn812@zrzutka24.eu
 blacklist_from poczta-655yhy811@paczki-mail.eu
@@ -1253,6 +1254,7 @@ blacklist_from *@salesmanago.io
 blacklist_from sales@sellerbulknewscompany.top
 blacklist_from sales@sntradelink.in
 blacklist_from sales@wequckbulck.top
+blacklist_from sales.wire-machine@outlook.com
 blacklist_from sales@zjgmorale.com
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
@@ -1322,6 +1324,7 @@ blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from steel@moodrank.co
+blacklist_from stefkara@central.ntua.gr
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from suite5@mailreply.travelist.pl
 blacklist_from sunsnow@offerway.pl
@@ -1418,6 +1421,7 @@ blacklist_from usxedlq@iornades.de
 blacklist_from uvlujtc@iornades.de
 blacklist_from uzma@euroasiasgroup.com
 blacklist_from vectra@productcompany.pl
+blacklist_from ventas@medicproducts.uno
 blacklist_from vinovirtual@b2b4wine.eu
 blacklist_from vistahogar@eresmas.com
 blacklist_from vmax@mail2Broker.com
@@ -1464,6 +1468,7 @@ blacklist_from *@wyjatkoweoferty.pl
 blacklist_from wysylka@galeriaokazji.eu
 blacklist_from xiejinjie@pec.com.cn
 blacklist_from *@xpressus.emsmtp.us
+blacklist_from xx@yy.gialaidesign.com
 blacklist_from xyz@globclpsa.com
 blacklist_from ydkixtv@balanates.network
 blacklist_from ymkymnv@bizarteion.de
