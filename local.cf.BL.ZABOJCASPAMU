@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-29 11:50 
+# Wygenerowana 2020-08-29 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -106,6 +106,7 @@ blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from bdalmata@analitycymulti.pl
 blacklist_from belen-lm@jazzfree.com
+blacklist_from bfacf5665a8e605d290200f2d49e275c@ypclistmanager.com
 blacklist_from bg.lg@promet-safe.com
 blacklist_from bible@breezelip.pw
 blacklist_from bielsko@rgn.pl
@@ -282,12 +283,14 @@ blacklist_from bounce@ebr-register.org
 blacklist_from bounce@ebr-registry.com
 blacklist_from bounce@elastycznyfaktoring.com.pl
 blacklist_from bounce@factoringfinansowanie.com.pl
+blacklist_from bounce@faktoring-bankowy.com.pl
 blacklist_from bounce@faktoringbankowy.com.pl
 blacklist_from bounce@faktoring-eksperts.com.pl
 blacklist_from bounce@finanse-firmowe.pl
 blacklist_from bounce@finansujemy-msp.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
+blacklist_from bounce@handelfaktoring.com.pl
 blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pwm0.com
@@ -367,6 +370,7 @@ blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from dawid.piaskowski@knownidea.pl
 blacklist_from dcwjack@netvigator.com
+blacklist_from dd555835971b597fa0ef2512d985d574@ypclistmanager.com
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
 blacklist_from dee7550ce9815b2fcefdb10c3f390608@ypclistmanager.com
@@ -1158,6 +1162,7 @@ blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
 blacklist_from poczta-288tsx611@nowe-bony.online
 blacklist_from poczta-308tqa227@nowe-bony.online
+blacklist_from poczta-387rgg932@paczki-mail.site
 blacklist_from poczta-491ddg288@paczki-mail.eu
 blacklist_from poczta-549ogg711@zrzutka24.eu
 blacklist_from poczta-556gxn812@zrzutka24.eu
@@ -1175,7 +1180,6 @@ blacklist_from poczta@zoriana-yukhymets.info
 blacklist_from pomoc@fundacjadzieciom.org
 blacklist_from *@pomoc-ipko.com
 blacklist_from *@pomocnatablica.pl
-blacklist_from *@poormasha.com
 blacklist_from poradnik@sztefanwons.com
 blacklist_from poradnik@wons123.com
 blacklist_from postmaster@mail.sechmet.eu
@@ -1193,7 +1197,6 @@ blacklist_from prezent@wons123.com
 blacklist_from primar@onesti.ro
 blacklist_from *@primeestatz.com
 blacklist_from *@pro-activ.pl
-blacklist_from *@produce-tech.pl
 blacklist_from *@productcompany.pl
 blacklist_from ProdukcjaReklamyPOSM@gmail.com
 blacklist_from produkcja@thewhitestore.com.pl
@@ -1374,7 +1377,6 @@ blacklist_from techniki@technikitelemarketingu.pl
 blacklist_from techniki@technikitelemarketingu.warszawa.pl
 blacklist_from techniki@technikitelemarketingu.waw.pl
 blacklist_from techniki@techsprzedazy.info.pl
-blacklist_from *@teczka.co.pl
 blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
@@ -1518,7 +1520,9 @@ blacklist_from zwroty@mail-test.xyz
 blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@podroznik.co.pl
+blacklist_from zwroty@produce-tech.pl
 blacklist_from zwroty@propozycja.co.pl
+blacklist_from zwroty@teczka.co.pl
 blacklist_from zwroty@twojelogo.co.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
