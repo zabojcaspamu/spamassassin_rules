@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-08-30 18:30 
+# Wygenerowana 2020-08-31 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -31,6 +31,7 @@ blacklist_from accounts.igfomann@protonmail.com
 blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
 blacklist_from admin@a.pcpogotowie.pl
+blacklist_from admin@attaqi.org
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administrator@ale.onetenti.pl
@@ -276,6 +277,8 @@ blacklist_from bounce@factoringfinansowanie.com.pl
 blacklist_from bounce@faktoring-bankowy.com.pl
 blacklist_from bounce@faktoringbankowy.com.pl
 blacklist_from bounce@faktoring-eksperts.com.pl
+blacklist_from bounce@finansowane-deminimis.pl
+blacklist_from bounce@finansowanie-faktoring.com.pl
 blacklist_from bounce@finansujemy-msp.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
@@ -438,6 +441,7 @@ blacklist_from *@express-contacts.com
 blacklist_from exsisdp@bolonsiama.de
 blacklist_from extraportfel@newspoczta.pl
 blacklist_from *@ey-vx.com
+blacklist_from ezvymbj@nelsions.nl
 blacklist_from *@fabianrendon.com
 blacklist_from fadi@future-pioneer.com
 blacklist_from fairy@dramaticattic.co
@@ -1377,6 +1381,7 @@ blacklist_from twojdoradca@biznes2biznes.com
 blacklist_from *@twoomail.com
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
+blacklist_from ufyikmf@namagesy.de
 blacklist_from ujnylqr@nasterms.de
 blacklist_from ukjuhnx@iornades.de
 blacklist_from u.komuniecka@bt.bielsko.pl
@@ -1472,6 +1477,7 @@ blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
+blacklist_from zhengci@starmach.com.cn
 blacklist_from *@zibojinda.com
 blacklist_from *@z.invisio.pl
 blacklist_from *@z.mail-source.pl
