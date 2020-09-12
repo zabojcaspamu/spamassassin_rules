@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-12 13:50 
+# Wygenerowana 2020-09-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -107,6 +107,7 @@ blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from bdalmata@analitycymulti.pl
+blacklist_from bdalmata@firmowykredyt.com.pl
 blacklist_from belen-lm@jazzfree.com
 blacklist_from bg.lg@promet-safe.com
 blacklist_from bielsko@rgn.pl
@@ -213,6 +214,7 @@ blacklist_from bok@dacalan.zagan.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bokgdy@ms1016.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0471.m.lrmailr.pl
+blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0480.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1018.m.lrmailr.pl
@@ -513,7 +515,6 @@ blacklist_from ilona.podwika@asone.pl
 blacklist_from imdn@wp.pl
 blacklist_from *@imojbiznes.pl
 blacklist_from impresariat@artmail.pl
-blacklist_from *@incorprt.com
 blacklist_from indywidualnykurier@companybase.pl
 blacklist_from info02@sony.net
 blacklist_from info1@sony.com
@@ -655,6 +656,7 @@ blacklist_from info@winn-me.pl
 blacklist_from info@winn-my.pl
 blacklist_from info@wolex.lapy.pl
 blacklist_from info@w-smart.pl
+blacklist_from info@www.fbi.gov
 blacklist_from info@wypoczywaj-w-spa.pl
 blacklist_from info@xasac.sejny.pl
 blacklist_from *@info.xylionmail.pl
@@ -1278,6 +1280,7 @@ blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms0481.m.lrmailr.pl
 blacklist_from sekretariatnta@ms1620.m.lrmailr.pl
+blacklist_from sekretariatpro@ms1018.m.lrmailr.pl
 blacklist_from sekretariatryb@ms0481.m.lrmailr.pl
 blacklist_from sekretariatsbr@ms1523.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
@@ -1371,6 +1374,7 @@ blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from terminal@terminalikasa.pl
+blacklist_from test@mediaimpression.biz
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from test@totouch.jp
@@ -1417,12 +1421,14 @@ blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usulej-cholewa@ms0472.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1016.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1018.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1620.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1625.m.lrmailr.pl
 blacklist_from usxedlq@iornades.de
 blacklist_from uvlujtc@iornades.de
 blacklist_from uwpesdc@bizarteion.art
@@ -1489,7 +1495,6 @@ blacklist_from *@zatokaprawna.pl
 blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
 blacklist_from *@z.enewsletter.pl
-blacklist_from *@zeusisxe.com
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from zhengci@starmach.com.cn
 blacklist_from *@zibojinda.com
