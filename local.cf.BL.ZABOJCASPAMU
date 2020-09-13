@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-12 18:20 
+# Wygenerowana 2020-09-13 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -100,7 +100,6 @@ blacklist_from *@bankowefinansowanie.pl
 blacklist_from *@baransely.de
 blacklist_from barbara.porzycka@effectgroup.pl
 blacklist_from bartczakedward1970@wp.pl
-blacklist_from *@bayditrav.com
 blacklist_from baza@eniro.com
 blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
@@ -234,6 +233,7 @@ blacklist_from boklma@ms1620.m.lrmailr.pl
 blacklist_from bok@migen.zagan.pl
 blacklist_from bok.modlniczka@ms1019.m.lrmailr.pl
 blacklist_from boknta@ms0472.m.lrmailr.pl
+blacklist_from bokpru@ms0472.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@rusta.zagan.pl
 blacklist_from bokryb@ms1019.m.lrmailr.pl
@@ -241,9 +241,12 @@ blacklist_from bok@sehan.zagan.pl
 blacklist_from bok@sielaz.zgora.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok.szczecin@ms1523.m.lrmailr.pl
+blacklist_from bok.szperk@ms1624.m.lrmailr.pl
+blacklist_from bok.tarnow@ms1019.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bok@usbox.pl
 blacklist_from bok@vidert.zagan.pl
+blacklist_from bokwbi@ms1625.m.lrmailr.pl
 blacklist_from bokzgo@ms1020.m.lrmailr.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
@@ -1279,8 +1282,10 @@ blacklist_from sato@fredkan.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms0481.m.lrmailr.pl
+blacklist_from sekretariatkos@ms1018.m.lrmailr.pl
 blacklist_from sekretariatnta@ms1620.m.lrmailr.pl
 blacklist_from sekretariatpro@ms1018.m.lrmailr.pl
+blacklist_from sekretariatpro@ms1620.m.lrmailr.pl
 blacklist_from sekretariatryb@ms0481.m.lrmailr.pl
 blacklist_from sekretariatsbr@ms1523.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
@@ -1310,7 +1315,6 @@ blacklist_from serwis@gigantfine.com
 blacklist_from serwis@parscancer.com
 blacklist_from serwis@serwis-laptopow.warszawa.pl
 blacklist_from *@s.explanator.pl
-blacklist_from *@shchinoff.com
 blacklist_from shindak14@cnool.net
 blacklist_from *@shotmate.pl
 blacklist_from shutterstock@e.shutterstock.com
