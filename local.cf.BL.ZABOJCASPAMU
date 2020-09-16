@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-16 17:20 
+# Wygenerowana 2020-09-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -30,6 +30,7 @@ blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administracja@ony.onetenti.pl
 blacklist_from administrator@ale.onetenti.pl
 blacklist_from admin@jetkey168.myasustor.com
+blacklist_from admin@len.onetenti.pl
 blacklist_from admin@mailbox.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
@@ -400,6 +401,7 @@ blacklist_from e.nowacki@fundacja-d.pl
 blacklist_from *@eonandalyssa.com
 blacklist_from epoltorak@pomocnydoradca.com.pl
 blacklist_from ernest.nowacki@datasmart.pl
+blacklist_from Ernest.Rubinkowski@pl.zetes.com
 blacklist_from erp4systemy@gmail.com
 blacklist_from *@escoecm.com
 blacklist_from esobanska@ms0472.m.lrmailr.pl
@@ -513,6 +515,7 @@ blacklist_from info@a-fresh.pl
 blacklist_from info@agromichalscy.com.pl
 blacklist_from info@aktywnyrozwoj.biz.pl
 blacklist_from info@alepaczuszka.pl
+blacklist_from info@alixa.pl
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@astrartfcast.host
@@ -534,6 +537,7 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
+blacklist_from info@darewan.pl
 blacklist_from info@destechprofil.com
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
@@ -553,6 +557,7 @@ blacklist_from info@euro-noclegi.com
 blacklist_from *@info.fastymail.pl
 blacklist_from info@fbi.org
 blacklist_from *@info.fewmembers.pl
+blacklist_from info@fijanto.pl
 blacklist_from info@firmajutra.eu
 blacklist_from info@flakeservapi.live
 blacklist_from info@flipmailer.com
@@ -606,6 +611,7 @@ blacklist_from *@infordet.com
 blacklist_from informacja@owal41.edu.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
+blacklist_from info@robopeac.com
 blacklist_from info@sachss.pl
 blacklist_from infos@aediffusion.online
 blacklist_from info@sasayama-sec.co.jp
@@ -616,6 +622,7 @@ blacklist_from infos@newdiffusions.space
 blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
+blacklist_from infos@servicescom.space
 blacklist_from info@steelonline.pl
 blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@teisestarnai.lt
@@ -1174,6 +1181,7 @@ blacklist_from protektorzy@mailplanet.p
 blacklist_from Provident@tylkodlaciebie.eu
 blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from przylbica@po19cov.pl
+blacklist_from ps@kakrs.pl
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
 blacklist_from quality@sealind.in
@@ -1286,6 +1294,7 @@ blacklist_from serwis@parscancer.com
 blacklist_from serwis@serwis-laptopow.warszawa.pl
 blacklist_from *@s.explanator.pl
 blacklist_from shindak14@cnool.net
+blacklist_from shirley_yan@hiphing.com.hk
 blacklist_from *@shotmate.pl
 blacklist_from shutterstock@e.shutterstock.com
 blacklist_from simplex10@biznes-simplex.pl
@@ -1396,12 +1405,14 @@ blacklist_from ursa@promuj-polskie.katowice.pl
 blacklist_from ursa@promuj-polskie.rzeszow.pl
 blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
+blacklist_from usulej-cholewa@ms0471.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms0472.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1027.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1523.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1620.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1623.m.lrmailr.pl
 blacklist_from usulej-cholewa@ms1624.m.lrmailr.pl
+blacklist_from usulej-cholewa@ms1625.m.lrmailr.pl
 blacklist_from usxedlq@iornades.de
 blacklist_from uvlujtc@iornades.de
 blacklist_from uwpesdc@bizarteion.art
