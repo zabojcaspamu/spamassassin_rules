@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-18 16:50 
+# Wygenerowana 2020-09-18 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -14,6 +14,7 @@ blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3d@kk2021.pl
 blacklist_from 3ma@dvahey.pl
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclistmanager.com
+blacklist_from 4t6c6vbmub@bony-mail.eu
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from *@a2data.biz.pl
 blacklist_from abby@custommanu.com
@@ -100,7 +101,6 @@ blacklist_from *@bbsthene.com
 blacklist_from bdalmata@analitycymulti.pl
 blacklist_from bdalmata@firmowykredyt.com.pl
 blacklist_from belen-lm@jazzfree.com
-blacklist_from *@b-fresh.pl
 blacklist_from bg.lg@promet-safe.com
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro1@galeriasz.pl
@@ -219,9 +219,11 @@ blacklist_from bok@lebanza.zgora.pl
 blacklist_from boklma@ms1620.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1019.m.lrmailr.pl
 blacklist_from boknta@ms0472.m.lrmailr.pl
+blacklist_from bok@oferty-b2b.pl
 blacklist_from bokpru@ms0472.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@rusta.zagan.pl
+blacklist_from bok@rutarf.zgora.pl
 blacklist_from bok@sehan.zagan.pl
 blacklist_from bok@sielaz.zgora.pl
 blacklist_from bok@super-auto.eu
@@ -241,6 +243,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce-74385803@bounce.getresponse-mail.com
+blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@bankfirmowy.com.pl
 blacklist_from bounce@bankowykredytmsp.pl
 blacklist_from *@bounce.bluestatedigital.com
@@ -343,6 +346,7 @@ blacklist_from databases.en@company-catalogs.com
 blacklist_from databases.pl@company-catalogs.com
 blacklist_from david@oyosstore.com
 blacklist_from dawid.piaskowski@knownidea.pl
+blacklist_from dcrhpvdyf8@bony-mail.online
 blacklist_from dd555835971b597fa0ef2512d985d574@ypclistmanager.com
 blacklist_from decathlon@productcompany.pl
 blacklist_from *@decraftfwclt.com
@@ -408,6 +412,7 @@ blacklist_from espertiinelettronica@melchioni.it
 blacklist_from euroasia.marketing03@gmail.com
 blacklist_from ewa.gruszczyk@grupainfomax.com
 blacklist_from export@sanusfood.com
+blacklist_from export@sntradelink.in
 blacklist_from export@spainmeats.com
 blacklist_from *@express-contacts.com
 blacklist_from exsisdp@bolonsiama.de
@@ -522,6 +527,7 @@ blacklist_from info@athenartfcatch.club
 blacklist_from info@athenartfcatch.fun
 blacklist_from info@athenartfcatch.icu
 blacklist_from info@bestmailing24.pl
+blacklist_from info@b-fresh.pl
 blacklist_from info@bigdreamsmontessori.com
 blacklist_from info@bignote.pl
 blacklist_from info@b-send.pl
@@ -720,6 +726,7 @@ blacklist_from kono_home@hotmail.com
 blacklist_from konpol@data.pl
 blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
+blacklist_from konrad.musial@frb-edukacja.pl
 blacklist_from kontakt@adjme.com
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@ads-google.pl
