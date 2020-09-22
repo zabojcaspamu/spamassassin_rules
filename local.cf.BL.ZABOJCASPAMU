@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-22 16:00 
+# Wygenerowana 2020-09-22 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -140,6 +140,7 @@ blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@geniop.naklo.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
+blacklist_from biuro@incerta.naklo.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@jsmoney.pl
 blacklist_from biuro@klias.pisz.pl
@@ -205,6 +206,7 @@ blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@coreres.zgora.pl
 blacklist_from bok@dmsender.pl
 blacklist_from bok@faihez.zagan.pl
+blacklist_from bok@faloutu.lapy.pl
 blacklist_from bokgdy@ms1016.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0471.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0479.m.lrmailr.pl
@@ -222,12 +224,16 @@ blacklist_from bok.grojecka@ms0481.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.katowice@ms0479.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1016.m.lrmailr.pl
+blacklist_from bok@kuzymac.zgora.pl
 blacklist_from bok@lebanza.zgora.pl
 blacklist_from boklma@ms1620.m.lrmailr.pl
 blacklist_from bok.lubin@ms1625.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1019.m.lrmailr.pl
+blacklist_from bok.modlniczka@ms1523.m.lrmailr.pl
 blacklist_from boknta@ms0472.m.lrmailr.pl
 blacklist_from bok@oferty-b2b.pl
+blacklist_from bok@pirgaz.zgora.pl
+blacklist_from bok.promenada@ms1625.m.lrmailr.pl
 blacklist_from bokpru@ms0472.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@rusta.zagan.pl
@@ -254,7 +260,9 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce-74385803@bounce.getresponse-mail.com
+blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@bankfirmowy.com.pl
+blacklist_from bounce@bankingcorp.com.pl
 blacklist_from bounce@bankowykredytmsp.pl
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@credit-advice.pl
@@ -267,7 +275,9 @@ blacklist_from bounce@faktoring-bankowy.com.pl
 blacklist_from bounce@finance-corp.pl
 blacklist_from bounce@finansowane-deminimis.pl
 blacklist_from bounce@finansowanie-faktoring.com.pl
+blacklist_from bounce@finansowanie-limity.pl
 blacklist_from bounce@finansujemy-msp.pl
+blacklist_from bounce@finansujemyobrotowy.com.pl
 blacklist_from bounce@finansujemy-sme.pl
 blacklist_from bounce@fin-company.pl
 blacklist_from bounce@fin-services.pl
@@ -484,6 +494,7 @@ blacklist_from *@grovinpat.com
 blacklist_from *@gr-servizi.com
 blacklist_from grss@presidency.com
 blacklist_from *@grupojarisa.com
+blacklist_from grzegorz@abcpartner24.pl
 blacklist_from guest@caigrau.dk
 blacklist_from gwarancja@kredyt-bgk.pl
 blacklist_from gyan.gyanranjan2008@gmail.com
@@ -650,6 +661,7 @@ blacklist_from info@t-smart.pl
 blacklist_from info@vahop.sejny.pl
 blacklist_from info@ventor.lapy.pl
 blacklist_from info@visainc.com
+blacklist_from info@webcontext.live
 blacklist_from *@info.whitersend.pl
 blacklist_from info@wifisquare.pl
 blacklist_from info@windykacja-24h.pl
@@ -1317,7 +1329,6 @@ blacklist_from *@shotmate.pl
 blacklist_from shutterstock@e.shutterstock.com
 blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
-blacklist_from *@skansafar.com
 blacklist_from sklep@a.golfhelp.pl
 blacklist_from skoda@notice4you.pl
 blacklist_from *@slicplans.com
@@ -1327,6 +1338,7 @@ blacklist_from smnt@ms1027.m.lrmailr.pl
 blacklist_from smnt@ms1620.m.lrmailr.pl
 blacklist_from smp@ms0471.m.lrmailr.pl
 blacklist_from smp@ms1027.m.lrmailr.pl
+blacklist_from smtpf0x-fngcj@clearfinity53.com
 blacklist_from smtpfox-x36ba@genesisroyal.com
 blacklist_from smyk@oooli.eu
 blacklist_from *@s.okazik.pl
