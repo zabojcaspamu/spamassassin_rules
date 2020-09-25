@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-25 07:00 
+# Wygenerowana 2020-09-25 11:50 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -552,6 +552,7 @@ blacklist_from info@athenartfcatch.club
 blacklist_from info@athenartfcatch.fun
 blacklist_from info@athenartfcatch.icu
 blacklist_from info@bestmailing24.pl
+blacklist_from *@info.bestwaymail.net.pl
 blacklist_from info@b-fresh.pl
 blacklist_from info@bigdreamsmontessori.com
 blacklist_from info@bignote.pl
