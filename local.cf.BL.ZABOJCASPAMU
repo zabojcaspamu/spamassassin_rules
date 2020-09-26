@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-09-25 18:30 
+# Wygenerowana 2020-09-26 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1183,12 +1183,14 @@ blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from prana.parab2020@gmail.com
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
 blacklist_from prezent@sztefanwons.com
 blacklist_from prezent@wons123.com
 blacklist_from primar@onesti.ro
 blacklist_from *@primeestatz.com
+blacklist_from pr@ms0481.m.lrmailr.pl
 blacklist_from pr@ms1623.m.lrmailr.pl
 blacklist_from *@pro-activ.pl
 blacklist_from procurements@bansard.com.hk
@@ -1385,10 +1387,12 @@ blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from terminal@terminalikasa.pl
+blacklist_from test1@rokio.tv
 blacklist_from test@mediaimpression.biz
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from test@uasay.com
+blacklist_from thn2acwbhp@bony-mail.online
 blacklist_from titin.suhartini@airland.co.id
 blacklist_from t-mobile@mobile.olsztyn.pl
 blacklist_from tomasz.wasilewski@akademiaszkolenia.com.pl
@@ -1407,6 +1411,7 @@ blacklist_from travelist@motorun.pl
 blacklist_from travelist@offers4you.pl
 blacklist_from trenujzoske@gmail.com
 blacklist_from *@trioconferences.pl
+blacklist_from ts4@a.sunsesoft.wang
 blacklist_from *@ttnet.org
 blacklist_from tvp.robi.tortury@panelstyl.com.pl
 blacklist_from *@???.twoja-kolej.tk
