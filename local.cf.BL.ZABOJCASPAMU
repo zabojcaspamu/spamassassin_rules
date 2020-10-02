@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-10-02 13:40 
+# Wygenerowana 2020-10-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -16,6 +16,7 @@ blacklist_from 3ma@dvahey.pl
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@ypclistmanager.com
 blacklist_from 4t6c6vbmub@bony-mail.eu
 blacklist_from 4v3oz9u51b@paczki-mail.eu
+blacklist_from 570360009@sinyi.com.cn
 blacklist_from 77@siedemdziesiatsiedem.pl
 blacklist_from 8rzlmmwue0@paczki-mail.eu
 blacklist_from 9ijcuj0ibv@bony-mail.eu
@@ -210,6 +211,7 @@ blacklist_from bok@dousab.lapy.pl
 blacklist_from bok@facor.zgora.pl
 blacklist_from bok@faihez.zagan.pl
 blacklist_from bok@faloutu.lapy.pl
+blacklist_from bokgdy@ms1016.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0471.m.lrmailr.pl
 blacklist_from bok.gdynia@ms0481.m.lrmailr.pl
 blacklist_from bok.gdynia@ms1020.m.lrmailr.pl
@@ -219,6 +221,7 @@ blacklist_from bok@ib2c.pl
 blacklist_from bokkat@ms1624.m.lrmailr.pl
 blacklist_from bok.katowice@ms0479.m.lrmailr.pl
 blacklist_from bok.katowice@ms1520.m.lrmailr.pl
+blacklist_from bok.kazimierz@ms1018.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1016.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1016.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1523.m.lrmailr.pl
@@ -232,6 +235,7 @@ blacklist_from bok.lubin@ms1625.m.lrmailr.pl
 blacklist_from bok.modlniczka@ms1523.m.lrmailr.pl
 blacklist_from bokmpo@ms1016.m.lrmailr.pl
 blacklist_from boknta@ms0472.m.lrmailr.pl
+blacklist_from boknta@ms1523.m.lrmailr.pl
 blacklist_from boknta@ms1620.m.lrmailr.pl
 blacklist_from bok@oferty-b2b.pl
 blacklist_from bok.piaseczno@ms1523.m.lrmailr.pl
@@ -304,6 +308,7 @@ blacklist_from bounce@fin-services.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@infinity-advice.pl
+blacklist_from bounce@infinityadvisors.com.pl
 blacklist_from bounce@investbanking.pl
 blacklist_from bounce@kapitalobrotowy.pl
 blacklist_from bounce@konsolidacjafirmowa.pl
@@ -525,6 +530,7 @@ blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@hacksfarm.com
 blacklist_from hana@c2.hu
 blacklist_from handlowy@energooszczedne-ogrzewanie.pl
+blacklist_from hanna.marczak@yourbarter.pl
 blacklist_from *@hanvietco.com
 blacklist_from hapi@productcompany.pl
 blacklist_from *@hellineyes.com
@@ -702,6 +708,7 @@ blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
 blacklist_from inwestycje@ms0481.m.lrmailr.pl
 blacklist_from inwestycje@ms1016.m.lrmailr.pl
+blacklist_from inwestycje@ms1019.m.lrmailr.pl
 blacklist_from *@inxserver.com
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
@@ -900,6 +907,7 @@ blacklist_from mail@itenq.com.pl
 blacklist_from mail-paypal.inc@congress.gov.ph
 blacklist_from *@mail.semestr.pl
 blacklist_from *@mailsender.pl
+blacklist_from mail@ser03.sensen.com.pl
 blacklist_from mail@ser04.sensen.com.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
@@ -1342,6 +1350,7 @@ blacklist_from skoda@notice4you.pl
 blacklist_from *@slicplans.com
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
+blacklist_from smk@ms1027.m.lrmailr.pl
 blacklist_from smnt@ms0481.m.lrmailr.pl
 blacklist_from smnt@ms1027.m.lrmailr.pl
 blacklist_from smp@ms0471.m.lrmailr.pl
@@ -1463,6 +1472,7 @@ blacklist_from vectra@productcompany.pl
 blacklist_from ventas2@povasa.com.mx
 blacklist_from ventas@medicproducts.uno
 blacklist_from vi@bejena.pl
+blacklist_from vicov@mismin.pl
 blacklist_from vistahogar@eresmas.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
@@ -1499,6 +1509,7 @@ blacklist_from www-data@baza-biznesowa2019.pl
 blacklist_from www-data@finansowanie2019.pl
 blacklist_from www-data@finansowaniefirm2020.pl
 blacklist_from www-data@investorkirov.ru
+blacklist_from www-data@logotyp2021.pl
 blacklist_from www-data@marketingpromo.pl
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
@@ -1523,6 +1534,7 @@ blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
 blacklist_from zapytanie@swiatlowodorange.pl
 blacklist_from zapytanie.wycena@gmail.com
+blacklist_from zarp@pemabl.pl
 blacklist_from *@zatokaprawna.pl
 blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
