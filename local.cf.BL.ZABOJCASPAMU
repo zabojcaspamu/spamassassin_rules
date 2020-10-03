@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-10-03 18:20 
+# Wygenerowana 2020-10-03 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -27,7 +27,6 @@ blacklist_from abby@custommanu.com
 blacklist_from abduyhk@namagesy.de
 blacklist_from abuse@leclub.com.ve
 blacklist_from account-update@amazon.co.jp
-blacklist_from achknotify.almamarket.pl@windowsvps.host
 blacklist_from acohen@ihlgroup.com
 blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
@@ -282,11 +281,8 @@ blacklist_from *@bouledivoire.com
 blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
-blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
-blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
-blacklist_from bounce+admin=almamarket.pl@mail003.ashampoo.com
 blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@bankfirmowy.com.pl
 blacklist_from bounce@bankingcorp.com.pl
@@ -328,15 +324,6 @@ blacklist_from bounce@refinansowe-obrotowe.pl
 blacklist_from bounce@registry-ebr.com
 blacklist_from bounce@registry-ebr.org
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+10643200-5af0-bzawillo=almamarket.pl@sendgrid.net
-blacklist_from bounces+10643200-5b16-ajelonek=almamarket.pl@sendgrid.net
-blacklist_from bounces+14676516-9518-jpawlak=almamarket.pl@sendgrid.net
-blacklist_from bounces+480028-5932-smp=almamarket.pl@mail.ex2press.pl
-blacklist_from bounces+480028-aa01-sekretariatnta=almamarket.pl@mail.ex2press.pl
-blacklist_from bounces+6026489-dcd5-info=almamarket.pl@mailing.countdownthegame.com
-blacklist_from bounces+7900209-fc32-info=almamarket.pl@sendgrid.net
-blacklist_from bounces+8807282-c837-info=almamarket.pl@sendgrid.net
-blacklist_from bounces+8807282-e61c-zakup=almamarket.pl@sendgrid.net
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounce@smart-finanse.com.pl
 blacklist_from bounce@sndflow.life
@@ -660,6 +647,7 @@ blacklist_from info@kursbhp24.pl
 blacklist_from info@lamaletita.com
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
+blacklist_from *@info.letsclick.net.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lorbeer-info.eu
 blacklist_from *@info??.maildream.pl
@@ -682,6 +670,7 @@ blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@promolead.pl
 blacklist_from info@publikmusik.pl
+blacklist_from *@info.restarcop.pl
 blacklist_from informacja@owal41.edu.pl
 blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
@@ -1080,9 +1069,6 @@ blacklist_from noreply@streaming.qqpp.pl
 blacklist_from noreply@toughbook4you.eu
 blacklist_from notebook@odiezweb.com
 blacklist_from notice@amazon.com
-blacklist_from notify.info-almamarket.pl@matrade.gov.my
-blacklist_from notify.info-almamarket.pl@theonixcorp.com
-blacklist_from notify.zakup-almamarket.pl@coligne.com
 blacklist_from nowak@vv2.pl
 blacklist_from obowiazek_informacyjny@easyba.se
 blacklist_from obsluga@apteka-kamagra.com
