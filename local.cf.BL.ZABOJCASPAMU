@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-10-08 17:50 
+# Wygenerowana 2020-10-08 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -100,6 +100,7 @@ blacklist_from aybehkh@nelsions.nl
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
+blacklist_from b.anecka@crzseneka.pl
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
 blacklist_from bas@maoun.pl
@@ -131,6 +132,7 @@ blacklist_from biuro@dlaopiekuna1830.pl
 blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
+blacklist_from biuro@enklawakrynicamorska.com.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
 blacklist_from biuro@fastmail24.pl
@@ -284,9 +286,11 @@ blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
+blacklist_from bounce-74385803@bounce.getresponse-mail.com
 blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@bankfirmowy.com.pl
 blacklist_from bounce@bankingcorp.com.pl
+blacklist_from bounce@banking-corp.pl
 blacklist_from bounce@bankowe24-msp.com.pl
 blacklist_from bounce@bankowe-obrotowe.com.pl
 blacklist_from bounce@bankowykredytmsp.com.pl
@@ -406,6 +410,7 @@ blacklist_from *@decraftfwclt.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
+blacklist_from d.guminska@bt.bielsko.pl
 blacklist_from dieta@doktorbio.net
 blacklist_from digrsolution@gmail.com
 blacklist_from dobraimpreza@jedrowskishow.pl
@@ -535,6 +540,7 @@ blacklist_from handlowy@energooszczedne-ogrzewanie.pl
 blacklist_from hanna.marczak@yourbarter.pl
 blacklist_from *@hanvietco.com
 blacklist_from hapi@productcompany.pl
+blacklist_from harrielimburg75@gmail.com
 blacklist_from *@hellineyes.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from helpsss@un.net
@@ -1195,6 +1201,7 @@ blacklist_from poradnik@wons123.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
+blacklist_from pozycjonowanie@mailsender.com
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
 blacklist_from preparat.as@wp.pl
@@ -1240,6 +1247,7 @@ blacklist_from returns@najlepszyisp.pl
 blacklist_from returns@ratingfirm.pl
 blacklist_from returns@topinie.pl
 blacklist_from rfrankowski@ms1523.m.lrmailr.pl
+blacklist_from rfylvg6cdx@bony-mail.eu
 blacklist_from robert.lewczuk@frb-data.pl
 blacklist_from robertomoretti2003@gmail.com
 blacklist_from roman@almar-sport.pl
@@ -1343,6 +1351,7 @@ blacklist_from serwis@parscancer.com
 blacklist_from serwis@serwis-laptopow.warszawa.pl
 blacklist_from *@s.explanator.pl
 blacklist_from shindak14@cnool.net
+blacklist_from Shirley@marsamsolar.com
 blacklist_from shirley_yan@hiphing.com.hk
 blacklist_from *@shotmate.pl
 blacklist_from shutterstock@e.shutterstock.com
@@ -1408,7 +1417,6 @@ blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from terminal@terminalikasa.pl
-blacklist_from *@teslamun.com
 blacklist_from test1@rokio.tv
 blacklist_from test@homesbygaryfoote.com
 blacklist_from test@mediaimpression.biz
