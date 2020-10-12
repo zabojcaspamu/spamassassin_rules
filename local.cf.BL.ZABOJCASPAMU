@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-10-12 12:40 
+# Wygenerowana 2020-10-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -43,6 +43,7 @@ blacklist_from admin@len.onetenti.pl
 blacklist_from admin@mailbox.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
+blacklist_from admin@skyinvesting.pl
 blacklist_from admin@sudokulive.net
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
@@ -85,6 +86,7 @@ blacklist_from antek@vps17888.ovh.net
 blacklist_from *@anteny.dla-najlepszych.pl
 blacklist_from anvix@anvix.pl
 blacklist_from *@aon.at
+blacklist_from ap_queries_switzerland@barry-callebaut.com
 blacklist_from *@aprendocroche.com
 blacklist_from aqcyxbs@namagesy.de
 blacklist_from aqivolhpmj@bony-mail.eu
@@ -213,6 +215,7 @@ blacklist_from bok@disacan.jgora.pl
 blacklist_from bok@dousab.lapy.pl
 blacklist_from bok@facor.zgora.pl
 blacklist_from bok@faihez.zagan.pl
+blacklist_from bok@fajau.lapy.pl
 blacklist_from bok@faloutu.lapy.pl
 blacklist_from bokgdy@ms1016.m.lrmailr.pl
 blacklist_from bokgka@ms1019.m.lrmailr.pl
@@ -289,6 +292,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce-74385803@bounce.getresponse-mail.com
+blacklist_from bounceback@connect.hpe.com
 blacklist_from bounceback@rx.mipim.com
 blacklist_from bounce@bankingcorp.com.pl
 blacklist_from bounce@banking-corp.pl
@@ -299,6 +303,7 @@ blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@credit-advice.pl
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@ebankowy-kredytmsp.pl
+blacklist_from bounce@ekspert-factoring.com.pl
 blacklist_from bounce@emailersz.com
 blacklist_from bounce@faktoring-ekspert.com.pl
 blacklist_from bounce@finance-corp.pl
@@ -306,6 +311,7 @@ blacklist_from bounce@finansowane-deminimis.pl
 blacklist_from bounce@finansowanie-faktoring.com.pl
 blacklist_from bounce@finansowanie-firmy.pl
 blacklist_from bounce@finansowanie-limity.pl
+blacklist_from bounce@finansowanienabank.pl
 blacklist_from bounce@finansowanierefinansowe.pl
 blacklist_from bounce@finansujemy-firmy.pl
 blacklist_from bounce@finansujemymsp.pl
@@ -595,6 +601,7 @@ blacklist_from info@bigdreamsmontessori.com
 blacklist_from info@bignote.pl
 blacklist_from info@botbitcoin.pl
 blacklist_from info@b-send.pl
+blacklist_from info@camrers.lapy.pl
 blacklist_from info@centralcaveapi.live
 blacklist_from info@coastersaler.gq
 blacklist_from info@compassexpo.info
@@ -635,6 +642,7 @@ blacklist_from info@gatewaygovuk?.us
 blacklist_from info@gpawardprom.com
 blacklist_from info@g-smart.pl
 blacklist_from info@hiitnfit.com
+blacklist_from info@hingerlas.xyz
 blacklist_from info@iitsale.pl
 blacklist_from info@incermane.biz.ua
 blacklist_from info@info.arreglo.pw
@@ -1078,6 +1086,7 @@ blacklist_from noreply@nfmail???.pl
 blacklist_from noreply@ofertasuper.pl
 blacklist_from noreply@on-letter.info
 blacklist_from no-reply@ostatnia.pl
+blacklist_from noreply@polexpert.edu.pl
 blacklist_from no-reply@smn.gov.ar
 blacklist_from noreply@streaming.qqpp.pl
 blacklist_from noreply@toughbook4you.eu
