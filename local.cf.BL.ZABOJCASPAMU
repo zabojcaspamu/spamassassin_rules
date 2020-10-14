@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-10-13 18:30 
+# Wygenerowana 2020-10-14 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -39,6 +39,7 @@ blacklist_from admin@fmcserver.co
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administracja@ony.onetenti.pl
+blacklist_from administrator@postmaster.net
 blacklist_from admin@len.onetenti.pl
 blacklist_from admin@mailbox.com
 blacklist_from adminmailingu@pckp.pl
@@ -589,6 +590,8 @@ blacklist_from info@a-fresh.pl
 blacklist_from info@aktywnyrozwoj.biz.pl
 blacklist_from info@alixa.pl
 blacklist_from info@allgoodrtfask.space
+blacklist_from info@angertfbit.space
+blacklist_from info@anglertfblast.space
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@arctechsoler.com
 blacklist_from info@asd???.eczysto??.pl
@@ -880,6 +883,7 @@ blacklist_from lilbd@gmail.com
 blacklist_from l.mikolajczak@ogicom.pl
 blacklist_from Lotto@delotto-nl.eu
 blacklist_from lpromocje_firmy@onet.pl
+blacklist_from lukasz@masktohave.com
 blacklist_from luke.skywalker1967@wp.pl
 blacklist_from lumumba@mail.com
 blacklist_from lvcumb8s3v@bony-mail.online
@@ -1248,6 +1252,7 @@ blacklist_from *@retailshow.pl
 blacklist_from return@mail.promocjeweb.eu
 blacklist_from returns@internetspeed.pl
 blacklist_from returns@najlepszyisp.pl
+blacklist_from returns@opolskapanorama.pl
 blacklist_from returns@ratingfirm.pl
 blacklist_from returns@topinie.pl
 blacklist_from rfrankowski@ms1523.m.lrmailr.pl
@@ -1360,6 +1365,7 @@ blacklist_from Shirley@marsamsolar.com
 blacklist_from shirley_yan@hiphing.com.hk
 blacklist_from *@shotmate.pl
 blacklist_from shutterstock@e.shutterstock.com
+blacklist_from siety@innaact.pl
 blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
 blacklist_from sklep@a.golfhelp.pl
@@ -1453,6 +1459,7 @@ blacklist_from tvp.robi.tortury@panelstyl.com.pl
 blacklist_from *@???.twoja-kolej.tk
 blacklist_from twojdoradca@biznes2biznes.com
 blacklist_from *@twoomail.com
+blacklist_from txxshuihy5@hostname24.site
 blacklist_from u93ckabyzd@cloudserwer.eu
 blacklist_from ubmurln@nasterms.de
 blacklist_from ubtoknz@balanates.network
