@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-11-07 16:30 
+# Wygenerowana 2020-11-07 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -13,6 +13,7 @@ blacklist_from 2b0024d6441dbf45f344d208ea238016@kontaktybiznesowe.pl
 blacklist_from 2ddf949650a12bb3d69b55ad24b03ad2@kontaktybiznesowe.pl
 blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
+blacklist_from 2y9bcd8bek@cloudserwer.eu
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 3z96mkwfzr@vps-email.eu
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@kontaktybiznesowe.pl
@@ -315,6 +316,7 @@ blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@bounce.content.pwc.com
 blacklist_from bounce@credit-advice.pl
 blacklist_from bounced@euve?????.serverprofi24.com
+blacklist_from bounce@faktoring-bankowy.com.pl
 blacklist_from bounce@faktoring-ekspert.com.pl
 blacklist_from bounce@finansowanie-firmy.com.pl
 blacklist_from bounce@finansowanie-firmy.pl
@@ -352,6 +354,7 @@ blacklist_from bounce@uproszczone-finansowanie.com.pl
 blacklist_from bounce@villeneuiek.com
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
+blacklist_from brylkabhp@bhpnaklo.pl
 blacklist_from bstanczak@ms1444.m.lrmailr.pl
 blacklist_from *@bsuportal.com
 blacklist_from *@businesscampaign.pl
@@ -391,7 +394,6 @@ blacklist_from ckl@ckl.pl
 blacklist_from clea@entropia.com.mx
 blacklist_from *@closeneighbor.com
 blacklist_from coleacp@info.coleacp.org
-blacklist_from *@compalsmt.com
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
 blacklist_from conceptronic@conceptronic.pl
@@ -868,6 +870,7 @@ blacklist_from kontakt@szkolenia-handlowcow.pl
 blacklist_from kontakt@szkoleniaplatformawiedzy.pl
 blacklist_from kontakt@tnij-koszty-energii.pl
 blacklist_from kontakt@toubezpieczenie.pl
+blacklist_from kontakt@trade.scc.org.pl
 blacklist_from kontakt@twojrozwoj.biz.pl
 blacklist_from kontakt@unitedvalue.pl
 blacklist_from kontakt@webinar-rodo.pl
@@ -1529,6 +1532,7 @@ blacklist_from www-data@adverce2020.pl
 blacklist_from www-data@investorkirov.ru
 blacklist_from www-data@logotyp2021.pl
 blacklist_from www-data@marketingpromo.pl
+blacklist_from www-data@novitests.com.pl
 blacklist_from www-data@novi-tests.pl
 blacklist_from www-data@pomocprawna2020.pl
 blacklist_from www-data@profit-ad.pl
