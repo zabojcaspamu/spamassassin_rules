@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-11-16 17:30 
+# Wygenerowana 2020-11-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -58,6 +58,7 @@ blacklist_from admin@hor.ofertys.pl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administracja@eny.infoteny.pl
+blacklist_from administrator@mesy.ofertys.pl
 blacklist_from administrator@postmaster.net
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@newsletter.izntrade.com
@@ -158,6 +159,7 @@ blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
 blacklist_from biuro@hotelmagazin.pl
+blacklist_from biuro@incerta.naklo.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
@@ -290,6 +292,7 @@ blacklist_from bounce-1198703@bounce.getresponse-mail.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
+blacklist_from bounce-42711501@bounce.getresponse-mail.com
 blacklist_from bounce-74385803@bounce.getresponse-mail.com
 blacklist_from bounceback@connect.hpe.com
 blacklist_from bounceback@rx.mapic.com
@@ -339,6 +342,7 @@ blacklist_from bounce@smart-finanse.com.pl
 blacklist_from bounce@smartfinanse.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@todomailmarket.com
+blacklist_from bounce@tradebanking.pl
 blacklist_from bounce@twojelogo.co.pl
 blacklist_from bounce@uproszczone-finansowanie.com.pl
 blacklist_from *@brittandalex.com
@@ -543,6 +547,7 @@ blacklist_from *@grovinpat.com
 blacklist_from *@gr-servizi.com
 blacklist_from grss@presidency.com
 blacklist_from *@grupojarisa.com
+blacklist_from gwarancja@kredyt-bgk.pl
 blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@gyhousing.com
 blacklist_from h9fusvwet7@zrzutkaweb.online
@@ -841,6 +846,7 @@ blacklist_from kontakt@schody-bez-vat.pl
 blacklist_from kontakt@sendhub.pl
 blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@smesolutions.pl
+blacklist_from kontakt@suplementyodpornosc.pl
 blacklist_from kontakt@szkolenia-handlowcow.pl
 blacklist_from kontakt@szkoleniaplatformawiedzy.pl
 blacklist_from kontakt@tnij-koszty-energii.pl
@@ -1362,7 +1368,6 @@ blacklist_from stronywwwdorota@gmail.com
 blacklist_from *@sundormon.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
-blacklist_from *@suplementyodpornosc.pl
 blacklist_from support@mail.com
 blacklist_from support@rieth-kg.de
 blacklist_from *@syriusgroup.com
