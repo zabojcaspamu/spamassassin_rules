@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2019-03-17
+# Ostatnia aktualizacja 2020-05-23
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -170,9 +170,9 @@ header      ZABOJCASPAMU_SPAMWARE_XMAILER_eMailink    X-Mailer =~ /^\s*eMailink 
 describe    ZABOJCASPAMU_SPAMWARE_XMAILER_eMailink    SPAMWARE X-Mailer (DSPAM_autolearn)  
 score       ZABOJCASPAMU_SPAMWARE_XMAILER_eMailink    3.0    
 
-header      ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mailer    X-Mailer =~ /^\s*GOOD Mailer v\d+\.\d+$/
-describe    ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mailer    SPAMWARE X-Mailer GOOD Mailer 
-score       ZABOJCASPAMU_SPAMWARE_XMAILER_GOOD_Mailer    3.0    
+header      ZABOJCASPAMU_SPAMWARE_XMAILER_gMailer    X-Mailer =~ /^\s*GOOD Mailer v\d+\.\d+$/
+describe    ZABOJCASPAMU_SPAMWARE_XMAILER_gMailer    SPAMWARE X-Mailer GOOD Mailer 
+score       ZABOJCASPAMU_SPAMWARE_XMAILER_gMailer    3.0    
 
 header      ZABOJCASPAMU_XMAILER_mLogic    X-Mailer =~ /^\s*mLogic$/  
 describe    ZABOJCASPAMU_XMAILER_mLogic    Strange X-Mailer mLogic (DSPAM_autolearn) 
