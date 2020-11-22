@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-11-22 16:50 
+# Wygenerowana 2020-11-22 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -40,6 +40,7 @@ blacklist_from 84e7deaff611c02db147046c0db2f297@kontaktybiznesowe.pl
 blacklist_from 8t70k3t4ib@hostname24.eu
 blacklist_from 8uieq0j1us@cloudserwer.eu
 blacklist_from 97518bm8sy@cloudserwer.online
+blacklist_from 99yegneqhq@zrzutkaweb.online
 blacklist_from 9mo9pvhtgn@cloudserwer.eu
 blacklist_from 9w03e2zuqb@vps-email.eu
 blacklist_from *@a2data.biz.pl
@@ -250,11 +251,13 @@ blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@factoring-ekspert.com.pl
 blacklist_from bounce@faktoring-24.pl
 blacklist_from bounce@faktoring-bankowy.com.pl
+blacklist_from bounce@faktoringbankowy.com.pl
 blacklist_from bounce@finansowaniedeminimis.pl
 blacklist_from bounce@finansowanie-faktoring.com.pl
 blacklist_from bounce@finansowanie-limity.pl
 blacklist_from bounce@finansowanienabank.pl
 blacklist_from bounce@finansujemyfirmy.com.pl
+blacklist_from bounce@finansujemyobrotowy.pl
 blacklist_from bounce@finansujemy-sme.pl
 blacklist_from bounce@fin-company.pl
 blacklist_from bounce@finprom.com.pl
@@ -281,6 +284,7 @@ blacklist_from bounce@todomailmarket.com
 blacklist_from bounce@tradebanking.pl
 blacklist_from bounce@tradeholding.com.pl
 blacklist_from bounce@twojelogo.co.pl
+blacklist_from bounce@uproszczone-finansowanie.com.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from brylkabhp@bhpnaklo.pl
@@ -660,7 +664,6 @@ blacklist_from izabela@korporacja-arka.net
 blacklist_from iza@ekredytowaniefirm.pl
 blacklist_from i.zurawska@ark-skills.com
 blacklist_from j8qz02vttz@hostname24.online
-blacklist_from *@jackyglez.com
 blacklist_from jakub@korzystnapropozycja4.com.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from *@jbwilsonsbbq.com
@@ -752,6 +755,7 @@ blacklist_from kontakt@sendhub.pl
 blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@smesolutions.pl
 blacklist_from kontakt@suplementyodpornosc.pl
+blacklist_from kontakt@systembc.eu
 blacklist_from kontakt@szkolenia-handlowcow.pl
 blacklist_from kontakt@szkoleniaplatformawiedzy.pl
 blacklist_from kontakt@tnij-koszty-energii.pl
@@ -1242,7 +1246,6 @@ blacklist_from techniki@technikitelemarketingu.pl
 blacklist_from techniki@technikitelemarketingu.warszawa.pl
 blacklist_from techniki@technikitelemarketingu.waw.pl
 blacklist_from techniki@techsprzedazy.info.pl
-blacklist_from *@teczka.co.pl
 blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
@@ -1367,5 +1370,6 @@ blacklist_from zwroty@oobo.info
 blacklist_from zwroty@propozycja.co.pl
 blacklist_from zwroty@przekonaj.co.pl
 blacklist_from zwroty@swiatowy.co.pl
+blacklist_from zwroty@teczka.co.pl
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
