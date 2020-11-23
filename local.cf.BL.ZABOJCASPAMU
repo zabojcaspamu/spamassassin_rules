@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-11-23 17:30 
+# Wygenerowana 2020-11-23 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -54,6 +54,7 @@ blacklist_from admin@cdcom.dp.ua
 blacklist_from admin@hor.ofertys.pl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
+blacklist_from administrator@hor.ofertys.pl
 blacklist_from administrator@mesy.ofertys.pl
 blacklist_from administrator@typo.ofertys.pl
 blacklist_from adminmailingu@pckp.pl
@@ -235,11 +236,13 @@ blacklist_from bounce@factoring-ekspert.com.pl
 blacklist_from bounce@faktoring-24.pl
 blacklist_from bounce@faktoring-bankowy.com.pl
 blacklist_from bounce@faktoringbankowy.com.pl
+blacklist_from bounce@faktoring-ekspert.com.pl
 blacklist_from bounce@finansowaniedeminimis.pl
 blacklist_from bounce@finansowanie-faktoring.com.pl
 blacklist_from bounce@finansowanie-limity.pl
 blacklist_from bounce@finansowanienabank.pl
 blacklist_from bounce@finansujemyfirmy.com.pl
+blacklist_from bounce@finansujemymsp.pl
 blacklist_from bounce@finansujemyobrotowy.pl
 blacklist_from bounce@finansujemy-sme.pl
 blacklist_from bounce@fin-company.pl
@@ -621,6 +624,7 @@ blacklist_from info@wist14.pl
 blacklist_from info@wsparciefirm.online
 blacklist_from info@wypoczywaj-w-spa.pl
 blacklist_from *@info.xylionmail.pl
+blacklist_from infoz@piekary.pl
 blacklist_from infu@piomi.pl
 blacklist_from *@inkersallstars.com
 blacklist_from *@inquisio.pl
@@ -802,6 +806,7 @@ blacklist_from mailing@klikadu.pl
 blacklist_from mailing@koszykzakupow.com.pl
 blacklist_from mailing@mailing.lulek.tv
 blacklist_from mailing@mobileb2b.pl
+blacklist_from mailing@propertystock.pl
 blacklist_from *@?.mailing.salelifter.com
 blacklist_from mailing@sampledata.pl
 blacklist_from mailing@serwer1428640.home.pl
@@ -1068,6 +1073,7 @@ blacklist_from poxym@jbimzkjm.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
 blacklist_from pracawarszawa@ms1444.m.lrmailr.pl
+blacklist_from prana.parab2020@gmail.com
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
 blacklist_from prezent@sztefanwons.com
@@ -1222,6 +1228,7 @@ blacklist_from tadeusz.krostka@eu.kruk.pl
 blacklist_from *@takivakti.com
 blacklist_from *@tanisklad.dla-najlepszych.pl
 blacklist_from targetmarketing@emailing2.info.pl
+blacklist_from tarun@intelliroglobal.net
 blacklist_from techniki@technikiszkolenia.info.pl
 blacklist_from techniki@technikitelemarketingu24.pl
 blacklist_from techniki@technikitelemarketingu.pl
