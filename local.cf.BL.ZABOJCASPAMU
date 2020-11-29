@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-11-29 13:30 
+# Wygenerowana 2020-11-29 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -1046,6 +1046,7 @@ blacklist_from root@runonhot.xyz
 blacklist_from root@stamegna.eu
 blacklist_from root@vps569360.ovh.net
 blacklist_from root@vps608161.ovh.net
+blacklist_from root@vps608426.ovh.net
 blacklist_from root@vps608979.ovh.net
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps627155.ovh.net
@@ -1139,6 +1140,7 @@ blacklist_from szkolenia@mediaexpln.pl
 blacklist_from szkolenia@mplaw.pl
 blacklist_from szkoleniaonlinecom@szkoleniaonlinecom.pl
 blacklist_from szkolenia@pcdk.pl
+blacklist_from szkolenia@platforma-wiedzy.pl
 blacklist_from szkolenia@sfirmowe.biz.pl
 blacklist_from szkolenia@skillgroup.pl
 blacklist_from szkolenia@szkoleniakrajowe.biz.pl
@@ -1148,7 +1150,6 @@ blacklist_from szkolenie@certyfikowane-szkolenie.pl
 blacklist_from szkolenie@systemszkolenia.pl
 blacklist_from szukaj@wyszukiwalnia.pl
 blacklist_from tadeusz.krostka@eu.kruk.pl
-blacklist_from *@takivakti.com
 blacklist_from *@tanisklad.dla-najlepszych.pl
 blacklist_from targetmarketing@emailing2.info.pl
 blacklist_from techniki@technikiszkolenia.info.pl
@@ -1246,7 +1247,6 @@ blacklist_from *@xpressus.emsmtp.us
 blacklist_from y9cqfi2l24@hostname24.eu
 blacklist_from yprudyf@bestrobin.li
 blacklist_from ywtycsz@ferzions.at
-blacklist_from *@zackdeal.com
 blacklist_from zajenato@perdamilio.pl
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zanj@bilkaiba.pl
