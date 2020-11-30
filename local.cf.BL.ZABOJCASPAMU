@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-11-30 18:20 
+# Wygenerowana 2020-11-30 18:30 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -209,8 +209,6 @@ blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
 blacklist_from bounce-133397@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
-blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
-blacklist_from bounce+344849-2-9485c51617+mpuchala=almamarket.pl@mkt.parfois.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce@bankowe-firmy.com.pl
 blacklist_from bounce@biznes-corp.pl
@@ -246,8 +244,6 @@ blacklist_from bounce@pwm0.com
 blacklist_from bounce@refinansowe-obrotowe.pl
 blacklist_from bounce@registry-ebr.org
 blacklist_from bounce@response.cognex.com
-blacklist_from bounces+480028-5932-smp=almamarket.pl@mail.ex2press.pl
-blacklist_from bounces+480028-aa01-sekretariatnta=almamarket.pl@mail.ex2press.pl
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounce@smart-finanse.com.pl
 blacklist_from bounces@streaming.qqpp.pl
@@ -479,12 +475,11 @@ blacklist_from info9@multidealcorporation.com
 blacklist_from info@adretionse.co.ua
 blacklist_from info@advicemedem.it
 blacklist_from info@aktywnyrozwoj.biz.pl
+blacklist_from *@info.ambermail.pl
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
-blacklist_from info-bmazgaj=almamarket.pl@edmceoattendevent.info
-blacklist_from info-bmazgaj=almamarket.pl@openceotrendevent.info
 blacklist_from info@botbitcoin.pl
 blacklist_from info@b-send.pl
 blacklist_from info@c-fresh.pl
@@ -530,9 +525,6 @@ blacklist_from info@info.arreglo.pw
 blacklist_from info@info.oddk.pl
 blacklist_from info@info.sprzatanieonline.pl
 blacklist_from *@info.jabtrade.pl
-blacklist_from info-jmazgaj=almamarket.pl@edmceoattendevent.info
-blacklist_from info-jponikiewicz=almamarket.pl@edmceoattendevent.info
-blacklist_from info-jponikiewicz=almamarket.pl@sysevienmarus.info
 blacklist_from info@kalendarze2k21.pl
 blacklist_from info@kartyplastikowe2015.pl
 blacklist_from info@kontaktportal.pl
@@ -550,18 +542,16 @@ blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
 blacklist_from *@info.mailtracker.pl
 blacklist_from *@info.megansprint.pl
-blacklist_from info-mjedrzejczyk=almamarket.pl@openceotrendevent.info
 blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@mrlite.in
 blacklist_from info@ms1444.m.lrmailr.pl
 blacklist_from info@multibanki.pl
-blacklist_from info-mwojdon=almamarket.pl@edmceoattendevent.info
-blacklist_from info-mwojdon=almamarket.pl@openceotrendevent.info
 blacklist_from info@news-1etter.xyz
 blacklist_from info@niemozliwe.com.pl
 blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@okazje-info.com.pl
+blacklist_from *@info.popularsending.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@protexnv.be
 blacklist_from info@publikmusik.pl
@@ -924,7 +914,6 @@ blacklist_from no-reply@smn.gov.ar
 blacklist_from noreply@streaming.qqpp.pl
 blacklist_from noreplys@typwa.online
 blacklist_from noreply@toughbook4you.eu
-blacklist_from notify.info-almamarket.pl@matrade.gov.my
 blacklist_from o83ygxbpui@zrzutkaweb.online
 blacklist_from obowiazek_informacyjny@easyba.se
 blacklist_from obsluga@apteka-kamagra.com
