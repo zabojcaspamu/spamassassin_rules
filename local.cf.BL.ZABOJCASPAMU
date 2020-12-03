@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-03 17:20 
+# Wygenerowana 2020-12-03 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -314,7 +314,9 @@ blacklist_from csk@csk-partner.pl
 blacklist_from csk@warszawa.csk-partner.pl
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
+blacklist_from cx122@nc122.cl0.pl
 blacklist_from cx167@nc167.cl0.pl
+blacklist_from cx319@nc319.cl0.pl
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@kontaktybiznesowe.pl
 blacklist_from damian.kaszuba@lpkruk.eu
 blacklist_from databases.en@company-catalogs.com
@@ -422,6 +424,9 @@ blacklist_from *@fuoridiciao.com
 blacklist_from fw7b94vmiq@zrzutkaweb.online
 blacklist_from fx367@nf367.fd0.pl
 blacklist_from fx423@nf423.fd0.pl
+blacklist_from fx427@nf427.fd0.pl
+blacklist_from fx511@nf511.fd0.pl
+blacklist_from fx536@nf536.fd0.pl
 blacklist_from fx541@nf541.fd0.pl
 blacklist_from *@garrachachraf.com
 blacklist_from *@garyblumbergpc.com
@@ -486,6 +491,7 @@ blacklist_from info@adretionse.co.ua
 blacklist_from info@advicemedem.it
 blacklist_from info@aktywnyrozwoj.biz.pl
 blacklist_from info@amburtfbargain.space
+blacklist_from info@andrewscottsolicitor.co.uk
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@automotive.info.pl
@@ -792,10 +798,12 @@ blacklist_from marketing@team-expert.pl
 blacklist_from marketing@towergraphics.pl
 blacklist_from mark@wykawaizami.pl
 blacklist_from marydan043@bol.com.br
+blacklist_from marzena@kredytydlafirm24.com.pl
 blacklist_from mateusz@okazje-pozyczek.pl
 blacklist_from mateusz@pozyczkiprzez.net
 blacklist_from mateuszszpinda@gmail.com
 blacklist_from matylda@auto-trader.pl
+blacklist_from max2@zabilinaaip.pl
 blacklist_from mbank?@companiero.waw.pl
 blacklist_from mbank@companiero.waw.pl
 blacklist_from *@m.businesscampaign.pl
@@ -988,6 +996,7 @@ blacklist_from owocowe777@inboxtouch.co.in
 blacklist_from ox635@no635.om0.pl
 blacklist_from ox638@no638.om0.pl
 blacklist_from ox698@no698.om0.pl
+blacklist_from ox721@no721.om0.pl
 blacklist_from ox804@no804.om0.pl
 blacklist_from oxy@jeztypuizmna.pl
 blacklist_from oxyme@scpdopog.pl
@@ -1024,6 +1033,7 @@ blacklist_from poradnik@wons123.com
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
+blacklist_from powerlite@mail.com
 blacklist_from poxym@jbimzkjm.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
@@ -1225,8 +1235,11 @@ blacklist_from twojdoradca@biznes2biznes.com
 blacklist_from *@twoomail.com
 blacklist_from tx210@nt210.tenmlnc.pl
 blacklist_from tx232@nt232.tenmlnc.pl
+blacklist_from tx333@nt333.tenmlnc.pl
 blacklist_from tx399@nt399.tenmlnd.pl
+blacklist_from tx423@nt423.tenmlnd.pl
 blacklist_from tx431@nt431.tenmlnd.pl
+blacklist_from tx438@nt438.tenmlnd.pl
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
 blacklist_from *@unithemex.com
