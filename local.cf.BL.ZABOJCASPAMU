@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-11 16:50 
+# Wygenerowana 2020-12-11 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -37,6 +37,7 @@ blacklist_from abuse@leclub.com.ve
 blacklist_from *@accutacne.com
 blacklist_from aclebqc@sintoskym.es
 blacklist_from adam@old-timers.pl
+blacklist_from adam.wozniak@bilkaiba.pl
 blacklist_from admin1@poczta-pol.info
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@go.surveymonkey.com
@@ -243,6 +244,7 @@ blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@bounce.content.pwc.com
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@factoringfinansowanie.com.pl
+blacklist_from bounce@faktoring-24.pl
 blacklist_from bounce@finansowanie-obrotowe.com.pl
 blacklist_from bounce@finansowanie-obrotowe.pl
 blacklist_from bounce@finansujemy-obroowy.com.pl
@@ -454,6 +456,7 @@ blacklist_from gyan.gyanranjan2008@gmail.com
 blacklist_from *@gyhousing.com
 blacklist_from *@hacksfarm.com
 blacklist_from handlowy@energooszczedne-ogrzewanie.pl
+blacklist_from handlowy@salutem.com.pl
 blacklist_from hansbergamsee@gmx.de
 blacklist_from *@hanvietco.com
 blacklist_from hapi@productcompany.pl
@@ -679,6 +682,7 @@ blacklist_from konferencja@cpi-sk.com.pl
 blacklist_from konpol@data.pl
 blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
+blacklist_from konrad.zielinski@creditsolution.pl
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@apteka-kamagra.com
@@ -700,6 +704,7 @@ blacklist_from kontakt@naprawdach.pl
 blacklist_from kontakt@netget.pl
 blacklist_from kontakt@obslugawierzytelnosci.pl
 blacklist_from kontakt@odbieramto.com.pl
+blacklist_from kontakt@ofe3.pl
 blacklist_from kontakt@oferta-na-fotowoltaike.pl
 blacklist_from kontakt@*.olix-polska.com
 blacklist_from kontakt@pfw.com.pl
@@ -713,6 +718,7 @@ blacklist_from kontakt@poufnoscdanych.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@rodo-edukacja.pl
 blacklist_from kontakt@sendhub.pl
+blacklist_from kontakt@serv8b.pl
 blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@smesolutions.pl
 blacklist_from kontakt@suplementyodpornosc.pl
@@ -951,7 +957,6 @@ blacklist_from odbicia@promolead.pl
 blacklist_from odbicia@s-energy.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
 blacklist_from odbicia@terremail.eu
-blacklist_from *@ofe3.pl
 blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
@@ -1073,6 +1078,7 @@ blacklist_from returns@rejestrisp.pl
 blacklist_from returns@speedomatic.pl
 blacklist_from rfrankowski@ms1444.m.lrmailr.pl
 blacklist_from robert.lewczuk@frb-dane.pl
+blacklist_from robert.lewczuk@frb-data.pl
 blacklist_from robertomoretti2003@gmail.com
 blacklist_from rol35ofg5k@paczki-serwer150.site
 blacklist_from roman@almar-sport.pl
@@ -1108,6 +1114,7 @@ blacklist_from sales@doitforsafety.com
 blacklist_from sales@great-toolz.com
 blacklist_from *@salesmanago.io
 blacklist_from sales@tools-mailer.com
+blacklist_from sales@zjgmorale.com
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
 blacklist_from *@samochod.radom.pl
