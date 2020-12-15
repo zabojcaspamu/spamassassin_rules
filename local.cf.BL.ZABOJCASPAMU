@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-15 16:50 
+# Wygenerowana 2020-12-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -47,6 +47,7 @@ blacklist_from administrator@ame.sendylo.pl
 blacklist_from administrator@ory.ofertys.pl
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
+blacklist_from admin@pola.ofertys.pl
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from admin@zwrotadmin.pl
@@ -243,6 +244,7 @@ blacklist_from bounce@faktoring-24.pl
 blacklist_from bounce@finansowanie-firmy.pl
 blacklist_from bounce@finansowanie-obrotowe.com.pl
 blacklist_from bounce@finansowanie-obrotowe.pl
+blacklist_from bounce@finansujemy-obroowy.com.pl
 blacklist_from bounce@finansujemy-obrotowy.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
@@ -260,6 +262,7 @@ blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounce@serwiskedytowy.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from bounce@wsparcie-finansowe.pl
 blacklist_from bounce@wsparcie-msp.com.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
@@ -381,6 +384,7 @@ blacklist_from enkelfr@fiztonsky.es
 blacklist_from enoteka@enotekapolska.pl
 blacklist_from *@eonandalyssa.com
 blacklist_from erp4systemy@gmail.com
+blacklist_from erwin.nugroho@trans7.co.id
 blacklist_from *@escoecm.com
 blacklist_from esobanska@ms1444.m.lrmailr.pl
 blacklist_from *@espeefit.com
@@ -726,6 +730,7 @@ blacklist_from kontakt@twojrozwoj.biz.pl
 blacklist_from kontakt@unitedvalue.pl
 blacklist_from kontakt@webinar-rodo.pl
 blacklist_from kontakt@websiteon.pl
+blacklist_from kontakt@windykacja-b2b.pl
 blacklist_from kontakt@wizerunekwbiznesie.pl
 blacklist_from kontakt@wyfrankowani.pl
 blacklist_from kontakt@zajazduhermanow.pl
@@ -853,6 +858,7 @@ blacklist_from *@nanciesnotary.com
 blacklist_from *@nasmocokebumen.com
 blacklist_from nastawnik2@o2.pl
 blacklist_from *@naszeprzesylki.tk
+blacklist_from nataliabrodzinska@financil.pl
 blacklist_from natalia.nawrot@anb.pl
 blacklist_from natalia@webazy.pl
 blacklist_from ndrozdz@pomocnydoradca.com.pl
@@ -1316,6 +1322,7 @@ blacklist_from *@zibojinda.com
 blacklist_from *@z.mailsys.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
+blacklist_from zwrotki@mx11.skills.net.pl
 blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@dlafirmy.co.pl
 blacklist_from zwroty@facebookpromo.co.pl
