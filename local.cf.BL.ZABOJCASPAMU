@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-17 16:50 
+# Wygenerowana 2020-12-17 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -202,6 +202,7 @@ blacklist_from bounce@finansujemy-obrotowy.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@infinity-advice.pl
+blacklist_from bounce@karlsttad.com
 blacklist_from bounce@limit-pozyczkowy.com.pl
 blacklist_from bounce@limityfirmowe-sme.pl
 blacklist_from bounce@news.successpoint.pl
@@ -216,6 +217,7 @@ blacklist_from bounce@serwiskedytowy.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@wsparcie-finansowe.pl
 blacklist_from bounce@wsparcie-msp.com.pl
+blacklist_from brianuren@greatrockrealty.com
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -281,6 +283,7 @@ blacklist_from *@decraftfwclt.com
 blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
+blacklist_from d.guminska@bt.bielsko.pl
 blacklist_from dieta@doktorbio.net
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from docs@lom-logistics.com
@@ -318,6 +321,7 @@ blacklist_from *@electricaincii.com
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
+blacklist_from e-mailserver@noreply.com
 blacklist_from *@emlgrid.com
 blacklist_from empik@newsletter.empik.com
 blacklist_from *@emsgrid.com
