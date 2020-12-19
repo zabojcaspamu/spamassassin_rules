@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-19 18:00 
+# Wygenerowana 2020-12-19 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -187,6 +187,7 @@ blacklist_from bokwro@ms1444.m.lrmailr.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
+blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce@banking-corp.pl
 blacklist_from bounce@bankowe-obrotowe.com.pl
@@ -209,7 +210,9 @@ blacklist_from bounce@limityfirmowe-sme.pl
 blacklist_from bounce@news.successpoint.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@obrotowedlafirm.com.pl
+blacklist_from bounce@pozyczka-firmowa.com.pl
 blacklist_from bounce@pozyczka-odnawialna.com.pl
+blacklist_from bounce@pozyczki-firmowe.com.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@refinansowe-obrotowe.pl
 blacklist_from bounce@registry-ebr.org
@@ -1012,6 +1015,7 @@ blacklist_from return@mail.promocjeweb.eu
 blacklist_from returns@opiniac.net.pl
 blacklist_from returns@rejestrisp.pl
 blacklist_from returns@speedomatic.pl
+blacklist_from richardgranat@gmail.com
 blacklist_from robert.lewczuk@frb-dane.pl
 blacklist_from robert.lewczuk@frb-data.pl
 blacklist_from robertomoretti2003@gmail.com
