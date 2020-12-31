@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-31 17:40 
+# Wygenerowana 2020-12-31 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -176,9 +176,14 @@ blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@ciekaweupominki.com.pl
+blacklist_from bokgka@ms1444.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok.kilinskiego@ms1444.m.lrmailr.pl
+blacklist_from bok.manufaktura@ms1444.m.lrmailr.pl
+blacklist_from bokpru@ms1444.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
 blacklist_from bok@super-auto.eu
+blacklist_from bok.szczecin@ms1444.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bokwro@ms1444.m.lrmailr.pl
 blacklist_from *@bollywoolife.com
@@ -215,6 +220,7 @@ blacklist_from *@bsuportal.com
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
+blacklist_from bwilk@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
@@ -274,6 +280,7 @@ blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from dieta@doktorbio.net
 blacklist_from dobraimpreza@jedrowskishow.pl
 blacklist_from docs@lom-logistics.com
+blacklist_from dolszanski@ms1444.m.lrmailr.pl
 blacklist_from dominiskasobczyk@gmail.com
 blacklist_from domodi@flyemail.pl
 blacklist_from dotacje@dotacja-unijna.com.pl
@@ -1007,6 +1014,9 @@ blacklist_from *@samochod.wroclaw.pl
 blacklist_from sanusfood5@yahoo.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
+blacklist_from sekretariatbyd@ms1444.m.lrmailr.pl
+blacklist_from sekretariatpru@ms1444.m.lrmailr.pl
+blacklist_from sekretariatwro@ms1444.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
 blacklist_from send@blatnisend.pl
 blacklist_from sender04@e-dist.pl
@@ -1189,6 +1199,7 @@ blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx11.skills.net.pl
 blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@dlafirmy.co.pl
+blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
