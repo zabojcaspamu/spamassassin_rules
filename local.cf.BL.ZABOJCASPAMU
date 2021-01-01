@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2020-12-31 23:20 
+# Wygenerowana 2021-01-01 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -44,6 +44,7 @@ blacklist_from administracja@pola.ofertys.pl
 blacklist_from administrator@ame.sendylo.pl
 blacklist_from administrator@ory.ofertys.pl
 blacklist_from administrator@pan.ofertys.pl
+blacklist_from admin@jetmails.tech
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
 blacklist_from admin@pola.ofertys.pl
@@ -107,6 +108,7 @@ blacklist_from bfacf5665a8e605d290200f2d49e275c@kontaktybiznesowe.pl
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro1@galeriasz.pl
 blacklist_from biuro2@galeriasz.pl
+blacklist_from biuro3@galeriasz.pl
 blacklist_from biuro@absenergia.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@bestmail24.pl
@@ -175,15 +177,28 @@ blacklist_from biuro@zwrotprowizji-kredyt.pl
 blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
+blacklist_from bok.arkady@ms1444.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
+blacklist_from bok.citypark@ms1444.m.lrmailr.pl
+blacklist_from bok.gdynia@ms1444.m.lrmailr.pl
 blacklist_from bokgka@ms1444.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
 blacklist_from bok.kilinskiego@ms1444.m.lrmailr.pl
+blacklist_from bok.kosciuszki@ms1444.m.lrmailr.pl
+blacklist_from bokkos@ms1444.m.lrmailr.pl
+blacklist_from boklma@ms1444.m.lrmailr.pl
+blacklist_from bok.lubin@ms1444.m.lrmailr.pl
 blacklist_from bok.manufaktura@ms1444.m.lrmailr.pl
+blacklist_from boknta@ms1444.m.lrmailr.pl
+blacklist_from bok.piaseczno@ms1444.m.lrmailr.pl
 blacklist_from bokpru@ms1444.m.lrmailr.pl
+blacklist_from bok.pruszkow@ms1444.m.lrmailr.pl
 blacklist_from bok@rbdo.biz
+blacklist_from bokryb@ms1444.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok.szczecin@ms1444.m.lrmailr.pl
+blacklist_from bok.szperk@ms1444.m.lrmailr.pl
+blacklist_from bok.tarnow@ms1444.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bokwro@ms1444.m.lrmailr.pl
 blacklist_from *@bollywoolife.com
@@ -315,6 +330,7 @@ blacklist_from *@????.e-infoczystosc.pl
 blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
 blacklist_from *@electricaincii.com
+blacklist_from elisowska@ms1444.m.lrmailr.pl
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
@@ -1017,7 +1033,13 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms1444.m.lrmailr.pl
+blacklist_from sekretariatkat@ms1444.m.lrmailr.pl
+blacklist_from sekretariatkos@ms1444.m.lrmailr.pl
+blacklist_from sekretariatmpo@ms1444.m.lrmailr.pl
+blacklist_from sekretariatpia@ms1444.m.lrmailr.pl
+blacklist_from sekretariatpro@ms1444.m.lrmailr.pl
 blacklist_from sekretariatpru@ms1444.m.lrmailr.pl
+blacklist_from sekretariatryb@ms1444.m.lrmailr.pl
 blacklist_from sekretariatwro@ms1444.m.lrmailr.pl
 blacklist_from *@semanacarlosmotta.com
 blacklist_from send@blatnisend.pl
@@ -1053,6 +1075,7 @@ blacklist_from *@slicplans.com
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
 blacklist_from smtpfox-ohb12@sutanrajahotelkolaka.com
+blacklist_from smtp-i7kfn@odersini.com
 blacklist_from smyk@oooli.eu
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
