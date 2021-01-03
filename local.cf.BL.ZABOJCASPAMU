@@ -1,11 +1,12 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-01-02 07:00 
+# Wygenerowana 2021-01-03 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
 blacklist_from *@163.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
+blacklist_from 1mx7nn4b8h@hostserwer1560.online
 blacklist_from 1vn62oc6cw@paczki-serwer150.online
 blacklist_from 20prezent@wons321.com
 blacklist_from 2367df4a93c86bec2e7a0cb0d319ccf3@kontaktybiznesowe.pl
@@ -1207,6 +1208,7 @@ blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx11.skills.net.pl
 blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@dlafirmy.co.pl
+blacklist_from zwroty@konferencjedlabusinesu.com.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
