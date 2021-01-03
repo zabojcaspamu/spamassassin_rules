@@ -1571,6 +1571,6 @@ score ZABOJASPAMU_SPAM_FAKTURA2_ALL 10
  describe ZABOJCASPAMU_MAIL_TAKNIE   Prawdopodobny TAK lub NIE temat/tresc maila
  score    ZABOJCASPAMU_MAIL_TAKNIE   2.5
 
-header ZABOJCASPAMU_SUBJECT_WEIRED_STRING Subject =~ /(?: -[a-z]|[a-z]+.[a-z]+| -.| .|- )/
+header ZABOJCASPAMU_SUBJECT_WEIRED_STRING Subject =~ /(?: -[a-z]|[a-z]+.[a-z]+| -.| .|[a-z]\- )/
 describe ZABOJCASPAMU_SUBJECT_WEIRED_STRING Weired string in Subject: [a-z]-[a-z]
 score ZABOJCASPAMU_SUBJECT_WEIRED_STRING 0.5
