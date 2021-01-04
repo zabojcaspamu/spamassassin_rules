@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-01-04 07:40 
+# Wygenerowana 2021-01-04 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -105,6 +105,7 @@ blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
 blacklist_from bdalmata@pomocnydoradca.com.pl
+blacklist_from bd@msn.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@kontaktybiznesowe.pl
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro1@galeriasz.pl
@@ -282,6 +283,7 @@ blacklist_from csk@warszawa.csk-partner.pl
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from cx122@nc122.cl0.pl
+blacklist_from cx198@nc198.cl0.pl
 blacklist_from cx319@nc319.cl0.pl
 blacklist_from d0e2a9576d2d6d57f48b9f31ec07fecc@kontaktybiznesowe.pl
 blacklist_from damian.kaszuba@lpkruk.eu
@@ -385,9 +387,11 @@ blacklist_from *@frenzydonor.com
 blacklist_from *@frot.pl
 blacklist_from *@fundacjakibica.pl
 blacklist_from *@fuoridiciao.com
+blacklist_from fx398@nf398.fd0.pl
 blacklist_from fx427@nf427.fd0.pl
 blacklist_from fx511@nf511.fd0.pl
 blacklist_from fx536@nf536.fd0.pl
+blacklist_from fx572@nf572.fd0.pl
 blacklist_from *@garrachachraf.com
 blacklist_from *@garyblumbergpc.com
 blacklist_from gastrona@gastrona.pl
@@ -500,7 +504,6 @@ blacklist_from info@g-smart.pl
 blacklist_from info@iitsale.pl
 blacklist_from info@incermane.biz.ua
 blacklist_from info@info.arreglo.pw
-blacklist_from info@info.oddk.pl
 blacklist_from info@infooffice.pl
 blacklist_from info@info.sprzatanieonline.pl
 blacklist_from *@info.jabtrade.pl
@@ -815,7 +818,6 @@ blacklist_from newsletter@offers4you.pl
 blacklist_from newsletter@pakietspadladwojga.pl
 blacklist_from newsletter@perfectannn.pl
 blacklist_from newsletter@petraenergia.pl
-blacklist_from newsletter@poradnikhandlowca.com.pl
 blacklist_from *@newsletters-1.retaildesignworld.com
 blacklist_from newsletter@sanatorium-panorama.com.pl
 blacklist_from newsletters.pl@company-catalogs.com
@@ -913,6 +915,8 @@ blacklist_from otwarte@winners-szkolenia.biz.pl
 blacklist_from owoce@baratoquevale.biz
 blacklist_from owoce@dhoommachao.biz
 blacklist_from owocowe777@inboxtouch.co.in
+blacklist_from ox598@no598.om0.pl
+blacklist_from ox627@no627.om0.pl
 blacklist_from ox721@no721.om0.pl
 blacklist_from oxy@dvahey.pl
 blacklist_from p01@bejena.pl
@@ -930,6 +934,7 @@ blacklist_from peugeotpolska@niroline.pl
 blacklist_from *@pimptania.com
 blacklist_from piotrbnc@e-bazy.com
 blacklist_from piotr.gawrysiak@kusloncu.com.pl
+blacklist_from piotr.gefert@bdo.net.pl
 blacklist_from piotr.malarski@gmail.com
 blacklist_from p.kubik@szybkie-tlumaczenia.pl
 blacklist_from *@play4.pl
@@ -950,6 +955,7 @@ blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from powerballlo2020@gmail.com
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from prawoonline@prawoonline.com.pl
 blacklist_from preparat.as@wp.pl
 blacklist_from prezent@cieplystolec.com
 blacklist_from prezent@sztefanwons.com
@@ -1134,7 +1140,11 @@ blacklist_from tvp.robi.tortury@panelstyl.com.pl
 blacklist_from *@???.twoja-kolej.tk
 blacklist_from twojdoradca@biznes2biznes.com
 blacklist_from *@twoomail.com
+blacklist_from tx155@nt155.tenmlnc.pl
+blacklist_from tx313@nt313.tenmlnc.pl
 blacklist_from tx438@nt438.tenmlnd.pl
+blacklist_from tx546@nt546.tenmlnd.pl
+blacklist_from tx727@nt727.tenmlne.pl
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
 blacklist_from umkudjd@zaipostall.li
