@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-01-11 19:50 
+# Wygenerowana 2021-01-12 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -106,6 +106,7 @@ blacklist_from *@bbsthene.com
 blacklist_from bdalmata@pomocnydoradca.com.pl
 blacklist_from bd@msn.com
 blacklist_from BEZPIECZNAJAZDA@autoarmin.com
+blacklist_from *@bezzbear.com
 blacklist_from bfacf5665a8e605d290200f2d49e275c@kontaktybiznesowe.pl
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro1@galeriasz.pl
@@ -212,6 +213,7 @@ blacklist_from bok.renoma@ms1444.m.lrmailr.pl
 blacklist_from bokryb@ms1444.m.lrmailr.pl
 blacklist_from bokrze@ms1444.m.lrmailr.pl
 blacklist_from boksbr@ms1444.m.lrmailr.pl
+blacklist_from boksop@ms1444.m.lrmailr.pl
 blacklist_from bok.sopot@ms1444.m.lrmailr.pl
 blacklist_from bok.starybrowar@ms1444.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
@@ -221,6 +223,7 @@ blacklist_from boktar@ms1444.m.lrmailr.pl
 blacklist_from bok.tarnow@ms1444.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
 blacklist_from bokwbi@ms1444.m.lrmailr.pl
+blacklist_from bokwre@ms1444.m.lrmailr.pl
 blacklist_from bokwro@ms1444.m.lrmailr.pl
 blacklist_from bokwzw@ms1444.m.lrmailr.pl
 blacklist_from bokzgo@ms1444.m.lrmailr.pl
@@ -543,6 +546,7 @@ blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
+blacklist_from info@ms1444.m.lrmailr.pl
 blacklist_from info@multibanki.pl
 blacklist_from info@narecha.pl
 blacklist_from info@news-1etter.xyz
@@ -790,10 +794,12 @@ blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
 blacklist_from mj66813291@gmail.com
+blacklist_from mjurczyk@ms1444.m.lrmailr.pl
 blacklist_from m.lisiecki@medarius.pl
 blacklist_from mmreturn@magnetdev.com
 blacklist_from mm@systemszkolenia.pl
 blacklist_from mnapierzynska@ms1444.m.lrmailr.pl
+blacklist_from mniegolewska@ms1444.m.lrmailr.pl
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from mojaalma@ms1444.m.lrmailr.pl
 blacklist_from m.olesiak@interia.pl
@@ -961,10 +967,10 @@ blacklist_from panele@paneledaske.pl
 blacklist_from *@parkervessels.com
 blacklist_from pasiulymai@ttteise.lt
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
+blacklist_from *@pembevren.com
 blacklist_from pending@update.com
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
-blacklist_from *@peykesabz.com
 blacklist_from *@pgearbest.com
 blacklist_from *@pimptania.com
 blacklist_from piotrbnc@e-bazy.com
@@ -979,7 +985,6 @@ blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
 blacklist_from poczta@zoriana-yukhymets.info
-blacklist_from *@pokeearth.com
 blacklist_from pomoc@fundacjadzieciom.org
 blacklist_from *@pomoc-ipko.com
 blacklist_from *@pomocnatablica.pl
@@ -1163,6 +1168,7 @@ blacklist_from szukaj@wyszukiwalnia.pl
 blacklist_from tadeusz.krostka@eu.kruk.pl
 blacklist_from *@tanisklad.dla-najlepszych.pl
 blacklist_from targetmarketing@emailing2.info.pl
+blacklist_from *@tatiltivi.com
 blacklist_from techniki@technikiszkolenia.info.pl
 blacklist_from techniki@technikitelemarketingu24.pl
 blacklist_from techniki@technikitelemarketingu.pl
@@ -1284,6 +1290,7 @@ blacklist_from zwrotki@mx11.skills.net.pl
 blacklist_from zwroty@dlafirm.co.pl
 blacklist_from zwroty@konferencjedlabusinesu.com.pl
 blacklist_from zwroty@oobo.info
+blacklist_from zwroty@polska-smpt3.xyz
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
 blacklist_from zwrot@zwrot-prowizji.com.pl
