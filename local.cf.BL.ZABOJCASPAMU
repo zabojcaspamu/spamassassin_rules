@@ -1,8 +1,10 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-01-12 14:40 
+# Wygenerowana 2021-01-12 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
+blacklist_from 08b62d239754f74ef9577d39106d479c@kontaktybiznesowe.pl
+blacklist_from 1443d3d2183876285ba1cc7129976c5e@kontaktybiznesowe.pl
 blacklist_from *@163.com
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
@@ -15,6 +17,7 @@ blacklist_from 2@jobhelping.pl
 blacklist_from *@2mgroup.pl
 blacklist_from 321442355435@serwer1548947.home.pl
 blacklist_from 459d54a2634977c9d31b475b7d18fa74@kontaktybiznesowe.pl
+blacklist_from 45ef4c200a2857f6b49f46d1dd7bce0f@openmoves.com
 blacklist_from 5676e2aa817a5ce6a5e2a186c3a56152@kontaktybiznesowe.pl
 blacklist_from 5fabe079f2338e7b914b725d767a8100@kontaktybiznesowe.pl
 blacklist_from 6adf95870c413b1b1ada4431660da4bb@kontaktybiznesowe.pl
@@ -39,6 +42,7 @@ blacklist_from admin@ame.sendylo.pl
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
+blacklist_from administracja@esyn.sendylo.pl
 blacklist_from administracja@ory.ofertys.pl
 blacklist_from administracja@pola.ofertys.pl
 blacklist_from administrator@ame.sendylo.pl
@@ -127,6 +131,7 @@ blacklist_from biuro@domowesmaki.pl
 blacklist_from biuro@doradztwo-prostepytania.pl
 blacklist_from biuro@eurokonskz.nazwa.pl
 blacklist_from biuro@euro-konsulting.com.pl
+blacklist_from biuro@exandi.pl
 blacklist_from biuro@fastmail24.pl
 blacklist_from biuro@fastmailing24.pl
 blacklist_from biuro@finansowaniefaktur.pl
@@ -196,6 +201,7 @@ blacklist_from bok.katowice@ms1444.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1444.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1444.m.lrmailr.pl
 blacklist_from bokkos@ms1444.m.lrmailr.pl
+blacklist_from boklgo@ms1444.m.lrmailr.pl
 blacklist_from boklma@ms1444.m.lrmailr.pl
 blacklist_from boklod@ms1444.m.lrmailr.pl
 blacklist_from bok.lubin@ms1444.m.lrmailr.pl
@@ -204,6 +210,7 @@ blacklist_from bok.manufaktura@ms1444.m.lrmailr.pl
 blacklist_from bokmpo@ms1444.m.lrmailr.pl
 blacklist_from boknta@ms1444.m.lrmailr.pl
 blacklist_from bok.opole@ms1444.m.lrmailr.pl
+blacklist_from bokopo@ms1444.m.lrmailr.pl
 blacklist_from bokpia@ms1444.m.lrmailr.pl
 blacklist_from bok.piaseczno@ms1444.m.lrmailr.pl
 blacklist_from bokpro@ms1444.m.lrmailr.pl
@@ -328,6 +335,7 @@ blacklist_from dotacje@dotacja-unijna.com.pl
 blacklist_from drdavidashton8@gmail.com
 blacklist_from drrobmaddox@gmail.com
 blacklist_from *@drsmedya.com
+blacklist_from Dr_Tomasz_Mullerspecjalista@autoarmin.com
 blacklist_from drukarnia1@serwer1566249.home.pl
 blacklist_from *@drukarnialegra.pl
 blacklist_from ds@lumex.pl
