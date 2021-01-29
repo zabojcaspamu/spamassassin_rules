@@ -375,12 +375,6 @@ header   ZABOJCASPAMU_TO_TOO_MANY To =~ /(?:,[^,]{1,80}){30}/
 describe ZABOJCASPAMU_TO_TOO_MANY To: too many recipients
 score    ZABOJCASPAMU_TO_TOO_MANY 1
  
-#dziwne postacie domen
-#https://zabojcaspamu.pl/dziwne-postacie-domen/
-header   ZABOJCASPAMU_DIGITS_DOMAIN        From=~/\@.+\d{3,}/
-describe ZABOJCASPAMU_DIGITS_DOMAIN        Domena zawiera liczbe 3-cyfrowa
-score    ZABOJCASPAMU_DIGITS_DOMAIN        0.2
-
 #maile z fraza news0
 #https://zabojcaspamu.pl/adres-z-fraza-news0/
 header    ZABOJCASPAMU_RETURNPATH_ATHOST  Return-Path=~/\@host\d+\./
@@ -720,7 +714,6 @@ score     ZABOJCASPAMU_FROM_DIGIT_HOME  4
 
 # Kolejny raz FW:important czesc nastepna
 # https://zabojcaspamu.pl/kolejny-raz-fwimportant/
-
 header    __ZABOJCASPAMU_TO_TOO_MANY_1 To =~ /(?:,[^,]{1,80}){3}/ 
 header    __ZABOJCASPAMU_IMPORTMESSv4_1     Subject=~/^Fw: /
 meta      ZABOJCASPAMU_IMPORTMESSv4         __ZABOJCASPAMU_TO_TOO_MANY_1 && __ZABOJCASPAMU_IMPORTMESSv4_1
@@ -1153,15 +1146,8 @@ header   ZABOJCASPAMU_TEMAT_NAWIAS    Subject=~/^\([a-z]+\) /
 describe ZABOJCASPAMU_TEMAT_NAWIAS    temat zaczyna sie od nawiasu 
 score    ZABOJCASPAMU_TEMAT_NAWIAS    0.5
 
-# Kolejna regula wzmacniajaca
-# https://zabojcaspamu.pl/kolejna-regula-wzmacniajaca-3/
-meta     ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
-describe ZABOJCASPAMU_TWO_5358 ( FUZZY_CREDIT && HTML_MESSAGE)
-score    ZABOJCASPAMU_TWO_5358  0.5
-
 # Zarabianie pieniedzy w prosty sposob
 # https://zabojcaspamu.pl/zarabianie-pieniedzy-prosty-sposob/
-
 header  __ZABOJCASPAMU_ZARABIANIE_DZIECKO_1  Subject=~/^Re:/
 rawbody __ZABOJCASPAMU_ZARABIANIE_DZIECKO_2  /\<\!-- NAME: 1 COLUMN --\>/
 rawbody __ZABOJCASPAMU_ZARABIANIE_DZIECKO_3  /\<\!--\[if gte mso 15\]\>/
@@ -1354,11 +1340,6 @@ body  __ZABOJCASPAMU_PIOTRN_TORTURY3   /Piotr(a|ze|owi|) Ni.{1,8}y.{1,8}sk/
 meta  ZABOJCASPAMU_PIOTRN_TORTURY      __ZABOJCASPAMU_PIOTRN_TORTURY1 && __ZABOJCASPAMU_PIOTRN_TORTURY2 && __ZABOJCASPAMU_PIOTRN_TORTURY3
 describe ZABOJCASPAMU_PIOTRN_TORTURY  O torturach Piotr N i takie tam
 score    ZABOJCASPAMU_PIOTRN_TORTURY  5
-
-
-header   ZABOJCASPAMU_SUBJECT_DARMO Subject=~/(?: darmo| gratis|bez op.{1,8}at)/
-describe ZABOJCASPAMU_SUBJECT_DARMO W temacie znajduje sie ' darmo' 'gratis'
-score    ZABOJCASPAMU_SUBJECT_DARMO 0.5
 
 # temat ma minus i procenty
 # https://zabojcaspamu.pl/temacie-minus-cyfry-procent/
