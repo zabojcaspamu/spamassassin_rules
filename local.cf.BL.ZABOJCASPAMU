@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-02-01 18:00 
+# Wygenerowana 2021-02-01 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -230,6 +230,7 @@ blacklist_from bok.szperk@ms1444.m.lrmailr.pl
 blacklist_from boktar@ms1444.m.lrmailr.pl
 blacklist_from bok.tarnow@ms1444.m.lrmailr.pl
 blacklist_from bok@tonerypolska.pl
+blacklist_from bok@usbox.pl
 blacklist_from bokwbi@ms1444.m.lrmailr.pl
 blacklist_from bokwre@ms1444.m.lrmailr.pl
 blacklist_from bokwro@ms1444.m.lrmailr.pl
@@ -438,6 +439,7 @@ blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
 blacklist_from Groupon@offerway.pl
 blacklist_from *@grovinpat.com
+blacklist_from grrngma@regiontacna.gob.pe
 blacklist_from *@gr-servizi.com
 blacklist_from grss@presidency.com
 blacklist_from *@grupojarisa.com
@@ -1014,6 +1016,7 @@ blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
+blacklist_from p.papagiann@gmail.com
 blacklist_from pracakrakow@ms1444.m.lrmailr.pl
 blacklist_from pracawarszawa@ms1444.m.lrmailr.pl
 blacklist_from prawoonline@prawoonline.com.pl
@@ -1078,7 +1081,6 @@ blacklist_from root@vps637793.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
-blacklist_from *@rspmail-apn1.com
 blacklist_from rsud@padangpariamankab.go.id
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
@@ -1122,6 +1124,7 @@ blacklist_from *@sendmailcluster.com
 blacklist_from send@powerask.com.pl
 blacklist_from senpingtech@163.com
 blacklist_from *@sensdelivery.com
+blacklist_from sent47909@rspmail-apn1.com
 blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
 blacklist_from *@serveread.com
