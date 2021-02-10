@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-02-09 18:20 
+# Wygenerowana 2021-02-10 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -270,6 +270,7 @@ blacklist_from bounce@uproszczonykredytbankowy.online
 blacklist_from bounce@uproszczonykredytbankowy.pl
 blacklist_from bounce@wsparciefiansowe.com.pl
 blacklist_from bounce@wsparcie-plynnosci.com.pl
+blacklist_from bounce@wsparcie-rozwoju.com.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -463,6 +464,7 @@ blacklist_from hoqj3poksd@ms1444.m.lrmailr.pl
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
 blacklist_from *@hprofit.pl
+blacklist_from hue.tt@aclasstravel.com.vn
 blacklist_from huixinsoft11@foxmail.com
 blacklist_from huixinsoft43@foxmail.com
 blacklist_from huixinsoft5@foxmail.com
@@ -875,6 +877,7 @@ blacklist_from newsletter@fruitnet.com
 blacklist_from newsletter@funduszedlafirm.com.pl
 blacklist_from *@newsletter-hub.com
 blacklist_from newsletter@hurtidetal.pl
+blacklist_from newsletter@jedynysklep.pl
 blacklist_from newsletter@kursangielskiego-promocja.pl
 blacklist_from newsletter@mail.newmenshoponline.eu
 blacklist_from newsletter@mundoportugues.com.pt
@@ -967,6 +970,7 @@ blacklist_from office@neemzgroup.xyz
 blacklist_from office@scc.org.pl
 blacklist_from ofkonmn@fiztonsky.es
 blacklist_from ogonek.alicja52@wp.pl
+blacklist_from ohwaztm@tipontale.it
 blacklist_from okazik@okazik.pl
 blacklist_from okazje@ravelo.pl
 blacklist_from okimasan@yahoo.co.uk
@@ -1218,6 +1222,7 @@ blacklist_from telesprzedaz@tele-sprzedaz.com.pl
 blacklist_from telesprzedaz@tele-sprzedaz.pl
 blacklist_from *@teme.home.pl
 blacklist_from terminal@terminalikasa.pl
+blacklist_from test@shouyouempire.com
 blacklist_from test@tiags.vn
 blacklist_from *@thtgroups.com
 blacklist_from tickets44210651@intl.paypal.com
