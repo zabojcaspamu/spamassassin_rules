@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-02-11 18:20 
+# Wygenerowana 2021-02-12 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -246,6 +246,7 @@ blacklist_from bounce@doradztwokredytowedlafirm.online
 blacklist_from bounce@ebr-directory.com
 blacklist_from bounce@farsunhd.com
 blacklist_from bounce@finansowanie-bankowe.pl
+blacklist_from bounce@finansowanie-plynnosci.com.pl
 blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansujemy-firmy-com.pl
 blacklist_from *@bounce.freshmail.pl
@@ -834,6 +835,7 @@ blacklist_from mniegolewska@ms1444.m.lrmailr.pl
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from m.olesiak@interia.pl
 blacklist_from monika.pieslak@yahoo.com
+blacklist_from *@movicepur.com
 blacklist_from mp@biurozarzadu.pl
 blacklist_from mpisera@kbm.com.pl
 blacklist_from mp@ntrainings.pl
@@ -1008,6 +1010,7 @@ blacklist_from *@parkervessels.com
 blacklist_from pasiulymai@ttteise.lt
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
 blacklist_from pdb@jpszrkib.pl
+blacklist_from *@pembevren.com
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
 blacklist_from p.flavel@financier.com
@@ -1303,6 +1306,7 @@ blacklist_from www-data@investorkirov.ru
 blacklist_from www-data@novitests2021.pl
 blacklist_from www-data@pnieruchomosci.pl
 blacklist_from www-data@seo2021.pl
+blacklist_from www-data@szkolenia-excel2021.pl
 blacklist_from *@wycenakawalko.pl
 blacklist_from wydarzenia@personalities.pl
 blacklist_from wyjatkoweoferty@emaillo.pl
