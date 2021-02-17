@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-02-17 07:00 
+# Wygenerowana 2021-02-17 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -212,6 +212,7 @@ blacklist_from bounce-1@bounce.mail.trioconferences.pl
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce+238558@bounce-eu2.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
+blacklist_from bounce-74385803@bounce.getresponse-mail.com
 blacklist_from bounce@alternatywnefinansowanie.com.pl
 blacklist_from bounce@alternatywnefinansowanie.pl
 blacklist_from bounceback@connect.hpe.com
@@ -544,6 +545,7 @@ blacklist_from info@kursbhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
 blacklist_from info@lokalehandlowe.pl
+blacklist_from *@info.mailcamp.net.pl
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
@@ -630,6 +632,7 @@ blacklist_from joanna.wal@gmail.com
 blacklist_from jones99frank@gmail.com
 blacklist_from *@jpelaezdesigns.com
 blacklist_from judyta.kleszko@odszkodowania-pomoc24.pl
+blacklist_from julie@news.sovex-grandschateaux.com
 blacklist_from jums@ttlt.lt
 blacklist_from *@jupiter.salesmanago.pl
 blacklist_from jw@ema-dent.pl
@@ -750,6 +753,7 @@ blacklist_from maciejprzymus1234@wp.pl
 blacklist_from maciejprzymus123@wp.pl
 blacklist_from *@mafrash.com
 blacklist_from magda.b@pro-activ.pl
+blacklist_from *@mail121.sea31.mcsv.net
 blacklist_from mail@comp-net.pl
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mail@freshplaza.de
@@ -915,6 +919,8 @@ blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from no-reply@ji-net.com
 blacklist_from noreply@kamery.srvv.pl
+blacklist_from no-reply@mailbox.com
+blacklist_from noreply@mailing-kpmg.com
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
 blacklist_from no-reply@???nfmail.pl
@@ -947,6 +953,7 @@ blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
 blacklist_from oferta@lenovopolska.pl
+blacklist_from oferta@mojeszkolenia.pl
 blacklist_from ofertaspecjalna@domdevelopment.com.pl
 blacklist_from *@ofertownia.com.pl
 blacklist_from oferty@multi-banki.pl
@@ -1095,6 +1102,7 @@ blacklist_from root@vps635585.ovh.net
 blacklist_from root@vps635586.ovh.net
 blacklist_from root@vps635868.ovh.net
 blacklist_from root@vps637793.ovh.net
+blacklist_from root@vps637794.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
