@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-02-19 07:00 
+# Wygenerowana 2021-02-19 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -45,6 +45,7 @@ blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administracja@esyn.sendylo.pl
 blacklist_from administracja@mas.infoemail.pl
 blacklist_from administrator@esyn.sendylo.pl
+blacklist_from administrator@mas.infoemail.pl
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@omertahack.su
 blacklist_from admin@tytyryty.pl
@@ -88,6 +89,7 @@ blacklist_from anvix@anvix.pl
 blacklist_from *@aon.at
 blacklist_from *@aprendocroche.com
 blacklist_from arildo@itgatreinamento.com.br
+blacklist_from Arnold.Rego@mail.com
 blacklist_from *@artisanka.com
 blacklist_from *@arubahosteria.com
 blacklist_from *@associationnour.com
@@ -98,6 +100,7 @@ blacklist_from ayqotsq@tipontale.it
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
+blacklist_from *@baiss.airmail360.com
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
 blacklist_from baza@eniro.com
@@ -228,6 +231,7 @@ blacklist_from bounce@ebr-directory.com
 blacklist_from bounce@farsunhd.com
 blacklist_from bounce@financialadvisor-finansowanie.pl
 blacklist_from bounce@finansowanie-bankowe.pl
+blacklist_from bounce@finansowanie-firm.net.pl
 blacklist_from bounce@finansowanie-plynnosci.com.pl
 blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansujemy-24-pl.com.pl
@@ -237,6 +241,8 @@ blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@info.wolterskluwer.com
 blacklist_from bounce@kredyt-ekspert.online
 blacklist_from bounce@kredyt-ekspert.pl
+blacklist_from bounce@led-kampanj.info
+blacklist_from bounce@ledonline5.com
 blacklist_from bounce@max-finansowanie.com.pl
 blacklist_from bounce@maxfinansowanie.online
 blacklist_from bounce@maxkredyt.com.pl
@@ -309,6 +315,7 @@ blacklist_from contact@saeclum.pl
 blacklist_from controlling@mediaexpln.pl
 blacklist_from *@cpatrafficword.com
 blacklist_from creditors@eastcoast.co.za
+blacklist_from *@cresttool.com
 blacklist_from csk@csk-partner.pl
 blacklist_from csk@warszawa.csk-partner.pl
 blacklist_from *@cubbstore.com
@@ -397,6 +404,7 @@ blacklist_from fedex@supmail.pl
 blacklist_from fed@sfirmowe.pl
 blacklist_from femibion@fiola.pl
 blacklist_from *@finansowanie-dla-firm.com.pl
+blacklist_from *@fionn-whitehead.com
 blacklist_from firmabezzusu@o2.pl
 blacklist_from firma@goodmail24.pl
 blacklist_from firmowe@szkoleniainfo.org.pl
@@ -430,6 +438,7 @@ blacklist_from *@giopik.co.ua
 blacklist_from gogastro@gastrona.pl
 blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
+blacklist_from *@gorgedeal.com
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
 blacklist_from greekfoodnews@forumsa.gr
@@ -482,6 +491,7 @@ blacklist_from info@adretionse.co.ua
 blacklist_from info@advicemedem.it
 blacklist_from info@a-fresh.pl
 blacklist_from info@aktywnyrozwoj.biz.pl
+blacklist_from *@info.ambermail.pl
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@automotive.info.pl
@@ -576,6 +586,7 @@ blacklist_from infos@determinationdiffu.website
 blacklist_from *@info.seaclick.pl
 blacklist_from info@silviaastuzia.com
 blacklist_from info@sklep.?-czysto01.pl
+blacklist_from *@info.smartestmail.pl
 blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
@@ -1012,6 +1023,7 @@ blacklist_from *@parkervessels.com
 blacklist_from *@parsasout.com
 blacklist_from pasiulymai@ttteise.lt
 blacklist_from pawel.ostrzyzek@finansowaniefirm.org.pl
+blacklist_from *@peloteandodeportivo.com
 blacklist_from *@pembevren.com
 blacklist_from *@petersmedia.home.pl
 blacklist_from peugeotpolska@niroline.pl
@@ -1162,6 +1174,7 @@ blacklist_from serwis@parscancer.com
 blacklist_from serwis@serwis-laptopow.warszawa.pl
 blacklist_from *@s.explanator.pl
 blacklist_from shindak14@cnool.net
+blacklist_from shirley@1036.cloud
 blacklist_from *@shotmate.pl
 blacklist_from simplex10@biznes-simplex.pl
 blacklist_from simplex?@biznes-simplex.pl
@@ -1270,7 +1283,6 @@ blacklist_from uxzahfw@fiztonsky.es
 blacklist_from uyhiqrs@fiztonsky.es
 blacklist_from uynitmr@zaipostall.ch
 blacklist_from vectra@productcompany.pl
-blacklist_from *@vianapars.com
 blacklist_from *@via.wineflag.com
 blacklist_from *@villapria.com
 blacklist_from vin01@qrohe.com
