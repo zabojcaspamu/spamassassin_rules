@@ -1,9 +1,10 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-03-02 07:00 
+# Wygenerowana 2021-03-02 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
 blacklist_from *@163.com
+blacklist_from 185.254.31.76@jascorpsg.net
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
@@ -140,6 +141,7 @@ blacklist_from biuro@poznajkredyt.pl
 blacklist_from biuro@ppsszkolenia.pl
 blacklist_from biuro@programwiedza.pl
 blacklist_from biuro@pro-link.info.pl
+blacklist_from biuro@rzetelny-kredyt.pl
 blacklist_from biuro@semprojekt.com
 blacklist_from biuro@seo2021.com.pl
 blacklist_from biurosf@szkolenief.net.pl
@@ -230,6 +232,7 @@ blacklist_from bounce@news.successpoint.pl
 blacklist_from bounce@nowe-finansowanie.com.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@partner-finance.pl
+blacklist_from bounce@poprawaplynnosci.com.pl
 blacklist_from bounce@poprawaplynnosci.pl
 blacklist_from bounce@pozyczka-deminimis.com.pl
 blacklist_from bounce@prosty-kredytfirmowy24.com.pl
@@ -309,6 +312,7 @@ blacklist_from delete@mediarun.com
 blacklist_from delivery@b2b-mail.net
 blacklist_from *@detalus.dla-najlepszych.pl
 blacklist_from d.guminska@bt.bielsko.pl
+blacklist_from dhl@dhlservice.com
 blacklist_from dieta@doktorbio.net
 blacklist_from dip@shadowpeanut.cyou
 blacklist_from dobraimpreza@jedrowskishow.pl
@@ -413,6 +417,7 @@ blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
+blacklist_from greekfoodnews@forumsa.gr
 blacklist_from Groupon@offerway.pl
 blacklist_from *@grovinpat.com
 blacklist_from grrngma@regiontacna.gob.pe
@@ -792,6 +797,7 @@ blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
 blacklist_from m.gorecki@profesjonalne-tlumaczenia.com
 blacklist_from michal.deja@clientonline.pl
+blacklist_from milena.friebe@4edu.info.pl
 blacklist_from miloje.josipovic@nb.rs
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
@@ -870,6 +876,7 @@ blacklist_from *@news.spacemail.pl
 blacklist_from news@targi.lodz.pl
 blacklist_from news@winemeridian.com
 blacklist_from niewarto@conder.pl
+blacklist_from nigdy-prostata-nigdy-rak@wp.pl
 blacklist_from *@niromail.pl
 blacklist_from n????@nwydarzenia.pl
 blacklist_from n??@nwydarzenia.pl
@@ -1294,6 +1301,7 @@ blacklist_from *@wyjatkoweoferty.pl
 blacklist_from wysylka@galeriaokazji.eu
 blacklist_from *@xpressus.emsmtp.us
 blacklist_from ycdaqbh@fiztonsky.es
+blacklist_from ycyewsh@fiztonsky.es
 blacklist_from yfsucyw@tifanyse.ch
 blacklist_from ymwokxj@tifanyse.ch
 blacklist_from young@gracewedding.cyou
@@ -1308,10 +1316,12 @@ blacklist_from zapytanie.wycena@gmail.com
 blacklist_from *@zatokaprawna.pl
 blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
+blacklist_from *@z.enewsletter.com.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from Zespolwskazowek_zdrowotnych@autoarmin.com
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailsys.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx11.skills.net.pl
