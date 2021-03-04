@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-03-03 18:20 
+# Wygenerowana 2021-03-04 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -34,6 +34,7 @@ blacklist_from admin@omertahack.su
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from admin@zwrotadmin.pl
+blacklist_from adobe@digitcube.com
 blacklist_from *@afiliadosafpperu.com
 blacklist_from *@agamusicgroup.com
 blacklist_from *@agl.net
@@ -122,6 +123,7 @@ blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
+blacklist_from biuro@kredytowyposrednik2021.com.pl
 blacklist_from biuro@kredyty-a.pl
 blacklist_from biuro@kredytywygodne.pl
 blacklist_from biuro@kredyty-z-bgk.pl
@@ -536,7 +538,6 @@ blacklist_from info@kursybhp24.pl
 blacklist_from info@lentewenc.com
 blacklist_from info@lepszapromocja.pl
 blacklist_from info@lokalehandlowe.pl
-blacklist_from info@mail.com
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
@@ -1255,6 +1256,7 @@ blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usfuxcj@fiztonsky.es
 blacklist_from usulej-cholewa@ms1444.m.lrmailr.pl
+blacklist_from uvkeczj@masintok.ch
 blacklist_from uxpumkc@zaipostall.li
 blacklist_from uxtoqyb@zaipostall.ch
 blacklist_from uyhiqrs@fiztonsky.es
@@ -1262,7 +1264,6 @@ blacklist_from *@vapeavito.com
 blacklist_from vectra@productcompany.pl
 blacklist_from *@villapria.com
 blacklist_from vin01@qrohe.com
-blacklist_from *@viralvize.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
