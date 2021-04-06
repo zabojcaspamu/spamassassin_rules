@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-04-05 18:20 
+# Wygenerowana 2021-04-06 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -217,6 +217,7 @@ blacklist_from bounce@ebr-directory.com
 blacklist_from BounceEmail@astravenu.org.uk
 blacklist_from bounce@financialadvisor-finansowanie.com.pl
 blacklist_from bounce@financialadvisor-finansowanie.pl
+blacklist_from bounce@finansowanie-24.pl
 blacklist_from bounce@finansowaniefirmowe.net.pl
 blacklist_from bounce@finansowanie-firm.pl
 blacklist_from bounce@finansujemy-24-pl.com.pl
@@ -225,6 +226,7 @@ blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@hirlevel.stamegna.eu
 blacklist_from bounce@intesasanpaolo.work
+blacklist_from bounce@kredyt-ekspert.pl
 blacklist_from bounce@kredyt-gwarancja-ue.com.pl
 blacklist_from bounce@ledonline3.com
 blacklist_from bounce@ledonline6.com
@@ -936,6 +938,7 @@ blacklist_from no-replay@nfmail???.pl
 blacklist_from no-reply@1036.cloud
 blacklist_from noreply2@mediateam.pl
 blacklist_from noreply@adletter.pl
+blacklist_from noreply@angielskizdojazdem.waw.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
 blacklist_from noreply@bdonews.pl
@@ -1074,6 +1077,7 @@ blacklist_from quota@minoritydouble.cyou
 blacklist_from quota@pairburst.cyou
 blacklist_from quota@pennysnarl.cyou
 blacklist_from quota@toughcycle.cyou
+blacklist_from ralphnick113@gmail.com
 blacklist_from rcs.inquiry@protonmail.com
 blacklist_from *@realbuzzads.com
 blacklist_from recepcja@meta-hotel.pl
