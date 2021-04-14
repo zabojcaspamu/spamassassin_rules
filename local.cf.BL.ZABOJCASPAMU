@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-04-13 18:20 
+# Wygenerowana 2021-04-14 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -90,6 +90,7 @@ blacklist_from *@artisanka.com
 blacklist_from *@arubahosteria.com
 blacklist_from aslawny@masintok.li
 blacklist_from *@associationnour.com
+blacklist_from atpejyd@tipontale.it
 blacklist_from *@autentic.pl
 blacklist_from *@avrape.com
 blacklist_from awards.lottery@notice.alibaba.com
@@ -182,6 +183,7 @@ blacklist_from biurozarzadu@szkoleniazarzadu.waw.pl
 blacklist_from *@blimeycowbeta.com
 blacklist_from blood@moz.gov.ua
 blacklist_from *@bluemail.com.pl
+blacklist_from *@bnc3.mailjet.com
 blacklist_from *@bnc.mailjet.com
 blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok@ib2c.pl
@@ -212,11 +214,13 @@ blacklist_from bounce@dhanraj-enterprises.com
 blacklist_from bounce@doradztwofinansowedlafirm.pl
 blacklist_from bounce@doradztwo-firmowe.pl
 blacklist_from bounce@doradztwokredytowedlafirm.com.pl
+blacklist_from bounce@ebrlistings.net
 blacklist_from bounce@e-finansowanie-naleznosci.pl
 blacklist_from bounce@eu-finansowanie.com.pl
 blacklist_from bounce@finansowanie-24.pl
 blacklist_from bounce@finansowaniefirmowe.net.pl
 blacklist_from bounce@finansowanie-naleznosci.net.pl
+blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansowanie-produkcji.pl
 blacklist_from bounce@finansujemy-24-pl.com.pl
 blacklist_from bounce@firmowe-finansowanie.com.pl
@@ -238,6 +242,7 @@ blacklist_from bounce@pwm0.com
 blacklist_from bounce@registry-ebr.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from bounce@uproszczonykredytbankowy.com.pl
 blacklist_from bounce@uproszczonykredytbankowy.pl
 blacklist_from bouvierlaurent980@gmail.com
 blacklist_from box-09020@cloudserwer.online
@@ -484,6 +489,8 @@ blacklist_from info@advicemedem.it
 blacklist_from info@ahrfund.org
 blacklist_from info@aktywnyrozwoj.biz.pl
 blacklist_from *@info.ambermail.pl
+blacklist_from INFO@ANC.COM
+blacklist_from INFO@ANH.COM
 blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@bestmailing24.pl
@@ -630,6 +637,7 @@ blacklist_from jw@ema-dent.pl
 blacklist_from jwlee119@bu.edu
 blacklist_from *@kabelpol.dla-najlepszych.pl
 blacklist_from kadarisman@rspp.co.id
+blacklist_from kadry@owal19.edu.pl
 blacklist_from *@kalkuluje.com
 blacklist_from kamila.krakowska@whiteone.tk
 blacklist_from kampania@najlepszeokazje.co.pl
@@ -708,6 +716,7 @@ blacklist_from krzysztof.r@kruksas.pl
 blacklist_from kuchannywaldemar14@wp.pl
 blacklist_from kurier@wyslijto.pl
 blacklist_from kursy@zapytanie.edu.pl
+blacklist_from *@lccgpl.com
 blacklist_from leason@zamowienie.org.pl
 blacklist_from *@legalmail.it
 blacklist_from legal.music?@poczta.pl
@@ -1034,6 +1043,7 @@ blacklist_from recepcja@meta-hotel.pl
 blacklist_from recepcja@zamek-tuczno.pl
 blacklist_from redakcja_mk1@nfmail.pl
 blacklist_from redakcjar@jupiter.salesmanago.pl
+blacklist_from reject@easy-fin24.pl
 blacklist_from reklama@atrium-pc.pl
 blacklist_from reklamafranczyza@gmail.com
 blacklist_from reklama@sukcesshop.pl
