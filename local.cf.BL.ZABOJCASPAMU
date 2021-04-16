@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-04-16 07:00 
+# Wygenerowana 2021-04-16 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -157,6 +157,7 @@ blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@koszulka.waw.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
+blacklist_from biuro@kredytywygodne.pl
 blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
@@ -257,6 +258,7 @@ blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@poprawaplynnosci.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@registry-ebr.com
+blacklist_from *@bounce.s10.mc.pd25.com
 blacklist_from bounce@safemaskspro.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
@@ -274,6 +276,7 @@ blacklist_from *@bustadomain.com
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
+blacklist_from *@campaign.freshmail.email
 blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
@@ -535,6 +538,7 @@ blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
 blacklist_from info@blackstarlineinc.com
+blacklist_from info@c-comm.pl
 blacklist_from info@c-fresh.pl
 blacklist_from info@compassexpo.info
 blacklist_from info@cpi-szkolenia.waw.pl
@@ -590,6 +594,7 @@ blacklist_from *@info.maileffective.net.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
+blacklist_from *@info.mailtracker.pl
 blacklist_from *@info.mainclick.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
@@ -980,6 +985,7 @@ blacklist_from ofertadlafirm1@promocja-dlafirm.pl
 blacklist_from *@oferta-dla-firm.pl
 blacklist_from oferta@fairpay.pl
 blacklist_from oferta@lenovopolska.pl
+blacklist_from oferta@mojeszkolenia.pl
 blacklist_from oferta@najlepsze-kredyty.online
 blacklist_from ofertaspecjalna@domdevelopment.com.pl
 blacklist_from *@ofertownia.com.pl
@@ -993,6 +999,7 @@ blacklist_from office@gibinternational.de
 blacklist_from officemail@thylordzdoing.us
 blacklist_from office@scc.org.pl
 blacklist_from ogonek.alicja52@wp.pl
+blacklist_from *@okancelen.com
 blacklist_from okazik@okazik.pl
 blacklist_from okazje@ravelo.pl
 blacklist_from okrakiem@gmail.com
@@ -1336,6 +1343,7 @@ blacklist_from *@z.enewsletter.com.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailsys.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx11.skills.net.pl
