@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-04-25 07:00 
+# Wygenerowana 2021-04-25 18:40 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -631,6 +631,7 @@ blacklist_from *@info.senderit.pl
 blacklist_from info@shopboard.pl
 blacklist_from info@silviaastuzia.com
 blacklist_from info@sklep.?-czysto01.pl
+blacklist_from *@info.smartestmail.pl
 blacklist_from info@societyopposite.cam
 blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
@@ -642,6 +643,7 @@ blacklist_from info@szkoleniaplatformawiedzy.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@tictok.pl
 blacklist_from info@todaygroup.info
+blacklist_from *@info.topdelivery.net.pl
 blacklist_from info@visainc.com
 blacklist_from info@Vulkanpartner.com
 blacklist_from *@info.whitersend.pl
@@ -727,6 +729,7 @@ blacklist_from kontakt@cernn.konin.pl
 blacklist_from kontakt@e-content.net.pl
 blacklist_from kontakt@e-marketingweb.pl
 blacklist_from kontakt@ewiss.pl
+blacklist_from kontakt@faktor3p.pl
 blacklist_from kontakt@finansowanie-biznesu.pl
 blacklist_from kontakt@foto5.pl
 blacklist_from kontakt@fotowoltaika-24.pl
@@ -1317,6 +1320,7 @@ blacklist_from *@wasowskiispolka.pl
 blacklist_from *@waynestorey.com
 blacklist_from wconsultantancy1@gmail.com
 blacklist_from web0p1@vps20254.alfahosting-vps.de
+blacklist_from webmaster@caspiohd.kz
 blacklist_from *@wecanengg.com
 blacklist_from *@weissdoor.com
 blacklist_from weryfikacja@uczciwyprzedsiebiorca.com.pl
