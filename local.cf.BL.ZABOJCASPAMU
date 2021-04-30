@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-04-29 18:30 
+# Wygenerowana 2021-04-30 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -269,6 +269,7 @@ blacklist_from bounce@nowefinansowanie.com.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@poprawaplynnosci.pl
 blacklist_from bounce@preferencyjne-finansowanie.com.pl
+blacklist_from bounce@proste-finansowanie.online
 blacklist_from bounce@prosty-kredytfirmowy24.com.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@safemaskspro.com
@@ -488,6 +489,7 @@ blacklist_from *@frot.pl
 blacklist_from *@fundacjakibica.pl
 blacklist_from *@fuoridiciao.com
 blacklist_from fx422@nf422.fd0.pl
+blacklist_from fx434@nf434.fd0.pl
 blacklist_from fx484@nf484.fd0.pl
 blacklist_from *@garrachachraf.com
 blacklist_from *@garyblumbergpc.com
@@ -906,6 +908,7 @@ blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
 blacklist_from mj66813291@gmail.com
 blacklist_from m.lisiecki@medarius.pl
+blacklist_from *@mllamasyt.com
 blacklist_from mmreturn@magnetdev.com
 blacklist_from mm@systemszkolenia.pl
 blacklist_from mohd.abdullah60001@gmail.com
@@ -1112,6 +1115,7 @@ blacklist_from *@pomocnatablica.pl
 blacklist_from pomoc@podaruj-jedenprocent.pl
 blacklist_from poradnik@sztefanwons.com
 blacklist_from poradnik@wons123.com
+blacklist_from portia.bethell@rbpf.bs
 blacklist_from postmaster@mail.sechmet.eu
 blacklist_from postmaster@morinnis.com
 blacklist_from postmaster@smtp1.smtp-test.pl
