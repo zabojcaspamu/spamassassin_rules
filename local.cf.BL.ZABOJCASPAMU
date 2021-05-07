@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-06 18:30 
+# Wygenerowana 2021-05-07 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -268,6 +268,7 @@ blacklist_from bounce@newstrend.online
 blacklist_from bounce@newsyour.info
 blacklist_from bounce@nowefinansowanie.com.pl
 blacklist_from *@bounce.n.westwing.pl
+blacklist_from bounce@partnerfinance.com.pl
 blacklist_from bounce@poprawaplynnosci.pl
 blacklist_from bounce@proste-finansowanie.online
 blacklist_from bounce@prosty-kredytfirmowy24.com.pl
@@ -280,6 +281,7 @@ blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@uproszczonykredytbankowy.pl
 blacklist_from bounce@wsparciefiansowe.online
 blacklist_from bounce@wsparcie-plynnosci.com.pl
+blacklist_from bounce@wsparcie-rozwoju.com.pl
 blacklist_from bouvierlaurent980@gmail.com
 blacklist_from box-09020@cloudserwer.online
 blacklist_from *@brittandalex.com
@@ -784,6 +786,7 @@ blacklist_from kontakt@mailb2b.pl
 blacklist_from kontakt-mamczarz@wp.pl
 blacklist_from kontakt?@najlepsza-kawa.pl
 blacklist_from kontakt@naprawdach.pl
+blacklist_from kontakt@nowosci-wirtualnemedia.online
 blacklist_from kontakt@obslugawierzytelnosci.pl
 blacklist_from kontakt@odbieramto.com.pl
 blacklist_from kontakt@ofe3.pl
@@ -920,6 +923,7 @@ blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
 blacklist_from mj66813291@gmail.com
+blacklist_from mkgpc@growingthing.info
 blacklist_from m.lisiecki@medarius.pl
 blacklist_from *@mllamasyt.com
 blacklist_from mmreturn@magnetdev.com
@@ -1312,6 +1316,7 @@ blacklist_from szkolenia@skillgroup.pl
 blacklist_from szkolenia@szkoleniakrajowe.biz.pl
 blacklist_from szkolenia@szkolenians.pl
 blacklist_from szkolenia?@szkoleniazagranica.pl
+blacklist_from szkolenia@wysylkafirmowa.co.pl
 blacklist_from szkolenie@certyfikowane-szkolenie.pl
 blacklist_from szkolenie@systemszkolenia.pl
 blacklist_from szukaj@wyszukiwalnia.pl
@@ -1445,6 +1450,7 @@ blacklist_from yypytfl@sintoskym.es
 blacklist_from yzjuypj@bitestione.it
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zamow@maska.agency
+blacklist_from zamow@maskiochronne.waw.pl
 blacklist_from zamow@polary.waw.pl
 blacklist_from zapytania@email24.info.pl
 blacklist_from zapytanie@atrakcyjne-szkolenia.pl
@@ -1469,6 +1475,7 @@ blacklist_from zwrotki@mx11.skills.net.pl
 blacklist_from zwroty@ekspertfinansowy.co.pl
 blacklist_from zwroty@finansowydoradca.co.pl
 blacklist_from zwroty@konferencjedlabusinesu.com.pl
+blacklist_from zwroty@newsletter.miastodzieci.pl
 blacklist_from zwroty@oobo.info
 blacklist_from zwroty@transport-spedycja.co.pl
 blacklist_from zwroty@tylkodlaciebie.eu
