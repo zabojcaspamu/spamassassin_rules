@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-09 18:20 
+# Wygenerowana 2021-05-10 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -247,6 +247,7 @@ blacklist_from bounce@financialadvisor-finansowanie.pl
 blacklist_from bounce@finansowanie-24.pl
 blacklist_from bounce@finansowaniefirmowe.com.pl
 blacklist_from bounce@finansowaniefirmowe.net.pl
+blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansowanie-produkcji.pl
 blacklist_from bounce@finansowanieprodukcji.pl
 blacklist_from bounce@firmowe-finansowanie.pl
@@ -255,6 +256,7 @@ blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@heimat-ideen.com
 blacklist_from bounce@hirlevel.stamegna.eu
 blacklist_from bounce@hydestreet.work
+blacklist_from bounce@kredyt-deminims.com.pl
 blacklist_from bounce@kredyt-ekspert.pl
 blacklist_from bounce@kredyt-gwarancja-ue.com.pl
 blacklist_from bounce@ledonline3.com
@@ -278,6 +280,7 @@ blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@uproszczonykredytbankowy.pl
 blacklist_from bounce@wsparciefiansowe.online
 blacklist_from bounce@wsparcie-inwestycji.com.pl
+blacklist_from bounce@wsparcieinwestycji.com.pl
 blacklist_from bounce@wsparcie-plynnosci.com.pl
 blacklist_from bounce@wsparcie-rozwoju.com.pl
 blacklist_from bouvierlaurent980@gmail.com
@@ -349,7 +352,6 @@ blacklist_from ctelesca@amnistreasury.ch
 blacklist_from *@customericare.com
 blacklist_from customerservice@alltimepcs.com
 blacklist_from cx180@nc180.cl0.pl
-blacklist_from cx189@nc189.cl0.pl
 blacklist_from cx209@nc209.cl0.pl
 blacklist_from cx235@nc235.cl0.pl
 blacklist_from cx258@nc258.cl0.pl
@@ -936,6 +938,7 @@ blacklist_from mp@ntrainings.pl
 blacklist_from mrsangepaul@gmail.com
 blacklist_from mrselizabeth@hotmail.com
 blacklist_from mrskietsunan123@gmail.com
+blacklist_from *@ms0481.m.lrmailr.pl
 blacklist_from msg@caixa.net
 blacklist_from msoffice@outsource.com.pl
 blacklist_from msoffice@outsource.info.pl
@@ -969,6 +972,7 @@ blacklist_from newsletter@fotoksiazka-promocja.pl
 blacklist_from newsletter@fruitnet.com
 blacklist_from *@newsletter-hub.com
 blacklist_from newsletter@hurtidetal.pl
+blacklist_from newsletter@investingmail.com
 blacklist_from newsletter@kursangielskiego-promocja.pl
 blacklist_from newsletter@newsletterbiznespremium.com
 blacklist_from newsletter@offers4you.pl
