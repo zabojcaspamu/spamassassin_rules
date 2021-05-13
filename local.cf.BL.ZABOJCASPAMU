@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-13 07:00 
+# Wygenerowana 2021-05-13 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -43,7 +43,9 @@ blacklist_from abuse@leclub.com.ve
 blacklist_from abuse@promate.live
 blacklist_from adam@old-timers.pl
 blacklist_from admin1@poczta-pol.info
+blacklist_from admin@abgsetup-domain.cam
 blacklist_from admin@a.pcpogotowie.pl
+blacklist_from admin@chkmailcheckonline.cam
 blacklist_from admin@districtemails.live
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
@@ -61,7 +63,10 @@ blacklist_from admin@mailbox.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@mails-serverups.cam
 blacklist_from admin@omertahack.su
+blacklist_from admin@servernnotification.cam
+blacklist_from admin@servnotifications.cam
 blacklist_from admin@sez.gromail.pl
+blacklist_from admin@support-server.cam
 blacklist_from admin@tytyryty.pl
 blacklist_from admin@us0b0000zwc.icewarpcloud.com
 blacklist_from adwudlc@bistemaner.ch
@@ -120,6 +125,7 @@ blacklist_from *@avrape.com
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
+blacklist_from *@baiss.airmail360.com
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
 blacklist_from baza@eniro.com
@@ -273,6 +279,7 @@ blacklist_from bounce@newsyour.info
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@poprawa-plynnosci.com.pl
 blacklist_from bounce@poprawaplynnosci.pl
+blacklist_from bounce@pozyczka-24-pl.com.pl
 blacklist_from bounce@proste-finansowanie.online
 blacklist_from bounce@prosty-kredytfirmowy24.com.pl
 blacklist_from bounce@pwm0.com
@@ -284,6 +291,7 @@ blacklist_from bounce@uproszczonykredytbankowy.pl
 blacklist_from bounce@wsparciefiansowe.online
 blacklist_from bounce@wsparcie-inwestycji.com.pl
 blacklist_from bounce@wsparcieinwestycji.com.pl
+blacklist_from bounce@wsparcie-plynnosci.com.pl
 blacklist_from box-09020@cloudserwer.online
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
@@ -314,6 +322,7 @@ blacklist_from chaos@morselnational.cam
 blacklist_from *@charaktery.com.pl
 blacklist_from *@chatbucaramanga.com
 blacklist_from cheat@solosword.cam
+blacklist_from cherry@winepleasures.com
 blacklist_from *@chillmail.pl
 blacklist_from chinafoodfaircm@yeah.net
 blacklist_from *@chloevaldary.com
@@ -660,6 +669,7 @@ blacklist_from *@info.maileffective.net.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
+blacklist_from *@info.mailtracker.pl
 blacklist_from *@info.mainclick.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mofa.gov.gh
@@ -697,6 +707,7 @@ blacklist_from info@szkoleniaplatformawiedzy.pl
 blacklist_from info@teenagercomputer.cam
 blacklist_from info@teisestarnai.lt
 blacklist_from info@tictok.pl
+blacklist_from *@info.topdelivery.net.pl
 blacklist_from info@visainc.com
 blacklist_from info@Vulkanpartner.com
 blacklist_from *@info.whitersend.pl
@@ -1090,6 +1101,7 @@ blacklist_from okazik@okazik.pl
 blacklist_from okazje@ravelo.pl
 blacklist_from okrakiem@gmail.com
 blacklist_from o.kubat@reklamab2b.jgora.pl
+blacklist_from o.kubat@reklamadlabiznesu.tgory.pl
 blacklist_from olafkubat@cieplylead.sejny.pl
 blacklist_from olaf.kubat@kliencizsieci.zgora.pl
 blacklist_from olaf.kubat@zyskajleady.pisz.pl
@@ -1221,6 +1233,7 @@ blacklist_from root@stamegna.eu
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps627155.ovh.net
 blacklist_from root@vps628570.ovh.net
+blacklist_from root@vps635585.ovh.net
 blacklist_from root@vps637793.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
@@ -1266,6 +1279,7 @@ blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
 blacklist_from *@serveread.com
 blacklist_from serverpaypal@megatec.com.br
+blacklist_from service@eexpo.ccfa.org.cn
 blacklist_from service??@mx?.hulsing.xyz
 blacklist_from service?@mx?.hulsing.xyz
 blacklist_from service?@mx?.manechine.xyz
@@ -1486,6 +1500,7 @@ blacklist_from zapytanie.wycena@gmail.com
 blacklist_from *@zatokaprawna.pl
 blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
+blacklist_from *@z.enewsletter.com.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zenithbankplc.gmd27@gmail.com
 blacklist_from Zespol_wskazowekzdrowotnych@gtmertrix.com
