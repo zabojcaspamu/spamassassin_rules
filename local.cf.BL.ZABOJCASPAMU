@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-14 18:40 
+# Wygenerowana 2021-05-15 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -287,7 +287,9 @@ blacklist_from bounce@response.cognex.com
 blacklist_from bounce@safemaskspro.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from bounce@trainingleads.live
 blacklist_from bounce@uproszczonykredytbankowy.pl
+blacklist_from bounce@vladivostoka.com
 blacklist_from bounce@wsparciefiansowe.online
 blacklist_from bounce@wsparcie-inwestycji.com.pl
 blacklist_from bounce@wsparcieinwestycji.com.pl
@@ -622,6 +624,7 @@ blacklist_from info@dietanawiosne.pl
 blacklist_from info@digit24.pl
 blacklist_from info@drukuv.opole.pl
 blacklist_from info.dwstyles@gmail.com
+blacklist_from infoe8829@att.net
 blacklist_from info@eec-medica.com
 blacklist_from *@info.effectivemail.net.pl
 blacklist_from info@ekosze.e-czysto??.pl
@@ -736,6 +739,7 @@ blacklist_from iwoca@offers4me.pl
 blacklist_from iwoca@productcompany.pl
 blacklist_from iza@ekredytowaniefirm.pl
 blacklist_from i.zurawska@ark-skills.com
+blacklist_from jacek.lis@wyjazddlafirm.com.pl
 blacklist_from jakub@korzystnapropozycja4.com.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from jameshennager50@gmail.com
@@ -1228,6 +1232,7 @@ blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps627155.ovh.net
 blacklist_from root@vps628570.ovh.net
 blacklist_from root@vps635585.ovh.net
+blacklist_from root@vps635586.ovh.net
 blacklist_from root@vps637793.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
