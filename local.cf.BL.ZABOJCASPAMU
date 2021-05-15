@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-15 07:00 
+# Wygenerowana 2021-05-15 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -255,6 +255,7 @@ blacklist_from bounce@eu-finansowanie.com.pl
 blacklist_from bounce@financialadvisor-finansowanie.pl
 blacklist_from bounce@finansowaniefirmowe.com.pl
 blacklist_from bounce@finansowaniefirmowe.net.pl
+blacklist_from bounce@finansowanie-handlu.pl
 blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansowanie-produkcji.pl
 blacklist_from bounce@finansowanieprodukcji.pl
@@ -304,6 +305,7 @@ blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
 blacklist_from bzawillo@ms0481.m.lrmailr.pl
+blacklist_from bzawillo@ms1016.m.lrmailr.pl
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
@@ -1031,6 +1033,7 @@ blacklist_from no-replay@nfmail???.pl
 blacklist_from noreply2@mediateam.pl
 blacklist_from noreply-account_security@office.com
 blacklist_from noreply@adletter.pl
+blacklist_from no-reply@amazon.com
 blacklist_from noreply@angielskizdojazdem.waw.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
