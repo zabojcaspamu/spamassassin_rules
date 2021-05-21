@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-20 18:40 
+# Wygenerowana 2021-05-21 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -611,6 +611,7 @@ blacklist_from *@?????.infoczystosc.com.pl
 blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
+blacklist_from info@d-comm.pl
 blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
@@ -649,6 +650,7 @@ blacklist_from info@infooffice.pl
 blacklist_from info@info.sprzatanieonline.pl
 blacklist_from *@info.jabtrade.pl
 blacklist_from info@jedenprocent-pomoc.pl
+blacklist_from info@jomadventure.com
 blacklist_from info@kartyplastikowe2015.pl
 blacklist_from info@knowstate.cam
 blacklist_from info@kontaktportal.pl
@@ -1106,6 +1108,7 @@ blacklist_from owocowe777@inboxtouch.co.in
 blacklist_from ox1077@no1077.cl0.pl
 blacklist_from ox1093@no1093.fd0.pl
 blacklist_from ox587@no587.om0.pl
+blacklist_from ox596@no596.om0.pl
 blacklist_from ox599@no599.om0.pl
 blacklist_from ox666@no666.om0.pl
 blacklist_from ox680@no680.om0.pl
@@ -1407,6 +1410,8 @@ blacklist_from tx315@nt315.tenmlnc.pl
 blacklist_from tx414@nt414.tenmlnd.pl
 blacklist_from tx460@nt460.tenmlnd.pl
 blacklist_from tx582@nt582.tenmlnd.pl
+blacklist_from tx610@nt610.tenmlne.pl
+blacklist_from tx667@nt667.tenmlne.pl
 blacklist_from tx841@nt841.tenmlne.pl
 blacklist_from ucnyhwb@bistemaner.ch
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
@@ -1492,6 +1497,7 @@ blacklist_from Zespol_wskazowekzdrowotnych@gtmertrix.com
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from zhaoying@sakura-sohgyo.cn
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailsare.com
 blacklist_from znkib@znnpkib.pl
 blacklist_from zoe@yunitec.com.hk
 blacklist_from zuzanna.kuzma@infortraining.pl
