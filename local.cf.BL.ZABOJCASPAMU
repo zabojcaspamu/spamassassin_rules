@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-21 07:00 
+# Wygenerowana 2021-05-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -119,6 +119,7 @@ blacklist_from awkusrq@sintoskym.es
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
+blacklist_from *@baiss.airmail360.com
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
 blacklist_from baza@eniro.com
@@ -163,6 +164,7 @@ blacklist_from biuro@firmfinansowanie.pl
 blacklist_from biuro@flagi-producent.pl
 blacklist_from biuro?@galeriasz.pl
 blacklist_from biuro@google1st.pl
+blacklist_from biuro@groupkredyt.pl
 blacklist_from biuro@hotelmagazin.pl
 blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kosmicznymecz.pl
@@ -231,6 +233,7 @@ blacklist_from bounce-1@bounce.mail.trioconferences.pl
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
+blacklist_from bounce-539547@bounce.gr-mail2.com
 blacklist_from bounce-8804602@bounce.getresponse-mail.com
 blacklist_from bounce@alternatywne-finansowanie.com.pl
 blacklist_from bounce@alternatywnefinansowanie.com.pl
@@ -276,6 +279,7 @@ blacklist_from bounce@poprawa-plynnosci.com.pl
 blacklist_from bounce@pozyczka-24-pl.com.pl
 blacklist_from bounce@primoryei.com
 blacklist_from bounce@proste-finansowanie.online
+blacklist_from bounce@prosty-kredytfirmowy24.com.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
 blacklist_from bounce@safemaskspro.com
@@ -508,10 +512,12 @@ blacklist_from *@frenzydonor.com
 blacklist_from *@frot.pl
 blacklist_from *@fundacjakibica.pl
 blacklist_from *@fuoridiciao.com
+blacklist_from fx356@nf356.fd0.pl
 blacklist_from fx422@nf422.fd0.pl
 blacklist_from fx434@nf434.fd0.pl
 blacklist_from fx436@nf436.fd0.pl
 blacklist_from fx484@nf484.fd0.pl
+blacklist_from fx491@nf491.fd0.pl
 blacklist_from fx545@nf545.fd0.pl
 blacklist_from *@garrachachraf.com
 blacklist_from *@garyblumbergpc.com
@@ -621,6 +627,7 @@ blacklist_from info@drukuv.opole.pl
 blacklist_from info.dwstyles@gmail.com
 blacklist_from infoe8829@att.net
 blacklist_from info@eec-medica.com
+blacklist_from *@info.effectivemail.net.pl
 blacklist_from info@ekosze.e-czysto??.pl
 blacklist_from *@info??.emaillo.pl
 blacklist_from info@energooszczedne-ogrzewanie.pl
@@ -706,6 +713,7 @@ blacklist_from info@szkoleniaplatformawiedzy.pl
 blacklist_from info@teenagercomputer.cam
 blacklist_from info@teisestarnai.lt
 blacklist_from info@tictok.pl
+blacklist_from *@info.topdelivery.net.pl
 blacklist_from info@visainc.com
 blacklist_from info@Vulkanpartner.com
 blacklist_from *@info.whitersend.pl
@@ -1003,6 +1011,7 @@ blacklist_from news@nieruchomosci-online.pl
 blacklist_from *@newspoczta.pl
 blacklist_from news@ronaldodream.com
 blacklist_from *@news??.send24.pl
+blacklist_from *@news.send24.pl
 blacklist_from *@news.send360.pl
 blacklist_from *@news.spacemail.pl
 blacklist_from news@targi.lodz.pl
@@ -1410,6 +1419,7 @@ blacklist_from tx315@nt315.tenmlnc.pl
 blacklist_from tx414@nt414.tenmlnd.pl
 blacklist_from tx460@nt460.tenmlnd.pl
 blacklist_from tx582@nt582.tenmlnd.pl
+blacklist_from tx585@nt585.tenmlnd.pl
 blacklist_from tx610@nt610.tenmlne.pl
 blacklist_from tx667@nt667.tenmlne.pl
 blacklist_from tx841@nt841.tenmlne.pl
@@ -1498,6 +1508,7 @@ blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from zhaoying@sakura-sohgyo.cn
 blacklist_from *@zibojinda.com
 blacklist_from *@z.mailsare.com
+blacklist_from *@z.mailsys.pl
 blacklist_from znkib@znnpkib.pl
 blacklist_from zoe@yunitec.com.hk
 blacklist_from zuzanna.kuzma@infortraining.pl
