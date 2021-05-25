@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-25 07:00 
+# Wygenerowana 2021-05-25 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -47,12 +47,14 @@ blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administracja@a.gromail.pl
 blacklist_from administracja@aro.gromail.pl
+blacklist_from administracja@one.cybmail.pl
 blacklist_from administracja@ope.cybmail.pl
 blacklist_from administracja@sez.gromail.pl
 blacklist_from administrator@a.gromail.pl
 blacklist_from administrator@ans.cybmail.pl
 blacklist_from administrator@sez.gromail.pl
 blacklist_from administtrator@ans.cybmail.pl
+blacklist_from admin@lgcpt.cam
 blacklist_from admin@mailbox.com
 blacklist_from adminmailingu@pckp.pl
 blacklist_from admin@mails-serverups.cam
@@ -225,6 +227,7 @@ blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-3449303@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.getresponse-mail.com
 blacklist_from bounce-539547@bounce.gr-mail2.com
+blacklist_from bounce-74385803@bounce.getresponse-mail.com
 blacklist_from bounce-8804602@bounce.getresponse-mail.com
 blacklist_from bounce@alternatywnefinansowanie.com.pl
 blacklist_from bounce@alternatywnefinansowanie.pl
@@ -292,6 +295,7 @@ blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
 blacklist_from *@campaign.freshmail.email
+blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
 blacklist_from ccc2@earth.pl
@@ -651,6 +655,7 @@ blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lorbeer-info.eu
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
+blacklist_from *@info.maileffective.net.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
@@ -666,6 +671,7 @@ blacklist_from info@off-send.pl
 blacklist_from info@papatuco.com
 blacklist_from info@pl01.xyz
 blacklist_from info@platformawiedzy-szkolenia.pl
+blacklist_from info@pocztabiznespremium.com
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@publikmusik.pl
 blacklist_from informacja@owal.online
@@ -851,7 +857,9 @@ blacklist_from magda.b@pro-activ.pl
 blacklist_from mail@comp-net.pl
 blacklist_from *@mailer.adnews24.pl
 blacklist_from mailer-daemon@abg2sendmailcheck.cam
+blacklist_from mailer-daemon@checksendomgbukris.live
 blacklist_from mail@freshplaza.de
+blacklist_from mail@gac.com
 blacklist_from *@mailgrid.pl
 blacklist_from mailing7777777@wp.pl
 blacklist_from mailing@digitalcontact.pl
@@ -1404,6 +1412,7 @@ blacklist_from ucnyhwb@bistemaner.ch
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
 blacklist_from uhcydhs@fiztonsky.es
+blacklist_from ujzucfj@tipontale.it
 blacklist_from ukleqfb@tifanyse.ch
 blacklist_from u.komuniecka@bt.bielsko.pl
 blacklist_from unfurcx@bitestione.it
@@ -1475,6 +1484,7 @@ blacklist_from zapytanie.wycena@gmail.com
 blacklist_from *@zatokaprawna.pl
 blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
+blacklist_from *@z.enewsletter.com.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zenithbankplc.gmd27@gmail.com
 blacklist_from Zespol_wskazowekzdrowotnych@gtmertrix.com
