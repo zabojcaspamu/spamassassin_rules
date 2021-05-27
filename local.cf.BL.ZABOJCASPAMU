@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-27 07:00 
+# Wygenerowana 2021-05-27 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -42,6 +42,7 @@ blacklist_from admin1@poczta-pol.info
 blacklist_from admin@abgsetup-domain.cam
 blacklist_from admin@a.pcpogotowie.pl
 blacklist_from admin@chkmailcheckonline.cam
+blacklist_from admin@huvexel.com
 blacklist_from admin@infinito.edu.pl
 blacklist_from admin@informatykawarszawa.com.pl
 blacklist_from administracja@a.gromail.pl
@@ -95,6 +96,7 @@ blacklist_from ania@evbsproduct.pl
 blacklist_from anitaluj@volenti.pl
 blacklist_from anna@e-bazy.com
 blacklist_from annamaria_berna9279n16@hotmail.com
+blacklist_from anna.wilk@e-wierzyciel.com
 blacklist_from anonymous@aa171.secure.ne.jp
 blacklist_from antek@vps17888.ovh.net
 blacklist_from *@anteny.dla-najlepszych.pl
@@ -143,6 +145,7 @@ blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czapol.waw.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
+blacklist_from biuro@debet-ai.pl
 blacklist_from biuro@debtlawyer.pl
 blacklist_from biuro@dobry-wizerunek.pl
 blacklist_from biuro@domowesmaki.pl
@@ -240,13 +243,17 @@ blacklist_from bounce@doradztwofinansowedlafirm.com.pl
 blacklist_from bounce@doradztwofinansowedlafirm.pl
 blacklist_from bounce@doradztwo-firmowe.pl
 blacklist_from bounce@doradztwokredytowedlafirm.com.pl
+blacklist_from bounce@ebrlistings.com
 blacklist_from bounce@ebr-registration.com
+blacklist_from bounce@eu-finansowanie.com.pl
+blacklist_from bounce@finance-sme.pl
 blacklist_from bounce@finansowanie-bankowe.com.pl
 blacklist_from bounce@finansowaniefirmowe.com.pl
 blacklist_from bounce@finansowaniefirmowe.net.pl
 blacklist_from bounce@finansowanie-gwarancja.com.pl
 blacklist_from bounce@finansowanie-handlu.pl
 blacklist_from bounce@finansowanieodnawialne.pl
+blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansowanie-produkcji.pl
 blacklist_from bounce@finansowanieprodukcji.pl
 blacklist_from bounce@finansujemyfirmy.online
@@ -591,10 +598,12 @@ blacklist_from info@dhlcustomerservice??.top
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
 blacklist_from info@dietanawiosne.pl
+blacklist_from info@digit24.pl
 blacklist_from info@drukuv.opole.pl
 blacklist_from info.dwstyles@gmail.com
 blacklist_from infoe8829@att.net
 blacklist_from info@eec-medica.com
+blacklist_from *@info.effectivemail.net.pl
 blacklist_from info@ekosze.e-czysto??.pl
 blacklist_from info@elapseclock.cam
 blacklist_from *@info??.emaillo.pl
@@ -639,6 +648,7 @@ blacklist_from info@lokalehandlowe.pl
 blacklist_from info@lorbeer-info.eu
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
+blacklist_from *@info.maileffective.net.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
@@ -655,6 +665,7 @@ blacklist_from info@papatuco.com
 blacklist_from info@pl01.xyz
 blacklist_from info@platformawiedzy-szkolenia.pl
 blacklist_from info@pocztabiznespremium.com
+blacklist_from *@info.popularsending.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@publikmusik.pl
 blacklist_from informacja@wydawnicza.info.pl
@@ -695,6 +706,7 @@ blacklist_from *@???.interactivepartne-rs.com
 blacklist_from *@*.interactive-partners.me
 blacklist_from *@???.interactivepartners.net
 blacklist_from internetowyportfel@zawrotneoferty.pl
+blacklist_from invest@office365.com
 blacklist_from *@inxserver.de
 blacklist_from ioffice@if-szkolenia.biz.pl
 blacklist_from ipqyrww@fiztonsky.es
@@ -718,6 +730,7 @@ blacklist_from jgutel@eg-mix.pl
 blacklist_from jk9039133@gmail.com
 blacklist_from j.kuszyba@pl.kruk.eu
 blacklist_from joanna_lewandowski@stylestandsalone.com
+blacklist_from joanna@prestomedia.eu
 blacklist_from joanna.rogowska@pixers.pl
 blacklist_from joanna.wal@gmail.com
 blacklist_from jokenga@samigo-trade.com
@@ -1203,6 +1216,7 @@ blacklist_from rwe@supmail.pl
 blacklist_from sabina.gosik@gmail.com
 blacklist_from SagePolska@supmail.pl
 blacklist_from saggio@pantexglobal.com
+blacklist_from sales03@bobo.hk
 blacklist_from sales2@wofulin.com
 blacklist_from Sales.48@vacuumcleaner.com
 blacklist_from sales8@siebella.com
