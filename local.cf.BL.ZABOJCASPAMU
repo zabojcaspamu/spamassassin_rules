@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-05-29 07:00 
+# Wygenerowana 2021-05-29 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -243,15 +243,18 @@ blacklist_from bounce@finansowanieodnawialne.pl
 blacklist_from bounce@finansowanieprodukcji.com.pl
 blacklist_from bounce@finansowanieprodukcji.pl
 blacklist_from bounce@firma-finansowanie.pl
+blacklist_from bounce@firmafinansowanie.pl
 blacklist_from bounce@firmowe-finansowanie.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@hydestreet.work
 blacklist_from bounce@kredyt-ekspert.pl
+blacklist_from bounce@kredyt-gwarancja-ue.com.pl
 blacklist_from bounce@ledonline3.com
 blacklist_from bounce@ledonline4.com
 blacklist_from bounce@ledonline5.com
 blacklist_from bounce@ledonline6.com
+blacklist_from bounce@liniawrachunku.pl
 blacklist_from bounce@maxfinansowanie.pl
 blacklist_from bounce@maxkredyt.com.pl
 blacklist_from bounce@news.successpoint.pl
@@ -259,9 +262,11 @@ blacklist_from bounce@newsyour.info
 blacklist_from bounce@nowefinansowanie.com.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@poprawa-plynnosci.com.pl
+blacklist_from bounce@poprawaplynnosci.com.pl
 blacklist_from bounce@pozyczka-24-pl.com.pl
 blacklist_from bounce@primoryei.com
 blacklist_from bounce@proste-finansowanie.online
+blacklist_from bounce@prosty-kredytfirmowy24.com.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.senderus.pl
@@ -563,6 +568,7 @@ blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
 blacklist_from info@dhlcustomerservice??.top
+blacklist_from *@info.diamondtrack.pl
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
 blacklist_from info@dietanawiosne.pl
@@ -642,6 +648,7 @@ blacklist_from info@shopboard24.pl
 blacklist_from info@shopboard.pl
 blacklist_from info@silviaastuzia.com
 blacklist_from info@sklep.?-czysto01.pl
+blacklist_from *@info.smartestmail.pl
 blacklist_from info@solidmarketing.eu
 blacklist_from info@speedysklep.e-czysto??.pl
 blacklist_from *@info.spotmail.pl
