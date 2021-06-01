@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-01 07:00 
+# Wygenerowana 2021-06-01 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -274,9 +274,11 @@ blacklist_from bounce@wsparcie-rozwoju.com.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
+blacklist_from bulten@euromsg.net
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
+blacklist_from bzawillo@ms0480.m.lrmailr.pl
 blacklist_from bzawillo@ms0481.m.lrmailr.pl
 blacklist_from bzawillo@ms1016.m.lrmailr.pl
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
@@ -321,6 +323,7 @@ blacklist_from conceptronic@conceptronic.pl
 blacklist_from contact@kapishwar.net
 blacklist_from contact@new-horizons.pl
 blacklist_from contact@saeclum.pl
+blacklist_from contact@synetcom.asia
 blacklist_from controlling@mediaexpln.pl
 blacklist_from *@cpatrafficword.com
 blacklist_from cross@growlaw.cam
@@ -536,6 +539,7 @@ blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
 blacklist_from info@biznespremiuminfo.com
 blacklist_from info@b-solutionsltd.com
+blacklist_from info@c-comm.pl
 blacklist_from info@c-fresh.pl
 blacklist_from info@compassexpo.info
 blacklist_from info@cpi-szkolenia.waw.pl
@@ -596,6 +600,7 @@ blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
+blacklist_from *@info.mainclick.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mofa.gov.gh
 blacklist_from info@mopzestaw.e-czysto01.pl
@@ -1139,6 +1144,7 @@ blacklist_from sales@afa-groupss.com
 blacklist_from Sales@alkuhaimi.com
 blacklist_from *@salesmanago.io
 blacklist_from sales@o-tools.live
+blacklist_from sales@u-accts.info
 blacklist_from sales@zjgmorale.com
 blacklist_from *@samochod.bialystok.pl
 blacklist_from *@samochod.katowice.pl
@@ -1212,6 +1218,7 @@ blacklist_from study@costumebite.cam
 blacklist_from suite17@xpressus.emarsys.net
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
+blacklist_from support@leonidas-gourmet.kz
 blacklist_from sw207030@gmail.com
 blacklist_from *@syriusgroup.com
 blacklist_from szarpie@alleobozy.pl
@@ -1361,6 +1368,7 @@ blacklist_from Zespol_wskazowekzdrowotnych@exporindo.com
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from zhaoying@sakura-sohgyo.cn
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailsys.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwroty@konferencjedlabusinesu.com.pl
