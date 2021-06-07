@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-07 07:00 
+# Wygenerowana 2021-06-07 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -183,6 +183,7 @@ blacklist_from biuro@to-sie-oplaca.pl
 blacklist_from biurotow@towedukacja24.pl
 blacklist_from biuro@traficgroup.pl
 blacklist_from biuro@tslkurier.pl
+blacklist_from biuro@twojakancelaria24.pl
 blacklist_from biuro@twojastronawww.net.pl
 blacklist_from biuro@tworcyeventow.pl
 blacklist_from biuro@tworzenie-sklepow.eu
@@ -275,6 +276,7 @@ blacklist_from bounce@wsparcie-rozwoju.com.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
+blacklist_from bulten@euromsg.net
 blacklist_from *@businesscampaign.pl
 blacklist_from business-solutions@post.pl
 blacklist_from *@bustadomain.com
@@ -284,6 +286,7 @@ blacklist_from bzawillo@ms1016.m.lrmailr.pl
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
+blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
 blacklist_from ccc2@earth.pl
@@ -453,6 +456,7 @@ blacklist_from gina@thoco.com
 blacklist_from ginorossi@brasletik.pl
 blacklist_from *@giopik.co.ua
 blacklist_from gogastro@gastrona.pl
+blacklist_from goldenbrand@goldenbrand.eu
 blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
 blacklist_from *@*.gosmall-biz.com
@@ -612,6 +616,7 @@ blacklist_from info@winnr-mar.pl
 blacklist_from info@wist14.pl
 blacklist_from info@wypoczywaj-w-spa.pl
 blacklist_from *@info.xylionmail.pl
+blacklist_from info@zwieksz-sprzedaz.pl
 blacklist_from infu@piomi.pl
 blacklist_from *@inkersallstars.com
 blacklist_from *@inquisio.pl
@@ -676,6 +681,7 @@ blacklist_from konferencja@cpi-sk.com.pl
 blacklist_from konpol@data.pl
 blacklist_from konpol@post.pl
 blacklist_from konrad@corpscast.com
+blacklist_from konspekt@konspekt.com.pl
 blacklist_from kontakt@adlike.com.pl
 blacklist_from kontakt@affiliate-24.com
 blacklist_from kontakt@apteka-kamagra.com
@@ -815,6 +821,7 @@ blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
 blacklist_from michal.deja@clientonline.pl
 blacklist_from mieszko.rokicki@bigtradeprofit.pl
+blacklist_from milena.friebe@4edu.info.pl
 blacklist_from milomlynspa@onintarget.pl
 blacklist_from ministerstwo-finansow@gatewaygovuk91.us
 blacklist_from mirabelwilson2@hotmail.com
@@ -901,6 +908,7 @@ blacklist_from no-replay@nfmail???.pl
 blacklist_from noreply2@mediateam.pl
 blacklist_from noreply@adletter.pl
 blacklist_from no-reply@amazon.com
+blacklist_from noreply@angielskizdojazdem.waw.pl
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from noreply@ariannteemail.cam
 blacklist_from no-reply@badamy.to
@@ -939,6 +947,7 @@ blacklist_from odbicia@finanse-msp.com.pl
 blacklist_from odbicia@gtrr.pl
 blacklist_from odbicia@leadmetrics.pl
 blacklist_from odbicia@newmessage.eu
+blacklist_from odbicia@novamo.pl
 blacklist_from odbicia@promo365.com.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
 blacklist_from odrzucone@symen24.pl
@@ -1002,8 +1011,10 @@ blacklist_from peugeotpolska@niroline.pl
 blacklist_from *@pimptania.com
 blacklist_from piotrbnc@e-bazy.com
 blacklist_from piotr.gawrysiak@kusloncu.com.pl
+blacklist_from piotr.lagodzki@onlinetradesystem.pl
 blacklist_from piotr.malarski@gmail.com
 blacklist_from pkania@osps-bhp.krakow.pl
+blacklist_from p.kubik@szybkie-tlumaczenia.pl
 blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
@@ -1064,10 +1075,12 @@ blacklist_from roman@almar-sport.pl
 blacklist_from root@begarring.xyz
 blacklist_from root@localhost.60042.meghost.pl
 blacklist_from root@runonhot.xyz
+blacklist_from root@srv1.mk-telekom.pl
 blacklist_from root@stamegna.eu
 blacklist_from root@vps609000.ovh.net
 blacklist_from root@vps627155.ovh.net
 blacklist_from root@vps628570.ovh.net
+blacklist_from root@vps628572.ovh.net
 blacklist_from root@vps635585.ovh.net
 blacklist_from root@vps635586.ovh.net
 blacklist_from root@vps637793.ovh.net
@@ -1141,6 +1154,7 @@ blacklist_from skoda@notice4you.pl
 blacklist_from *@slicplans.com
 blacklist_from *@smgrid.pl
 blacklist_from smigmbh@wp.pl
+blacklist_from smtpfox-5owgn@hostjedi.com
 blacklist_from smyk@oooli.eu
 blacklist_from SNAP_ONSMILEY@exporindo.com
 blacklist_from SNAP_ONSMILEY@gtmertrix.com
@@ -1242,6 +1256,7 @@ blacklist_from ursa@promuj-polskie.szczecin.pl
 blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from uycalhm@masintok.li
 blacklist_from vectra@productcompany.pl
+blacklist_from verificationdata@verificationdata.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
@@ -1266,6 +1281,7 @@ blacklist_from wnioski@sukcesshop.pl
 blacklist_from wodaeden@companybase.pl
 blacklist_from *@wondersquirt.com
 blacklist_from wtyszkowski@wiselimber.pl
+blacklist_from www-data@clearpage.pl
 blacklist_from www-data@investorkirov.ru
 blacklist_from www-data@logos21.pl
 blacklist_from www-data@ogrzewanieprzemyslowe2021.pl
@@ -1294,6 +1310,7 @@ blacklist_from *@z.enewsletter.pl
 blacklist_from Zespol_wskazowekzdrowotnych@exporindo.com
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
+blacklist_from *@z.news360.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx11.skills.net.pl
