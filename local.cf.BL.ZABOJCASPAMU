@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-11 18:20 
+# Wygenerowana 2021-06-12 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -276,6 +276,7 @@ blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from bounce@tech-finanse.pl
 blacklist_from bounce@trainingleads.live
 blacklist_from bounce@uproszczonykredytbankowy.com.pl
 blacklist_from bounce@vladivostoka.com
@@ -322,6 +323,7 @@ blacklist_from chorw???????pl@blackseedbuffet.com
 blacklist_from cirulli.luca101@gmail.com
 blacklist_from ckbiznes@certyfikowaneszkolenia.pl
 blacklist_from ckl@ckl.pl
+blacklist_from c.kryszak@seneka-rozwojzawodowy.pl
 blacklist_from *@closeneighbor.com
 blacklist_from coerce@treadgrant.cam
 blacklist_from coleacp@info.coleacp.org
@@ -805,6 +807,7 @@ blacklist_from mariusz.kowalski@cgeszkolenia.pl
 blacklist_from marketing2@polidruk.com.pl
 blacklist_from marketing@bekar-europe.eu
 blacklist_from marketing.biofruit@gmail.com
+blacklist_from marketing@ciapek.waw.pl
 blacklist_from marketing@euroma.edu.pl
 blacklist_from marketing@open-team.pl
 blacklist_from marketing@pl.edensprings.com
@@ -1105,6 +1108,7 @@ blacklist_from sales03@bobo.hk
 blacklist_from sales2@wofulin.com
 blacklist_from sales8@siebella.com
 blacklist_from sales@afa-groupss.com
+blacklist_from sales@hh-accts.info
 blacklist_from *@salesmanago.io
 blacklist_from sales@u-accts.info
 blacklist_from sales@zjgmorale.com
