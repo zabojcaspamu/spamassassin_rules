@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-14 07:00 
+# Wygenerowana 2021-06-14 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -127,6 +127,7 @@ blacklist_from biuro@biznesikasa.pl
 blacklist_from *@biuro.caffeprint.eu
 blacklist_from biuro@color24.pl
 blacklist_from biuro@czapol.waw.pl
+blacklist_from biuro@czasnabenefit.com.pl
 blacklist_from biuro@czyscimynegatywy.com.pl
 blacklist_from biuro@debet-ai.pl
 blacklist_from biuro@debtlawyer.pl
@@ -269,6 +270,7 @@ blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@tech-finanse.pl
 blacklist_from bounce@uproszczonykredytbankowy.com.pl
+blacklist_from bounce@wsparcie-inwestycji.com.pl
 blacklist_from bounce@wsparcie-msp.pl
 blacklist_from bounce@wsparcie-rozwoju.com.pl
 blacklist_from *@brittandalex.com
@@ -284,6 +286,7 @@ blacklist_from bzawillo@ms1016.m.lrmailr.pl
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
+blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
 blacklist_from ccc2@earth.pl
@@ -430,6 +433,7 @@ blacklist_from freedome@intia.pl
 blacklist_from *@frenzydonor.com
 blacklist_from *@frot.pl
 blacklist_from *@fundacjakibica.pl
+blacklist_from fundunclaime@yandex.com
 blacklist_from *@fuoridiciao.com
 blacklist_from fx356@nf356.fd0.pl
 blacklist_from fx491@nf491.fd0.pl
@@ -534,6 +538,7 @@ blacklist_from info@ersl.info
 blacklist_from info@euro-noclegi.com
 blacklist_from *@info.fastymail.pl
 blacklist_from *@info.fewmembers.pl
+blacklist_from info@finansedlafirmy.com
 blacklist_from info@firmajutra.eu
 blacklist_from info@flipmailer.com
 blacklist_from *@info??.flyemail.pl
@@ -824,6 +829,7 @@ blacklist_from mmreturn@magnetdev.com
 blacklist_from mm@systemszkolenia.pl
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from m.olesiak@interia.pl
+blacklist_from Monika.Lenkiewicz@sofidel.com
 blacklist_from monika.pieslak@yahoo.com
 blacklist_from moto@ibai.pl
 blacklist_from mp@biurozarzadu.pl
@@ -913,6 +919,7 @@ blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from no-reply@linkednmessages.com
+blacklist_from noreply@mailing-kpmg.com
 blacklist_from noreply@mailtarget.pl
 blacklist_from no-reply@monetizingiot.curatasite.com
 blacklist_from no-reply@???nfmail.pl
@@ -1281,10 +1288,12 @@ blacklist_from zapytanie.wycena@gmail.com
 blacklist_from *@zatokaprawna.pl
 blacklist_from zdrowie@baratoquevale.biz
 blacklist_from *@z.ecampaign.pl
+blacklist_from *@z.enewsletter.com.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from Zespol_wskazowekzdrowotnych@exporindo.com
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailsys.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwroty@konferencjedlabusinesu.com.pl
