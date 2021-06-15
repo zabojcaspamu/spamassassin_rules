@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-14 18:20 
+# Wygenerowana 2021-06-15 07:10 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -243,6 +243,7 @@ blacklist_from bounce@finansowanieodnawialne.pl
 blacklist_from bounce@finansowanie-plynnosci.com.pl
 blacklist_from bounce@finansowanie-premium.com.pl
 blacklist_from bounce@finansowanieprodukcji.pl
+blacklist_from bounce@finansowanie-wielozadaniowe.com.pl
 blacklist_from bounce@finansowanie-wielozadaniowe.pl
 blacklist_from bounce@fin-commercial.pl
 blacklist_from bounce@firma-finansowanie.pl
@@ -476,6 +477,7 @@ blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
 blacklist_from *@hprofit.pl
 blacklist_from hr@pizzahut-lb.com
+blacklist_from hs@msn.net
 blacklist_from huixinsoft11@foxmail.com
 blacklist_from huixinsoft43@foxmail.com
 blacklist_from huixinsoft5@foxmail.com
@@ -512,6 +514,7 @@ blacklist_from info@bignote.pl
 blacklist_from info@biznespremiuminfo.com
 blacklist_from info@b-solutionsltd.com
 blacklist_from info@c-21.xyz
+blacklist_from info@c-fresh.pl
 blacklist_from info@compassexpo.info
 blacklist_from info@cpi-szkolenia.waw.pl
 blacklist_from *@???????.infoczystosc.com.pl
@@ -1162,6 +1165,7 @@ blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@leonidas-gourmet.kz
 blacklist_from *@syriusgroup.com
+blacklist_from sysuser_e@prawo-zdalne.pl
 blacklist_from szarpie@alleobozy.pl
 blacklist_from szitara@yahoo.com
 blacklist_from szkolenia@edutag24.pl
