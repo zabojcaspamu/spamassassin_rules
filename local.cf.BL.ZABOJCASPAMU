@@ -1,11 +1,12 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-17 07:00 
+# Wygenerowana 2021-06-17 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
 blacklist_from 08b62d239754f74ef9577d39106d479c@kontaktybiznesowe.pl
 blacklist_from 1443d3d2183876285ba1cc7129976c5e@kontaktybiznesowe.pl
 blacklist_from *@163.com
+blacklist_from 185.254.31.76@jascorpsg.net
 blacklist_from 1@jobhelping.pl
 blacklist_from 1@moneywork.pl
 blacklist_from 20prezent@wons321.com
@@ -100,6 +101,7 @@ blacklist_from awladkf@zaipostall.ch
 blacklist_from a.zaborowski@generalfinance.pl
 blacklist_from b2b@blikle.pl
 blacklist_from *@badoo.com
+blacklist_from *@baiss.airmail360.com
 blacklist_from *@bankowefinansowanie.pl
 blacklist_from bartczakedward1970@wp.pl
 blacklist_from baza@eniro.com
@@ -249,6 +251,8 @@ blacklist_from bounce@firmafinansowanie.pl
 blacklist_from *@bounce.freshmail.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@industrial-finance.com.pl
+blacklist_from bounce@indywidualnefinansowanie.com.pl
+blacklist_from bounce@indywidualnefinansowanie.pl
 blacklist_from bounce@indywidualne-rozwiazania.pl
 blacklist_from bounce@info.wolterskluwer.com
 blacklist_from bounce@ledonline5.com
@@ -370,6 +374,7 @@ blacklist_from *@ebberhealth.com
 blacklist_from ebloxwz@zaipostall.ch
 blacklist_from *@eclecticasrl.com
 blacklist_from eden@baza-firm.biz.pl
+blacklist_from edu-irip@irip.edu.pl
 blacklist_from edukacja@f-edukacja.org.pl
 blacklist_from edytamaliszewska@pomocdlafilipa.pl
 blacklist_from eeeda132d2e506d2e1274c0f103a9eff@kontaktybiznesowe.pl
@@ -569,6 +574,8 @@ blacklist_from *@info.maileffective.net.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
+blacklist_from *@info.mailtracker.pl
+blacklist_from *@info.mainclick.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@multibanki.pl
@@ -820,6 +827,8 @@ blacklist_from *@mediasofttec.com
 blacklist_from megakumulacje@dancing24.xyz
 blacklist_from *@megawaty.pl
 blacklist_from m@eudotacje24.pl
+blacklist_from michal.deja@clientonline.pl
+blacklist_from michal.wolczynski@saleprofit.pl
 blacklist_from mieszko.rokicki@bigtradeprofit.pl
 blacklist_from milena.friebe@4eduszkolenia.pl
 blacklist_from milomlynspa@onintarget.pl
@@ -1033,6 +1042,7 @@ blacklist_from postmaster@posxtfx.xyz
 blacklist_from postmaster@smtp1.smtp-test.pl
 blacklist_from postmaster@smtp2.smtp-test.pl
 blacklist_from POSTMASTER@upgrademainten.cam
+blacklist_from pozycjonowanie@mailsender.com
 blacklist_from pozyczki@tylkofakty.info
 blacklist_from pozyczkomat@baza-firm.biz.pl
 blacklist_from prawoiszkolenia@prawoiszkolenia.pl
