@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-06-21 07:00 
+# Wygenerowana 2021-06-21 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -128,6 +128,7 @@ blacklist_from biuro@IQ-SPRZEDAZY.PL
 blacklist_from biuro@kosmicznymecz.pl
 blacklist_from biuro@kredytowewsparcie.pl
 blacklist_from biuro@kredyty-a.pl
+blacklist_from biuro@mailad1.pl
 blacklist_from biuro@mastersend.pl
 blacklist_from biuro@max-bonard.pl
 blacklist_from biuro@muutum.pl
@@ -221,6 +222,7 @@ blacklist_from bounce@finansowanie-plynnosci.com.pl
 blacklist_from bounce@finansowanie-premium.com.pl
 blacklist_from bounce@finansowanieprodukcji.pl
 blacklist_from bounce@finansowanie-wielocelowe.com.pl
+blacklist_from bounce@finansowanie-wielocelowe.pl
 blacklist_from bounce@finansowanie-wielozadaniowe.com.pl
 blacklist_from bounce@finansowanie-wielozadaniowe.pl
 blacklist_from bounce@fin-commercial.pl
@@ -236,6 +238,7 @@ blacklist_from bounce@indywidualne-finansowanie.pl
 blacklist_from bounce@indywidualnefinansowanie.pl
 blacklist_from bounce@indywidualne-rozwiazania.pl
 blacklist_from bounce@info.wolterskluwer.com
+blacklist_from bounce@jascorpsg.net
 blacklist_from bounce@ledonline5.com
 blacklist_from bounce@limit-obrotowy.pl
 blacklist_from bounce@limitobrotowy.pl
@@ -258,6 +261,7 @@ blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@tech-finanse.pl
+blacklist_from bounce@top-finanse.online
 blacklist_from bounce@trans-finans.eu
 blacklist_from bounce@wsparciefiansowe.com.pl
 blacklist_from bounce@wsparcieinwestycji.com.pl
@@ -277,6 +281,7 @@ blacklist_from bzawillo@ms1016.m.lrmailr.pl
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
+blacklist_from *@campaign.freshmail.email
 blacklist_from *@campaign.freshmail.mx
 blacklist_from campaign@newsletters-?.essentialretail.co.uk
 blacklist_from capitalistlithuania@gmail.com
@@ -499,6 +504,7 @@ blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
 blacklist_from info@dhlcustomerservice??.top
+blacklist_from *@info.diamondtrack.pl
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
 blacklist_from info@dietanawiosne.pl
@@ -1133,6 +1139,7 @@ blacklist_from smyk@oooli.eu
 blacklist_from SNAP_ONSMILEY@exporindo.com
 blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
+blacklist_from sovex@news.sovex-grandschateaux.com
 blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from sprzedaz@intia.pl
 blacklist_from sprzedaz@mediaexpln.pl
