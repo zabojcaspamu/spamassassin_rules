@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-07-05 07:00 
+# Wygenerowana 2021-07-05 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -199,6 +199,7 @@ blacklist_from bounce@biznes-rozwiazania.pl
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@bounce.content.pwc.com
 blacklist_from bounce@capital-trade.pl
+blacklist_from bounce@centrum-finansowania.com.pl
 blacklist_from bounce@corpo-biznes.pl
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@doradca-firmowy.com.pl
@@ -256,6 +257,7 @@ blacklist_from bounce@newsyour.info
 blacklist_from bounce@nowe-finansowanie.com.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@partnerfinance.com.pl
+blacklist_from bounce@pl-advisors.com.pl
 blacklist_from bounce@pozyczka-firmowa.net.pl
 blacklist_from bounce@premium-finance.com.pl
 blacklist_from bounce@pwm0.com
@@ -370,6 +372,7 @@ blacklist_from *@einternetmarketing.eu
 blacklist_from *@einternetmarketing.net
 blacklist_from ejvalxh@zaipostall.li
 blacklist_from *@electricaincii.com
+blacklist_from elisowska@ms1444.m.lrmailr.pl
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
@@ -383,10 +386,12 @@ blacklist_from enoteka@enotekapolska.pl
 blacklist_from *@eonandalyssa.com
 blacklist_from erp4systemy@gmail.com
 blacklist_from *@escoecm.com
+blacklist_from esmyfsm@zaipostall.li
 blacklist_from *@espeefit.com
 blacklist_from espertiinelettronica@melchioni.it
 blacklist_from ewa.gruszczyk@grupainfomax.com
 blacklist_from ewhivjr@bitestione.it
+blacklist_from exmuqyq@zaipostall.ch
 blacklist_from exportsales2@powerram.com.tw
 blacklist_from export@sanusfood.com
 blacklist_from *@express-contacts.com
@@ -519,6 +524,7 @@ blacklist_from *@info??.emaillo.pl
 blacklist_from info@energooszczedne-ogrzewanie.pl
 blacklist_from info@ersl.info
 blacklist_from info@euro-noclegi.com
+blacklist_from info@e-wierzyciel.com
 blacklist_from *@info.fastymail.pl
 blacklist_from *@info.fewmembers.pl
 blacklist_from info@finansedlafirmy.com
@@ -528,6 +534,7 @@ blacklist_from *@info??.flyemail.pl
 blacklist_from info@gatewaygovuk??.com
 blacklist_from info@gatewaygovuk??.us
 blacklist_from info@gatewaygovuk?.us
+blacklist_from info@g-comm.pl
 blacklist_from info@gobid.shop
 blacklist_from info@gpawardprom.com
 blacklist_from info@g-smart.pl
@@ -561,7 +568,6 @@ blacklist_from info@niemozliwe.com.pl
 blacklist_from info@nn.pl
 blacklist_from info@nowe24promo.pl
 blacklist_from info@odmowa.infoczystosc.pl
-blacklist_from info@office365.com
 blacklist_from info@off-send.pl
 blacklist_from info@p1l.xyz
 blacklist_from info@platformawiedzy-szkolenia.pl
@@ -1273,6 +1279,7 @@ blacklist_from ykrefym@zaipostall.ch
 blacklist_from yptecbl@bitestione.it
 blacklist_from yrmaqsh@sintoskym.es
 blacklist_from ywmupfr@tipontale.it
+blacklist_from zakup@ms1444.m.lrmailr.pl
 blacklist_from zamowienie@express-contacts.com
 blacklist_from zamow@odblaskowe.waw.pl
 blacklist_from zapytania@email24.info.pl
