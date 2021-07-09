@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-07-09 09:20 
+# Wygenerowana 2021-07-09 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -171,6 +171,7 @@ blacklist_from bok@ciekaweupominki.com.pl
 blacklist_from bok.gdynia@ms1444.m.lrmailr.pl
 blacklist_from bokgka@ms1444.m.lrmailr.pl
 blacklist_from bok@ib2c.pl
+blacklist_from bok.katowice@ms1444.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1444.m.lrmailr.pl
 blacklist_from boklma@ms1444.m.lrmailr.pl
 blacklist_from bok.lublin@ms1444.m.lrmailr.pl
@@ -194,6 +195,7 @@ blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.gr-mail2.com
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
 blacklist_from bounce-8804602@bounce.getresponse-mail.com
 blacklist_from bounce@alter-finansowanie.pl
 blacklist_from bounce@bankierfirmowy.com.pl
@@ -243,6 +245,7 @@ blacklist_from bounce@fund-investor.eu
 blacklist_from bounce@fund-investor.pl
 blacklist_from *@bounce.getresponse.com
 blacklist_from bounce@global-advisors.pl
+blacklist_from bounce@globecorporate.com.pl
 blacklist_from bounce@globecorporate.eu
 blacklist_from bounce@indywidualne-finansowanie.com.pl
 blacklist_from bounce@indywidualnefinansowanie.com.pl
@@ -512,7 +515,6 @@ blacklist_from *@????.infoczystosc.com.pl
 blacklist_from *@???.infoczystosc.com.pl
 blacklist_from *@??.infoczystosc.com.pl
 blacklist_from info@dhlcustomerservice??.top
-blacklist_from *@info.diamondtrack.pl
 blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
 blacklist_from info@dietanawiosne.pl
@@ -559,7 +561,6 @@ blacklist_from *@info?.maildream.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
-blacklist_from *@info.mainclick.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
 blacklist_from info@ms1444.m.lrmailr.pl
@@ -913,6 +914,7 @@ blacklist_from no-reply@e-pasaz.eu
 blacklist_from no-reply@horecanet.pl
 blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
+blacklist_from no-reply-jmazgaj=almamarket.pl@forexprosmail.com
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from no-reply@linkednmessages.com
 blacklist_from no-reply@mailbox.com
@@ -1244,7 +1246,6 @@ blacklist_from ursa@promuj-polskie.warszawa.pl
 blacklist_from usfakfv@fiztonsky.es
 blacklist_from usulej-cholewa@ms1444.m.lrmailr.pl
 blacklist_from vectra@productcompany.pl
-blacklist_from verificationdata@verificationdata.com
 blacklist_from vmax@mail2Broker.com
 blacklist_from *@vps*.ovh.net
 blacklist_from vugarfruit@wp.pl
@@ -1300,7 +1301,6 @@ blacklist_from *@z.ecampaign.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
-blacklist_from *@z.mailsys.pl
 blacklist_from zuzanna.kuzma@infortraining.pl
 blacklist_from zwrotki@informail.infor.pl
 blacklist_from zwrotki@mx11.skills.net.pl
