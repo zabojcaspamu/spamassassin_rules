@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-07-20 18:20 
+# Wygenerowana 2021-07-21 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -245,6 +245,7 @@ blacklist_from bounce@doradca-biznesowy.com.pl
 blacklist_from bounce@doradca-biznes.pl
 blacklist_from bounce@doradca-firmowy.com.pl
 blacklist_from bounce@ebrlistings.com
+blacklist_from bounce@e-finanse-box.pl
 blacklist_from bounce@efinanse-box.pl
 blacklist_from bounce@ekspertweb.pl
 blacklist_from bounce@euro-bankier.com.pl
@@ -255,6 +256,7 @@ blacklist_from bounce@finanse-box.eu
 blacklist_from bounce@finanse-firmowe.com.pl
 blacklist_from bounce@finanse-firmowe.net.pl
 blacklist_from bounce@finanse-link.eu
+blacklist_from bounce@finanse-link.pl
 blacklist_from bounce@finanselink.pl
 blacklist_from bounce@finansowaniedla-firm.pl
 blacklist_from bounce@finansowanie-odnawialne.pl
@@ -263,6 +265,7 @@ blacklist_from bounce@finansowanie-premium.com.pl
 blacklist_from bounce@finansowanie-premium.pl
 blacklist_from bounce@fin-commercial.pl
 blacklist_from bounce@fin-inwest.pl
+blacklist_from bounce@firma-finansowanie.pl
 blacklist_from bounce@firmafinansowanie.pl
 blacklist_from bounce@firmy-finanse.pl
 blacklist_from bounce@first-bankier.eu
@@ -288,6 +291,9 @@ blacklist_from bounce@newsyour.info
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pl-advisors.com.pl
 blacklist_from bounce@pl-biznes.eu
+blacklist_from bounce@pro-capital.com.pl
+blacklist_from bounce@profit-investor.eu
+blacklist_from bounce@profit-investor.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
 blacklist_from *@bounce.senderus.pl
@@ -297,6 +303,7 @@ blacklist_from bounce@top-advisors.eu
 blacklist_from bounce@trainingleads.live
 blacklist_from bounce@trans-finans.eu
 blacklist_from bounce@trans-finans.pl
+blacklist_from bounce@wsparcieobrotowe.com.pl
 blacklist_from *@brittandalex.com
 blacklist_from *@brocknusser.com
 blacklist_from *@bsuportal.com
@@ -506,6 +513,7 @@ blacklist_from *@imojbiznes.pl
 blacklist_from impresariat@artmail.pl
 blacklist_from indywidualnykurier@companybase.pl
 blacklist_from inf0082@outlook.com
+blacklist_from info@0nline4u.pl
 blacklist_from info@24more.xyz
 blacklist_from info2@info.cherrwenm.top
 blacklist_from info@3obieg.pl
@@ -518,7 +526,6 @@ blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
-blacklist_from info@britinvest.com
 blacklist_from info@c-comm.pl
 blacklist_from info@c-fresh.pl
 blacklist_from info@cpi-szkolenia.waw.pl
@@ -939,7 +946,6 @@ blacklist_from odbicia@fotowoltaika-polska.net.pl
 blacklist_from odbicia@gtrr.pl
 blacklist_from odbicia@newmessage.eu
 blacklist_from odbicia@novamo.pl
-blacklist_from odbicia@offerly.com.pl
 blacklist_from odbicia@oze-energia.com.pl
 blacklist_from odbicia@promo365.com.pl
 blacklist_from odbicia@szkolenia-ibd.com.pl
@@ -1164,6 +1170,7 @@ blacklist_from sprzedaz@mediaexpln.pl
 blacklist_from sprzedaz@szkoleniesp.waw.pl
 blacklist_from stronywwwdorota@gmail.com
 blacklist_from suite17@xpressus.emarsys.net
+blacklist_from suite41@newsletter.limango.pl
 blacklist_from sulak.p.trc.group.co.th@gmail.com
 blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
