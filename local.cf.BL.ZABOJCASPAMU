@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-02 18:50 
+# Wygenerowana 2021-08-03 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -249,6 +249,7 @@ blacklist_from bok.zwyciezcow@ms1444.m.lrmailr.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
+blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.gr-mail2.com
 blacklist_from bounce@alter-finansowanie.pl
 blacklist_from bounce@bankierfirmowy.com.pl
@@ -277,6 +278,7 @@ blacklist_from bounce@euro-bankier.eu
 blacklist_from bounce@euro-bankier.pl
 blacklist_from bounce@finanse-box-24.pl
 blacklist_from bounce@finanse-box.eu
+blacklist_from bounce@finanseexperts.eu
 blacklist_from bounce@finanse-firmowe.com.pl
 blacklist_from bounce@finanse-firmowe.net.pl
 blacklist_from bounce@finanse-link.eu
@@ -549,6 +551,7 @@ blacklist_from info@apteka-kamagra.com
 blacklist_from info@asd???.eczysto??.pl
 blacklist_from info@bestmailing24.pl
 blacklist_from info@bignote.pl
+blacklist_from info@c-comm.pl
 blacklist_from info@cpi-szkolenia.waw.pl
 blacklist_from *@???????.infoczystosc.com.pl
 blacklist_from *@??????.infoczystosc.com.pl
@@ -561,6 +564,7 @@ blacklist_from info@dietanawiosne.com.pl
 blacklist_from info@dieta-na-wiosne.pl
 blacklist_from info@dietanawiosne.pl
 blacklist_from info@digit24.pl
+blacklist_from info@directoffer.pl
 blacklist_from info@directsale.pl
 blacklist_from info@drukuv.opole.pl
 blacklist_from info.dwstyles@gmail.com
@@ -805,6 +809,7 @@ blacklist_from *@mail.semestr.pl
 blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
+blacklist_from mail@zabita.co.pl
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from marcin@grovly.eu
 blacklist_from mariusz.kowalski@cgeszkolenia.pl
