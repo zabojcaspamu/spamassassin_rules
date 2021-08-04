@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-03 18:50 
+# Wygenerowana 2021-08-04 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -90,11 +90,11 @@ blacklist_from *@bazarpoosh.com
 blacklist_from bazyfirm@worldwide.com.pl
 blacklist_from *@bbcif.com
 blacklist_from *@bbsthene.com
+blacklist_from behape@elanak5.webd.pro
 blacklist_from bielsko@rgn.pl
 blacklist_from biuro2@galeriasz.pl
 blacklist_from biuro3@galeriasz.pl
 blacklist_from biuro@absenergia.pl
-blacklist_from biuro@adsystem-pos.eu
 blacklist_from biuro@aerarium.com.pl
 blacklist_from biuro@alfianco.pl
 blacklist_from biuro@bestmail24.pl
@@ -263,7 +263,6 @@ blacklist_from bounce@centrum-finansowania.com.pl
 blacklist_from bounce@corpo-biznes.pl
 blacklist_from bounce@corpo-finanse.pl
 blacklist_from bounced@euve?????.serverprofi24.com
-blacklist_from bounce@doradca-biznes.eu
 blacklist_from bounce@doradca-biznesowy.com.pl
 blacklist_from bounce@doradca-biznesowy.eu
 blacklist_from bounce@doradca-biznes.pl
@@ -434,7 +433,6 @@ blacklist_from *@einternetmarketing.net
 blacklist_from ejduffz@fiztonsky.es
 blacklist_from *@electricaincii.com
 blacklist_from elewek@ms1444.m.lrmailr.pl
-blacklist_from elisowska@ms1444.m.lrmailr.pl
 blacklist_from *@emailapp.pl
 blacklist_from *@e-mailing.com.pl
 blacklist_from *@emailmarketingonline.eu
@@ -499,7 +497,6 @@ blacklist_from *@giopik.co.ua
 blacklist_from gogastro@gastrona.pl
 blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
-blacklist_from goralskahora@folkkapelagoralskahora.pl
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
 blacklist_from greekfoodnews@forumsa.gr
@@ -604,14 +601,12 @@ blacklist_from info@lepszapromocja.pl
 blacklist_from info@lokalehandlowe.pl
 blacklist_from *@info??.maildream.pl
 blacklist_from *@info?.maildream.pl
-blacklist_from *@info.maileffective.net.pl
 blacklist_from info@mailing24.net.pl
 blacklist_from info@mailing.isof.pl
 blacklist_from *@info??.mailingtimes.pl
 blacklist_from *@info.mainclick.pl
 blacklist_from *@info.megansprint.pl
 blacklist_from info@mopzestaw.e-czysto01.pl
-blacklist_from info@ms1444.m.lrmailr.pl
 blacklist_from info@multibanki.pl
 blacklist_from info@newpromo.pl
 blacklist_from info@news-1etter.xyz
@@ -631,7 +626,6 @@ blacklist_from info@shanghaiuniverse.com
 blacklist_from info@shopboard.pl
 blacklist_from info@silviaastuzia.com
 blacklist_from info@sklep.?-czysto01.pl
-blacklist_from *@info.smartestmail.pl
 blacklist_from info@solidmarketing.eu
 blacklist_from info@southsouth.xyz
 blacklist_from info@speedysklep.e-czysto??.pl
@@ -817,6 +811,7 @@ blacklist_from *@mailsender.pl
 blacklist_from *@mail.speedy-mail.p
 blacklist_from mail@tania-energia.biz
 blacklist_from mail@zabita.co.pl
+blacklist_from mail@zabitb.co.pl
 blacklist_from mail@zabitd.co.pl
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from marcin@grovly.eu
@@ -952,7 +947,6 @@ blacklist_from no_reply@1036.cloud
 blacklist_from noreply2@mediateam.pl
 blacklist_from noreply@adletter.pl
 blacklist_from noreply@afo.net
-blacklist_from no-reply@amazon.com
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
 blacklist_from noreply@bdonews.pl
@@ -1042,7 +1036,6 @@ blacklist_from *@play4.pl
 blacklist_from *@pl-ru.eu
 blacklist_from pl_sales@laptopseurope.com
 blacklist_from pmircea@carocomp.ro
-blacklist_from poczta-12290@super-okazja.site
 blacklist_from poczta@kancelaria-tlumaczy.pl
 blacklist_from poczta@programming.co.pl
 blacklist_from poczta@tvp.center
@@ -1084,6 +1077,7 @@ blacklist_from przetargi@wygranie-przetargu.warszawa.pl
 blacklist_from psmul@ms1016.m.lrmailr.pl
 blacklist_from psmul@ms1444.m.lrmailr.pl
 blacklist_from psynowiec@ms1444.m.lrmailr.pl
+blacklist_from purchase@csmc.com.tw
 blacklist_from pwmaeaqk@gmail.com
 blacklist_from pzu@tpmcf.com
 blacklist_from radoslaw.grabowski@mysalemedia.pl
@@ -1115,6 +1109,7 @@ blacklist_from root@runonhot.xyz
 blacklist_from root@stamegna.eu
 blacklist_from root@vps627155.ovh.net
 blacklist_from root@vps637852.ovh.net
+blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
 blacklist_from rtv@joobi.eu
 blacklist_from ruthavor13@outlook.com
