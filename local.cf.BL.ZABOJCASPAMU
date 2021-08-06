@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-06 07:00 
+# Wygenerowana 2021-08-06 18:20 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -260,8 +260,10 @@ blacklist_from bok.zwyciezcow@ms1444.m.lrmailr.pl
 blacklist_from *@bollywoolife.com
 blacklist_from *@bonanzasatna.com
 blacklist_from *@bouledivoire.com
+blacklist_from bounce-113427205@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.gr-mail2.com
+blacklist_from bounce+344849-2-77a95b342b+anna=alma24.pl@mkt.parfois.com
 blacklist_from bounce@alter-finansowanie.pl
 blacklist_from bounce@bankierfirmowy.com.pl
 blacklist_from bounce@biznes-consulting.com.pl
@@ -274,6 +276,7 @@ blacklist_from bounce@centrum-finansowania.com.pl
 blacklist_from bounce@corpo-biznes.pl
 blacklist_from bounce@corpo-finanse.pl
 blacklist_from bounced@euve?????.serverprofi24.com
+blacklist_from bounce@doradca-biznes.eu
 blacklist_from bounce@doradca-biznesowy.com.pl
 blacklist_from bounce@doradca-biznesowy.eu
 blacklist_from bounce@doradca-biznes.pl
@@ -328,6 +331,7 @@ blacklist_from bounce@profit-investor.eu
 blacklist_from bounce@profit-investor.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounces+19301672-c275-staszek=alma24.pl@em2967.tradedoubler.com
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@tech-finanse.pl
@@ -512,6 +516,7 @@ blacklist_from *@giopik.co.ua
 blacklist_from gogastro@gastrona.pl
 blacklist_from *@golenasrin.com
 blacklist_from *@good-prospect.pl
+blacklist_from goralskahora@folkkapelagoralskahora.pl
 blacklist_from *@*.gosmall-biz.com
 blacklist_from *@greatglenbikes.com
 blacklist_from greekfoodnews@forumsa.gr
@@ -633,7 +638,6 @@ blacklist_from info@nn.pl
 blacklist_from info@odmowa.infoczystosc.pl
 blacklist_from info@off-send.pl
 blacklist_from info@pfizer.com
-blacklist_from *@info.popularsending.pl
 blacklist_from info@profesjonalnydruk.biz
 blacklist_from info@publikmusik.pl
 blacklist_from informacja@wydawnicza.info.pl
@@ -685,6 +689,7 @@ blacklist_from iza@ekredytowaniefirm.pl
 blacklist_from i.zurawska@ark-skills.com
 blacklist_from jacek.lis@wyjazddlafirm.com.pl
 blacklist_from jakub@korzystnapropozycja4.com.pl
+blacklist_from jakub.tryniecki@newbizgroup.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from *@jbwilsonsbbq.com
 blacklist_from j.dova1@hotmail.com
@@ -758,6 +763,7 @@ blacklist_from kontakt@pomocdlafirm.com.pl
 blacklist_from kontakt@prostawindykacja.com.pl
 blacklist_from kontakt@rodo-szkolenie.pl
 blacklist_from kontakt@sendhub.pl
+blacklist_from kontakt@se.pocztagecko1.pl
 blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@smesolutions.pl
 blacklist_from kontakt@szkolenia-handlowcow.pl
@@ -981,6 +987,7 @@ blacklist_from no_reply@feedbackservices.com
 blacklist_from no-reply@horecanet.pl
 blacklist_from noreply@into-on.com
 blacklist_from noreply@iqelite.com
+blacklist_from no-reply-jmazgaj=almamarket.pl@forexprosmail.com
 blacklist_from noreply@kamery.srvv.pl
 blacklist_from noreply@mailing-kpmg.com
 blacklist_from noreply@mailtarget.pl
@@ -1135,6 +1142,7 @@ blacklist_from root@localhost.com
 blacklist_from root@runonhot.xyz
 blacklist_from root@stamegna.eu
 blacklist_from root@vps627155.ovh.net
+blacklist_from root@vps637793.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
@@ -1193,6 +1201,7 @@ blacklist_from send@powerask.com.pl
 blacklist_from senpingtech@163.com
 blacklist_from *@sensdelivery.com
 blacklist_from sent47909@spread26.com
+blacklist_from sent@npsa.co.za
 blacklist_from serv17@bigmir.net
 blacklist_from *@serve-links.com
 blacklist_from server@artist-matrix.com
