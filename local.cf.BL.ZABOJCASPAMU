@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-06 18:50 
+# Wygenerowana 2021-08-07 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -645,6 +645,7 @@ blacklist_from informacja@wydawnicza.info.pl
 blacklist_from *@informail.infor.pl
 blacklist_from info@sasayama-sec.co.jp
 blacklist_from *@info.scpectrack.pl
+blacklist_from *@info.senderit.pl
 blacklist_from info@sender.org
 blacklist_from info@shanghaiuniverse.com
 blacklist_from info@shopboard.pl
@@ -978,6 +979,7 @@ blacklist_from no_reply@1036.cloud
 blacklist_from noreply2@mediateam.pl
 blacklist_from noreply@adletter.pl
 blacklist_from noreply@afo.net
+blacklist_from no-reply@amazon.com
 blacklist_from noreply@anteny.qqpp.pl
 blacklist_from no-reply@badamy.to
 blacklist_from noreply@bdonews.pl
@@ -1143,6 +1145,7 @@ blacklist_from root@localhost.com
 blacklist_from root@runonhot.xyz
 blacklist_from root@stamegna.eu
 blacklist_from root@vps627155.ovh.net
+blacklist_from root@vps628570.ovh.net
 blacklist_from root@vps637793.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
@@ -1393,4 +1396,5 @@ blacklist_from zwroty@oobo.info
 blacklist_from zwroty@szkoleniabdo.online
 blacklist_from zwroty@tylkodlaciebie.eu
 blacklist_from zwroty@world4me.pl
+blacklist_from zwroty@zyjemimowszystko.pl
 blacklist_from zwrot@zwrot-prowizji.com.pl
