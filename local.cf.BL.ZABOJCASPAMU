@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-17 18:50 
+# Wygenerowana 2021-08-18 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -262,6 +262,7 @@ blacklist_from bounce@bankowosc-korporacyjna.com.pl
 blacklist_from bounce@biznes-finanse.com.pl
 blacklist_from bounce@biznes-finanse.net.pl
 blacklist_from *@bounce.bluestatedigital.com
+blacklist_from bounce@capital-trade.com.pl
 blacklist_from bounce@capital-trade.pl
 blacklist_from bounce@centrum-finansowania.com.pl
 blacklist_from bounce@corpo-biznes.pl
@@ -277,6 +278,7 @@ blacklist_from bounce@efinanse-box.pl
 blacklist_from bounce@e-finanseexperts.pl
 blacklist_from bounce@ekspertweb.pl
 blacklist_from bounce@elastyczne-finansowanie.pl
+blacklist_from bounce@eubankier-firmowy.pl
 blacklist_from bounce@euro-bankier.com.pl
 blacklist_from bounce@euro-bankier.eu
 blacklist_from bounce@euro-bankier.pl
@@ -323,6 +325,7 @@ blacklist_from bounce@profit-investor.eu
 blacklist_from bounce@profit-investor.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounce@retailbanking.pl
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@top-advisors.eu
@@ -341,6 +344,7 @@ blacklist_from bzawillo@ms0481.m.lrmailr.pl
 blacklist_from bzawillo@ms1016.m.lrmailr.pl
 blacklist_from bzawillo@ms1444.m.lrmailr.pl
 blacklist_from bzawillo@ms1620.m.lrmailr.pl
+blacklist_from cagrifence@gmail.com
 blacklist_from *@californiawires.com
 blacklist_from *@camilasegal.com
 blacklist_from *@campaign.freshmail.email
@@ -529,6 +533,7 @@ blacklist_from hello@mail-socialmuse.com
 blacklist_from helpdesk1@admin.pl
 blacklist_from *@heroldgroup.pl
 blacklist_from *@hktdc.com
+blacklist_from hongtaijx@126.com
 blacklist_from hoqj3poksd@ms1444.m.lrmailr.pl
 blacklist_from *@hostclimb.com
 blacklist_from *@host??.parscancer.com
@@ -853,6 +858,7 @@ blacklist_from mail@zabitb.co.pl
 blacklist_from mail@zabitc.co.pl
 blacklist_from mail@zabitd.co.pl
 blacklist_from mail@zit1.co.pl
+blacklist_from mail@zit8.co.pl
 blacklist_from malgorzata.kleszcz@effectgroup.pl
 blacklist_from marcin@grovly.eu
 blacklist_from mariusz.kowalski@cgeszkolenia.pl
@@ -1344,6 +1350,7 @@ blacklist_from twojdoradca@biznes2biznes.com
 blacklist_from *@twoomail.com
 blacklist_from uczciwiprzedsiebiorcy@gmail.com
 blacklist_from uczciwyprzedsiebiorca@vp.pl
+blacklist_from u.komuniecka@bt.bielsko.pl
 blacklist_from *@unithemex.com
 blacklist_from uprzedsiebiorca@gmail.com
 blacklist_from urjobqz@bitestione.it
