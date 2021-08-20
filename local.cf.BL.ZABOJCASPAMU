@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-19 18:50 
+# Wygenerowana 2021-08-20 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -48,7 +48,9 @@ blacklist_from alexanderchuke@freenet.com.ua
 blacklist_from Alex@sale.com
 blacklist_from *@alherajksa.com
 blacklist_from alina.seoxpert@gmail.com
+blacklist_from *@allureproject.com
 blacklist_from *@aloonakno.com
+blacklist_from alredfy@antesigo.moscow
 blacklist_from *@???????.a.luzno.com.pl
 blacklist_from *@??????.a.luzno.com.pl
 blacklist_from *@?????.a.luzno.com.pl
@@ -237,6 +239,7 @@ blacklist_from bounce-113427205@bounce.getresponse-mail.com
 blacklist_from bounce+22252@bounce.crsend.com
 blacklist_from bounce-27274202@bounce.gr-mail2.com
 blacklist_from bounce@bankierfirmowy.com.pl
+blacklist_from bounce@bankier-firmowy.eu
 blacklist_from bounce@bankier-firmowy.pl
 blacklist_from bounce@bankowosc-korporacyjna.com.pl
 blacklist_from bounce@biznes-finanse.com.pl
@@ -263,6 +266,7 @@ blacklist_from bounce@elastyczne-finansowanie.pl
 blacklist_from bounce@eubankier-firmowy.pl
 blacklist_from bounce@euro-bankier.com.pl
 blacklist_from bounce@euro-bankier.eu
+blacklist_from bounce@eurobankier.eu
 blacklist_from bounce@euro-bankier.pl
 blacklist_from bounce@finanse-box-24.pl
 blacklist_from bounce@finanse-box.eu
@@ -300,12 +304,15 @@ blacklist_from bounce@konsultingfinansowy.pl
 blacklist_from *@bounce.n.westwing.pl
 blacklist_from bounce@pl-advisors.com.pl
 blacklist_from bounce@pl-advisors.eu
+blacklist_from bounce@pl-advisors.pl
+blacklist_from bounce@pl-biznes.eu
 blacklist_from bounce@pl-biznes.pl
 blacklist_from bounce@pro-capital.com.pl
 blacklist_from bounce@profit-investor.eu
 blacklist_from bounce@profit-investor.pl
 blacklist_from bounce@pwm0.com
 blacklist_from bounce@response.cognex.com
+blacklist_from bounce@retailbanking.net.pl
 blacklist_from bounce@retailbanking.pl
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounces@streaming.qqpp.pl
@@ -1181,6 +1188,7 @@ blacklist_from *@samochod.rzeszow.pl
 blacklist_from *@samochod.szczecin.pl
 blacklist_from *@samochod.warszawa.pl
 blacklist_from *@samochod.wroclaw.pl
+blacklist_from Sanna@jsd-circuit.com
 blacklist_from sanusfood5@yahoo.com
 blacklist_from saovarot.n@jas.com
 blacklist_from s.baraky@nsia.gov.af
@@ -1376,6 +1384,7 @@ blacklist_from wyjatkoweoferty@mailintitute.pl
 blacklist_from *@wyjatkoweoferty.pl
 blacklist_from wysylka@galeriaokazji.eu
 blacklist_from wza@ms1444.m.lrmailr.pl
+blacklist_from xiaomei@jiamenkou.cn
 blacklist_from *@xpressus.emsmtp.us
 blacklist_from yrsybfq@mc-hotel.art
 blacklist_from zakup@ms1444.m.lrmailr.pl
