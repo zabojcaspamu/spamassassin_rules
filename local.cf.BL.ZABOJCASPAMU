@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-08-21 18:50 
+# Wygenerowana 2021-08-22 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -180,6 +180,8 @@ blacklist_from *@bnc.mailjet.com
 blacklist_from boguslaw.czechowicz@itwl.pl
 blacklist_from bok.arkady@ms1016.m.lrmailr.pl
 blacklist_from bok.arkady@ms1444.m.lrmailr.pl
+blacklist_from bok.bemowo@ms0480.m.lrmailr.pl
+blacklist_from bok.bemowo@ms1016.m.lrmailr.pl
 blacklist_from bok.bemowo@ms1444.m.lrmailr.pl
 blacklist_from bok.bielany@ms1444.m.lrmailr.pl
 blacklist_from bok@ciekaweupominki.com.pl
@@ -193,6 +195,7 @@ blacklist_from bok.katowice@ms0480.m.lrmailr.pl
 blacklist_from bok.katowice@ms1444.m.lrmailr.pl
 blacklist_from bok.kazimierz@ms1444.m.lrmailr.pl
 blacklist_from bok.kilinskiego@ms1444.m.lrmailr.pl
+blacklist_from bok.kosciuszki@ms1016.m.lrmailr.pl
 blacklist_from bok.kosciuszki@ms1444.m.lrmailr.pl
 blacklist_from boklgo@ms1016.m.lrmailr.pl
 blacklist_from boklma@ms1016.m.lrmailr.pl
@@ -252,6 +255,7 @@ blacklist_from bounce@business-consulting.net.pl
 blacklist_from bounce@capital-trade.com.pl
 blacklist_from bounce@capital-trade.pl
 blacklist_from bounce@centrum-finansowania.com.pl
+blacklist_from bounce@corpo-biznes.eu
 blacklist_from bounce@corpo-biznes.pl
 blacklist_from bounce@corpo-finanse.pl
 blacklist_from bounced@euve?????.serverprofi24.com
@@ -326,7 +330,9 @@ blacklist_from bounce@retailbanking.com.pl
 blacklist_from bounce@retailbanking.net.pl
 blacklist_from bounce@retailbanking.pl
 blacklist_from *@bounce.senderus.pl
+blacklist_from bounce@smart-capital.com.pl
 blacklist_from bounces@streaming.qqpp.pl
+blacklist_from bounce@suspendedacc.pl
 blacklist_from bounce@top-advisors.eu
 blacklist_from bounce@top-advisors.pl
 blacklist_from bounce@world-bankier.eu
@@ -619,6 +625,7 @@ blacklist_from info@kontaktportal.pl
 blacklist_from info@kosze1.e-czysto01.pl
 blacklist_from info@kosze1.i-czysto01.pl
 blacklist_from info@kosze????.einfoczystosc.pl
+blacklist_from info@ksiszkolenia.com.pl
 blacklist_from info@kursangielskiego-promocja.pl
 blacklist_from info@lamidey-noury.cam
 blacklist_from info@lee.org
@@ -666,6 +673,7 @@ blacklist_from info@szkolenia-miekkie.pl
 blacklist_from info@szkoleniaplatformawiedzy.pl
 blacklist_from info@teisestarnai.lt
 blacklist_from info@tictok.pl
+blacklist_from *@info.topdelivery.net.pl
 blacklist_from info@visainc.com
 blacklist_from *@info.whitersend.pl
 blacklist_from info@wifisquare.pl
@@ -782,6 +790,7 @@ blacklist_from kontakt@skk.com.pl
 blacklist_from kontakt@smesolutions.pl
 blacklist_from kontakt@szkolenia-handlowcow.pl
 blacklist_from kontakt@szkoleniaplatformawiedzy.pl
+blacklist_from kontakt@szkolenie.site
 blacklist_from kontakt@tnij-koszty-energii.pl
 blacklist_from kontakt@twojrozwoj.biz.pl
 blacklist_from kontakt@unitedvalue.pl
@@ -966,6 +975,7 @@ blacklist_from newsletter@funduszedlafirm.com.pl
 blacklist_from *@newsletter-hub.com
 blacklist_from newsletter@hurtidetal.pl
 blacklist_from newsletter@kursangielskiego-promocja.pl
+blacklist_from newsletter@newsletterplatinumfinance.pl
 blacklist_from newsletter@offers4you.pl
 blacklist_from newsletter@petraenergia.pl
 blacklist_from newsletter@poczta.mail.pl
@@ -1207,7 +1217,6 @@ blacklist_from sanusfood5@yahoo.com
 blacklist_from saovarot.n@jas.com
 blacklist_from s.baraky@nsia.gov.af
 blacklist_from school@skhsjps.edu.hk
-blacklist_from *@scripkabox.com
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms0480.m.lrmailr.pl
@@ -1286,7 +1295,6 @@ blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@kyoseithai.com
 blacklist_from support@perf.controle-g.fr
-blacklist_from *@suspendedacc.pl
 blacklist_from *@syriusgroup.com
 blacklist_from system21@medbl.ir
 blacklist_from system22@digitalxplode.xyz
