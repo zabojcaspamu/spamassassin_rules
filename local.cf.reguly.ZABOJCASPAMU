@@ -1,4 +1,4 @@
-# Ostatnia aktualizacja 2020-05-23
+# Ostatnia aktualizacja 2021-01-03
 # https://zabojcaspamu.pl
 # https://github.com/zabojcaspamu/spamassassin_rules
 # sa to reguly do programu spamassassin
@@ -1570,3 +1570,7 @@ score ZABOJASPAMU_SPAM_FAKTURA2_ALL 10
  meta     ZABOJCASPAMU_MAIL_TAKNIE   __ZABOJCASPAMU_MAIL_TAKNIE_1 || __ZABOJCASPAMU_MAIL_TAKNIE_2 || __ZABOJCASPAMU_MAIL_TAKNIE_3 || __ZABOJCASPAMU_MAIL_TAKNIE_4 || __ZABOJCASPAMU_MAIL_TAKNIE_5  || __ZABOJCASPAMU_MAIL_TAKNIE_6 || ZABOJCASPAMU_MAIL_TAKNIE_7
  describe ZABOJCASPAMU_MAIL_TAKNIE   Prawdopodobny TAK lub NIE temat/tresc maila
  score    ZABOJCASPAMU_MAIL_TAKNIE   2.5
+
+header ZABOJCASPAMU_SUBJECT_WEIRED_STRING Subject =~ /(?: -[a-z]|[a-z]+.[a-z]+| -.| .|[a-z]\- )/
+describe ZABOJCASPAMU_SUBJECT_WEIRED_STRING Weired string in Subject: [a-z]-[a-z]
+score ZABOJCASPAMU_SUBJECT_WEIRED_STRING 0.5
