@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-09-04 18:50 
+# Wygenerowana 2021-09-05 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -287,6 +287,7 @@ blacklist_from bounce@capital-trade.com.pl
 blacklist_from bounce@capital-trade.pl
 blacklist_from bounce@centrum-finansowania.com.pl
 blacklist_from bounce@centrum-finansowaniafirm.com.pl
+blacklist_from bounce@consulting-corporate.pl
 blacklist_from bounce@consultingcorporate.pl
 blacklist_from bounce@corpo-biznes.eu
 blacklist_from bounce@corpo-biznes.pl
@@ -312,6 +313,7 @@ blacklist_from bounce@eu-biznes.pl
 blacklist_from bounce@euro-bankier.com.pl
 blacklist_from bounce@euro-bankier.eu
 blacklist_from bounce@eurobankier.eu
+blacklist_from bounce@eurobankier.net.pl
 blacklist_from bounce@euro-bankier.pl
 blacklist_from bounce@finanse-box-24.pl
 blacklist_from bounce@finanse-box.eu
@@ -372,12 +374,14 @@ blacklist_from bounce@retailbanking.pl
 blacklist_from bounce@romaninc.online
 blacklist_from *@bounce.senderus.pl
 blacklist_from bounce@smart-capital.com.pl
+blacklist_from bounce@smartcapital.com.pl
 blacklist_from bounce@smart-capital.pl
 blacklist_from bounces+SRS=B8QHc=NX@zurnws.onmicrosoft.com
 blacklist_from bounces@streaming.qqpp.pl
 blacklist_from bounce@suspendedacc.pl
 blacklist_from bounce@top-advisors.eu
 blacklist_from bounce@top-advisors.pl
+blacklist_from bounce@top-finanse.eu
 blacklist_from bounce@world-bankier.eu
 blacklist_from bounce@world-bankier.pl
 blacklist_from bounce@worldbankier.pl
@@ -430,6 +434,7 @@ blacklist_from ckl@ckl.pl
 blacklist_from *@closeneighbor.com
 blacklist_from cola@teamc.co.uk
 blacklist_from coleacp@info.coleacp.org
+blacklist_from collins@entelchile.net
 blacklist_from *@companiero.waw.pl
 blacklist_from *@companybase.pl
 blacklist_from conceptronic@conceptronic.pl
@@ -767,6 +772,7 @@ blacklist_from i.zurawska@ark-skills.com
 blacklist_from jacek.lis@wyjazddlafirm.com.pl
 blacklist_from jacek.zaborowski@effectgroup.pl
 blacklist_from jakub@korzystnapropozycja4.com.pl
+blacklist_from jakub.kwiatkowski@bizneskredyt24.pl
 blacklist_from jakub.tryniecki@newbizgroup.pl
 blacklist_from jakub@zobaczikorzystaj2.pl
 blacklist_from *@jbwilsonsbbq.com
