@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-09-10 18:50 
+# Wygenerowana 2021-09-11 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -186,10 +186,12 @@ blacklist_from *@blimeycowbeta.com
 blacklist_from *@bluemail.com.pl
 blacklist_from *@bnc.mailjet.com
 blacklist_from boguslaw.czechowicz@itwl.pl
+blacklist_from bok.arkady@ms0471.m.lrmailr.pl
 blacklist_from bok.arkady@ms0480.m.lrmailr.pl
 blacklist_from bok.arkady@ms0481.m.lrmailr.pl
 blacklist_from bok.arkady@ms1016.m.lrmailr.pl
 blacklist_from bok.arkady@ms1444.m.lrmailr.pl
+blacklist_from bok.bemowo@ms0472.m.lrmailr.pl
 blacklist_from bok.bemowo@ms0480.m.lrmailr.pl
 blacklist_from bok.bemowo@ms0481.m.lrmailr.pl
 blacklist_from bok.bemowo@ms1016.m.lrmailr.pl
@@ -227,6 +229,7 @@ blacklist_from bok.renoma@ms1444.m.lrmailr.pl
 blacklist_from bokryb@ms1016.m.lrmailr.pl
 blacklist_from bokryb@ms1444.m.lrmailr.pl
 blacklist_from boksbr@ms1444.m.lrmailr.pl
+blacklist_from boksop@ms1016.m.lrmailr.pl
 blacklist_from bok.starybrowar@ms0480.m.lrmailr.pl
 blacklist_from bok@super-auto.eu
 blacklist_from bok.szczecin@ms0480.m.lrmailr.pl
@@ -1049,6 +1052,7 @@ blacklist_from mmreturn@magnetdev.com
 blacklist_from mm@systemszkolenia.pl
 blacklist_from mohd.abdullah60001@gmail.com
 blacklist_from mojaalma@ms1016.m.lrmailr.pl
+blacklist_from mojaalma@ms1444.m.lrmailr.pl
 blacklist_from m.olesiak@interia.pl
 blacklist_from monika.pieslak@yahoo.com
 blacklist_from mp@biurozarzadu.pl
@@ -1122,6 +1126,7 @@ blacklist_from newsletter@fruitnet.com
 blacklist_from *@newsletter-hub.com
 blacklist_from newsletter@hurtidetal.pl
 blacklist_from newsletter@kursangielskiego-promocja.pl
+blacklist_from newsletter@newsletterplatinumfinance.pl
 blacklist_from newsletter@offers4you.pl
 blacklist_from newsletter@petraenergia.pl
 blacklist_from newsletter@poczta.mail.pl
@@ -1382,6 +1387,7 @@ blacklist_from school@skhsjps.edu.hk
 blacklist_from Security_Update@Verification.com
 blacklist_from sekretariat@abinvesting.net.pl
 blacklist_from sekretariatbyd@ms0480.m.lrmailr.pl
+blacklist_from sekretariatbyd@ms1016.m.lrmailr.pl
 blacklist_from sekretariatbyd@ms1444.m.lrmailr.pl
 blacklist_from sekretariatkos@ms1016.m.lrmailr.pl
 blacklist_from sekretariatkos@ms1444.m.lrmailr.pl
@@ -1445,6 +1451,7 @@ blacklist_from *@s.okazik.pl
 blacklist_from *@solidmarketing.eu
 blacklist_from soniasebastien623@gmail.com
 blacklist_from sor@uszd.lublin.pl
+blacklist_from spiswierzytelnosci@ms1016.m.lrmailr.pl
 blacklist_from spolkikapitalowe@bfag.pl
 blacklist_from spp@kbzs.pl
 blacklist_from sprzedaz@intia.pl
@@ -1497,6 +1504,7 @@ blacklist_from *@teme.home.pl
 blacklist_from terminal@terminalikasa.pl
 blacklist_from terrymendell@gmail.com
 blacklist_from test@antclick.com
+blacklist_from test@centerpoligraf.ru
 blacklist_from test@rossi.pl
 blacklist_from test@tiags.vn
 blacklist_from t-mobile@mobile.olsztyn.pl
