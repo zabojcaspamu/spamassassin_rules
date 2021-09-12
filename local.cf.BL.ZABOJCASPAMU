@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-09-11 19:00 
+# Wygenerowana 2021-09-12 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -276,8 +276,10 @@ blacklist_from bounce@bounce.content.pwc.com
 blacklist_from bounce@business-consulting.net.pl
 blacklist_from bounce@capital-trade.com.pl
 blacklist_from bounce@capital-trade.pl
+blacklist_from bounce@cashinvest.pl
 blacklist_from bounce@centrum-finansowania.com.pl
 blacklist_from bounce@centrum-finansowaniafirm.com.pl
+blacklist_from bounce@city-business.eu
 blacklist_from bounce@city-business.pl
 blacklist_from bounce@consultingcorporate.eu
 blacklist_from bounce@consulting-corporate.pl
@@ -287,6 +289,7 @@ blacklist_from bounce@corpo-biznes.eu
 blacklist_from bounce@corpo-biznes.pl
 blacklist_from bounce@corpo-finanse.eu
 blacklist_from bounce@corpo-finanse.pl
+blacklist_from bounce@corporation-management.pl
 blacklist_from bounced@euve?????.serverprofi24.com
 blacklist_from bounce@doradca-biznes.eu
 blacklist_from bounce@doradca-biznesowy.com.pl
@@ -359,6 +362,7 @@ blacklist_from bounce@ledonline10.com
 blacklist_from bounce@ledonline11.com
 blacklist_from bounce@linia-finansowa.com.pl
 blacklist_from bounce@macro-trade.eu
+blacklist_from bounce@macro-trade.pl
 blacklist_from bounce@milesandmore.lot.com
 blacklist_from bounce@msp-banking.com.pl
 blacklist_from bounce@msp-banking.pl
