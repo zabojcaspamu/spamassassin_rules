@@ -1,5 +1,5 @@
 # Blacklist serwisu zabojcaspamu.pl
-# Wygenerowana 2021-09-16 18:50 
+# Wygenerowana 2021-09-17 07:00 
 # http://zabojcaspamu.pl/latwiejszy-format-plikow-na-stronie
 # Sumy kontrolne plikow http://zabojcaspamu.pl/md5sum.txt http://zabojcaspamu.pl/sha1sum.txt
 # 
@@ -270,6 +270,7 @@ blacklist_from bounce@bankowy-kredytmsp.pl
 blacklist_from bounce@biznes-finanse.com.pl
 blacklist_from *@bounce.bluestatedigital.com
 blacklist_from bounce@bounce.content.pwc.com
+blacklist_from bounce@broker-finansowy.com.pl
 blacklist_from bounce@broker-finansowy.pl
 blacklist_from bounce@business-consulting.net.pl
 blacklist_from bounce@capital-trade.com.pl
@@ -281,6 +282,7 @@ blacklist_from bounce@city-business.pl
 blacklist_from bounce@consultingcorporate.eu
 blacklist_from bounce@consulting-corporate.pl
 blacklist_from bounce@consultingcorporate.pl
+blacklist_from bounce@corpcompany.com.pl
 blacklist_from bounce@corpo-banking.com.pl
 blacklist_from bounce@corpo-banking.pl
 blacklist_from bounce@corpo-biznes.eu
@@ -863,6 +865,7 @@ blacklist_from kikikanri@city.otake.hiroshima.jp
 blacklist_from kj@hkipnet.net
 blacklist_from kjz@mzkjziwzw.pl
 blacklist_from kjz@mzkjz.pl
+blacklist_from kkjz@wrjiilps.pl
 blacklist_from kobie.irving@cimd1.com
 blacklist_from kobietyiwino@gmail.com
 blacklist_from kokomike055@gmail.com
@@ -889,7 +892,6 @@ blacklist_from kontakt@ewiss.pl
 blacklist_from kontakt@exandi.pl
 blacklist_from kontakt@finansowanie-biznesu.pl
 blacklist_from kontakt@gadzetyupominki.online
-blacklist_from kontakt@gadzetyupominki.site
 blacklist_from kontakt@gi-wierzytelnosci.pl
 blacklist_from kontakt@godealla.pl
 blacklist_from kontakt@*.instytut-marketingu.com
@@ -1395,6 +1397,7 @@ blacklist_from root@vps637794.ovh.net
 blacklist_from root@vps637852.ovh.net
 blacklist_from root@vps637853.ovh.net
 blacklist_from rose.torres@talktalk.net
+blacklist_from royydaviiess@laescuelitaonline.cl
 blacklist_from rtv@joobi.eu
 blacklist_from rud-division@alkuhaimi.com
 blacklist_from ruthavor13@outlook.com
@@ -1504,6 +1507,7 @@ blacklist_from sunsnow@offerway.pl
 blacklist_from *@supermailing.com.pl
 blacklist_from support@hostingverrificationservices.host
 blacklist_from support@kyoseithai.com
+blacklist_from support@sportsunlimited.com
 blacklist_from support@sportunlimited.com
 blacklist_from *@syriusgroup.com
 blacklist_from system21@medbl.ir
@@ -1650,6 +1654,7 @@ blacklist_from *@z.enewsletter.com.pl
 blacklist_from *@z.enewsletter.pl
 blacklist_from zgloszenia@pirbinstytut.com.pl
 blacklist_from *@zibojinda.com
+blacklist_from *@z.mailsys.pl
 blacklist_from z.olecki@geo.uj.edu.pl
 blacklist_from *@zsal.com
 blacklist_from zuzanna.kuzma@infortraining.pl
