@@ -1,9 +1,22 @@
 ### INFO: Nie przeklejaj listy bezkrytycznie - przejrzyj :-)
 ### EDIT: 2023-03-02
+
+### Czarna lista ###
+# Cokolwiek zawierające:
+blacklist_from *sex*
+blacklist_from *erot*
+blacklist_from *peta*
+blacklist_from *porn*
+
 # Frazy globalne w domenach
+blacklist_from *@faktur*
 blacklist_from *@*windykacj*
+blacklist_from *@*bankru*
+blacklist_from *@*zadluz*
+blacklist_from *@*bank*
 blacklist_from *@*finans*
 blacklist_from *@*kredyt*
+blacklist_from *@*money*
 blacklist_from *@*franczyz*
 blacklist_from *@*biznes*
 blacklist_from *@*busines*
@@ -13,6 +26,7 @@ blacklist_from *@*promocj*
 blacklist_from *@*reklam*
 blacklist_from *@*opini*
 blacklist_from *@*fotowolt*
+blacklist_from *@*szkolenia*
 
 # Wyłowione
 blacklist_from *@okazikmail.pl
@@ -27,6 +41,7 @@ blacklist_from *@tuprodukt.pl
 blacklist_from *@biznesoweokazje.pl
 blacklist_from *@bestmailing24.pl
 blacklist_from *@fastmailing24.pl
+blacklist_from *@goodmail24.pl
 blacklist_from *@10milion.pl
 blacklist_from *@ue-finanse.pl
 blacklist_from *@linia-obrotowa.pl
@@ -44,6 +59,20 @@ blacklist_from *@123oferty.pl
 blacklist_from *@expert-sme.pl
 blacklist_from *@doradztwo-sme.pl
 blacklist_from *@kontaktybiznesowe.pl
+blacklist_from *@bankructwofirm.pl
+blacklist_from *@uniknijbankructwa.pl
+blacklist_from *@uniknij-bankructwa.pl
+blacklist_from *@zadluzonadzialalnosc.pl
+blacklist_from *@finansowaniefv.pl
+blacklist_from *@klopotyfinansowe-pomoc.pl
+blacklist_from *@radcyfinansowi.pl
+blacklist_from *@znawcafinansowy.pl
+blacklist_from *@bezpieczenstwo-firmy.pl
+blacklist_from *@ochron-firme.pl
+blacklist_from *@dzialania-restrukturyzacyjne.pl
+blacklist_from *@klopotyfinansowe-oddluzenia.pl
+blacklist_from *@zabezpieczenieinteresow.pl
+blacklist_from *@lionmoney.pl
 blacklist_from *@kredyt4u.eu
 blacklist_from *@kredyt-deminimis.pl
 blacklist_from *@centrumfinansowania.com.pl
@@ -58,6 +87,13 @@ blacklist_from *@expertpromocji.pl
 blacklist_from *@finansowanie-dluzne.com.pl
 blacklist_from *@rachunek-finansowania.pl
 blacklist_from *@szkolenianarzedzia.pl
+blacklist_from *@szkoleniadofinansowane.pl
+blacklist_from *@szkolenia-dofinansowane.pl
+blacklist_from *@szkolenieotwarte.com.pl
+blacklist_from *@cgeszkolenia.pl
+blacklist_from *@nieprzedawnione-faktury.pl
+blacklist_from *@to-sie-oplaca.pl
+blacklist_from *@oddluzenia-dlugiwfirmie.pl
 blacklist_from *@msp-fin.pl
 blacklist_from *@finansowanie.biz.pl
 blacklist_from *@eu-serwis.pl
@@ -72,18 +108,31 @@ blacklist_from *@rachunek-firmowy.com.pl
 blacklist_from *@business-advisors.com.pl
 blacklist_from *@skuteczna-windykacja-dlugow.pl*
 blacklist_from *@kredyt-z-bgk.pl
+blacklist_from *@finansujemy-z-bgk.pl
 blacklist_from *@windykacja-odzyskajkoszty.pl
 blacklist_from *@industrialcompany.pl
 blacklist_from *@finansowanie-potrzeb.com.pl
 blacklist_from *@e-biznes-finanse.pl
 blacklist_from *@kredythandlowy.com.pl
+blacklist_from *@incasso-gi.pl
+blacklist_from *@twojwindykator.pl
+blacklist_from *@bankowe-finanse.com.pl
+blacklist_from *@zadluzony-biznes.pl
 
-# SSEO/SEM/Social media
+
+# SEO/SEM/Social media
 blacklist_from *@kup-komentarze.pl
 blacklist_from *@opinie-google.pl
 blacklist_from *@google-opinie.com.pl
 blacklist_from *@opiniodawca.eu
 blacklist_from *@seosem-agencja.pl
+blacklist_from *@biznes-stronawww.pl
+blacklist_from *@b2biznes.eu
+blacklist_from *@bizneswsieci-seo.pl
+blacklist_from *@googlemarketing.pl
+blacklist_from *@twojmarketing.eu
+blacklist_from *@emailmarketingpolska.pl
+blacklist_from *@reklamaseo.pl
 blacklist_from *@e-marketingowo.com.pl
 blacklist_from *@pozytywnydzien.pl
 blacklist_from *@moda2023.pl
@@ -92,10 +141,17 @@ blacklist_from *@stronafirmowa-fb24.pl
 blacklist_from *@socialmedia.net.pl
 blacklist_from *@igfani.pl
 
+
 # Sklepy i inne
 blacklist_from *@anzgra.waw.pl
 blacklist_from *@polar.waw.pl
+blacklist_from *@lepiejenergy.pl
 blacklist_from *@gadzety-reklamoweonline.pl
+blacklist_from *@gadzetyznadrukiem.com.pl
+blacklist_from *@gadzety-reklamowe.info.pl
+blacklist_from *@balony-reklamowe.pl
+blacklist_from *@promo-mix.pl
+blacklist_from *@textileexpo.pl
 blacklist_from *@falconstudio.pl
 blacklist_from *@sdxgroup.pl
 blacklist_from *@trustedshops.pl
@@ -105,3 +161,12 @@ blacklist_from *@broadwell.pl
 blacklist_from *@bandipol.net
 blacklist_from *@boolkins.be
 blacklist_from *@slodycze.org
+
+
+# Pozostały syf
+blacklist_from *@hisaqbastioners.gay
+blacklist_from *@vlosfog.pl
+blacklist_from *@resfint.com
+blacklist_from *@dlamaliny.info.pl
+blacklist_from esq.mar.daniels@gmail.com
+blacklist_from *@fitakolaser.ru
